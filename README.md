@@ -1,7 +1,7 @@
 # How to Use
 A dump of pre-generated Webrunning 2.0 Gear sorted by Rarity, Rarity + Color, and Rarity + Gear Type.
 
-Or go [here](https://xeonrapture.github.io/webrunning-2.0-gear-generator/) to generate gear yourself.
+Or go [here](https://xeonrapture.github.io/webrunning-2.0-gear-generator/) to generate gear yourself!
 
 Each document has 1000 pieces of gear in it and instructions for rolling a random one using a d10 and a d100.
 
@@ -16,6 +16,7 @@ This system is a sub-system of the [XRRPG](https://publish.obsidian.md/xeonraptu
 All this is part of the [Xeon Rapture](https://publish.obsidian.md/xeonrapture/xr/Xeon+Rapture) project, a work of sci-fantasy collaborative storytelling.
 
 Click [here](https://forms.gle/Ptyf1a82r9AZLhgR7) to give feedback. 
+
 
 
 
