@@ -1,0 +1,14 @@
+# How to Roll
+
+Roll a d10 and a d100, minus 1 from the d10.
+
+The d10 is the 100s place and the d100 is the tens and ones.
+
+E.g. if you roll a 10 (-1) and a 56 that's 396.
+
+If you roll a 1 (-1) and a 04 that's 4.
+
+1 (-1) and a 00 becomes 1000.
+
+# Loot Chart
+
