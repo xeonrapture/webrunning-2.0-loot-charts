@@ -1,0 +1,10755 @@
+# How to Roll
+
+Roll a d10 and a d100, minus 1 from the d10.
+
+The d10 is the 100s place and the d100 is the tens and ones.
+
+E.g. if you roll a 10 (-1) and a 56 that's 396.
+
+If you roll a 1 (-1) and a 04 that's 4.
+
+1 (-1) and a 00 becomes 1000.
+
+# Loot Chart
+
+## #1
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Orb that only fits a particular hole
+- Essence Value: 500
+- Credit Value: 50
+
+## #2
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, covered in grass
+- Color: Gray
+- Color 2: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #3
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Skull
+- Essence Value: 500
+- Credit Value: 50
+
+## #4
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Film on a disc
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Valdan (Cyberpunk)
+
+## #5
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Map leading to a vault full of something valuable or dangerous
+- Essence Value: 500
+- Credit Value: 50
+
+## #6
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Flat, oblong stone
+- Ability: Magnify Luck
+    - Details: Can double your luck stat for a gear drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #7
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Blue, cold, constantly beaded with moisture
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #8
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Orb that only fits a particular hole
+- Essence Value: 500
+- Credit Value: 50
+
+## #9
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Plant in a jar
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Western)
+
+## #10
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Clear rainbow
+- Color: Blue
+- Stat Buff(s):
+    - Armor = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #11
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Gray
+- Stat Buff(s):
+    - Perception = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #12
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Black and red
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #13
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in brown, tough carapace
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #14
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Talking plant
+- Essence Value: 500
+- Credit Value: 50
+
+## #15
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Bar of soap
+- Skill Buff: Endurance (Defense) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #16
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits a warm light glow, very large
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #17
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Unique piece of clothing
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Western)
+
+## #18
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Dragon eye amulet
+- Skill Buff: Swimming (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #19
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Crystal green
+- Color: Neutral
+- Stat Buff(s):
+    - Inventory Slots ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #20
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Compass that only points one direction
+- Essence Value: 500
+- Credit Value: 50
+
+## #21
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Has two eyes, a mouth, and a nose in random places and orientations on a small, stone egg
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #22
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Unique piece of clothing
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #23
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sparkles within, always moving
+- Color: Neutral
+- Stat Buff(s):
+    - Inventory Slots ✦ = G÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #24
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Set of dice
+- Skill Buff: History (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #25
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Piece of ancient technology
+- Essence Value: 500
+- Credit Value: 50
+
+## #26
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Tome of lore
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Valdan (Cyberpunk)
+
+## #27
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Magnet
+- Skill Buff: Climbing (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #28
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Jelly egg, wet on the outside with a wriggling creature on the inside
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #29
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #30
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Flame in a jar that never goes out
+- Essence Value: 500
+- Credit Value: 50
+
+## #31
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Coin
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Asticarian (Modern)
+
+## #32
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Book of names and node addresses by them
+- Essence Value: 500
+- Credit Value: 50
+
+## #33
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Set of dice
+- Ability: Magnify Luck
+    - Details: Can double your luck stat for a gear drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #34
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Small, cylindrical battery
+- Ability: Resurrection
+    - Details: Can revive a downed ally with one quarter HP once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #35
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirls of purple
+- Color: Gray
+- Stat Buff(s):
+    - Perception = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #36
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Red
+- Color 2: Green
+- Stat Buff(s):
+    - Damage Plus = G÷5
+    - Movement Speed ✦ = G
+- Essence Value: 500
+- Credit Value: 50
+
+## #37
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Jelly egg, wet on the outside with a wriggling creature on the inside
+- Color: Green
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #38
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Rat's skull
+- Skill Buff: Haggling (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #39
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, round, leathery and black like bat wings
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #40
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Flat, oblong stone
+- Ability: Gear Select
+    - Details: Can choose what type of gear you get from a drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #41
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Flat, oblong stone
+- Skill Buff: Haggling (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #42
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Twisted paper clip
+- Skill Buff: Performance (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #43
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Teal lipstick
+- Skill Buff: Stealth (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #44
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Glassy, smooth, black, opaque
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #45
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in thick fur, sometimes squirms slightly
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #46
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Contains a tree that grows massive, dies, becomes a seed, and repeats the cycle
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #47
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Color-changing flame floats within
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #48
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Piece of ancient technology
+- Essence Value: 500
+- Credit Value: 50
+
+## #49
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Petrified heart
+- Ability: Hidden Essence
+    - Details: x1.25 value when reducing an item to essence
+- Essence Value: 500
+- Credit Value: 50
+
+## #50
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, round, leathery and black like bat wings
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #51
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Black and red
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed = L÷2
+- Essence Value: 500
+- Credit Value: 50
+
+## #52
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Talking plant
+- Essence Value: 500
+- Credit Value: 50
+
+## #53
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Warm amber
+- Color: Gray
+- Stat Buff(s):
+    - Hacking ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #54
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Lint ball
+- Skill Buff: Trickery (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #55
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Ancient, unusable tool
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Pirate)
+
+## #56
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: 8-ball that answers your questions
+- Essence Value: 500
+- Credit Value: 50
+
+## #57
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Passport or other id that might have been faked
+- Essence Value: 500
+- Credit Value: 50
+
+## #58
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Tiny shield of gold
+- Skill Buff: Balance (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #59
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sky blue far away, can see an ocean swirling within when you get close
+- Color: Blue
+- Stat Buff(s):
+    - Defense DC ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #60
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Teal lipstick
+- Skill Buff: Swimming (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #61
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Map leading to a vault full of something valuable or dangerous
+- Essence Value: 500
+- Credit Value: 50
+
+## #62
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Contains a tree that grows massive, dies, becomes a seed, and repeats the cycle
+- Color: Gray
+- Stat Buff(s):
+    - Perception = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #63
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Teal lipstick
+- Skill Buff: Stealth (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #64
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Milky sky blue
+- Color: Gray
+- Stat Buff(s):
+    - Perception ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #65
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits extremely bright light (but not quite blinding)
+- Color: Gray
+- Stat Buff(s):
+    - Perception = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #66
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Egg that will hatch in a couple nodes
+- Essence Value: 500
+- Credit Value: 50
+
+## #67
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: As small as a marble, roll again for aesthetic
+- Color: Gray
+- Stat Buff(s):
+    - Perception = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #68
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Color-changing flame floats within
+- Color: Blue
+- Stat Buff(s):
+    - HP ✦ = G
+- Essence Value: 500
+- Credit Value: 50
+
+## #69
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Small, cylindrical battery
+- Ability: Instant Reroll
+    - Details: Can reroll a piece of gear right after collapsing it once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #70
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Petrified heart
+- Ability: Gear Select
+    - Details: Can choose what type of gear you get from a drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #71
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Piece of parchment covered in runes
+- Skill Buff: Climbing (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #72
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Piercing white
+- Color: Gray
+- Stat Buff(s):
+    - Perception = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #73
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Large, scaled, warm to the touch
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #74
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Black and red
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #75
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: As small as a marble, roll again for aesthetic
+- Color: Gray
+- Stat Buff(s):
+    - Perception ✦ = G÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #76
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Massive gemstone
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Rtolkan (Steampunk)
+
+## #77
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Game cartridge
+- Ability: Hidden Essence
+    - Details: x1.25 value when reducing an item to essence
+- Essence Value: 500
+- Credit Value: 50
+
+## #78
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Tiny chest filled with gold coins
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #79
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Plant in a jar
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #80
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Glassy, smooth, black, opaque
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #81
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sky blue far away, can see an ocean swirling within when you get close
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed = G÷2
+- Essence Value: 500
+- Credit Value: 50
+
+## #82
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Looks like glowing hot metal, is very hot to the touch but can be held without getting hurt
+- Color: Green
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #83
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Piece of parchment covered in runes
+- Skill Buff: Insight (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #84
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits a warm light glow, very large
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #85
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Tome of lore
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Asticarian (Modern)
+
+## #86
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Contains a tree that grows massive, dies, becomes a seed, and repeats the cycle
+- Color: Blue
+- Stat Buff(s):
+    - Armor = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #87
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Book of names and node addresses by them
+- Essence Value: 500
+- Credit Value: 50
+
+## #88
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Neutral
+- Stat Buff(s):
+    - Luck = 1
+- Essence Value: 500
+- Credit Value: 50
+
+## #89
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Stuffed animal
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #90
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Pink and green
+- Color: Gray
+- Stat Buff(s):
+    - Perception = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #91
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Jade elephant
+- Skill Buff: Navigation (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #92
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Pink and green
+- Color: Blue
+- Stat Buff(s):
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+
+## #93
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: AI contained in an object
+- Essence Value: 500
+- Credit Value: 50
+
+## #94
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Tome of lore
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #95
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Clear rainbow
+- Color: Green
+- Stat Buff(s):
+    - Initiative = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #96
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Looks like glowing hot metal, is very hot to the touch but can be held without getting hurt
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #97
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits a warm light glow, very large
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #98
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Large, scaled, warm to the touch
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #99
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Compass that only points one direction
+- Essence Value: 500
+- Credit Value: 50
+
+## #100
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Magnet
+- Skill Buff: Navigation (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #101
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Music disc
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Pirate)
+
+## #102
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Old journal
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Rtolkan (Steampunk)
+
+## #103
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirls of purple
+- Color: Neutral
+- Stat Buff(s):
+    - Inventory Slots ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #104
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirls of purple
+- Color: Neutral
+- Stat Buff(s):
+    - Inventory Slots ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #105
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Has two eyes, a mouth, and a nose in random places and orientations on a small, stone egg
+- Color: Green
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #106
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Skull made of gold
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #107
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Looks like glowing hot metal, is very hot to the touch but can be held without getting hurt
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #108
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Passport or other id that might have been faked
+- Essence Value: 500
+- Credit Value: 50
+
+## #109
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits a warm light glow, very large
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #110
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Fancy handbag
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Western)
+
+## #111
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Magnet
+- Skill Buff: Singing (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #112
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Set of dice
+- Skill Buff: Haggling (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #113
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Teal lipstick
+- Ability: Shop Enhancement
+    - Details: Local node shop luck +2.
+- Essence Value: 500
+- Credit Value: 50
+
+## #114
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Skull
+- Essence Value: 500
+- Credit Value: 50
+
+## #115
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Black and red
+- Color: Blue
+- Stat Buff(s):
+    - HP = L÷2
+- Essence Value: 500
+- Credit Value: 50
+
+## #116
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Dragon eye amulet
+- Skill Buff: Swimming (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #117
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Skull made of gold
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #118
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: As small as a marble, roll again for aesthetic
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #119
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Piece of ancient technology
+- Essence Value: 500
+- Credit Value: 50
+
+## #120
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Silver acorn
+- Skill Buff: Push/Pull (Power) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #121
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in thick fur, sometimes squirms slightly
+- Color: Gray
+- Color 2: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #122
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Large, scaled, warm to the touch
+- Color: Green
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #123
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: As small as a marble, roll again for aesthetic
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed ✦ = G
+- Essence Value: 500
+- Credit Value: 50
+
+## #124
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Jade elephant
+- Skill Buff: Jumping (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #125
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Live animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #126
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Rosary bead
+- Ability: Color Select
+    - Details: Can choose what color a gear drop is once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #127
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Game cartridge
+- Skill Buff: Pick a Skill! = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #128
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits a warm light glow, very large
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #129
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Magnet
+- Ability: Empowered Ghost
+    - Details: Add L÷4 to all cyberghost abilities (min of 1).
+- Essence Value: 500
+- Credit Value: 50
+
+## #130
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Petrified heart
+- Ability: Magnify Luck
+    - Details: Can double your luck stat for a gear drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #131
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Twisting animal horn
+- Ability: Magnify Luck
+    - Details: Can double your luck stat for a gear drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #132
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirling orange and green
+- Color: Neutral
+- Stat Buff(s):
+    - Luck ✦✦ = 3
+- Essence Value: 500
+- Credit Value: 50
+
+## #133
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Eyeball in a tiny jar
+- Skill Buff: Slight of Hand (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #134
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Jade elephant
+- Skill Buff: Swimming (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #135
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Transparent, glassy
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #136
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Live animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #137
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Musical instrument
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #138
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Warm amber
+- Color: Gray
+- Stat Buff(s):
+    - Perception = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #139
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Blue, cold, constantly beaded with moisture
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #140
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Fancy watch
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #141
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Milky sky blue
+- Color: Neutral
+- Stat Buff(s):
+    - Kernel Slots = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #142
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Set of dice
+- Ability: Resurrection
+    - Details: Can revive a downed ally with one quarter HP once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #143
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Color-changing flame floats within
+- Color: Neutral
+- Stat Buff(s):
+    - Luck ✦✦ = 3
+- Essence Value: 500
+- Credit Value: 50
+
+## #144
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Teal lipstick
+- Skill Buff: Push/Pull (Power) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #145
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Music disc
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #146
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Looks like glowing hot metal, is very hot to the touch but can be held without getting hurt
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #147
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits extremely bright light (but not quite blinding)
+- Color: Blue
+- Stat Buff(s):
+    - Armor ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #148
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, round, leathery and black like bat wings
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #149
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Set of dice
+- Skill Buff: Slight of Hand (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #150
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Egg that will hatch in a couple nodes
+- Essence Value: 500
+- Credit Value: 50
+
+## #151
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirls of purple
+- Color: Gray
+- Stat Buff(s):
+    - Hacking = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #152
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Music disc
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #153
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Dragon eye amulet
+- Ability: Resurrection
+    - Details: Can revive a downed ally with one quarter HP once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #154
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Deep blue
+- Color: Neutral
+- Stat Buff(s):
+    - Energy Cap = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #155
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Twisted paper clip
+- Skill Buff: Intimidation (Power) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #156
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Eye within that opens and disappears randomly
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #157
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Warm amber
+- Color: Gray
+- Stat Buff(s):
+    - Hacking = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #158
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Book of names and node addresses by them
+- Essence Value: 500
+- Credit Value: 50
+
+## #159
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in thick fur, sometimes squirms slightly
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #160
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Black and red
+- Color: Blue
+- Stat Buff(s):
+    - Defense DC = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #161
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Ancient, unusable tool
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #162
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Set of dice
+- Skill Buff: Climbing (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #163
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in brown, tough carapace
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #164
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Musical instrument
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #165
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Large, scaled, warm to the touch
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #166
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Jade elephant
+- Ability: Hidden Essence
+    - Details: x1.25 value when reducing an item to essence
+- Essence Value: 500
+- Credit Value: 50
+
+## #167
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Tiny shield of gold
+- Skill Buff: Swimming (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #168
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Contains a tree that grows massive, dies, becomes a seed, and repeats the cycle
+- Color: Blue
+- Stat Buff(s):
+    - Armor ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #169
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Gray
+- Stat Buff(s):
+    - Hacking = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #170
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Lint ball
+- Ability: Hidden Essence
+    - Details: x1.25 value when reducing an item to essence
+- Essence Value: 500
+- Credit Value: 50
+
+## #171
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Golden idol
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Pirate)
+
+## #172
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirls of purple
+- Color: Green
+- Stat Buff(s):
+    - Range ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #173
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits a warm light glow, very large
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #174
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Looks like glowing hot metal, is very hot to the touch but can be held without getting hurt
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #175
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Fancy handbag
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Rtolkan (Steampunk)
+
+## #176
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: As small as a marble, roll again for aesthetic
+- Color: Neutral
+- Stat Buff(s):
+    - Energy Cap ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #177
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Dragon eye amulet
+- Ability: Instant Reroll
+    - Details: Can reroll a piece of gear right after collapsing it once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #178
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Teal lipstick
+- Skill Buff: Trickery (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #179
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Rosary bead
+- Ability: Gear Select
+    - Details: Can choose what type of gear you get from a drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #180
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Blue, cold, constantly beaded with moisture
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #181
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Looks like glowing hot metal, is very hot to the touch but can be held without getting hurt
+- Color: Green
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #182
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Talking plant
+- Essence Value: 500
+- Credit Value: 50
+
+## #183
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Talking plant
+- Essence Value: 500
+- Credit Value: 50
+
+## #184
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Rosary bead
+- Ability: Resurrection
+    - Details: Can revive a downed ally with one quarter HP once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #185
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Twisted paper clip
+- Skill Buff: Slight of Hand (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #186
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Bar of soap
+- Skill Buff: Trickery (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #187
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in brown, tough carapace
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #188
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Skull made of gold
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Valdan (Cyberpunk)
+
+## #189
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: A talking worm
+- Essence Value: 500
+- Credit Value: 50
+
+## #190
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Fancy handbag
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Asticarian (Modern)
+
+## #191
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Egg that will hatch in a couple nodes
+- Essence Value: 500
+- Credit Value: 50
+
+## #192
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Orb that only fits a particular hole
+- Essence Value: 500
+- Credit Value: 50
+
+## #193
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Taxidermied animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #194
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Milky sky blue
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #195
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Twisted paper clip
+- Ability: Shop Enhancement
+    - Details: Local node shop luck +2.
+- Essence Value: 500
+- Credit Value: 50
+
+## #196
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Dragon eye amulet
+- Ability: Color Select
+    - Details: Can choose what color a gear drop is once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #197
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits extremely bright light (but not quite blinding)
+- Color: Blue
+- Stat Buff(s):
+    - Armor ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #198
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Deed to land in a specific node
+- Essence Value: 500
+- Credit Value: 50
+
+## #199
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Twisted paper clip
+- Ability: Magnify Luck
+    - Details: Can double your luck stat for a gear drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #200
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Dragon eye amulet
+- Skill Buff: Push/Pull (Power) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #201
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Black and red
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+
+## #202
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Transparent, glassy
+- Color: Blue
+- Stat Buff(s):
+    - Armor ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #203
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Silver acorn
+- Skill Buff: Trap Defusion (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #204
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Lint ball
+- Skill Buff: Jumping (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #205
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Tightly sealed urn filled with visous liquid
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Western)
+
+## #206
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sparkles within, always moving
+- Color: Neutral
+- Stat Buff(s):
+    - Inventory Slots = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #207
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Eyeball in a tiny jar
+- Skill Buff: Balance (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #208
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Has two eyes, a mouth, and a nose in random places and orientations on a small, stone egg
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #209
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Book of stamps
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Rtolkan (Steampunk)
+
+## #210
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: 8-ball that answers your questions
+- Essence Value: 500
+- Credit Value: 50
+
+## #211
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Piercing white
+- Color: Blue
+- Stat Buff(s):
+    - Armor = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #212
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Massive gemstone
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #213
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Milky sky blue
+- Color: Blue
+- Stat Buff(s):
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+
+## #214
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Transparent, glassy
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #215
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Twisting animal horn
+- Skill Buff: Performance (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #216
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Small, cylindrical battery
+- Skill Buff: Push/Pull (Power) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #217
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Super clear, can barely see that it's there
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #218
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Compass that only points one direction
+- Essence Value: 500
+- Credit Value: 50
+
+## #219
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Crystal green
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #220
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: AI contained in an object
+- Essence Value: 500
+- Credit Value: 50
+
+## #221
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Has two eyes, a mouth, and a nose in random places and orientations on a small, stone egg
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #222
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Book of stamps
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #223
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in thick fur, sometimes squirms slightly
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #224
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Jade elephant
+- Skill Buff: Gambling (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #225
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Silver acorn
+- Skill Buff: Stealth (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #226
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Gray
+- Stat Buff(s):
+    - Hacking = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #227
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits extremely bright light (but not quite blinding)
+- Color: Neutral
+- Stat Buff(s):
+    - Inventory Slots = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #228
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Pink and green
+- Color: Gray
+- Stat Buff(s):
+    - Hacking = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #229
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Rat's skull
+- Skill Buff: Gambling (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #230
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Color-changing flame floats within
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #231
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Dragon eye amulet
+- Ability: Color Select
+    - Details: Can choose what color a gear drop is once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #232
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sky blue far away, can see an ocean swirling within when you get close
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #233
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirls of purple
+- Color: Green
+- Stat Buff(s):
+    - Range ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #234
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Coin
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Asticarian (Modern)
+
+## #235
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Green
+- Stat Buff(s):
+    - Initiative = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #236
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Contains a tree that grows massive, dies, becomes a seed, and repeats the cycle
+- Color: Blue
+- Stat Buff(s):
+    - Defense DC = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #237
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Magnet
+- Skill Buff: Insight (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #238
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Lint ball
+- Ability: Hidden Essence
+    - Details: x1.25 value when reducing an item to essence
+- Essence Value: 500
+- Credit Value: 50
+
+## #239
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Tome of lore
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Rtolkan (Steampunk)
+
+## #240
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Glassy, smooth, black, opaque
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #241
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Clear rainbow
+- Color: Gray
+- Stat Buff(s):
+    - Perception = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #242
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Unique piece of clothing
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Asticarian (Modern)
+
+## #243
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Orb that only fits a particular hole
+- Essence Value: 500
+- Credit Value: 50
+
+## #244
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Pink and green
+- Color: Blue
+- Stat Buff(s):
+    - Defense DC ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #245
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Flat, oblong stone
+- Ability: Empowered Ghost
+    - Details: Add L÷4 to all cyberghost abilities (min of 1).
+- Essence Value: 500
+- Credit Value: 50
+
+## #246
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Small, cylindrical battery
+- Ability: Shop Enhancement
+    - Details: Local node shop luck +2.
+- Essence Value: 500
+- Credit Value: 50
+
+## #247
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits a warm light glow, very large
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #248
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Green
+- Stat Buff(s):
+    - Initiative = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #249
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Crystal green
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #250
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Milky sky blue
+- Color: Neutral
+- Stat Buff(s):
+    - Luck = 1
+- Essence Value: 500
+- Credit Value: 50
+
+## #251
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in brown, tough carapace
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #252
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, covered in grass
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #253
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Twisted paper clip
+- Skill Buff: History (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #254
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Black and red
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #255
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Rosary bead
+- Skill Buff: Trap Defusion (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #256
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in brown, tough carapace
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #257
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits extremely bright light (but not quite blinding)
+- Color: Blue
+- Stat Buff(s):
+    - HP ✦ = G
+- Essence Value: 500
+- Credit Value: 50
+
+## #258
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: As small as a marble, roll again for aesthetic
+- Color: Neutral
+- Stat Buff(s):
+    - Energy Cap ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #259
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Teal lipstick
+- Ability: Empowered Ghost
+    - Details: Add L÷4 to all cyberghost abilities (min of 1).
+- Essence Value: 500
+- Credit Value: 50
+
+## #260
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Book of names and node addresses by them
+- Essence Value: 500
+- Credit Value: 50
+
+## #261
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Teal lipstick
+- Ability: Instant Reroll
+    - Details: Can reroll a piece of gear right after collapsing it once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #262
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirls of purple
+- Color: Neutral
+- Stat Buff(s):
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+
+## #263
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in thick fur, sometimes squirms slightly
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #264
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Green
+- Stat Buff(s):
+    - Range ✦ = G÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #265
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Flat, oblong stone
+- Ability: Color Select
+    - Details: Can choose what color a gear drop is once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #266
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Neutral
+- Stat Buff(s):
+    - Energy Cap = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #267
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Deep blue
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed = L÷2
+- Essence Value: 500
+- Credit Value: 50
+
+## #268
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Milky sky blue
+- Color: Green
+- Stat Buff(s):
+    - Initiative = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #269
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Journal filled with frantic scribbles
+- Essence Value: 500
+- Credit Value: 50
+
+## #270
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Egg that will hatch in a couple nodes
+- Essence Value: 500
+- Credit Value: 50
+
+## #271
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Flat, oblong stone
+- Skill Buff: Climbing (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #272
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed = G÷2
+- Essence Value: 500
+- Credit Value: 50
+
+## #273
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: A hurricane that turns into a tornado that turns into a hurricane...etc.
+- Color: Blue
+- Stat Buff(s):
+    - Armor ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #274
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Musical instrument
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #275
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Old journal
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #276
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Skull made of gold
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Pirate)
+
+## #277
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Teal lipstick
+- Ability: Gear Select
+    - Details: Can choose what type of gear you get from a drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #278
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Massive gemstone
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Valdan (Cyberpunk)
+
+## #279
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Eye within that opens and disappears randomly
+- Color: Blue
+- Stat Buff(s):
+    - Defense DC ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #280
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Twisting animal horn
+- Skill Buff: Jumping (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #281
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Looks like glowing hot metal, is very hot to the touch but can be held without getting hurt
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #282
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Blue, cold, constantly beaded with moisture
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #283
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Rosary bead
+- Skill Buff: Pick a Skill! = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #284
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Tome of lore
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #285
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Black and red
+- Color: Green
+- Stat Buff(s):
+    - Range = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #286
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Journal filled with frantic scribbles
+- Essence Value: 500
+- Credit Value: 50
+
+## #287
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in brown, tough carapace
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #288
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Book of names and node addresses by them
+- Essence Value: 500
+- Credit Value: 50
+
+## #289
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Clear rainbow
+- Color: Blue
+- Stat Buff(s):
+    - Armor ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #290
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Neutral
+- Stat Buff(s):
+    - Energy Cap = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #291
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Crystal green
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #292
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Ancient, unusable tool
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #293
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Book of names and node addresses by them
+- Essence Value: 500
+- Credit Value: 50
+
+## #294
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Jade elephant
+- Skill Buff: Climbing (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #295
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Rat's skull
+- Skill Buff: Climbing (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #296
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Map leading to a vault full of something valuable or dangerous
+- Essence Value: 500
+- Credit Value: 50
+
+## #297
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Large, scaled, warm to the touch
+- Color: Green
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #298
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Neutral
+- Stat Buff(s):
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #299
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Node address scrawled on a random object
+- Essence Value: 500
+- Credit Value: 50
+
+## #300
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Green
+- Stat Buff(s):
+    - Initiative ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #301
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Bar of soap
+- Skill Buff: Gambling (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #302
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Book of stamps
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #303
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Plant in a jar
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Valdan (Cyberpunk)
+
+## #304
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Warm amber
+- Color: Blue
+- Stat Buff(s):
+    - Defense DC = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #305
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Passport or other id that might have been faked
+- Essence Value: 500
+- Credit Value: 50
+
+## #306
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Live animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #307
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Glassy, smooth, black, opaque
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #308
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Painting
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #309
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, covered in grass
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #310
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sky blue far away, can see an ocean swirling within when you get close
+- Color: Blue
+- Stat Buff(s):
+    - Defense DC ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #311
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Small, cylindrical battery
+- Skill Buff: Insight (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #312
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, round, leathery and black like bat wings
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #313
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Contains a tree that grows massive, dies, becomes a seed, and repeats the cycle
+- Color: Gray
+- Stat Buff(s):
+    - Hacking = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #314
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirls of purple
+- Color: Neutral
+- Stat Buff(s):
+    - Kernel Slots = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #315
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Piercing white
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #316
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirls of purple
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #317
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Pink and green
+- Color: Green
+- Stat Buff(s):
+    - Range ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #318
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Vial of purple goo
+- Ability: Instant Reroll
+    - Details: Can reroll a piece of gear right after collapsing it once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #319
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+
+## #320
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Book of stamps
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Asticarian (Modern)
+
+## #321
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Node address scrawled on a random object
+- Essence Value: 500
+- Credit Value: 50
+
+## #322
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Talking plant
+- Essence Value: 500
+- Credit Value: 50
+
+## #323
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits a warm light glow, very large
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #324
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Has two eyes, a mouth, and a nose in random places and orientations on a small, stone egg
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #325
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Flat, oblong stone
+- Ability: Color Select
+    - Details: Can choose what color a gear drop is once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #326
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Piece of ancient technology
+- Essence Value: 500
+- Credit Value: 50
+
+## #327
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Large, scaled, warm to the touch
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #328
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Small, cylindrical battery
+- Ability: Instant Reroll
+    - Details: Can reroll a piece of gear right after collapsing it once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #329
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Passport or other id that might have been faked
+- Essence Value: 500
+- Credit Value: 50
+
+## #330
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: As small as a marble, roll again for aesthetic
+- Color: Blue
+- Stat Buff(s):
+    - HP = G÷2
+- Essence Value: 500
+- Credit Value: 50
+
+## #331
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirls of purple
+- Color: Neutral
+- Stat Buff(s):
+    - Inventory Slots = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #332
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Rosary bead
+- Skill Buff: Trap Defusion (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #333
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Massive gemstone
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Western)
+
+## #334
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Talking plant
+- Essence Value: 500
+- Credit Value: 50
+
+## #335
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Transparent, glassy
+- Color: Gray
+- Stat Buff(s):
+    - Hacking = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #336
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Eyeball in a tiny jar
+- Ability: Magnify Luck
+    - Details: Can double your luck stat for a gear drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #337
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Blue, cold, constantly beaded with moisture
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #338
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Flat, oblong stone
+- Ability: Magnify Luck
+    - Details: Can double your luck stat for a gear drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #339
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Tiny chest filled with gold coins
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Valdan (Cyberpunk)
+
+## #340
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Tiny talking stuffed animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #341
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits a warm light glow, very large
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #342
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: A hurricane that turns into a tornado that turns into a hurricane...etc.
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #343
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sky blue far away, can see an ocean swirling within when you get close
+- Color: Gray
+- Stat Buff(s):
+    - Hacking ✦ = G÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #344
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Book of names and node addresses by them
+- Essence Value: 500
+- Credit Value: 50
+
+## #345
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Book of stamps
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Asticarian (Modern)
+
+## #346
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Large, scaled, warm to the touch
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #347
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Jade elephant
+- Skill Buff: Endurance (Defense) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #348
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Vial of purple goo
+- Skill Buff: Slight of Hand (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #349
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Clear rainbow
+- Color: Gray
+- Stat Buff(s):
+    - Hacking ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #350
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirling orange and green
+- Color: Gray
+- Stat Buff(s):
+    - Perception ✦ = G÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #351
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Book of names and node addresses by them
+- Essence Value: 500
+- Credit Value: 50
+
+## #352
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Deed to land in a specific node
+- Essence Value: 500
+- Credit Value: 50
+
+## #353
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Piece of parchment covered in runes
+- Skill Buff: Balance (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #354
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Black and red
+- Color: Neutral
+- Stat Buff(s):
+    - Luck ✦✦ = 3
+- Essence Value: 500
+- Credit Value: 50
+
+## #355
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Glassy, smooth, black, opaque
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #356
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Egg that will hatch in a couple nodes
+- Essence Value: 500
+- Credit Value: 50
+
+## #357
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Crystal green
+- Color: Blue
+- Stat Buff(s):
+    - Armor ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #358
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Warm amber
+- Color: Blue
+- Stat Buff(s):
+    - Defense DC = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #359
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Set of dice
+- Skill Buff: Slight of Hand (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #360
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Bar of soap
+- Ability: Gear Select
+    - Details: Can choose what type of gear you get from a drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #361
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Skull made of gold
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #362
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Flat, oblong stone
+- Ability: Empowered Ghost
+    - Details: Add L÷4 to all cyberghost abilities (min of 1).
+- Essence Value: 500
+- Credit Value: 50
+
+## #363
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Bar of soap
+- Ability: Empowered Ghost
+    - Details: Add L÷4 to all cyberghost abilities (min of 1).
+- Essence Value: 500
+- Credit Value: 50
+
+## #364
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Color-changing flame floats within
+- Color: Green
+- Stat Buff(s):
+    - Initiative ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #365
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Rat's skull
+- Skill Buff: Endurance (Defense) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #366
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Blue, cold, constantly beaded with moisture
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #367
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirls of purple
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed = L÷2
+- Essence Value: 500
+- Credit Value: 50
+
+## #368
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Musical instrument
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #369
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Green
+- Stat Buff(s):
+    - Initiative ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #370
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: 8-ball that answers your questions
+- Essence Value: 500
+- Credit Value: 50
+
+## #371
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Deep blue
+- Color: Blue
+- Stat Buff(s):
+    - Defense DC = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #372
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Black, opaque
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #373
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Black and red
+- Color: Gray
+- Stat Buff(s):
+    - Hacking = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #374
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Super clear, can barely see that it's there
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #375
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Silver acorn
+- Skill Buff: Trickery (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #376
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Eyeball in a tiny jar
+- Ability: Shop Enhancement
+    - Details: Local node shop luck +2.
+- Essence Value: 500
+- Credit Value: 50
+
+## #377
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Bar of soap
+- Skill Buff: Intimidation (Power) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #378
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Black, opaque
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+
+## #379
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Glassy, smooth, black, opaque
+- Color: Green
+- Color 2: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #380
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Blue
+- Stat Buff(s):
+    - Defense DC ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #381
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: As small as a marble, roll again for aesthetic
+- Color: Blue
+- Stat Buff(s):
+    - HP = G÷2
+- Essence Value: 500
+- Credit Value: 50
+
+## #382
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Magnet
+- Skill Buff: Navigation (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #383
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Crystal green
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+
+## #384
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Compass that only points one direction
+- Essence Value: 500
+- Credit Value: 50
+
+## #385
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Lint ball
+- Skill Buff: Haggling (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #386
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Neutral
+- Stat Buff(s):
+    - Luck ✦✦ = 3
+- Essence Value: 500
+- Credit Value: 50
+
+## #387
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Color-changing flame floats within
+- Color: Neutral
+- Stat Buff(s):
+    - Energy Cap = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #388
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in brown, tough carapace
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #389
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Piercing white
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #390
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Neutral
+- Stat Buff(s):
+    - Inventory Slots ✦ = G÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #391
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Teal lipstick
+- Skill Buff: Stealth (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #392
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Old journal
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Asticarian (Modern)
+
+## #393
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: AI contained in an object
+- Essence Value: 500
+- Credit Value: 50
+
+## #394
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Twisting animal horn
+- Skill Buff: Swimming (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #395
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Glassy, smooth, black, opaque
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #396
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Painting
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Rtolkan (Steampunk)
+
+## #397
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Pink and green
+- Color: Neutral
+- Stat Buff(s):
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+
+## #398
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Golden idol
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #399
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Blue, cold, constantly beaded with moisture
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #400
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: A talking worm
+- Essence Value: 500
+- Credit Value: 50
+
+## #401
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sky blue far away, can see an ocean swirling within when you get close
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #402
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Crystal green
+- Color: Neutral
+- Stat Buff(s):
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #403
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Looks just like a chicken egg
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #404
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Transparent, glassy
+- Color: Gray
+- Stat Buff(s):
+    - Hacking ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #405
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Unique piece of clothing
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #406
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: A talking worm
+- Essence Value: 500
+- Credit Value: 50
+
+## #407
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirling orange and green
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #408
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Live animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #409
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Skull made of gold
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Valdan (Cyberpunk)
+
+## #410
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Pink and green
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #411
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Stuffed animal
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Asticarian (Modern)
+
+## #412
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Milky sky blue
+- Color: Blue
+- Stat Buff(s):
+    - Defense DC ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #413
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Flat, oblong stone
+- Skill Buff: Pick a Skill! = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #414
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Tiny shield of gold
+- Skill Buff: Swimming (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #415
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Color-changing flame floats within
+- Color: Green
+- Stat Buff(s):
+    - Initiative = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #416
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Blue, cold, constantly beaded with moisture
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #417
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Talking plant
+- Essence Value: 500
+- Credit Value: 50
+
+## #418
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Twisted paper clip
+- Ability: Empowered Ghost
+    - Details: Add L÷4 to all cyberghost abilities (min of 1).
+- Essence Value: 500
+- Credit Value: 50
+
+## #419
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: As small as a marble, roll again for aesthetic
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #420
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Petrified heart
+- Skill Buff: Insight (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #421
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits a warm light glow, very large
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #422
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Has two eyes, a mouth, and a nose in random places and orientations on a small, stone egg
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #423
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: As small as a marble, roll again for aesthetic
+- Color: Gray
+- Stat Buff(s):
+    - Hacking ✦ = G÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #424
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Jelly egg, wet on the outside with a wriggling creature on the inside
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #425
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Rosary bead
+- Ability: Resurrection
+    - Details: Can revive a downed ally with one quarter HP once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #426
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Egg that will hatch in a couple nodes
+- Essence Value: 500
+- Credit Value: 50
+
+## #427
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Rosary bead
+- Skill Buff: Endurance (Defense) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #428
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, round, leathery and black like bat wings
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #429
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Deed to land in a specific node
+- Essence Value: 500
+- Credit Value: 50
+
+## #430
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Silver acorn
+- Ability: Gear Select
+    - Details: Can choose what type of gear you get from a drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #431
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: 8-ball that answers your questions
+- Essence Value: 500
+- Credit Value: 50
+
+## #432
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Petrified heart
+- Ability: Shop Enhancement
+    - Details: Local node shop luck +2.
+- Essence Value: 500
+- Credit Value: 50
+
+## #433
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Piece of parchment covered in runes
+- Skill Buff: Trap Defusion (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #434
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Piece of parchment covered in runes
+- Ability: Shop Enhancement
+    - Details: Local node shop luck +2.
+- Essence Value: 500
+- Credit Value: 50
+
+## #435
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Vial of purple goo
+- Skill Buff: Climbing (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #436
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Petrified heart
+- Ability: Resurrection
+    - Details: Can revive a downed ally with one quarter HP once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #437
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Black and red
+- Color: Green
+- Stat Buff(s):
+    - Initiative = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #438
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Bar of soap
+- Ability: Shop Enhancement
+    - Details: Local node shop luck +2.
+- Essence Value: 500
+- Credit Value: 50
+
+## #439
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Blue
+- Stat Buff(s):
+    - HP = L÷2
+- Essence Value: 500
+- Credit Value: 50
+
+## #440
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Small, cylindrical battery
+- Skill Buff: Pick a Skill! = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #441
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Magazines
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #442
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Warm amber
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #443
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Node address scrawled on a random object
+- Essence Value: 500
+- Credit Value: 50
+
+## #444
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Flat, oblong stone
+- Ability: Empowered Ghost
+    - Details: Add L÷4 to all cyberghost abilities (min of 1).
+- Essence Value: 500
+- Credit Value: 50
+
+## #445
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Flat, oblong stone
+- Skill Buff: Gambling (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #446
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Massive gemstone
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #447
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirling orange and green
+- Color: Green
+- Stat Buff(s):
+    - Initiative = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #448
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Book of stamps
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Pirate)
+
+## #449
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Jelly egg, wet on the outside with a wriggling creature on the inside
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #450
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Magazines
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #451
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Egg that will hatch in a couple nodes
+- Essence Value: 500
+- Credit Value: 50
+
+## #452
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Eye within that opens and disappears randomly
+- Color: Neutral
+- Stat Buff(s):
+    - Luck = 1
+- Essence Value: 500
+- Credit Value: 50
+
+## #453
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Twisting animal horn
+- Skill Buff: Insight (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #454
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Color-changing flame floats within
+- Color: Neutral
+- Stat Buff(s):
+    - Inventory Slots = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #455
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Taxidermied animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #456
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Blue
+- Stat Buff(s):
+    - HP = G÷2
+- Essence Value: 500
+- Credit Value: 50
+
+## #457
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Painting
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Asticarian (Modern)
+
+## #458
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, covered in grass
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #459
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Magazines
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #460
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: As small as a marble, roll again for aesthetic
+- Color: Gray
+- Stat Buff(s):
+    - Perception ✦ = G÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #461
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Super clear, can barely see that it's there
+- Color: Gray
+- Stat Buff(s):
+    - Hacking ✦ = G÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #462
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Tiny shield of gold
+- Ability: Instant Reroll
+    - Details: Can reroll a piece of gear right after collapsing it once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #463
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Compass that only points one direction
+- Essence Value: 500
+- Credit Value: 50
+
+## #464
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: 8-ball that answers your questions
+- Essence Value: 500
+- Credit Value: 50
+
+## #465
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Lint ball
+- Skill Buff: Intimidation (Power) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #466
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Milky sky blue
+- Color: Gray
+- Stat Buff(s):
+    - Perception = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #467
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, covered in grass
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #468
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Eyeball in a tiny jar
+- Ability: Resurrection
+    - Details: Can revive a downed ally with one quarter HP once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #469
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Green
+- Stat Buff(s):
+    - Range ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #470
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sparkles within, always moving
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #471
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Film on a disc
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #472
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Vial of purple goo
+- Skill Buff: Trap Defusion (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #473
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Large, golden key
+- Essence Value: 500
+- Credit Value: 50
+
+## #474
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Looks just like a chicken egg
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #475
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in thick fur, sometimes squirms slightly
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #476
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Jelly egg, wet on the outside with a wriggling creature on the inside
+- Color: Green
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #477
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, round, leathery and black like bat wings
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #478
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Passport or other id that might have been faked
+- Essence Value: 500
+- Credit Value: 50
+
+## #479
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, round, leathery and black like bat wings
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #480
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Deed to land in a specific node
+- Essence Value: 500
+- Credit Value: 50
+
+## #481
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Piece of ancient technology
+- Essence Value: 500
+- Credit Value: 50
+
+## #482
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Dragon eye amulet
+- Ability: Magnify Luck
+    - Details: Can double your luck stat for a gear drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #483
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Jelly egg, wet on the outside with a wriggling creature on the inside
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #484
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Book of stamps
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Pirate)
+
+## #485
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Warm amber
+- Color: Green
+- Stat Buff(s):
+    - Range = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #486
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sparkles within, always moving
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #487
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Skull
+- Essence Value: 500
+- Credit Value: 50
+
+## #488
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Golden idol
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Asticarian (Modern)
+
+## #489
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Color-changing flame floats within
+- Color: Blue
+- Stat Buff(s):
+    - Defense DC = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #490
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Jade elephant
+- Ability: Gear Select
+    - Details: Can choose what type of gear you get from a drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #491
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, covered in grass
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #492
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Piercing white
+- Color: Green
+- Color 2: Red
+- Stat Buff(s):
+    - Range ✦ = L÷3
+    - Damage Plus ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #493
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Neutral
+- Stat Buff(s):
+    - Luck = 1
+- Essence Value: 500
+- Credit Value: 50
+
+## #494
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Deep blue
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #495
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Compass that only points one direction
+- Essence Value: 500
+- Credit Value: 50
+
+## #496
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Gray
+- Color 2: Green
+- Stat Buff(s):
+    - Perception = L÷4
+    - Movement Speed ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+
+## #497
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Transparent, glassy
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #498
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits a warm light glow, very large
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #499
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits a warm light glow, very large
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #500
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Egg that will hatch in a couple nodes
+- Essence Value: 500
+- Credit Value: 50
+
+## #501
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Lint ball
+- Ability: Resurrection
+    - Details: Can revive a downed ally with one quarter HP once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #502
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Transparent, glassy
+- Color: Blue
+- Stat Buff(s):
+    - Defense DC ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #503
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in thick fur, sometimes squirms slightly
+- Color: Green
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #504
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Flat, oblong stone
+- Skill Buff: Trickery (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #505
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Green
+- Stat Buff(s):
+    - Range = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #506
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Passport or other id that might have been faked
+- Essence Value: 500
+- Credit Value: 50
+
+## #507
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Pink and green
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #508
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Magnet
+- Skill Buff: Slight of Hand (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #509
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Warm amber
+- Color: Neutral
+- Stat Buff(s):
+    - Luck = 1
+- Essence Value: 500
+- Credit Value: 50
+
+## #510
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Game cartridge
+- Ability: Color Select
+    - Details: Can choose what color a gear drop is once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #511
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Eyeball in a tiny jar
+- Skill Buff: Slight of Hand (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #512
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Set of dice
+- Ability: Empowered Ghost
+    - Details: Add L÷4 to all cyberghost abilities (min of 1).
+- Essence Value: 500
+- Credit Value: 50
+
+## #513
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Music disc
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Pirate)
+
+## #514
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Book of names and node addresses by them
+- Essence Value: 500
+- Credit Value: 50
+
+## #515
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Musical instrument
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Western)
+
+## #516
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Clear rainbow
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #517
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Tightly sealed urn filled with visous liquid
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Asticarian (Modern)
+
+## #518
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Talking plant
+- Essence Value: 500
+- Credit Value: 50
+
+## #519
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Pink and green
+- Color: Neutral
+- Stat Buff(s):
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+
+## #520
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Magnet
+- Ability: Empowered Ghost
+    - Details: Add L÷4 to all cyberghost abilities (min of 1).
+- Essence Value: 500
+- Credit Value: 50
+
+## #521
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Jelly egg, wet on the outside with a wriggling creature on the inside
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #522
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Old journal
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Valdan (Cyberpunk)
+
+## #523
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Petrified heart
+- Skill Buff: Navigation (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #524
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Massive gemstone
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Pirate)
+
+## #525
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Magnet
+- Skill Buff: Trap Defusion (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #526
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: As small as a marble, roll again for aesthetic
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed = G÷2
+- Essence Value: 500
+- Credit Value: 50
+
+## #527
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Piercing white
+- Color: Green
+- Stat Buff(s):
+    - Range = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #528
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Taxidermied animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #529
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Unique piece of clothing
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #530
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed ✦ = G
+- Essence Value: 500
+- Credit Value: 50
+
+## #531
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Large, scaled, warm to the touch
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #532
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: 8-ball that answers your questions
+- Essence Value: 500
+- Credit Value: 50
+
+## #533
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Rosary bead
+- Skill Buff: Haggling (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #534
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Pink and green
+- Color: Neutral
+- Stat Buff(s):
+    - Kernel Slots = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #535
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in thick fur, sometimes squirms slightly
+- Color: Green
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #536
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Music disc
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Asticarian (Modern)
+
+## #537
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Jelly egg, wet on the outside with a wriggling creature on the inside
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #538
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Gray
+- Stat Buff(s):
+    - Perception ✦ = G÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #539
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Dragon eye amulet
+- Skill Buff: Haggling (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #540
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits extremely bright light (but not quite blinding)
+- Color: Neutral
+- Stat Buff(s):
+    - Energy Cap ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #541
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: A talking worm
+- Essence Value: 500
+- Credit Value: 50
+
+## #542
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: A hurricane that turns into a tornado that turns into a hurricane...etc.
+- Color: Gray
+- Stat Buff(s):
+    - Hacking ✦ = G÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #543
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Rosary bead
+- Skill Buff: Insight (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #544
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sparkles within, always moving
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #545
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Set of dice
+- Skill Buff: Balance (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #546
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Eye within that opens and disappears randomly
+- Color: Gray
+- Stat Buff(s):
+    - Perception ✦ = G÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #547
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Milky sky blue
+- Color: Neutral
+- Stat Buff(s):
+    - Energy Cap = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #548
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Blue, cold, constantly beaded with moisture
+- Color: Green
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #549
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Clear rainbow
+- Color: Gray
+- Stat Buff(s):
+    - Hacking = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #550
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sparkles within, always moving
+- Color: Gray
+- Stat Buff(s):
+    - Hacking ✦ = G÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #551
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Rat's skull
+- Ability: Gear Select
+    - Details: Can choose what type of gear you get from a drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #552
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in thick fur, sometimes squirms slightly
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #553
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+
+## #554
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Massive gemstone
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Western)
+
+## #555
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Large, scaled, warm to the touch
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #556
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Silver acorn
+- Ability: Gear Select
+    - Details: Can choose what type of gear you get from a drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #557
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Rosary bead
+- Skill Buff: Push/Pull (Power) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #558
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Vial of purple goo
+- Skill Buff: Persuasion (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #559
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Fancy handbag
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #560
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Twisted paper clip
+- Ability: Shop Enhancement
+    - Details: Local node shop luck +2.
+- Essence Value: 500
+- Credit Value: 50
+
+## #561
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Book of stamps
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #562
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Taxidermied animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #563
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Massive gemstone
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Pirate)
+
+## #564
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Piercing white
+- Color: Gray
+- Stat Buff(s):
+    - Perception = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #565
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sky blue far away, can see an ocean swirling within when you get close
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed ✦ = G
+- Essence Value: 500
+- Credit Value: 50
+
+## #566
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Super clear, can barely see that it's there
+- Color: Gray
+- Stat Buff(s):
+    - Perception = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #567
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Teal lipstick
+- Ability: Magnify Luck
+    - Details: Can double your luck stat for a gear drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #568
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Eye within that opens and disappears randomly
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #569
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirling orange and green
+- Color: Green
+- Stat Buff(s):
+    - Initiative ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #570
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Super clear, can barely see that it's there
+- Color: Blue
+- Stat Buff(s):
+    - Armor ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #571
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Jade elephant
+- Ability: Hidden Essence
+    - Details: x1.25 value when reducing an item to essence
+- Essence Value: 500
+- Credit Value: 50
+
+## #572
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Pink and green
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #573
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Set of dice
+- Ability: Color Select
+    - Details: Can choose what color a gear drop is once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #574
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Blue, cold, constantly beaded with moisture
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #575
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Contains a tree that grows massive, dies, becomes a seed, and repeats the cycle
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #576
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Rosary bead
+- Skill Buff: Balance (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #577
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Large, scaled, warm to the touch
+- Color: Green
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #578
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Large, scaled, warm to the touch
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #579
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Tiny shield of gold
+- Skill Buff: Haggling (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #580
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Fancy handbag
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Valdan (Cyberpunk)
+
+## #581
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: As small as a marble, roll again for aesthetic
+- Color: Blue
+- Stat Buff(s):
+    - Defense DC ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #582
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Twisting animal horn
+- Ability: Hidden Essence
+    - Details: x1.25 value when reducing an item to essence
+- Essence Value: 500
+- Credit Value: 50
+
+## #583
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sparkles within, always moving
+- Color: Blue
+- Stat Buff(s):
+    - HP ✦ = G
+- Essence Value: 500
+- Credit Value: 50
+
+## #584
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Jade elephant
+- Skill Buff: Slight of Hand (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #585
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Small, cylindrical battery
+- Skill Buff: Jumping (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #586
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Magnet
+- Skill Buff: Jumping (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #587
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sky blue far away, can see an ocean swirling within when you get close
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #588
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Has two eyes, a mouth, and a nose in random places and orientations on a small, stone egg
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #589
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Large, scaled, warm to the touch
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #590
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: A hurricane that turns into a tornado that turns into a hurricane...etc.
+- Color: Green
+- Stat Buff(s):
+    - Range ✦ = G÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #591
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Orb that only fits a particular hole
+- Essence Value: 500
+- Credit Value: 50
+
+## #592
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Tome of lore
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Rtolkan (Steampunk)
+
+## #593
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Map leading to a vault full of something valuable or dangerous
+- Essence Value: 500
+- Credit Value: 50
+
+## #594
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Unique piece of clothing
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Western)
+
+## #595
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirling orange and green
+- Color: Gray
+- Stat Buff(s):
+    - Perception ✦ = G÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #596
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Musical instrument
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Asticarian (Modern)
+
+## #597
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in brown, tough carapace
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #598
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Live animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #599
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Twisting animal horn
+- Ability: Instant Reroll
+    - Details: Can reroll a piece of gear right after collapsing it once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #600
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #601
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirling orange and green
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed = G÷2
+- Essence Value: 500
+- Credit Value: 50
+
+## #602
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Fancy handbag
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #603
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Rat's skull
+- Ability: Empowered Ghost
+    - Details: Add L÷4 to all cyberghost abilities (min of 1).
+- Essence Value: 500
+- Credit Value: 50
+
+## #604
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Vial of purple goo
+- Skill Buff: Haggling (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #605
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Map leading to a vault full of something valuable or dangerous
+- Essence Value: 500
+- Credit Value: 50
+
+## #606
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Black, opaque
+- Color: Neutral
+- Stat Buff(s):
+    - Inventory Slots ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #607
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Color-changing flame floats within
+- Color: Neutral
+- Stat Buff(s):
+    - Inventory Slots = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #608
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Deep blue
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #609
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Game cartridge
+- Ability: Instant Reroll
+    - Details: Can reroll a piece of gear right after collapsing it once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #610
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Unique piece of clothing
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Valdan (Cyberpunk)
+
+## #611
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Piece of ancient technology
+- Essence Value: 500
+- Credit Value: 50
+
+## #612
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Journal filled with frantic scribbles
+- Essence Value: 500
+- Credit Value: 50
+
+## #613
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Magnet
+- Ability: Shop Enhancement
+    - Details: Local node shop luck +2.
+- Essence Value: 500
+- Credit Value: 50
+
+## #614
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Looks like glowing hot metal, is very hot to the touch but can be held without getting hurt
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #615
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed ✦ = G
+- Essence Value: 500
+- Credit Value: 50
+
+## #616
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Taxidermied animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #617
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Neutral
+- Stat Buff(s):
+    - Energy Cap = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #618
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Deep blue
+- Color: Gray
+- Stat Buff(s):
+    - Perception ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #619
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Vial of purple goo
+- Skill Buff: Intimidation (Power) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #620
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Tightly sealed urn filled with visous liquid
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #621
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Journal filled with frantic scribbles
+- Essence Value: 500
+- Credit Value: 50
+
+## #622
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Large, scaled, warm to the touch
+- Color: Gray
+- Color 2: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #623
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Milky sky blue
+- Color: Neutral
+- Stat Buff(s):
+    - Luck = 1
+- Essence Value: 500
+- Credit Value: 50
+
+## #624
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirls of purple
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #625
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Small, cylindrical battery
+- Ability: Resurrection
+    - Details: Can revive a downed ally with one quarter HP once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #626
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: 8-ball that answers your questions
+- Essence Value: 500
+- Credit Value: 50
+
+## #627
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Large, scaled, warm to the touch
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #628
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Large, scaled, warm to the touch
+- Color: Gray
+- Color 2: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #629
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, covered in grass
+- Color: Green
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #630
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Rat's skull
+- Skill Buff: Haggling (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #631
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Glassy, smooth, black, opaque
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #632
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Rosary bead
+- Ability: Magnify Luck
+    - Details: Can double your luck stat for a gear drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #633
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Taxidermied animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #634
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Magnet
+- Skill Buff: Balance (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #635
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Taxidermied animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #636
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Pink and green
+- Color: Gray
+- Stat Buff(s):
+    - Perception ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #637
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Fancy watch
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #638
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Piece of parchment covered in runes
+- Ability: Shop Enhancement
+    - Details: Local node shop luck +2.
+- Essence Value: 500
+- Credit Value: 50
+
+## #639
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Coin
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #640
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits extremely bright light (but not quite blinding)
+- Color: Neutral
+- Stat Buff(s):
+    - Kernel Slots = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #641
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Blue, cold, constantly beaded with moisture
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #642
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Color-changing flame floats within
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #643
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Teal lipstick
+- Ability: Color Select
+    - Details: Can choose what color a gear drop is once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #644
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Clear rainbow
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #645
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Deep blue
+- Color: Neutral
+- Stat Buff(s):
+    - Inventory Slots = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #646
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Lint ball
+- Skill Buff: Trickery (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #647
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Black and red
+- Color: Gray
+- Stat Buff(s):
+    - Hacking ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #648
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Magnet
+- Ability: Gear Select
+    - Details: Can choose what type of gear you get from a drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #649
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Unique piece of clothing
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Pirate)
+
+## #650
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Jade elephant
+- Skill Buff: Insight (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #651
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Crystal green
+- Color: Neutral
+- Stat Buff(s):
+    - Inventory Slots ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #652
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirls of purple
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+
+## #653
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Rosary bead
+- Skill Buff: Slight of Hand (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #654
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Rat's skull
+- Skill Buff: Climbing (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #655
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Blue, cold, constantly beaded with moisture
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #656
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Looks just like a chicken egg
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #657
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, covered in grass
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #658
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Milky sky blue
+- Color: Green
+- Stat Buff(s):
+    - Range ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #659
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Dragon eye amulet
+- Skill Buff: Jumping (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #660
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Twisted paper clip
+- Ability: Gear Select
+    - Details: Can choose what type of gear you get from a drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #661
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: A hurricane that turns into a tornado that turns into a hurricane...etc.
+- Color: Blue
+- Stat Buff(s):
+    - Defense DC = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #662
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Lint ball
+- Ability: Gear Select
+    - Details: Can choose what type of gear you get from a drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #663
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Coin
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Western)
+
+## #664
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Milky sky blue
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #665
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Eye within that opens and disappears randomly
+- Color: Gray
+- Stat Buff(s):
+    - Perception = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #666
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sparkles within, always moving
+- Color: Neutral
+- Stat Buff(s):
+    - Inventory Slots = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #667
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Jade elephant
+- Skill Buff: History (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #668
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Contains a tree that grows massive, dies, becomes a seed, and repeats the cycle
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #669
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Silver acorn
+- Skill Buff: History (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #670
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Piercing white
+- Color: Gray
+- Stat Buff(s):
+    - Hacking ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #671
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Eye within that opens and disappears randomly
+- Color: Neutral
+- Stat Buff(s):
+    - Luck = 1
+- Essence Value: 500
+- Credit Value: 50
+
+## #672
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirling orange and green
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #673
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Gray
+- Stat Buff(s):
+    - Perception = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #674
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Warm amber
+- Color: Neutral
+- Stat Buff(s):
+    - Luck ✦✦ = 3
+- Essence Value: 500
+- Credit Value: 50
+
+## #675
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Massive gemstone
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Asticarian (Modern)
+
+## #676
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits extremely bright light (but not quite blinding)
+- Color: Gray
+- Stat Buff(s):
+    - Hacking = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #677
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Black and red
+- Color: Gray
+- Stat Buff(s):
+    - Perception ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #678
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Contains a tree that grows massive, dies, becomes a seed, and repeats the cycle
+- Color: Neutral
+- Stat Buff(s):
+    - Inventory Slots ✦ = G÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #679
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, covered in grass
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #680
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Contains a tree that grows massive, dies, becomes a seed, and repeats the cycle
+- Color: Gray
+- Stat Buff(s):
+    - Hacking = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #681
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Tiny talking stuffed animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #682
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, covered in grass
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #683
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Contains a tree that grows massive, dies, becomes a seed, and repeats the cycle
+- Color: Gray
+- Stat Buff(s):
+    - Perception = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #684
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Gray
+- Stat Buff(s):
+    - Hacking = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #685
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Coin
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #686
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Game cartridge
+- Skill Buff: Singing (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #687
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Eye within that opens and disappears randomly
+- Color: Gray
+- Stat Buff(s):
+    - Perception = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #688
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, round, leathery and black like bat wings
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #689
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Looks like glowing hot metal, is very hot to the touch but can be held without getting hurt
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #690
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Small, cylindrical battery
+- Ability: Instant Reroll
+    - Details: Can reroll a piece of gear right after collapsing it once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #691
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Fancy handbag
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Rtolkan (Steampunk)
+
+## #692
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Music disc
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Western)
+
+## #693
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Gray
+- Stat Buff(s):
+    - Perception = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #694
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Petrified heart
+- Ability: Empowered Ghost
+    - Details: Add L÷4 to all cyberghost abilities (min of 1).
+- Essence Value: 500
+- Credit Value: 50
+
+## #695
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Jade elephant
+- Ability: Instant Reroll
+    - Details: Can reroll a piece of gear right after collapsing it once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #696
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Rat's skull
+- Skill Buff: Pick a Skill! = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #697
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Gray
+- Stat Buff(s):
+    - Hacking ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #698
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Milky sky blue
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #699
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Crystal green
+- Color: Blue
+- Stat Buff(s):
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+
+## #700
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Crystal green
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #701
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Lint ball
+- Skill Buff: Insight (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #702
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Warm amber
+- Color: Gray
+- Stat Buff(s):
+    - Perception ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #703
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: A hurricane that turns into a tornado that turns into a hurricane...etc.
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed = G÷2
+- Essence Value: 500
+- Credit Value: 50
+
+## #704
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Neutral
+- Stat Buff(s):
+    - Energy Cap = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #705
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Green
+- Stat Buff(s):
+    - Initiative = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #706
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Eyeball in a tiny jar
+- Ability: Gear Select
+    - Details: Can choose what type of gear you get from a drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #707
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Old journal
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Asticarian (Modern)
+
+## #708
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Tiny chest filled with gold coins
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #709
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Bar of soap
+- Skill Buff: History (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #710
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Contains a tree that grows massive, dies, becomes a seed, and repeats the cycle
+- Color: Green
+- Color 2: Blue
+- Stat Buff(s):
+    - Initiative ✦ = G÷4
+    - Defense DC ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #711
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sparkles within, always moving
+- Color: Blue
+- Stat Buff(s):
+    - Armor ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #712
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Eye within that opens and disappears randomly
+- Color: Gray
+- Stat Buff(s):
+    - Hacking = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #713
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Live animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #714
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Pink and green
+- Color: Blue
+- Stat Buff(s):
+    - Armor = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #715
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Piece of parchment covered in runes
+- Ability: Magnify Luck
+    - Details: Can double your luck stat for a gear drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #716
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in brown, tough carapace
+- Color: Green
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #717
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Transparent, glassy
+- Color: Blue
+- Stat Buff(s):
+    - Defense DC = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #718
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Super clear, can barely see that it's there
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #719
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Rosary bead
+- Ability: Instant Reroll
+    - Details: Can reroll a piece of gear right after collapsing it once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #720
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Music disc
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #721
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Rosary bead
+- Skill Buff: Pick a Skill! = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #722
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Magnet
+- Ability: Magnify Luck
+    - Details: Can double your luck stat for a gear drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #723
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Has two eyes, a mouth, and a nose in random places and orientations on a small, stone egg
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #724
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Lint ball
+- Ability: Shop Enhancement
+    - Details: Local node shop luck +2.
+- Essence Value: 500
+- Credit Value: 50
+
+## #725
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Super clear, can barely see that it's there
+- Color: Neutral
+- Stat Buff(s):
+    - Luck = 1
+- Essence Value: 500
+- Credit Value: 50
+
+## #726
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits extremely bright light (but not quite blinding)
+- Color: Gray
+- Stat Buff(s):
+    - Hacking ✦ = G÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #727
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Jelly egg, wet on the outside with a wriggling creature on the inside
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #728
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Dragon eye amulet
+- Skill Buff: Endurance (Defense) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #729
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, round, leathery and black like bat wings
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #730
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Golden idol
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Pirate)
+
+## #731
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Large, golden key
+- Essence Value: 500
+- Credit Value: 50
+
+## #732
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Old journal
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Asticarian (Modern)
+
+## #733
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Plant in a jar
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Rtolkan (Steampunk)
+
+## #734
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Super clear, can barely see that it's there
+- Color: Blue
+- Stat Buff(s):
+    - Armor = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #735
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Fancy handbag
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Pirate)
+
+## #736
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Warm amber
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+
+## #737
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Jade elephant
+- Ability: Resurrection
+    - Details: Can revive a downed ally with one quarter HP once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #738
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Old journal
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Valdan (Cyberpunk)
+
+## #739
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits a warm light glow, very large
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #740
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Large, scaled, warm to the touch
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #741
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Flame in a jar that never goes out
+- Essence Value: 500
+- Credit Value: 50
+
+## #742
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Silver acorn
+- Skill Buff: Persuasion (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #743
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Large, scaled, warm to the touch
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #744
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Twisted paper clip
+- Ability: Gear Select
+    - Details: Can choose what type of gear you get from a drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #745
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sparkles within, always moving
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #746
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Flat, oblong stone
+- Ability: Resurrection
+    - Details: Can revive a downed ally with one quarter HP once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #747
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Black and red
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #748
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Milky sky blue
+- Color: Green
+- Stat Buff(s):
+    - Initiative = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #749
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: As small as a marble, roll again for aesthetic
+- Color: Neutral
+- Stat Buff(s):
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+
+## #750
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Massive gemstone
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #751
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Stuffed animal
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #752
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Jade elephant
+- Skill Buff: History (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #753
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Compass that only points one direction
+- Essence Value: 500
+- Credit Value: 50
+
+## #754
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Eyeball in a tiny jar
+- Skill Buff: Climbing (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #755
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Fancy watch
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #756
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Jelly egg, wet on the outside with a wriggling creature on the inside
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #757
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Tiny talking stuffed animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #758
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Magnet
+- Skill Buff: Push/Pull (Power) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #759
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Lint ball
+- Ability: Magnify Luck
+    - Details: Can double your luck stat for a gear drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #760
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in brown, tough carapace
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #761
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #762
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Passport or other id that might have been faked
+- Essence Value: 500
+- Credit Value: 50
+
+## #763
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Jade elephant
+- Skill Buff: Balance (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #764
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Painting
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Pirate)
+
+## #765
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: A hurricane that turns into a tornado that turns into a hurricane...etc.
+- Color: Neutral
+- Stat Buff(s):
+    - Inventory Slots ✦ = G÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #766
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Tiny chest filled with gold coins
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #767
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Twisting animal horn
+- Skill Buff: Balance (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #768
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Teal lipstick
+- Ability: Hidden Essence
+    - Details: x1.25 value when reducing an item to essence
+- Essence Value: 500
+- Credit Value: 50
+
+## #769
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Map leading to a vault full of something valuable or dangerous
+- Essence Value: 500
+- Credit Value: 50
+
+## #770
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Egg that will hatch in a couple nodes
+- Essence Value: 500
+- Credit Value: 50
+
+## #771
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Blue, cold, constantly beaded with moisture
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #772
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Piercing white
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #773
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Passport or other id that might have been faked
+- Essence Value: 500
+- Credit Value: 50
+
+## #774
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Live animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #775
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Small, cylindrical battery
+- Skill Buff: Intimidation (Power) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #776
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Large, golden key
+- Essence Value: 500
+- Credit Value: 50
+
+## #777
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Tiny talking stuffed animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #778
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Milky sky blue
+- Color: Blue
+- Stat Buff(s):
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+
+## #779
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Petrified heart
+- Ability: Color Select
+    - Details: Can choose what color a gear drop is once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #780
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Massive gemstone
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Rtolkan (Steampunk)
+
+## #781
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Lint ball
+- Skill Buff: Singing (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #782
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in brown, tough carapace
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #783
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Green
+- Stat Buff(s):
+    - Initiative ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #784
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Petrified heart
+- Skill Buff: Swimming (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #785
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Super clear, can barely see that it's there
+- Color: Green
+- Stat Buff(s):
+    - Initiative = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #786
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Jelly egg, wet on the outside with a wriggling creature on the inside
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #787
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Live animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #788
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Dragon eye amulet
+- Skill Buff: Pick a Skill! = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #789
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Twisting animal horn
+- Skill Buff: Endurance (Defense) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #790
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Book of names and node addresses by them
+- Essence Value: 500
+- Credit Value: 50
+
+## #791
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Tiny shield of gold
+- Skill Buff: History (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #792
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Compass that only points one direction
+- Essence Value: 500
+- Credit Value: 50
+
+## #793
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Teal lipstick
+- Skill Buff: Trap Defusion (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #794
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirls of purple
+- Color: Neutral
+- Stat Buff(s):
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #795
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: 8-ball that answers your questions
+- Essence Value: 500
+- Credit Value: 50
+
+## #796
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Live animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #797
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Book of stamps
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #798
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Looks just like a chicken egg
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #799
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Flame in a jar that never goes out
+- Essence Value: 500
+- Credit Value: 50
+
+## #800
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Book of stamps
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Valdan (Cyberpunk)
+
+## #801
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Journal filled with frantic scribbles
+- Essence Value: 500
+- Credit Value: 50
+
+## #802
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Vial of purple goo
+- Skill Buff: Swimming (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #803
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Has two eyes, a mouth, and a nose in random places and orientations on a small, stone egg
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #804
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Small, cylindrical battery
+- Skill Buff: Push/Pull (Power) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #805
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Eyeball in a tiny jar
+- Ability: Resurrection
+    - Details: Can revive a downed ally with one quarter HP once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #806
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Twisted paper clip
+- Skill Buff: Stealth (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #807
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Book of names and node addresses by them
+- Essence Value: 500
+- Credit Value: 50
+
+## #808
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Twisting animal horn
+- Skill Buff: Navigation (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #809
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Black and red
+- Color: Blue
+- Stat Buff(s):
+    - Defense DC ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #810
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Blue
+- Stat Buff(s):
+    - HP = G÷2
+- Essence Value: 500
+- Credit Value: 50
+
+## #811
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Twisted paper clip
+- Skill Buff: Navigation (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #812
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Eye within that opens and disappears randomly
+- Color: Blue
+- Stat Buff(s):
+    - Defense DC = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #813
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in brown, tough carapace
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #814
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in brown, tough carapace
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #815
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Large, golden key
+- Essence Value: 500
+- Credit Value: 50
+
+## #816
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Live animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #817
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Twisted paper clip
+- Skill Buff: Endurance (Defense) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #818
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Rat's skull
+- Skill Buff: Climbing (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #819
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Book of names and node addresses by them
+- Essence Value: 500
+- Credit Value: 50
+
+## #820
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Talking plant
+- Essence Value: 500
+- Credit Value: 50
+
+## #821
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Journal filled with frantic scribbles
+- Essence Value: 500
+- Credit Value: 50
+
+## #822
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Gray
+- Stat Buff(s):
+    - Perception ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #823
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Neutral
+- Stat Buff(s):
+    - Kernel Slots = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #824
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Rosary bead
+- Ability: Hidden Essence
+    - Details: x1.25 value when reducing an item to essence
+- Essence Value: 500
+- Credit Value: 50
+
+## #825
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Tiny shield of gold
+- Skill Buff: Climbing (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #826
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Old journal
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #827
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Magazines
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Pirate)
+
+## #828
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Deep blue
+- Color: Blue
+- Stat Buff(s):
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+
+## #829
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Eyeball in a tiny jar
+- Ability: Color Select
+    - Details: Can choose what color a gear drop is once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #830
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Unique piece of clothing
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #831
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Book of names and node addresses by them
+- Essence Value: 500
+- Credit Value: 50
+
+## #832
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Transparent, glassy
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #833
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Warm amber
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed = L÷2
+- Essence Value: 500
+- Credit Value: 50
+
+## #834
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Unique piece of clothing
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Asticarian (Modern)
+
+## #835
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Looks just like a chicken egg
+- Color: Neutral
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #836
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Book of stamps
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Pirate)
+
+## #837
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Color-changing flame floats within
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #838
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Large, scaled, warm to the touch
+- Color: Green
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #839
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Small, cylindrical battery
+- Skill Buff: Stealth (Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #840
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits a warm light glow, very large
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #841
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sparkles within, always moving
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #842
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Petrified heart
+- Ability: Hidden Essence
+    - Details: x1.25 value when reducing an item to essence
+- Essence Value: 500
+- Credit Value: 50
+
+## #843
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Teal lipstick
+- Skill Buff: Swimming (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #844
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: 8-ball that answers your questions
+- Essence Value: 500
+- Credit Value: 50
+
+## #845
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Petrified heart
+- Ability: Magnify Luck
+    - Details: Can double your luck stat for a gear drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #846
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: As small as a marble, roll again for aesthetic
+- Color: Green
+- Stat Buff(s):
+    - Range = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #847
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Milky sky blue
+- Color: Gray
+- Stat Buff(s):
+    - Hacking = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #848
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Glassy, smooth, black, opaque
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #849
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Coin
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Pirate)
+
+## #850
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Deep blue
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #851
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Ancient, unusable tool
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Pirate)
+
+## #852
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Piece of parchment covered in runes
+- Skill Buff: Persuasion (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #853
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Gray
+- Stat Buff(s):
+    - Hacking = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #854
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Warm amber
+- Color: Neutral
+- Stat Buff(s):
+    - Luck ✦✦ = 3
+- Essence Value: 500
+- Credit Value: 50
+
+## #855
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Tome of lore
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Valdan (Cyberpunk)
+
+## #856
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Egg that will hatch in a couple nodes
+- Essence Value: 500
+- Credit Value: 50
+
+## #857
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Glassy, smooth, black, opaque
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #858
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Silver acorn
+- Ability: Hidden Essence
+    - Details: x1.25 value when reducing an item to essence
+- Essence Value: 500
+- Credit Value: 50
+
+## #859
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Game cartridge
+- Skill Buff: Jumping (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #860
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: 8-ball that answers your questions
+- Essence Value: 500
+- Credit Value: 50
+
+## #861
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Film on a disc
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Rtolkan (Steampunk)
+
+## #862
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Plant in a jar
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #863
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Black, opaque
+- Color: Gray
+- Stat Buff(s):
+    - Perception = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #864
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Teal lipstick
+- Ability: Shop Enhancement
+    - Details: Local node shop luck +2.
+- Essence Value: 500
+- Credit Value: 50
+
+## #865
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Pink and green
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #866
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Magnet
+- Ability: Gear Select
+    - Details: Can choose what type of gear you get from a drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #867
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Teal lipstick
+- Skill Buff: Pick a Skill! = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #868
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Unique piece of clothing
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Valdan (Cyberpunk)
+
+## #869
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Stuffed animal
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #870
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Tiny shield of gold
+- Ability: Instant Reroll
+    - Details: Can reroll a piece of gear right after collapsing it once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #871
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Plant in a jar
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #872
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Eye within that opens and disappears randomly
+- Color: Green
+- Stat Buff(s):
+    - Initiative ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #873
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, round, leathery and black like bat wings
+- Color: Green
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #874
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Teal lipstick
+- Skill Buff: Jumping (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #875
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: A hurricane that turns into a tornado that turns into a hurricane...etc.
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #876
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Golden idol
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Pirate)
+
+## #877
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Skull made of gold
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Rtolkan (Steampunk)
+
+## #878
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Stuffed animal
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Pirate)
+
+## #879
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Flat, oblong stone
+- Skill Buff: Navigation (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #880
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Silver acorn
+- Skill Buff: Swimming (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #881
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Bar of soap
+- Ability: Empowered Ghost
+    - Details: Add L÷4 to all cyberghost abilities (min of 1).
+- Essence Value: 500
+- Credit Value: 50
+
+## #882
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Set of dice
+- Skill Buff: Navigation (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #883
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Jelly egg, wet on the outside with a wriggling creature on the inside
+- Color: Green
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #884
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits a warm light glow, very large
+- Color: Green
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #885
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Talking plant
+- Essence Value: 500
+- Credit Value: 50
+
+## #886
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Jade elephant
+- Skill Buff: Trickery (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #887
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Tome of lore
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Rtolkan (Steampunk)
+
+## #888
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirls of purple
+- Color: Neutral
+- Stat Buff(s):
+    - Luck = 1
+- Essence Value: 500
+- Credit Value: 50
+
+## #889
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Dragon eye amulet
+- Ability: Magnify Luck
+    - Details: Can double your luck stat for a gear drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #890
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in thick fur, sometimes squirms slightly
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #891
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Milky sky blue
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #892
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, covered in grass
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #893
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Blue
+- Stat Buff(s):
+    - Defense DC ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #894
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Compass that only points one direction
+- Essence Value: 500
+- Credit Value: 50
+
+## #895
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Color-changing flame floats within
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #896
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Passport or other id that might have been faked
+- Essence Value: 500
+- Credit Value: 50
+
+## #897
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Compass that only points one direction
+- Essence Value: 500
+- Credit Value: 50
+
+## #898
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Piercing white
+- Color: Neutral
+- Stat Buff(s):
+    - Energy Cap = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #899
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Color-changing flame floats within
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed ✦ = G
+- Essence Value: 500
+- Credit Value: 50
+
+## #900
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Egg that will hatch in a couple nodes
+- Essence Value: 500
+- Credit Value: 50
+
+## #901
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Dragon eye amulet
+- Skill Buff: Haggling (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #902
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Clear rainbow
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #903
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Large, golden key
+- Essence Value: 500
+- Credit Value: 50
+
+## #904
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Twisted paper clip
+- Skill Buff: Trap Defusion (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #905
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in brown, tough carapace
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #906
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Film on a disc
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Rtolkan (Steampunk)
+
+## #907
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Book of stamps
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Valdan (Cyberpunk)
+
+## #908
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Fancy handbag
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Ydilikian (Medieval)
+
+## #909
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Piercing white
+- Color: Blue
+- Stat Buff(s):
+    - Defense DC = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #910
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Piece of ancient technology
+- Essence Value: 500
+- Credit Value: 50
+
+## #911
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Looks just like a chicken egg
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #912
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirls of purple
+- Color: Blue
+- Stat Buff(s):
+    - Defense DC = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #913
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Music disc
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Western)
+
+## #914
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Flame in a jar that never goes out
+- Essence Value: 500
+- Credit Value: 50
+
+## #915
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Piercing white
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+
+## #916
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Dragon eye amulet
+- Ability: Hidden Essence
+    - Details: x1.25 value when reducing an item to essence
+- Essence Value: 500
+- Credit Value: 50
+
+## #917
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Mirrored
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed = L÷2
+- Essence Value: 500
+- Credit Value: 50
+
+## #918
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Glassy, smooth, black, opaque
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #919
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Small, cylindrical battery
+- Ability: Color Select
+    - Details: Can choose what color a gear drop is once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #920
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Fancy handbag
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Asticarian (Modern)
+
+## #921
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Coin
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Pirate)
+
+## #922
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Glassy, smooth, black, opaque
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #923
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in brown, tough carapace
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #924
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Green
+- Color 2: Gray
+- Stat Buff(s):
+    - Movement Speed ✦ = G
+    - Perception = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #925
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Small, cylindrical battery
+- Skill Buff: Trap Defusion (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #926
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Transparent, glassy
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #927
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Black, opaque
+- Color: Neutral
+- Stat Buff(s):
+    - Luck = 1
+- Essence Value: 500
+- Credit Value: 50
+
+## #928
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sky blue far away, can see an ocean swirling within when you get close
+- Color: Blue
+- Stat Buff(s):
+    - Armor = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #929
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Contains a tree that grows massive, dies, becomes a seed, and repeats the cycle
+- Color: Green
+- Stat Buff(s):
+    - Initiative ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #930
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Deep blue
+- Color: Blue
+- Stat Buff(s):
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+
+## #931
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Crystal green
+- Color: Gray
+- Stat Buff(s):
+    - Perception = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #932
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in brown, tough carapace
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #933
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Ancient, unusable tool
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Rtolkan (Steampunk)
+
+## #934
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Journal filled with frantic scribbles
+- Essence Value: 500
+- Credit Value: 50
+
+## #935
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Taxidermied animal
+- Essence Value: 500
+- Credit Value: 50
+
+## #936
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Blue
+- Stat Buff(s):
+    - Armor = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #937
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirling orange and green
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed ✦ = G
+- Essence Value: 500
+- Credit Value: 50
+
+## #938
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Ancient, unusable tool
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #939
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Game cartridge
+- Ability: Resurrection
+    - Details: Can revive a downed ally with one quarter HP once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #940
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Small, cylindrical battery
+- Ability: Color Select
+    - Details: Can choose what color a gear drop is once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #941
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Game cartridge
+- Skill Buff: Swimming (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #942
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Game cartridge
+- Ability: Resurrection
+    - Details: Can revive a downed ally with one quarter HP once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #943
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Blue, cold, constantly beaded with moisture
+- Color: Blue
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #944
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Tome of lore
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Asticarian (Modern)
+
+## #945
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Gray
+- Stat Buff(s):
+    - Hacking = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #946
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: As small as a marble, roll again for aesthetic
+- Color: Blue
+- Color 2: Green
+- Stat Buff(s):
+    - HP = G÷2
+    - Range = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #947
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Journal filled with frantic scribbles
+- Essence Value: 500
+- Credit Value: 50
+
+## #948
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Game cartridge
+- Ability: Magnify Luck
+    - Details: Can double your luck stat for a gear drop once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #949
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Small, cylindrical battery
+- Skill Buff: Climbing (Power/Speed) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #950
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Unique piece of clothing
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Western)
+
+## #951
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sky blue far away, can see an ocean swirling within when you get close
+- Color: Gray
+- Stat Buff(s):
+    - Hacking ✦ = G÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #952
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Looks just like a chicken egg
+- Color: Red
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #953
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Small, round, leathery and black like bat wings
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #954
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirls of purple
+- Color: Gray
+- Stat Buff(s):
+    - Perception = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #955
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Blue
+- Stat Buff(s):
+    - Armor = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #956
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Game cartridge
+- Skill Buff: Gambling (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #957
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: AI contained in an object
+- Essence Value: 500
+- Credit Value: 50
+
+## #958
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Super clear, can barely see that it's there
+- Color: Neutral
+- Stat Buff(s):
+    - Luck ✦✦ = 3
+- Essence Value: 500
+- Credit Value: 50
+
+## #959
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Contains a tree that grows massive, dies, becomes a seed, and repeats the cycle
+- Color: Neutral
+- Stat Buff(s):
+    - Energy Cap ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #960
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Small, cylindrical battery
+- Skill Buff: Push/Pull (Power) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #961
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Large, golden key
+- Essence Value: 500
+- Credit Value: 50
+
+## #962
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sky blue far away, can see an ocean swirling within when you get close
+- Color: Green
+- Stat Buff(s):
+    - Range ✦ = G÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #963
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Piece of parchment covered in runes
+- Ability: Shop Enhancement
+    - Details: Local node shop luck +2.
+- Essence Value: 500
+- Credit Value: 50
+
+## #964
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits a warm light glow, very large
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #965
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Set of dice
+- Ability: Shop Enhancement
+    - Details: Local node shop luck +2.
+- Essence Value: 500
+- Credit Value: 50
+
+## #966
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sparkles within, always moving
+- Color: Green
+- Stat Buff(s):
+    - Movement Speed ✦ = G
+- Essence Value: 500
+- Credit Value: 50
+
+## #967
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Sky blue far away, can see an ocean swirling within when you get close
+- Color: Neutral
+- Stat Buff(s):
+    - Energy Cap = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #968
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Emits extremely bright light (but not quite blinding)
+- Color: Neutral
+- Stat Buff(s):
+    - Luck ✦✦ = 3
+- Essence Value: 500
+- Credit Value: 50
+
+## #969
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Flame in a jar that never goes out
+- Essence Value: 500
+- Credit Value: 50
+
+## #970
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Golden idol
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Rtolkan (Steampunk)
+
+## #971
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Looks just like a chicken egg
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #972
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Looks like glowing hot metal, is very hot to the touch but can be held without getting hurt
+- Color: Green
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #973
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Eyeball in a tiny jar
+- Ability: Empowered Ghost
+    - Details: Add L÷4 to all cyberghost abilities (min of 1).
+- Essence Value: 500
+- Credit Value: 50
+
+## #974
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Ancient, unusable tool
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Western)
+
+## #975
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Glassy, smooth, black, opaque
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #976
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Transparent, glassy
+- Color: Gray
+- Stat Buff(s):
+    - Hacking = L÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #977
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Skull
+- Essence Value: 500
+- Credit Value: 50
+
+## #978
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Crystal green
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #979
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Looks like glowing hot metal, is very hot to the touch but can be held without getting hurt
+- Color: Random
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #980
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Fancy handbag
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #981
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Book of names and node addresses by them
+- Essence Value: 500
+- Credit Value: 50
+
+## #982
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Rat's skull
+- Ability: Instant Reroll
+    - Details: Can reroll a piece of gear right after collapsing it once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #983
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Vial of purple goo
+- Skill Buff: History (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #984
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Dragon eye amulet
+- Ability: Instant Reroll
+    - Details: Can reroll a piece of gear right after collapsing it once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #985
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Solid black
+- Color: Red
+- Stat Buff(s):
+    - Damage Plus = G÷5
+- Essence Value: 500
+- Credit Value: 50
+
+## #986
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: A talking worm
+- Essence Value: 500
+- Credit Value: 50
+
+## #987
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Film on a disc
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Cortez (Western)
+
+## #988
+
+- Gear: Trinket
+- Rarity: Common
+- Gear Type: Bauble
+- Trinket: Bar of soap
+- Skill Buff: History (Int) = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #989
+
+- Gear: Curio
+- Rarity: Common
+- Gear Type: Bauble
+- Curio: Painting
+- Essence Value: 750
+- Credit Value: 75
+- Aesthetic: Valdan (Cyberpunk)
+
+## #990
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: As small as a marble, roll again for aesthetic
+- Color: Red
+- Stat Buff(s):
+    - Attack Plus ✦ = G÷4
+- Essence Value: 500
+- Credit Value: 50
+
+## #991
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: 8-ball that answers your questions
+- Essence Value: 500
+- Credit Value: 50
+
+## #992
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirls of purple
+- Color: Gray
+- Stat Buff(s):
+    - Perception ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #993
+
+- Gear: Orb
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Super clear, can barely see that it's there
+- Color: Gray
+- Stat Buff(s):
+    - Hacking ✦ = G÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #994
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Map leading to a vault full of something valuable or dangerous
+- Essence Value: 500
+- Credit Value: 50
+
+## #995
+
+- Gear: Diamond
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Swirls of purple
+- Color: Gray
+- Stat Buff(s):
+    - Hacking ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+
+## #996
+
+- Gear: Egg
+- Rarity: Common
+- Gear Type: Bauble
+- Bauble Aesthetic: Covered in brown, tough carapace
+- Color: Gray
+- XP to Hatch: 5
+- Essence Value: 500
+- Credit Value: 50
+
+## #997
+
+- Gear: Knickknack
+- Rarity: Common
+- Gear Type: Bauble
+- Knickknack: Bar of soap
+- Ability: Color Select
+    - Details: Can choose what color a gear drop is once per run.
+- Essence Value: 500
+- Credit Value: 50
+
+## #998
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Skull
+- Essence Value: 500
+- Credit Value: 50
+
+## #999
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Compass that only points one direction
+- Essence Value: 500
+- Credit Value: 50
+
+## #1000
+
+- Gear: Key Item
+- Rarity: Common
+- Gear Type: Bauble
+- Key Item: Egg that will hatch in a couple nodes
+- Essence Value: 500
+- Credit Value: 50
+
+

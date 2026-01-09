@@ -1,0 +1,12085 @@
+# How to Roll
+
+Roll a d10 and a d100, minus 1 from the d10.
+
+The d10 is the 100s place and the d100 is the tens and ones.
+
+E.g. if you roll a 10 (-1) and a 56 that's 396.
+
+If you roll a 1 (-1) and a 04 that's 4.
+
+1 (-1) and a 00 becomes 1000.
+
+# Loot Chart
+
+## #1
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #2
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #3
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #4
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #5
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #6
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #7
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #8
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #9
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #10
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #11
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #12
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #13
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #14
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #15
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #16
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #17
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Color 2: Blue
+- Stat Buffs
+    - HP ✦ = L
+    - Defense DC = L÷5
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #18
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #19
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #20
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Color 2: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+    - Range = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #21
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #22
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #23
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #24
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #25
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #26
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #27
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #28
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #29
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #30
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #31
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #32
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #33
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #34
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #35
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #36
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #37
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #38
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #39
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #40
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #41
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #42
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #43
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #44
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #45
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #46
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #47
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #48
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #49
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #50
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #51
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #52
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #53
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #54
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #55
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #56
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #57
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #58
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #59
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #60
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #61
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #62
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #63
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #64
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #65
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #66
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #67
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #68
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #69
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #70
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #71
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #72
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #73
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #74
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #75
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #76
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #77
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #78
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #79
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #80
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #81
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #82
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #83
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #84
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #85
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #86
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #87
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #88
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #89
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #90
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #91
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #92
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #93
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #94
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #95
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #96
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #97
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #98
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #99
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #100
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #101
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #102
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #103
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #104
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #105
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #106
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #107
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #108
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #109
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #110
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #111
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #112
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #113
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #114
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #115
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #116
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #117
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #118
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #119
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #120
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #121
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #122
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #123
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #124
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #125
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #126
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Color 2: Green
+- Stat Buffs
+    - Resell Value = x1.25
+    - Range = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #127
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #128
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #129
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #130
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #131
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #132
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #133
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #134
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #135
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #136
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #137
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Color 2: Red
+- Stat Buffs
+    - HP ✦ = L
+    - Damage Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #138
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #139
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #140
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #141
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #142
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #143
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #144
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #145
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #146
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #147
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #148
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #149
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #150
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #151
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #152
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #153
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #154
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #155
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #156
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #157
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #158
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #159
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #160
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #161
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #162
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #163
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #164
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #165
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #166
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #167
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #168
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #169
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #170
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #171
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #172
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #173
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #174
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #175
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #176
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #177
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #178
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #179
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #180
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #181
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #182
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #183
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #184
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #185
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #186
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #187
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Color 2: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+    - Hacking ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #188
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #189
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #190
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #191
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #192
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #193
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #194
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #195
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #196
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #197
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #198
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #199
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #200
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #201
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #202
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #203
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #204
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #205
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #206
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #207
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #208
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #209
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #210
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #211
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #212
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #213
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #214
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #215
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #216
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #217
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #218
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #219
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #220
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #221
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #222
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #223
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #224
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #225
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #226
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #227
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #228
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Color 2: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+    - Initiative ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #229
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #230
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Color 2: Green
+- Stat Buffs
+    - Luck ✦ = 2
+    - Movement Speed ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #231
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #232
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #233
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #234
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #235
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #236
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #237
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #238
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #239
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #240
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #241
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #242
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #243
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #244
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #245
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #246
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #247
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #248
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #249
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #250
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #251
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #252
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #253
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #254
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #255
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #256
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #257
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #258
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #259
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #260
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #261
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #262
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #263
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #264
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #265
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #266
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #267
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #268
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #269
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #270
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #271
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #272
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #273
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #274
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #275
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #276
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #277
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #278
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #279
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #280
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #281
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #282
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #283
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #284
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #285
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #286
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #287
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #288
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #289
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #290
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #291
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #292
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #293
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #294
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #295
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #296
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #297
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #298
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #299
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #300
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #301
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #302
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #303
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #304
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #305
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #306
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #307
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #308
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #309
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #310
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #311
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #312
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #313
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #314
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #315
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #316
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #317
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #318
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #319
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #320
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Color 2: Green
+- Stat Buffs
+    - Group XP Gain = 1
+    - Initiative = L÷5
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #321
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #322
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #323
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #324
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #325
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #326
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #327
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #328
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #329
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #330
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #331
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #332
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #333
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #334
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #335
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #336
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #337
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #338
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #339
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #340
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #341
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #342
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #343
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #344
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Color 2: Red
+- Stat Buffs
+    - Group XP Gain = 1
+    - Damage Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #345
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #346
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #347
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #348
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #349
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #350
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #351
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #352
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #353
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #354
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #355
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #356
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #357
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #358
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #359
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #360
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #361
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #362
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #363
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #364
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #365
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #366
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #367
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #368
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #369
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #370
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #371
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #372
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #373
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #374
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #375
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #376
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #377
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #378
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #379
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #380
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #381
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #382
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #383
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #384
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #385
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #386
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #387
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #388
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #389
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #390
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #391
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #392
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #393
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #394
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Color 2: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+    - Defense DC = L÷5
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #395
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #396
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #397
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #398
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #399
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Color 2: Red
+- Stat Buffs
+    - Luck ✦ = 2
+    - Damage Plus ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #400
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #401
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #402
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #403
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #404
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #405
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #406
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #407
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #408
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #409
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #410
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #411
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #412
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #413
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #414
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #415
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #416
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #417
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #418
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #419
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #420
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #421
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #422
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #423
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #424
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #425
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #426
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #427
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #428
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #429
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #430
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Color 2: Red
+- Stat Buffs
+    - Luck ✦ = 2
+    - Attack Plus ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #431
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #432
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #433
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #434
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #435
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #436
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #437
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #438
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #439
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #440
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #441
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #442
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #443
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #444
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #445
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #446
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #447
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #448
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #449
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #450
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #451
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #452
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #453
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #454
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #455
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #456
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #457
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #458
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #459
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #460
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Color 2: Red
+- Stat Buffs
+    - Group XP Gain = 1
+    - Damage Plus ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #461
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #462
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #463
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #464
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #465
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #466
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #467
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #468
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #469
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #470
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #471
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #472
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #473
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #474
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #475
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #476
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #477
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #478
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #479
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #480
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #481
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #482
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Color 2: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+    - Hacking ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #483
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #484
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #485
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #486
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #487
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #488
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #489
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #490
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #491
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #492
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #493
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #494
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #495
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #496
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #497
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #498
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #499
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #500
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #501
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #502
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #503
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #504
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #505
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #506
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #507
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #508
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #509
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #510
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #511
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #512
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #513
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #514
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #515
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #516
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #517
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #518
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #519
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #520
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #521
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #522
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #523
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #524
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #525
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #526
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #527
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #528
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #529
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #530
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #531
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #532
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #533
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #534
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #535
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #536
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #537
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #538
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #539
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #540
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #541
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #542
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #543
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #544
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #545
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #546
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #547
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #548
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #549
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #550
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #551
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #552
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #553
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #554
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #555
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #556
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #557
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #558
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #559
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #560
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #561
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Color 2: Green
+- Stat Buffs
+    - HP ✦ = L
+    - Range ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #562
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #563
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #564
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #565
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #566
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #567
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #568
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #569
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #570
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #571
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #572
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #573
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #574
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #575
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #576
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #577
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #578
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #579
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #580
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #581
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #582
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #583
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #584
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #585
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #586
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #587
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #588
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #589
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #590
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #591
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #592
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #593
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #594
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #595
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Color 2: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+    - Initiative ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #596
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #597
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #598
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Color 2: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+    - Initiative = L÷5
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #599
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #600
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #601
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #602
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #603
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #604
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #605
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #606
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #607
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #608
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #609
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #610
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #611
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Color 2: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+    - Armor = L÷5
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #612
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #613
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Color 2: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+    - Defense DC = L÷5
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #614
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #615
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #616
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #617
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #618
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #619
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #620
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #621
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #622
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #623
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #624
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #625
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #626
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #627
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #628
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #629
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #630
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #631
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #632
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #633
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #634
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #635
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #636
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #637
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #638
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #639
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #640
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #641
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #642
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #643
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #644
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #645
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #646
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #647
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Color 2: Red
+- Stat Buffs
+    - Group XP Gain = 1
+    - Attack Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #648
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #649
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #650
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #651
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #652
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #653
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #654
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Color 2: Red
+- Stat Buffs
+    - Resell Value = x1.25
+    - Attack Plus = L÷5
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #655
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Color 2: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+    - Attack Plus ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #656
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Color 2: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+    - Movement Speed ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #657
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #658
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #659
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #660
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #661
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #662
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #663
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #664
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #665
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #666
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #667
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #668
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #669
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #670
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #671
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #672
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #673
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #674
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #675
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #676
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #677
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #678
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #679
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #680
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #681
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #682
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #683
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #684
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #685
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #686
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #687
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #688
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #689
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Color 2: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+    - Perception = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #690
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #691
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #692
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #693
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #694
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #695
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #696
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #697
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #698
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #699
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #700
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #701
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #702
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #703
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #704
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #705
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #706
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #707
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #708
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #709
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #710
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #711
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #712
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #713
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #714
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #715
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #716
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #717
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #718
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #719
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #720
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #721
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #722
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #723
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #724
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #725
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #726
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #727
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Color 2: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+    - Hacking ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #728
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #729
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #730
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #731
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #732
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #733
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #734
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #735
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #736
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #737
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #738
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #739
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #740
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #741
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #742
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #743
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #744
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #745
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #746
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #747
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #748
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #749
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #750
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #751
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #752
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #753
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #754
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #755
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #756
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #757
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #758
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #759
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #760
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #761
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #762
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #763
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #764
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #765
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #766
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #767
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #768
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #769
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #770
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #771
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #772
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #773
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #774
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #775
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #776
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #777
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #778
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #779
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Color 2: Gray
+- Stat Buffs
+    - HP ✦ = L
+    - Perception = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #780
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #781
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #782
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #783
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #784
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #785
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #786
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #787
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #788
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #789
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #790
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #791
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #792
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #793
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #794
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #795
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #796
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Color 2: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+    - Hacking ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #797
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #798
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #799
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #800
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #801
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #802
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #803
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #804
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #805
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #806
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #807
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #808
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #809
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #810
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #811
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #812
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #813
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #814
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #815
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #816
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #817
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #818
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #819
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #820
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #821
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #822
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #823
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #824
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #825
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #826
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #827
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #828
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #829
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #830
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #831
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #832
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #833
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #834
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #835
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #836
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #837
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #838
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Color 2: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+    - Range ✦ = L÷3
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #839
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #840
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #841
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #842
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #843
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #844
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #845
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #846
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #847
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #848
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #849
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #850
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #851
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #852
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #853
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #854
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #855
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #856
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #857
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #858
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #859
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #860
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #861
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #862
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #863
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #864
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #865
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #866
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #867
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #868
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #869
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #870
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #871
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #872
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #873
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #874
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #875
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #876
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #877
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #878
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #879
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #880
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #881
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #882
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #883
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #884
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #885
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #886
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #887
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #888
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #889
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #890
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #891
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #892
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #893
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #894
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #895
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #896
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #897
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #898
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #899
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #900
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #901
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #902
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #903
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #904
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #905
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #906
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #907
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #908
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #909
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Color 2: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+    - Armor ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #910
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #911
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #912
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #913
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #914
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #915
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #916
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #917
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #918
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #919
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #920
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #921
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #922
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #923
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #924
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #925
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #926
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #927
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #928
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #929
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #930
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #931
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #932
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #933
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #934
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #935
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #936
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #937
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #938
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #939
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #940
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #941
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #942
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Color 2: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+    - Defense DC = L÷5
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #943
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Color 2: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+    - Movement Speed = L÷2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #944
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #945
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #946
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Color 2: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+    - Armor = L÷5
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #947
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #948
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #949
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #950
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #951
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #952
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #953
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #954
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #955
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #956
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #957
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #958
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #959
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #960
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #961
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #962
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #963
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #964
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #965
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #966
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #967
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #968
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #969
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #970
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #971
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #972
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #973
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #974
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #975
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Asticarian (Modern)
+
+## #976
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #977
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #978
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #979
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #980
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #981
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #982
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #983
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #984
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #985
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #986
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Resell Value = x1.25
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #987
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #988
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #989
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #990
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Color 2: Green
+- Stat Buffs
+    - Resell Value = x1.25
+    - Movement Speed = L÷2
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #991
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Neutral
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Rtolkan (Steampunk)
+
+## #992
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #993
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Western)
+
+## #994
+
+- Gear: Chain
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - HP ✦ = L
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Valdan (Cyberpunk)
+
+## #995
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Ydilikian (Medieval)
+
+## #996
+
+- Gear: Collar
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Color 2: Blue
+- Stat Buffs
+    - Luck ✦ = 2
+    - Armor = L÷5
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #997
+
+- Gear: Choker
+- Rarity: Common
+- Gear Type: Neck
+- Color: Green
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+## #998
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Blue
+- Stat Buffs
+    - Energy Cap ✦ = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Cortez (Pirate)
+
+## #999
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Stat Buffs
+    - Group XP Gain = 1
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
+
+## #1000
+
+- Gear: Necklace
+- Rarity: Common
+- Gear Type: Neck
+- Color: Red
+- Color 2: Gray
+- Stat Buffs
+    - Luck ✦ = 2
+    - Perception = L÷4
+- Essence Value: 500
+- Credit Value: 50
+- Aesthetic: Jiyyagan (Survivor/Jungle)
+
+
