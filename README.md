@@ -1,7 +1,9 @@
-# Webrunning-2.0-Loot-Charts
+# How to Use
 A dump of pre-generated Webrunning 2.0 Gear sorted by Rarity, Rarity + Color, and Rarity + Gear Type.
 
 Each document has 1000 pieces of gear in it and instructions for rolling a random one using a d10 and a d100.
+
+# About
 
 This is part of Webrunning 2.0, a loot-focused and video game-inspired TTRPG system based on traversing the internet through interconnected nodes of diverse genres.
 
@@ -12,4 +14,5 @@ This system is a sub-system of the [XRRPG](https://publish.obsidian.md/xeonraptu
 All this is part of the [Xeon Rapture](https://publish.obsidian.md/xeonrapture/xr/Xeon+Rapture) project, a work of sci-fantasy collaborative storytelling.
 
 Click [here](https://forms.gle/Ptyf1a82r9AZLhgR7) to give feedback. 
+
 
