@@ -312,7 +312,39 @@
         const tree = buildTree(paths);
 
         treeEl.innerHTML = "";
-        treeEl.appendChild(renderTree(tree, ONLY_UNDER ? ONLY_UNDER.replace(/\/$/, "") : "(root)"));
+        treeEl.innerHTML = "";
+
+      // Render top-level folders directly (no "(root)")
+      const folderNames = [...tree.folders.keys()].sort((a, b) => a.localeCompare(b));
+      for (const name of folderNames) {
+        treeEl.appendChild(renderTree(tree.folders.get(name), name));
+      }
+      
+      // If there are files directly in root, show them too
+      if (tree.files.length) {
+        const rootDetails = document.createElement("details");
+        rootDetails.open = true;
+      
+        const summary = document.createElement("summary");
+        summary.textContent = "Files";
+        rootDetails.appendChild(summary);
+      
+        const filesWrap = document.createElement("div");
+        filesWrap.className = "files";
+      
+        for (const path of tree.files.sort((a,b)=>a.localeCompare(b))) {
+          const btn = document.createElement("button");
+          btn.className = "file";
+          btn.textContent = path.split("/").pop();
+          btn.title = path;
+          btn.onclick = () => loadFile(path, btn);
+          filesWrap.appendChild(btn);
+        }
+      
+        rootDetails.appendChild(filesWrap);
+        treeEl.appendChild(rootDetails);
+      }
+
       } catch (e) {
         treeEl.textContent = `Error loading file tree.\n${String(e)}`;
         console.error(e);
