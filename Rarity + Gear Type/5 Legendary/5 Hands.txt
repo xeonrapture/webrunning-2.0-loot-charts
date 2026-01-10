@@ -12,7 +12,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 
 # Loot Chart
 
-## #1
+#1
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -32,7 +32,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #2
+#2
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -52,7 +52,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #3
+#3
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -72,7 +72,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #4
+#4
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -92,7 +92,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #5
+#5
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -112,7 +112,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #6
+#6
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -132,7 +132,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #7
+#7
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -152,7 +152,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #8
+#8
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -172,7 +172,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #9
+#9
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -194,7 +194,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #10
+#10
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -214,7 +214,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #11
+#11
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -234,7 +234,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #12
+#12
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -254,7 +254,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #13
+#13
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -274,7 +274,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #14
+#14
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -294,7 +294,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #15
+#15
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -314,7 +314,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #16
+#16
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -334,7 +334,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #17
+#17
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -354,7 +354,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #18
+#18
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -374,7 +374,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #19
+#19
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -394,7 +394,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #20
+#20
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -414,7 +414,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #21
+#21
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -434,7 +434,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #22
+#22
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -454,7 +454,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #23
+#23
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -474,7 +474,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #24
+#24
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -494,7 +494,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #25
+#25
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -514,7 +514,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #26
+#26
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -534,7 +534,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #27
+#27
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -554,7 +554,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #28
+#28
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -574,7 +574,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #29
+#29
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -594,7 +594,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #30
+#30
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -614,7 +614,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #31
+#31
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -634,7 +634,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #32
+#32
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -656,7 +656,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #33
+#33
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -676,7 +676,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #34
+#34
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -696,7 +696,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #35
+#35
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -716,7 +716,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #36
+#36
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -736,7 +736,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #37
+#37
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -756,7 +756,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #38
+#38
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -776,7 +776,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #39
+#39
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -798,7 +798,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #40
+#40
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -818,7 +818,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #41
+#41
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -838,7 +838,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #42
+#42
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -858,7 +858,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #43
+#43
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -878,7 +878,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #44
+#44
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -898,7 +898,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #45
+#45
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -918,7 +918,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #46
+#46
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -938,7 +938,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #47
+#47
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -958,7 +958,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #48
+#48
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -978,7 +978,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #49
+#49
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -998,7 +998,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #50
+#50
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -1018,7 +1018,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #51
+#51
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -1038,7 +1038,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #52
+#52
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -1058,7 +1058,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #53
+#53
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -1078,7 +1078,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #54
+#54
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -1098,7 +1098,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #55
+#55
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -1118,7 +1118,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #56
+#56
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -1138,7 +1138,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #57
+#57
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -1158,7 +1158,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #58
+#58
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -1178,7 +1178,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #59
+#59
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -1198,7 +1198,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #60
+#60
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -1218,7 +1218,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #61
+#61
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -1238,7 +1238,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #62
+#62
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -1258,7 +1258,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #63
+#63
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -1278,7 +1278,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #64
+#64
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -1298,7 +1298,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #65
+#65
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -1320,7 +1320,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #66
+#66
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -1340,7 +1340,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #67
+#67
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -1360,7 +1360,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #68
+#68
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -1380,7 +1380,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #69
+#69
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -1402,7 +1402,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #70
+#70
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -1422,7 +1422,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #71
+#71
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -1442,7 +1442,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #72
+#72
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -1462,7 +1462,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #73
+#73
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -1482,7 +1482,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #74
+#74
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -1502,7 +1502,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #75
+#75
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -1524,7 +1524,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #76
+#76
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -1544,7 +1544,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #77
+#77
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -1564,7 +1564,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #78
+#78
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -1584,7 +1584,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #79
+#79
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -1604,7 +1604,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #80
+#80
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -1624,7 +1624,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #81
+#81
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -1644,7 +1644,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #82
+#82
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -1664,7 +1664,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #83
+#83
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -1684,7 +1684,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #84
+#84
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -1704,7 +1704,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #85
+#85
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -1724,7 +1724,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #86
+#86
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -1744,7 +1744,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #87
+#87
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -1764,7 +1764,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #88
+#88
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -1784,7 +1784,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #89
+#89
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -1804,7 +1804,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #90
+#90
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -1824,7 +1824,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #91
+#91
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -1844,7 +1844,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #92
+#92
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -1864,7 +1864,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #93
+#93
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -1884,7 +1884,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #94
+#94
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -1904,7 +1904,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #95
+#95
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -1924,7 +1924,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #96
+#96
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -1944,7 +1944,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #97
+#97
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -1964,7 +1964,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #98
+#98
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -1984,7 +1984,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #99
+#99
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -2004,7 +2004,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #100
+#100
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -2024,7 +2024,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #101
+#101
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -2046,7 +2046,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #102
+#102
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -2066,7 +2066,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #103
+#103
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -2086,7 +2086,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #104
+#104
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -2106,7 +2106,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #105
+#105
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -2126,7 +2126,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #106
+#106
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -2146,7 +2146,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #107
+#107
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -2168,7 +2168,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #108
+#108
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -2188,7 +2188,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #109
+#109
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -2208,7 +2208,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #110
+#110
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -2228,7 +2228,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #111
+#111
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -2248,7 +2248,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #112
+#112
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -2268,7 +2268,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #113
+#113
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -2288,7 +2288,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #114
+#114
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -2308,7 +2308,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #115
+#115
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -2328,7 +2328,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #116
+#116
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -2348,7 +2348,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #117
+#117
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -2368,7 +2368,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #118
+#118
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -2388,7 +2388,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #119
+#119
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -2408,7 +2408,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #120
+#120
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -2428,7 +2428,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #121
+#121
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -2448,7 +2448,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #122
+#122
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -2468,7 +2468,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #123
+#123
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -2490,7 +2490,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #124
+#124
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -2510,7 +2510,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #125
+#125
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -2530,7 +2530,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #126
+#126
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -2550,7 +2550,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #127
+#127
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -2570,7 +2570,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #128
+#128
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -2590,7 +2590,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #129
+#129
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -2610,7 +2610,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #130
+#130
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -2630,7 +2630,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #131
+#131
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -2650,7 +2650,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #132
+#132
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -2670,7 +2670,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #133
+#133
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -2690,7 +2690,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #134
+#134
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -2710,7 +2710,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #135
+#135
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -2730,7 +2730,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #136
+#136
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -2750,7 +2750,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #137
+#137
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -2770,7 +2770,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #138
+#138
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -2790,7 +2790,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #139
+#139
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -2810,7 +2810,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #140
+#140
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -2830,7 +2830,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #141
+#141
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -2850,7 +2850,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #142
+#142
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -2870,7 +2870,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #143
+#143
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -2890,7 +2890,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #144
+#144
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -2910,7 +2910,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #145
+#145
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -2930,7 +2930,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #146
+#146
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -2950,7 +2950,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #147
+#147
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -2970,7 +2970,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #148
+#148
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -2990,7 +2990,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #149
+#149
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -3010,7 +3010,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #150
+#150
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -3030,7 +3030,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #151
+#151
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -3052,7 +3052,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #152
+#152
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -3072,7 +3072,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #153
+#153
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -3092,7 +3092,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #154
+#154
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -3112,7 +3112,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #155
+#155
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -3132,7 +3132,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #156
+#156
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -3152,7 +3152,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #157
+#157
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -3172,7 +3172,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #158
+#158
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -3192,7 +3192,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #159
+#159
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -3212,7 +3212,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #160
+#160
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -3232,7 +3232,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #161
+#161
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -3252,7 +3252,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #162
+#162
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -3272,7 +3272,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #163
+#163
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -3292,7 +3292,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #164
+#164
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -3312,7 +3312,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #165
+#165
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -3332,7 +3332,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #166
+#166
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -3352,7 +3352,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #167
+#167
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -3372,7 +3372,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #168
+#168
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -3392,7 +3392,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #169
+#169
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -3412,7 +3412,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #170
+#170
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -3432,7 +3432,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #171
+#171
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -3452,7 +3452,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #172
+#172
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -3472,7 +3472,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #173
+#173
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -3492,7 +3492,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #174
+#174
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -3512,7 +3512,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #175
+#175
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -3532,7 +3532,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #176
+#176
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -3552,7 +3552,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #177
+#177
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -3572,7 +3572,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #178
+#178
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -3592,7 +3592,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #179
+#179
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -3612,7 +3612,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #180
+#180
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -3632,7 +3632,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #181
+#181
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -3652,7 +3652,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #182
+#182
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -3672,7 +3672,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #183
+#183
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -3692,7 +3692,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #184
+#184
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -3712,7 +3712,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #185
+#185
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -3734,7 +3734,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #186
+#186
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -3754,7 +3754,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #187
+#187
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -3774,7 +3774,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #188
+#188
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -3794,7 +3794,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #189
+#189
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -3814,7 +3814,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #190
+#190
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -3834,7 +3834,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #191
+#191
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -3854,7 +3854,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #192
+#192
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -3874,7 +3874,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #193
+#193
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -3894,7 +3894,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #194
+#194
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -3914,7 +3914,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #195
+#195
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -3934,7 +3934,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #196
+#196
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -3954,7 +3954,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #197
+#197
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -3974,7 +3974,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #198
+#198
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -3994,7 +3994,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #199
+#199
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -4014,7 +4014,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #200
+#200
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -4034,7 +4034,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #201
+#201
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -4054,7 +4054,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #202
+#202
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -4074,7 +4074,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #203
+#203
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -4094,7 +4094,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #204
+#204
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -4114,7 +4114,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #205
+#205
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -4134,7 +4134,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #206
+#206
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -4154,7 +4154,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #207
+#207
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -4174,7 +4174,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #208
+#208
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -4194,7 +4194,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #209
+#209
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -4214,7 +4214,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #210
+#210
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -4234,7 +4234,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #211
+#211
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -4254,7 +4254,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #212
+#212
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -4274,7 +4274,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #213
+#213
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -4294,7 +4294,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #214
+#214
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -4314,7 +4314,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #215
+#215
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -4334,7 +4334,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #216
+#216
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -4354,7 +4354,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #217
+#217
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -4374,7 +4374,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #218
+#218
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -4394,7 +4394,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #219
+#219
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -4414,7 +4414,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #220
+#220
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -4434,7 +4434,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #221
+#221
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -4454,7 +4454,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #222
+#222
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -4474,7 +4474,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #223
+#223
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -4494,7 +4494,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #224
+#224
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -4516,7 +4516,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #225
+#225
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -4536,7 +4536,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #226
+#226
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -4556,7 +4556,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #227
+#227
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -4576,7 +4576,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #228
+#228
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -4596,7 +4596,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #229
+#229
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -4616,7 +4616,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #230
+#230
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -4636,7 +4636,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #231
+#231
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -4656,7 +4656,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #232
+#232
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -4676,7 +4676,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #233
+#233
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -4696,7 +4696,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #234
+#234
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -4716,7 +4716,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #235
+#235
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -4736,7 +4736,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #236
+#236
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -4756,7 +4756,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #237
+#237
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -4776,7 +4776,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #238
+#238
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -4796,7 +4796,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #239
+#239
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -4816,7 +4816,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #240
+#240
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -4836,7 +4836,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #241
+#241
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -4856,7 +4856,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #242
+#242
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -4876,7 +4876,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #243
+#243
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -4896,7 +4896,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #244
+#244
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -4916,7 +4916,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #245
+#245
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -4936,7 +4936,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #246
+#246
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -4956,7 +4956,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #247
+#247
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -4976,7 +4976,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #248
+#248
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -4996,7 +4996,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #249
+#249
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -5016,7 +5016,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #250
+#250
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -5036,7 +5036,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #251
+#251
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -5056,7 +5056,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #252
+#252
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -5076,7 +5076,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #253
+#253
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -5096,7 +5096,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #254
+#254
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -5116,7 +5116,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #255
+#255
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -5136,7 +5136,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #256
+#256
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -5156,7 +5156,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #257
+#257
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -5176,7 +5176,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #258
+#258
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -5196,7 +5196,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #259
+#259
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -5216,7 +5216,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #260
+#260
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -5236,7 +5236,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #261
+#261
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -5256,7 +5256,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #262
+#262
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -5276,7 +5276,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #263
+#263
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -5296,7 +5296,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #264
+#264
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -5316,7 +5316,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #265
+#265
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -5336,7 +5336,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #266
+#266
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -5356,7 +5356,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #267
+#267
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -5376,7 +5376,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #268
+#268
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -5396,7 +5396,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #269
+#269
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -5416,7 +5416,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #270
+#270
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -5436,7 +5436,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #271
+#271
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -5456,7 +5456,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #272
+#272
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -5476,7 +5476,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #273
+#273
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -5496,7 +5496,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #274
+#274
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -5516,7 +5516,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #275
+#275
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -5538,7 +5538,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #276
+#276
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -5558,7 +5558,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #277
+#277
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -5578,7 +5578,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #278
+#278
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -5598,7 +5598,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #279
+#279
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -5618,7 +5618,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #280
+#280
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -5638,7 +5638,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #281
+#281
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -5658,7 +5658,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #282
+#282
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -5678,7 +5678,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #283
+#283
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -5698,7 +5698,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #284
+#284
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -5718,7 +5718,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #285
+#285
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -5738,7 +5738,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #286
+#286
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -5758,7 +5758,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #287
+#287
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -5778,7 +5778,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #288
+#288
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -5798,7 +5798,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #289
+#289
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -5818,7 +5818,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #290
+#290
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -5838,7 +5838,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #291
+#291
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -5858,7 +5858,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #292
+#292
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -5878,7 +5878,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #293
+#293
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -5898,7 +5898,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #294
+#294
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -5918,7 +5918,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #295
+#295
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -5938,7 +5938,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #296
+#296
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -5960,7 +5960,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #297
+#297
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -5980,7 +5980,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #298
+#298
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -6000,7 +6000,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #299
+#299
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -6020,7 +6020,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #300
+#300
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -6040,7 +6040,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #301
+#301
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -6060,7 +6060,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #302
+#302
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -6080,7 +6080,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #303
+#303
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -6100,7 +6100,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #304
+#304
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -6120,7 +6120,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #305
+#305
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -6140,7 +6140,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #306
+#306
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -6160,7 +6160,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #307
+#307
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -6180,7 +6180,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #308
+#308
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -6200,7 +6200,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #309
+#309
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -6220,7 +6220,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #310
+#310
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -6240,7 +6240,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #311
+#311
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -6260,7 +6260,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #312
+#312
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -6280,7 +6280,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #313
+#313
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -6300,7 +6300,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #314
+#314
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -6320,7 +6320,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #315
+#315
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -6340,7 +6340,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #316
+#316
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -6360,7 +6360,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #317
+#317
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -6380,7 +6380,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #318
+#318
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -6400,7 +6400,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #319
+#319
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -6420,7 +6420,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #320
+#320
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -6440,7 +6440,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #321
+#321
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -6460,7 +6460,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #322
+#322
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -6480,7 +6480,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #323
+#323
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -6500,7 +6500,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #324
+#324
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -6520,7 +6520,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #325
+#325
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -6540,7 +6540,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #326
+#326
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -6560,7 +6560,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #327
+#327
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -6580,7 +6580,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #328
+#328
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -6600,7 +6600,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #329
+#329
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -6620,7 +6620,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #330
+#330
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -6640,7 +6640,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #331
+#331
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -6660,7 +6660,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #332
+#332
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -6680,7 +6680,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #333
+#333
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -6700,7 +6700,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #334
+#334
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -6720,7 +6720,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #335
+#335
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -6740,7 +6740,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #336
+#336
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -6760,7 +6760,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #337
+#337
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -6780,7 +6780,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #338
+#338
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -6800,7 +6800,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #339
+#339
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -6820,7 +6820,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #340
+#340
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -6840,7 +6840,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #341
+#341
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -6860,7 +6860,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #342
+#342
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -6880,7 +6880,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #343
+#343
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -6900,7 +6900,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #344
+#344
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -6920,7 +6920,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #345
+#345
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -6940,7 +6940,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #346
+#346
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -6960,7 +6960,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #347
+#347
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -6980,7 +6980,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #348
+#348
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -7000,7 +7000,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #349
+#349
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -7020,7 +7020,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #350
+#350
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -7042,7 +7042,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #351
+#351
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -7062,7 +7062,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #352
+#352
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -7082,7 +7082,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #353
+#353
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -7102,7 +7102,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #354
+#354
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -7122,7 +7122,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #355
+#355
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -7142,7 +7142,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #356
+#356
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -7164,7 +7164,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #357
+#357
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -7184,7 +7184,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #358
+#358
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -7204,7 +7204,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #359
+#359
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -7224,7 +7224,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #360
+#360
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -7244,7 +7244,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #361
+#361
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -7264,7 +7264,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #362
+#362
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -7284,7 +7284,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #363
+#363
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -7304,7 +7304,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #364
+#364
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -7324,7 +7324,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #365
+#365
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -7344,7 +7344,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #366
+#366
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -7364,7 +7364,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #367
+#367
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -7384,7 +7384,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #368
+#368
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -7404,7 +7404,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #369
+#369
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -7424,7 +7424,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #370
+#370
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -7444,7 +7444,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #371
+#371
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -7464,7 +7464,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #372
+#372
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -7484,7 +7484,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #373
+#373
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -7504,7 +7504,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #374
+#374
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -7524,7 +7524,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #375
+#375
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -7544,7 +7544,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #376
+#376
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -7564,7 +7564,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #377
+#377
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -7584,7 +7584,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #378
+#378
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -7604,7 +7604,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #379
+#379
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -7624,7 +7624,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #380
+#380
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -7644,7 +7644,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #381
+#381
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -7664,7 +7664,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #382
+#382
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -7684,7 +7684,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #383
+#383
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -7704,7 +7704,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #384
+#384
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -7724,7 +7724,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #385
+#385
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -7744,7 +7744,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #386
+#386
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -7764,7 +7764,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #387
+#387
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -7784,7 +7784,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #388
+#388
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -7804,7 +7804,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #389
+#389
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -7824,7 +7824,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #390
+#390
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -7844,7 +7844,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #391
+#391
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -7864,7 +7864,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #392
+#392
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -7884,7 +7884,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #393
+#393
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -7904,7 +7904,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #394
+#394
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -7924,7 +7924,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #395
+#395
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -7944,7 +7944,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #396
+#396
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -7964,7 +7964,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #397
+#397
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -7984,7 +7984,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #398
+#398
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -8004,7 +8004,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #399
+#399
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -8024,7 +8024,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #400
+#400
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -8044,7 +8044,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #401
+#401
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -8064,7 +8064,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #402
+#402
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -8084,7 +8084,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #403
+#403
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -8104,7 +8104,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #404
+#404
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -8124,7 +8124,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #405
+#405
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -8144,7 +8144,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #406
+#406
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -8164,7 +8164,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #407
+#407
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -8184,7 +8184,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #408
+#408
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -8204,7 +8204,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #409
+#409
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -8224,7 +8224,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #410
+#410
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -8244,7 +8244,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #411
+#411
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -8264,7 +8264,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #412
+#412
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -8284,7 +8284,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #413
+#413
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -8304,7 +8304,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #414
+#414
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -8324,7 +8324,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #415
+#415
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -8344,7 +8344,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #416
+#416
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -8364,7 +8364,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #417
+#417
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -8384,7 +8384,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #418
+#418
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -8404,7 +8404,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #419
+#419
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -8424,7 +8424,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #420
+#420
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -8444,7 +8444,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #421
+#421
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -8464,7 +8464,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #422
+#422
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -8484,7 +8484,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #423
+#423
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -8504,7 +8504,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #424
+#424
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -8524,7 +8524,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #425
+#425
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -8544,7 +8544,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #426
+#426
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -8564,7 +8564,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #427
+#427
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -8584,7 +8584,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #428
+#428
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -8604,7 +8604,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #429
+#429
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -8624,7 +8624,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #430
+#430
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -8646,7 +8646,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #431
+#431
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -8666,7 +8666,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #432
+#432
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -8686,7 +8686,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #433
+#433
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -8706,7 +8706,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #434
+#434
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -8726,7 +8726,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #435
+#435
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -8746,7 +8746,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #436
+#436
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -8766,7 +8766,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #437
+#437
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -8786,7 +8786,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #438
+#438
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -8806,7 +8806,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #439
+#439
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -8826,7 +8826,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #440
+#440
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -8846,7 +8846,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #441
+#441
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -8866,7 +8866,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #442
+#442
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -8886,7 +8886,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #443
+#443
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -8906,7 +8906,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #444
+#444
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -8926,7 +8926,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #445
+#445
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -8946,7 +8946,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #446
+#446
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -8966,7 +8966,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #447
+#447
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -8986,7 +8986,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #448
+#448
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -9006,7 +9006,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #449
+#449
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -9026,7 +9026,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #450
+#450
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -9046,7 +9046,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #451
+#451
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -9066,7 +9066,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #452
+#452
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -9086,7 +9086,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #453
+#453
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -9106,7 +9106,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #454
+#454
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -9126,7 +9126,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #455
+#455
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -9146,7 +9146,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #456
+#456
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -9166,7 +9166,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #457
+#457
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -9186,7 +9186,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #458
+#458
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -9206,7 +9206,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #459
+#459
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -9226,7 +9226,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #460
+#460
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -9246,7 +9246,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #461
+#461
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -9266,7 +9266,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #462
+#462
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -9286,7 +9286,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #463
+#463
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -9306,7 +9306,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #464
+#464
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -9326,7 +9326,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #465
+#465
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -9346,7 +9346,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #466
+#466
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -9366,7 +9366,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #467
+#467
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -9386,7 +9386,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #468
+#468
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -9406,7 +9406,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #469
+#469
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -9426,7 +9426,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #470
+#470
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -9446,7 +9446,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #471
+#471
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -9466,7 +9466,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #472
+#472
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -9486,7 +9486,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #473
+#473
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -9506,7 +9506,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #474
+#474
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -9526,7 +9526,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #475
+#475
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -9546,7 +9546,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #476
+#476
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -9566,7 +9566,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #477
+#477
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -9586,7 +9586,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #478
+#478
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -9606,7 +9606,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #479
+#479
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -9628,7 +9628,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #480
+#480
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -9648,7 +9648,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #481
+#481
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -9668,7 +9668,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #482
+#482
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -9690,7 +9690,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #483
+#483
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -9710,7 +9710,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #484
+#484
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -9730,7 +9730,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #485
+#485
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -9750,7 +9750,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #486
+#486
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -9770,7 +9770,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #487
+#487
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -9790,7 +9790,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #488
+#488
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -9810,7 +9810,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #489
+#489
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -9830,7 +9830,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #490
+#490
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -9850,7 +9850,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #491
+#491
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -9870,7 +9870,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #492
+#492
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -9890,7 +9890,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #493
+#493
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -9910,7 +9910,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #494
+#494
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -9930,7 +9930,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #495
+#495
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -9950,7 +9950,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #496
+#496
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -9970,7 +9970,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #497
+#497
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -9990,7 +9990,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #498
+#498
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -10010,7 +10010,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #499
+#499
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -10030,7 +10030,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #500
+#500
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -10050,7 +10050,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #501
+#501
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -10070,7 +10070,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #502
+#502
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -10090,7 +10090,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #503
+#503
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -10110,7 +10110,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #504
+#504
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -10132,7 +10132,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #505
+#505
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -10152,7 +10152,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #506
+#506
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -10172,7 +10172,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #507
+#507
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -10192,7 +10192,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #508
+#508
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -10212,7 +10212,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #509
+#509
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -10232,7 +10232,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #510
+#510
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -10252,7 +10252,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #511
+#511
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -10272,7 +10272,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #512
+#512
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -10292,7 +10292,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #513
+#513
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -10312,7 +10312,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #514
+#514
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -10332,7 +10332,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #515
+#515
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -10352,7 +10352,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #516
+#516
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -10372,7 +10372,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #517
+#517
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -10392,7 +10392,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #518
+#518
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -10412,7 +10412,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #519
+#519
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -10432,7 +10432,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #520
+#520
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -10452,7 +10452,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #521
+#521
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -10472,7 +10472,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #522
+#522
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -10492,7 +10492,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #523
+#523
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -10512,7 +10512,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #524
+#524
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -10532,7 +10532,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #525
+#525
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -10552,7 +10552,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #526
+#526
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -10572,7 +10572,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #527
+#527
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -10592,7 +10592,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #528
+#528
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -10612,7 +10612,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #529
+#529
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -10632,7 +10632,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #530
+#530
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -10652,7 +10652,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #531
+#531
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -10672,7 +10672,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #532
+#532
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -10692,7 +10692,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #533
+#533
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -10712,7 +10712,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #534
+#534
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -10732,7 +10732,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #535
+#535
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -10752,7 +10752,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #536
+#536
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -10772,7 +10772,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #537
+#537
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -10792,7 +10792,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #538
+#538
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -10812,7 +10812,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #539
+#539
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -10832,7 +10832,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #540
+#540
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -10852,7 +10852,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #541
+#541
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -10872,7 +10872,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #542
+#542
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -10892,7 +10892,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #543
+#543
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -10912,7 +10912,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #544
+#544
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -10932,7 +10932,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #545
+#545
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -10952,7 +10952,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #546
+#546
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -10972,7 +10972,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #547
+#547
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -10992,7 +10992,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #548
+#548
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -11012,7 +11012,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #549
+#549
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -11032,7 +11032,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #550
+#550
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -11052,7 +11052,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #551
+#551
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -11072,7 +11072,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #552
+#552
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -11092,7 +11092,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #553
+#553
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -11114,7 +11114,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #554
+#554
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -11134,7 +11134,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #555
+#555
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -11154,7 +11154,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #556
+#556
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -11174,7 +11174,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #557
+#557
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -11194,7 +11194,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #558
+#558
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -11214,7 +11214,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #559
+#559
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -11234,7 +11234,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #560
+#560
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -11254,7 +11254,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #561
+#561
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -11274,7 +11274,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #562
+#562
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -11294,7 +11294,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #563
+#563
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -11314,7 +11314,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #564
+#564
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -11334,7 +11334,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #565
+#565
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -11354,7 +11354,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #566
+#566
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -11374,7 +11374,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #567
+#567
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -11394,7 +11394,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #568
+#568
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -11414,7 +11414,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #569
+#569
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -11434,7 +11434,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #570
+#570
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -11454,7 +11454,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #571
+#571
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -11474,7 +11474,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #572
+#572
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -11494,7 +11494,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #573
+#573
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -11514,7 +11514,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #574
+#574
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -11534,7 +11534,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #575
+#575
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -11554,7 +11554,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #576
+#576
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -11574,7 +11574,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #577
+#577
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -11594,7 +11594,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #578
+#578
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -11614,7 +11614,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #579
+#579
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -11634,7 +11634,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #580
+#580
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -11654,7 +11654,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #581
+#581
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -11674,7 +11674,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #582
+#582
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -11694,7 +11694,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #583
+#583
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -11714,7 +11714,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #584
+#584
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -11734,7 +11734,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #585
+#585
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -11754,7 +11754,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #586
+#586
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -11774,7 +11774,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #587
+#587
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -11794,7 +11794,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #588
+#588
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -11814,7 +11814,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #589
+#589
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -11834,7 +11834,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #590
+#590
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -11854,7 +11854,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #591
+#591
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -11874,7 +11874,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #592
+#592
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -11896,7 +11896,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #593
+#593
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -11916,7 +11916,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #594
+#594
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -11936,7 +11936,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #595
+#595
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -11956,7 +11956,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #596
+#596
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -11976,7 +11976,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #597
+#597
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -11996,7 +11996,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #598
+#598
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -12016,7 +12016,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #599
+#599
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -12036,7 +12036,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #600
+#600
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -12056,7 +12056,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #601
+#601
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -12076,7 +12076,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #602
+#602
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -12096,7 +12096,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #603
+#603
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -12116,7 +12116,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #604
+#604
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -12136,7 +12136,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #605
+#605
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -12156,7 +12156,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #606
+#606
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -12176,7 +12176,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #607
+#607
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -12196,7 +12196,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #608
+#608
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -12216,7 +12216,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #609
+#609
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -12236,7 +12236,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #610
+#610
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -12256,7 +12256,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #611
+#611
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -12276,7 +12276,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #612
+#612
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -12296,7 +12296,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #613
+#613
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -12316,7 +12316,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #614
+#614
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -12336,7 +12336,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #615
+#615
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -12356,7 +12356,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #616
+#616
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -12376,7 +12376,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #617
+#617
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -12396,7 +12396,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #618
+#618
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -12416,7 +12416,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #619
+#619
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -12436,7 +12436,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #620
+#620
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -12456,7 +12456,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #621
+#621
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -12476,7 +12476,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #622
+#622
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -12496,7 +12496,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #623
+#623
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -12516,7 +12516,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #624
+#624
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -12536,7 +12536,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #625
+#625
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -12556,7 +12556,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #626
+#626
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -12576,7 +12576,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #627
+#627
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -12596,7 +12596,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #628
+#628
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -12616,7 +12616,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #629
+#629
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -12636,7 +12636,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #630
+#630
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -12656,7 +12656,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #631
+#631
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -12676,7 +12676,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #632
+#632
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -12696,7 +12696,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #633
+#633
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -12716,7 +12716,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #634
+#634
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -12736,7 +12736,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #635
+#635
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -12756,7 +12756,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #636
+#636
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -12776,7 +12776,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #637
+#637
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -12796,7 +12796,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #638
+#638
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -12816,7 +12816,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #639
+#639
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -12836,7 +12836,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #640
+#640
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -12856,7 +12856,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #641
+#641
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -12876,7 +12876,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #642
+#642
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -12896,7 +12896,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #643
+#643
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -12916,7 +12916,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #644
+#644
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -12936,7 +12936,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #645
+#645
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -12956,7 +12956,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #646
+#646
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -12976,7 +12976,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #647
+#647
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -12996,7 +12996,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #648
+#648
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -13016,7 +13016,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #649
+#649
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -13036,7 +13036,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #650
+#650
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -13056,7 +13056,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #651
+#651
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -13076,7 +13076,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #652
+#652
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -13096,7 +13096,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #653
+#653
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -13118,7 +13118,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #654
+#654
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -13138,7 +13138,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #655
+#655
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -13158,7 +13158,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #656
+#656
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -13178,7 +13178,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #657
+#657
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -13198,7 +13198,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #658
+#658
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -13218,7 +13218,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #659
+#659
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -13238,7 +13238,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #660
+#660
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -13258,7 +13258,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #661
+#661
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -13278,7 +13278,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #662
+#662
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -13298,7 +13298,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #663
+#663
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -13320,7 +13320,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #664
+#664
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -13340,7 +13340,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #665
+#665
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -13360,7 +13360,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #666
+#666
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -13380,7 +13380,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #667
+#667
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -13400,7 +13400,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #668
+#668
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -13420,7 +13420,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #669
+#669
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -13440,7 +13440,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #670
+#670
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -13460,7 +13460,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #671
+#671
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -13480,7 +13480,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #672
+#672
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -13500,7 +13500,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #673
+#673
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -13520,7 +13520,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #674
+#674
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -13540,7 +13540,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #675
+#675
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -13560,7 +13560,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #676
+#676
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -13580,7 +13580,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #677
+#677
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -13600,7 +13600,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #678
+#678
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -13620,7 +13620,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #679
+#679
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -13640,7 +13640,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #680
+#680
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -13660,7 +13660,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #681
+#681
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -13680,7 +13680,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #682
+#682
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -13700,7 +13700,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #683
+#683
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -13720,7 +13720,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #684
+#684
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -13740,7 +13740,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #685
+#685
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -13760,7 +13760,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #686
+#686
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -13780,7 +13780,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #687
+#687
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -13800,7 +13800,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #688
+#688
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -13822,7 +13822,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #689
+#689
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -13842,7 +13842,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #690
+#690
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -13862,7 +13862,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #691
+#691
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -13882,7 +13882,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #692
+#692
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -13902,7 +13902,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #693
+#693
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -13922,7 +13922,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #694
+#694
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -13942,7 +13942,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #695
+#695
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -13962,7 +13962,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #696
+#696
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -13982,7 +13982,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #697
+#697
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -14002,7 +14002,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #698
+#698
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -14022,7 +14022,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #699
+#699
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -14042,7 +14042,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #700
+#700
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -14062,7 +14062,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #701
+#701
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -14082,7 +14082,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #702
+#702
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -14102,7 +14102,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #703
+#703
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -14122,7 +14122,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #704
+#704
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -14142,7 +14142,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #705
+#705
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -14162,7 +14162,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #706
+#706
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -14182,7 +14182,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #707
+#707
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -14202,7 +14202,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #708
+#708
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -14222,7 +14222,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #709
+#709
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -14242,7 +14242,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #710
+#710
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -14262,7 +14262,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #711
+#711
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -14282,7 +14282,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #712
+#712
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -14302,7 +14302,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #713
+#713
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -14322,7 +14322,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #714
+#714
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -14342,7 +14342,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #715
+#715
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -14362,7 +14362,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #716
+#716
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -14382,7 +14382,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #717
+#717
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -14402,7 +14402,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #718
+#718
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -14422,7 +14422,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #719
+#719
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -14442,7 +14442,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #720
+#720
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -14462,7 +14462,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #721
+#721
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -14482,7 +14482,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #722
+#722
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -14502,7 +14502,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #723
+#723
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -14522,7 +14522,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #724
+#724
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -14542,7 +14542,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #725
+#725
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -14562,7 +14562,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #726
+#726
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -14582,7 +14582,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #727
+#727
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -14602,7 +14602,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #728
+#728
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -14622,7 +14622,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #729
+#729
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -14642,7 +14642,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #730
+#730
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -14662,7 +14662,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #731
+#731
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -14682,7 +14682,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #732
+#732
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -14702,7 +14702,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #733
+#733
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -14722,7 +14722,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #734
+#734
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -14742,7 +14742,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #735
+#735
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -14762,7 +14762,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #736
+#736
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -14782,7 +14782,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #737
+#737
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -14802,7 +14802,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #738
+#738
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -14822,7 +14822,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #739
+#739
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -14842,7 +14842,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #740
+#740
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -14862,7 +14862,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #741
+#741
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -14884,7 +14884,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #742
+#742
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -14906,7 +14906,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #743
+#743
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -14926,7 +14926,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #744
+#744
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -14946,7 +14946,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #745
+#745
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -14966,7 +14966,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #746
+#746
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -14986,7 +14986,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #747
+#747
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -15006,7 +15006,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #748
+#748
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -15026,7 +15026,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #749
+#749
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -15046,7 +15046,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #750
+#750
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -15066,7 +15066,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #751
+#751
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -15086,7 +15086,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #752
+#752
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -15106,7 +15106,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #753
+#753
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -15126,7 +15126,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #754
+#754
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -15146,7 +15146,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #755
+#755
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -15166,7 +15166,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #756
+#756
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -15186,7 +15186,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #757
+#757
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -15206,7 +15206,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #758
+#758
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -15226,7 +15226,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #759
+#759
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -15246,7 +15246,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #760
+#760
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -15266,7 +15266,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #761
+#761
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -15286,7 +15286,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #762
+#762
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -15306,7 +15306,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #763
+#763
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -15326,7 +15326,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #764
+#764
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -15346,7 +15346,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #765
+#765
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -15366,7 +15366,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #766
+#766
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -15386,7 +15386,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #767
+#767
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -15406,7 +15406,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #768
+#768
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -15426,7 +15426,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #769
+#769
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -15446,7 +15446,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #770
+#770
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -15466,7 +15466,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #771
+#771
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -15486,7 +15486,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #772
+#772
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -15506,7 +15506,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #773
+#773
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -15526,7 +15526,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #774
+#774
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -15546,7 +15546,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #775
+#775
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -15566,7 +15566,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #776
+#776
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -15586,7 +15586,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #777
+#777
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -15606,7 +15606,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #778
+#778
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -15626,7 +15626,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #779
+#779
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -15648,7 +15648,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #780
+#780
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -15668,7 +15668,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #781
+#781
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -15688,7 +15688,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #782
+#782
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -15708,7 +15708,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #783
+#783
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -15728,7 +15728,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #784
+#784
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -15748,7 +15748,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #785
+#785
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -15768,7 +15768,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #786
+#786
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -15788,7 +15788,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #787
+#787
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -15808,7 +15808,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #788
+#788
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -15828,7 +15828,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #789
+#789
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -15848,7 +15848,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #790
+#790
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -15868,7 +15868,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #791
+#791
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -15888,7 +15888,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #792
+#792
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -15908,7 +15908,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #793
+#793
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -15928,7 +15928,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #794
+#794
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -15948,7 +15948,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #795
+#795
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -15968,7 +15968,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #796
+#796
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -15988,7 +15988,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #797
+#797
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -16008,7 +16008,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #798
+#798
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -16028,7 +16028,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #799
+#799
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -16048,7 +16048,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #800
+#800
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -16068,7 +16068,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #801
+#801
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -16090,7 +16090,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #802
+#802
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -16110,7 +16110,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #803
+#803
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -16130,7 +16130,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #804
+#804
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -16150,7 +16150,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #805
+#805
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -16170,7 +16170,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #806
+#806
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -16190,7 +16190,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #807
+#807
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -16210,7 +16210,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #808
+#808
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -16230,7 +16230,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #809
+#809
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -16250,7 +16250,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #810
+#810
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -16270,7 +16270,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #811
+#811
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -16292,7 +16292,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #812
+#812
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -16312,7 +16312,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #813
+#813
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -16332,7 +16332,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #814
+#814
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -16352,7 +16352,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #815
+#815
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -16372,7 +16372,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #816
+#816
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -16392,7 +16392,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #817
+#817
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -16412,7 +16412,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #818
+#818
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -16432,7 +16432,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #819
+#819
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -16452,7 +16452,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #820
+#820
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -16472,7 +16472,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #821
+#821
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -16492,7 +16492,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #822
+#822
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -16512,7 +16512,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #823
+#823
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -16532,7 +16532,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #824
+#824
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -16552,7 +16552,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #825
+#825
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -16572,7 +16572,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #826
+#826
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -16592,7 +16592,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #827
+#827
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -16614,7 +16614,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #828
+#828
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -16634,7 +16634,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #829
+#829
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -16654,7 +16654,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #830
+#830
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -16674,7 +16674,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #831
+#831
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -16694,7 +16694,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #832
+#832
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -16714,7 +16714,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #833
+#833
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -16734,7 +16734,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #834
+#834
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -16754,7 +16754,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #835
+#835
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -16774,7 +16774,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #836
+#836
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -16794,7 +16794,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #837
+#837
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -16814,7 +16814,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #838
+#838
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -16834,7 +16834,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #839
+#839
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -16854,7 +16854,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #840
+#840
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -16874,7 +16874,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #841
+#841
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -16894,7 +16894,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #842
+#842
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -16914,7 +16914,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #843
+#843
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -16934,7 +16934,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #844
+#844
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -16954,7 +16954,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #845
+#845
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -16974,7 +16974,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #846
+#846
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -16994,7 +16994,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #847
+#847
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -17014,7 +17014,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #848
+#848
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -17034,7 +17034,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #849
+#849
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -17054,7 +17054,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #850
+#850
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -17074,7 +17074,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #851
+#851
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -17096,7 +17096,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #852
+#852
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -17116,7 +17116,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #853
+#853
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -17136,7 +17136,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #854
+#854
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -17156,7 +17156,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #855
+#855
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -17176,7 +17176,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #856
+#856
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -17196,7 +17196,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #857
+#857
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -17216,7 +17216,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #858
+#858
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -17236,7 +17236,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #859
+#859
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -17256,7 +17256,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #860
+#860
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -17276,7 +17276,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #861
+#861
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -17296,7 +17296,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #862
+#862
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -17316,7 +17316,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #863
+#863
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -17336,7 +17336,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #864
+#864
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -17356,7 +17356,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #865
+#865
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -17376,7 +17376,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #866
+#866
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -17396,7 +17396,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #867
+#867
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -17416,7 +17416,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #868
+#868
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -17436,7 +17436,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #869
+#869
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -17456,7 +17456,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #870
+#870
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -17476,7 +17476,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #871
+#871
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -17496,7 +17496,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #872
+#872
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -17516,7 +17516,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #873
+#873
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -17536,7 +17536,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #874
+#874
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -17556,7 +17556,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #875
+#875
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -17576,7 +17576,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #876
+#876
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -17596,7 +17596,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #877
+#877
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -17616,7 +17616,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #878
+#878
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -17636,7 +17636,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #879
+#879
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -17656,7 +17656,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #880
+#880
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -17676,7 +17676,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #881
+#881
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -17696,7 +17696,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #882
+#882
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -17716,7 +17716,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #883
+#883
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -17736,7 +17736,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #884
+#884
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -17756,7 +17756,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #885
+#885
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -17776,7 +17776,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #886
+#886
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -17796,7 +17796,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #887
+#887
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -17816,7 +17816,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #888
+#888
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -17836,7 +17836,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #889
+#889
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -17856,7 +17856,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #890
+#890
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -17876,7 +17876,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #891
+#891
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -17896,7 +17896,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #892
+#892
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -17916,7 +17916,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #893
+#893
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -17936,7 +17936,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #894
+#894
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -17956,7 +17956,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #895
+#895
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -17978,7 +17978,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #896
+#896
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -17998,7 +17998,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #897
+#897
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -18018,7 +18018,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #898
+#898
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -18038,7 +18038,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #899
+#899
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -18058,7 +18058,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #900
+#900
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -18078,7 +18078,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #901
+#901
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -18098,7 +18098,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #902
+#902
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -18118,7 +18118,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #903
+#903
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -18138,7 +18138,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #904
+#904
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -18158,7 +18158,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #905
+#905
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -18178,7 +18178,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #906
+#906
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -18198,7 +18198,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #907
+#907
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -18218,7 +18218,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #908
+#908
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -18238,7 +18238,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #909
+#909
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -18258,7 +18258,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #910
+#910
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -18278,7 +18278,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #911
+#911
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -18300,7 +18300,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #912
+#912
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -18320,7 +18320,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #913
+#913
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -18340,7 +18340,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #914
+#914
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -18360,7 +18360,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #915
+#915
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -18380,7 +18380,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #916
+#916
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -18400,7 +18400,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #917
+#917
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -18420,7 +18420,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #918
+#918
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -18440,7 +18440,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #919
+#919
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -18460,7 +18460,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #920
+#920
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -18480,7 +18480,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #921
+#921
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -18500,7 +18500,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #922
+#922
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -18522,7 +18522,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #923
+#923
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -18542,7 +18542,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #924
+#924
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -18562,7 +18562,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #925
+#925
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -18582,7 +18582,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #926
+#926
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -18602,7 +18602,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #927
+#927
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -18622,7 +18622,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #928
+#928
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -18642,7 +18642,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #929
+#929
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -18662,7 +18662,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #930
+#930
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -18682,7 +18682,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #931
+#931
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -18702,7 +18702,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #932
+#932
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -18722,7 +18722,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #933
+#933
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -18742,7 +18742,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #934
+#934
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -18762,7 +18762,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #935
+#935
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -18782,7 +18782,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #936
+#936
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -18804,7 +18804,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #937
+#937
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -18824,7 +18824,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #938
+#938
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -18844,7 +18844,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #939
+#939
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -18864,7 +18864,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #940
+#940
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -18884,7 +18884,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #941
+#941
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -18904,7 +18904,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #942
+#942
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -18924,7 +18924,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #943
+#943
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -18944,7 +18944,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #944
+#944
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -18964,7 +18964,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #945
+#945
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -18984,7 +18984,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #946
+#946
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -19004,7 +19004,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #947
+#947
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -19024,7 +19024,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #948
+#948
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -19044,7 +19044,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #949
+#949
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -19064,7 +19064,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #950
+#950
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -19084,7 +19084,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #951
+#951
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -19104,7 +19104,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #952
+#952
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -19124,7 +19124,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #953
+#953
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -19144,7 +19144,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #954
+#954
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -19164,7 +19164,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #955
+#955
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -19184,7 +19184,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #956
+#956
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -19204,7 +19204,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #957
+#957
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -19224,7 +19224,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #958
+#958
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -19244,7 +19244,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #959
+#959
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -19264,7 +19264,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #960
+#960
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -19284,7 +19284,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #961
+#961
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -19304,7 +19304,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #962
+#962
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -19324,7 +19324,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #963
+#963
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -19344,7 +19344,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #964
+#964
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -19364,7 +19364,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #965
+#965
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -19384,7 +19384,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #966
+#966
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -19404,7 +19404,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #967
+#967
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -19424,7 +19424,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #968
+#968
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -19444,7 +19444,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #969
+#969
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -19464,7 +19464,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #970
+#970
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -19484,7 +19484,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #971
+#971
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -19504,7 +19504,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #972
+#972
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -19524,7 +19524,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #973
+#973
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -19544,7 +19544,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #974
+#974
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -19564,7 +19564,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #975
+#975
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -19584,7 +19584,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #976
+#976
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -19604,7 +19604,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #977
+#977
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -19624,7 +19624,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #978
+#978
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -19644,7 +19644,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #979
+#979
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -19664,7 +19664,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #980
+#980
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -19684,7 +19684,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #981
+#981
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -19704,7 +19704,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #982
+#982
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -19724,7 +19724,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #983
+#983
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -19744,7 +19744,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #984
+#984
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -19764,7 +19764,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #985
+#985
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -19784,7 +19784,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #986
+#986
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -19804,7 +19804,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #987
+#987
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -19824,7 +19824,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #988
+#988
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -19844,7 +19844,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #989
+#989
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -19864,7 +19864,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #990
+#990
 
 - Gear: Hand Chain
 - Rarity: Legendary
@@ -19884,7 +19884,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #991
+#991
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -19904,7 +19904,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #992
+#992
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -19924,7 +19924,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #993
+#993
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -19944,7 +19944,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #994
+#994
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -19964,7 +19964,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #995
+#995
 
 - Gear: Bracelets
 - Rarity: Legendary
@@ -19984,7 +19984,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #996
+#996
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -20004,7 +20004,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #997
+#997
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -20024,7 +20024,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #998
+#998
 
 - Gear: Gloves
 - Rarity: Legendary
@@ -20044,7 +20044,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #999
+#999
 
 - Gear: Gauntlets
 - Rarity: Legendary
@@ -20064,7 +20064,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #1000
+#1000
 
 - Gear: Hand Chain
 - Rarity: Legendary

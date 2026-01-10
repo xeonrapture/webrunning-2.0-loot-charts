@@ -12,7 +12,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 
 # Loot Chart
 
-## #1
+#1
 
 - Gear: Flats
 - Rarity: Legendary
@@ -32,7 +32,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #2
+#2
 
 - Gear: Boots
 - Rarity: Legendary
@@ -52,7 +52,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #3
+#3
 
 - Gear: Boots
 - Rarity: Legendary
@@ -72,7 +72,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #4
+#4
 
 - Gear: Flats
 - Rarity: Legendary
@@ -92,7 +92,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #5
+#5
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -112,7 +112,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #6
+#6
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -132,7 +132,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #7
+#7
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -152,7 +152,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #8
+#8
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -172,7 +172,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #9
+#9
 
 - Gear: Boots
 - Rarity: Legendary
@@ -194,7 +194,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #10
+#10
 
 - Gear: Heels
 - Rarity: Legendary
@@ -214,7 +214,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #11
+#11
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -234,7 +234,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #12
+#12
 
 - Gear: Flats
 - Rarity: Legendary
@@ -254,7 +254,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #13
+#13
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -274,7 +274,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #14
+#14
 
 - Gear: Boots
 - Rarity: Legendary
@@ -294,7 +294,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #15
+#15
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -314,7 +314,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #16
+#16
 
 - Gear: Flats
 - Rarity: Legendary
@@ -334,7 +334,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #17
+#17
 
 - Gear: Heels
 - Rarity: Legendary
@@ -354,7 +354,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #18
+#18
 
 - Gear: Heels
 - Rarity: Legendary
@@ -374,7 +374,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #19
+#19
 
 - Gear: Boots
 - Rarity: Legendary
@@ -396,7 +396,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #20
+#20
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -416,7 +416,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #21
+#21
 
 - Gear: Heels
 - Rarity: Legendary
@@ -436,7 +436,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #22
+#22
 
 - Gear: Boots
 - Rarity: Legendary
@@ -456,7 +456,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #23
+#23
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -476,7 +476,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #24
+#24
 
 - Gear: Heels
 - Rarity: Legendary
@@ -498,7 +498,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #25
+#25
 
 - Gear: Heels
 - Rarity: Legendary
@@ -518,7 +518,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #26
+#26
 
 - Gear: Boots
 - Rarity: Legendary
@@ -538,7 +538,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #27
+#27
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -558,7 +558,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #28
+#28
 
 - Gear: Flats
 - Rarity: Legendary
@@ -578,7 +578,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #29
+#29
 
 - Gear: Flats
 - Rarity: Legendary
@@ -598,7 +598,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #30
+#30
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -618,7 +618,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #31
+#31
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -638,7 +638,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #32
+#32
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -658,7 +658,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #33
+#33
 
 - Gear: Boots
 - Rarity: Legendary
@@ -678,7 +678,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #34
+#34
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -698,7 +698,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #35
+#35
 
 - Gear: Flats
 - Rarity: Legendary
@@ -718,7 +718,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #36
+#36
 
 - Gear: Boots
 - Rarity: Legendary
@@ -738,7 +738,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #37
+#37
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -758,7 +758,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #38
+#38
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -778,7 +778,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #39
+#39
 
 - Gear: Boots
 - Rarity: Legendary
@@ -798,7 +798,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #40
+#40
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -818,7 +818,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #41
+#41
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -838,7 +838,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #42
+#42
 
 - Gear: Flats
 - Rarity: Legendary
@@ -858,7 +858,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #43
+#43
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -878,7 +878,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #44
+#44
 
 - Gear: Flats
 - Rarity: Legendary
@@ -898,7 +898,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #45
+#45
 
 - Gear: Flats
 - Rarity: Legendary
@@ -918,7 +918,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #46
+#46
 
 - Gear: Boots
 - Rarity: Legendary
@@ -938,7 +938,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #47
+#47
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -958,7 +958,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #48
+#48
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -978,7 +978,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #49
+#49
 
 - Gear: Flats
 - Rarity: Legendary
@@ -998,7 +998,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #50
+#50
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -1018,7 +1018,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #51
+#51
 
 - Gear: Flats
 - Rarity: Legendary
@@ -1038,7 +1038,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #52
+#52
 
 - Gear: Heels
 - Rarity: Legendary
@@ -1058,7 +1058,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #53
+#53
 
 - Gear: Boots
 - Rarity: Legendary
@@ -1078,7 +1078,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #54
+#54
 
 - Gear: Flats
 - Rarity: Legendary
@@ -1098,7 +1098,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #55
+#55
 
 - Gear: Flats
 - Rarity: Legendary
@@ -1118,7 +1118,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #56
+#56
 
 - Gear: Flats
 - Rarity: Legendary
@@ -1138,7 +1138,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #57
+#57
 
 - Gear: Flats
 - Rarity: Legendary
@@ -1158,7 +1158,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #58
+#58
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -1178,7 +1178,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #59
+#59
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -1198,7 +1198,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #60
+#60
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -1218,7 +1218,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #61
+#61
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -1238,7 +1238,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #62
+#62
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -1258,7 +1258,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #63
+#63
 
 - Gear: Heels
 - Rarity: Legendary
@@ -1278,7 +1278,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #64
+#64
 
 - Gear: Boots
 - Rarity: Legendary
@@ -1298,7 +1298,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #65
+#65
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -1318,7 +1318,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #66
+#66
 
 - Gear: Heels
 - Rarity: Legendary
@@ -1338,7 +1338,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #67
+#67
 
 - Gear: Boots
 - Rarity: Legendary
@@ -1358,7 +1358,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #68
+#68
 
 - Gear: Heels
 - Rarity: Legendary
@@ -1378,7 +1378,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #69
+#69
 
 - Gear: Heels
 - Rarity: Legendary
@@ -1398,7 +1398,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #70
+#70
 
 - Gear: Flats
 - Rarity: Legendary
@@ -1418,7 +1418,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #71
+#71
 
 - Gear: Boots
 - Rarity: Legendary
@@ -1438,7 +1438,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #72
+#72
 
 - Gear: Flats
 - Rarity: Legendary
@@ -1458,7 +1458,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #73
+#73
 
 - Gear: Flats
 - Rarity: Legendary
@@ -1478,7 +1478,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #74
+#74
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -1498,7 +1498,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #75
+#75
 
 - Gear: Heels
 - Rarity: Legendary
@@ -1518,7 +1518,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #76
+#76
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -1538,7 +1538,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #77
+#77
 
 - Gear: Heels
 - Rarity: Legendary
@@ -1558,7 +1558,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #78
+#78
 
 - Gear: Flats
 - Rarity: Legendary
@@ -1578,7 +1578,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #79
+#79
 
 - Gear: Boots
 - Rarity: Legendary
@@ -1598,7 +1598,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #80
+#80
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -1618,7 +1618,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #81
+#81
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -1638,7 +1638,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #82
+#82
 
 - Gear: Heels
 - Rarity: Legendary
@@ -1658,7 +1658,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #83
+#83
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -1678,7 +1678,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #84
+#84
 
 - Gear: Flats
 - Rarity: Legendary
@@ -1698,7 +1698,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #85
+#85
 
 - Gear: Boots
 - Rarity: Legendary
@@ -1718,7 +1718,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #86
+#86
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -1738,7 +1738,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #87
+#87
 
 - Gear: Flats
 - Rarity: Legendary
@@ -1758,7 +1758,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #88
+#88
 
 - Gear: Boots
 - Rarity: Legendary
@@ -1778,7 +1778,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #89
+#89
 
 - Gear: Flats
 - Rarity: Legendary
@@ -1798,7 +1798,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #90
+#90
 
 - Gear: Heels
 - Rarity: Legendary
@@ -1818,7 +1818,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #91
+#91
 
 - Gear: Boots
 - Rarity: Legendary
@@ -1838,7 +1838,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #92
+#92
 
 - Gear: Boots
 - Rarity: Legendary
@@ -1858,7 +1858,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #93
+#93
 
 - Gear: Flats
 - Rarity: Legendary
@@ -1878,7 +1878,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #94
+#94
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -1898,7 +1898,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #95
+#95
 
 - Gear: Boots
 - Rarity: Legendary
@@ -1918,7 +1918,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #96
+#96
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -1938,7 +1938,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #97
+#97
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -1958,7 +1958,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #98
+#98
 
 - Gear: Boots
 - Rarity: Legendary
@@ -1978,7 +1978,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #99
+#99
 
 - Gear: Boots
 - Rarity: Legendary
@@ -1998,7 +1998,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #100
+#100
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -2018,7 +2018,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #101
+#101
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -2038,7 +2038,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #102
+#102
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -2058,7 +2058,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #103
+#103
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -2078,7 +2078,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #104
+#104
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -2098,7 +2098,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #105
+#105
 
 - Gear: Flats
 - Rarity: Legendary
@@ -2118,7 +2118,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #106
+#106
 
 - Gear: Flats
 - Rarity: Legendary
@@ -2138,7 +2138,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #107
+#107
 
 - Gear: Heels
 - Rarity: Legendary
@@ -2158,7 +2158,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #108
+#108
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -2178,7 +2178,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #109
+#109
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -2198,7 +2198,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #110
+#110
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -2218,7 +2218,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #111
+#111
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -2238,7 +2238,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #112
+#112
 
 - Gear: Heels
 - Rarity: Legendary
@@ -2258,7 +2258,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #113
+#113
 
 - Gear: Flats
 - Rarity: Legendary
@@ -2278,7 +2278,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #114
+#114
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -2298,7 +2298,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #115
+#115
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -2318,7 +2318,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #116
+#116
 
 - Gear: Boots
 - Rarity: Legendary
@@ -2338,7 +2338,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #117
+#117
 
 - Gear: Boots
 - Rarity: Legendary
@@ -2358,7 +2358,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #118
+#118
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -2378,7 +2378,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #119
+#119
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -2400,7 +2400,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #120
+#120
 
 - Gear: Flats
 - Rarity: Legendary
@@ -2420,7 +2420,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #121
+#121
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -2440,7 +2440,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #122
+#122
 
 - Gear: Boots
 - Rarity: Legendary
@@ -2460,7 +2460,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #123
+#123
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -2480,7 +2480,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #124
+#124
 
 - Gear: Heels
 - Rarity: Legendary
@@ -2500,7 +2500,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #125
+#125
 
 - Gear: Flats
 - Rarity: Legendary
@@ -2520,7 +2520,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #126
+#126
 
 - Gear: Boots
 - Rarity: Legendary
@@ -2540,7 +2540,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #127
+#127
 
 - Gear: Flats
 - Rarity: Legendary
@@ -2560,7 +2560,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #128
+#128
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -2580,7 +2580,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #129
+#129
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -2600,7 +2600,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #130
+#130
 
 - Gear: Boots
 - Rarity: Legendary
@@ -2620,7 +2620,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #131
+#131
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -2640,7 +2640,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #132
+#132
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -2660,7 +2660,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #133
+#133
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -2680,7 +2680,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #134
+#134
 
 - Gear: Boots
 - Rarity: Legendary
@@ -2700,7 +2700,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #135
+#135
 
 - Gear: Flats
 - Rarity: Legendary
@@ -2720,7 +2720,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #136
+#136
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -2740,7 +2740,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #137
+#137
 
 - Gear: Boots
 - Rarity: Legendary
@@ -2760,7 +2760,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #138
+#138
 
 - Gear: Boots
 - Rarity: Legendary
@@ -2780,7 +2780,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #139
+#139
 
 - Gear: Flats
 - Rarity: Legendary
@@ -2800,7 +2800,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #140
+#140
 
 - Gear: Boots
 - Rarity: Legendary
@@ -2820,7 +2820,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #141
+#141
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -2842,7 +2842,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #142
+#142
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -2862,7 +2862,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #143
+#143
 
 - Gear: Flats
 - Rarity: Legendary
@@ -2882,7 +2882,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #144
+#144
 
 - Gear: Heels
 - Rarity: Legendary
@@ -2902,7 +2902,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #145
+#145
 
 - Gear: Heels
 - Rarity: Legendary
@@ -2922,7 +2922,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #146
+#146
 
 - Gear: Boots
 - Rarity: Legendary
@@ -2942,7 +2942,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #147
+#147
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -2962,7 +2962,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #148
+#148
 
 - Gear: Flats
 - Rarity: Legendary
@@ -2982,7 +2982,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #149
+#149
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -3002,7 +3002,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #150
+#150
 
 - Gear: Heels
 - Rarity: Legendary
@@ -3022,7 +3022,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #151
+#151
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -3042,7 +3042,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #152
+#152
 
 - Gear: Heels
 - Rarity: Legendary
@@ -3062,7 +3062,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #153
+#153
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -3082,7 +3082,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #154
+#154
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -3102,7 +3102,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #155
+#155
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -3122,7 +3122,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #156
+#156
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -3142,7 +3142,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #157
+#157
 
 - Gear: Heels
 - Rarity: Legendary
@@ -3162,7 +3162,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #158
+#158
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -3182,7 +3182,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #159
+#159
 
 - Gear: Boots
 - Rarity: Legendary
@@ -3202,7 +3202,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #160
+#160
 
 - Gear: Heels
 - Rarity: Legendary
@@ -3222,7 +3222,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #161
+#161
 
 - Gear: Boots
 - Rarity: Legendary
@@ -3242,7 +3242,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #162
+#162
 
 - Gear: Flats
 - Rarity: Legendary
@@ -3262,7 +3262,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #163
+#163
 
 - Gear: Boots
 - Rarity: Legendary
@@ -3282,7 +3282,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #164
+#164
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -3302,7 +3302,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #165
+#165
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -3322,7 +3322,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #166
+#166
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -3342,7 +3342,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #167
+#167
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -3362,7 +3362,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #168
+#168
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -3382,7 +3382,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #169
+#169
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -3402,7 +3402,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #170
+#170
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -3422,7 +3422,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #171
+#171
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -3442,7 +3442,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #172
+#172
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -3462,7 +3462,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #173
+#173
 
 - Gear: Boots
 - Rarity: Legendary
@@ -3482,7 +3482,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #174
+#174
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -3502,7 +3502,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #175
+#175
 
 - Gear: Heels
 - Rarity: Legendary
@@ -3522,7 +3522,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #176
+#176
 
 - Gear: Heels
 - Rarity: Legendary
@@ -3542,7 +3542,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #177
+#177
 
 - Gear: Boots
 - Rarity: Legendary
@@ -3562,7 +3562,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #178
+#178
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -3582,7 +3582,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #179
+#179
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -3602,7 +3602,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #180
+#180
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -3622,7 +3622,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #181
+#181
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -3642,7 +3642,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #182
+#182
 
 - Gear: Heels
 - Rarity: Legendary
@@ -3662,7 +3662,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #183
+#183
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -3682,7 +3682,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #184
+#184
 
 - Gear: Heels
 - Rarity: Legendary
@@ -3702,7 +3702,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #185
+#185
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -3722,7 +3722,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #186
+#186
 
 - Gear: Boots
 - Rarity: Legendary
@@ -3742,7 +3742,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #187
+#187
 
 - Gear: Boots
 - Rarity: Legendary
@@ -3762,7 +3762,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #188
+#188
 
 - Gear: Boots
 - Rarity: Legendary
@@ -3782,7 +3782,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #189
+#189
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -3802,7 +3802,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #190
+#190
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -3822,7 +3822,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #191
+#191
 
 - Gear: Heels
 - Rarity: Legendary
@@ -3842,7 +3842,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #192
+#192
 
 - Gear: Flats
 - Rarity: Legendary
@@ -3862,7 +3862,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #193
+#193
 
 - Gear: Heels
 - Rarity: Legendary
@@ -3882,7 +3882,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #194
+#194
 
 - Gear: Heels
 - Rarity: Legendary
@@ -3902,7 +3902,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #195
+#195
 
 - Gear: Boots
 - Rarity: Legendary
@@ -3922,7 +3922,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #196
+#196
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -3942,7 +3942,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #197
+#197
 
 - Gear: Flats
 - Rarity: Legendary
@@ -3962,7 +3962,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #198
+#198
 
 - Gear: Boots
 - Rarity: Legendary
@@ -3982,7 +3982,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #199
+#199
 
 - Gear: Flats
 - Rarity: Legendary
@@ -4002,7 +4002,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #200
+#200
 
 - Gear: Boots
 - Rarity: Legendary
@@ -4022,7 +4022,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #201
+#201
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -4042,7 +4042,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #202
+#202
 
 - Gear: Boots
 - Rarity: Legendary
@@ -4062,7 +4062,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #203
+#203
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -4082,7 +4082,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #204
+#204
 
 - Gear: Heels
 - Rarity: Legendary
@@ -4102,7 +4102,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #205
+#205
 
 - Gear: Heels
 - Rarity: Legendary
@@ -4122,7 +4122,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #206
+#206
 
 - Gear: Heels
 - Rarity: Legendary
@@ -4142,7 +4142,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #207
+#207
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -4162,7 +4162,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #208
+#208
 
 - Gear: Heels
 - Rarity: Legendary
@@ -4182,7 +4182,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #209
+#209
 
 - Gear: Heels
 - Rarity: Legendary
@@ -4202,7 +4202,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #210
+#210
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -4222,7 +4222,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #211
+#211
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -4242,7 +4242,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #212
+#212
 
 - Gear: Heels
 - Rarity: Legendary
@@ -4262,7 +4262,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #213
+#213
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -4282,7 +4282,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #214
+#214
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -4302,7 +4302,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #215
+#215
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -4322,7 +4322,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #216
+#216
 
 - Gear: Boots
 - Rarity: Legendary
@@ -4342,7 +4342,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #217
+#217
 
 - Gear: Flats
 - Rarity: Legendary
@@ -4362,7 +4362,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #218
+#218
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -4382,7 +4382,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #219
+#219
 
 - Gear: Flats
 - Rarity: Legendary
@@ -4402,7 +4402,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #220
+#220
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -4422,7 +4422,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #221
+#221
 
 - Gear: Flats
 - Rarity: Legendary
@@ -4442,7 +4442,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #222
+#222
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -4462,7 +4462,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #223
+#223
 
 - Gear: Flats
 - Rarity: Legendary
@@ -4482,7 +4482,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #224
+#224
 
 - Gear: Boots
 - Rarity: Legendary
@@ -4502,7 +4502,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #225
+#225
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -4522,7 +4522,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #226
+#226
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -4542,7 +4542,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #227
+#227
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -4562,7 +4562,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #228
+#228
 
 - Gear: Boots
 - Rarity: Legendary
@@ -4582,7 +4582,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #229
+#229
 
 - Gear: Heels
 - Rarity: Legendary
@@ -4602,7 +4602,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #230
+#230
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -4622,7 +4622,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #231
+#231
 
 - Gear: Flats
 - Rarity: Legendary
@@ -4642,7 +4642,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #232
+#232
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -4662,7 +4662,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #233
+#233
 
 - Gear: Heels
 - Rarity: Legendary
@@ -4682,7 +4682,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #234
+#234
 
 - Gear: Heels
 - Rarity: Legendary
@@ -4702,7 +4702,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #235
+#235
 
 - Gear: Heels
 - Rarity: Legendary
@@ -4722,7 +4722,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #236
+#236
 
 - Gear: Flats
 - Rarity: Legendary
@@ -4742,7 +4742,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #237
+#237
 
 - Gear: Boots
 - Rarity: Legendary
@@ -4762,7 +4762,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #238
+#238
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -4782,7 +4782,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #239
+#239
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -4802,7 +4802,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #240
+#240
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -4822,7 +4822,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #241
+#241
 
 - Gear: Heels
 - Rarity: Legendary
@@ -4842,7 +4842,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #242
+#242
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -4862,7 +4862,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #243
+#243
 
 - Gear: Boots
 - Rarity: Legendary
@@ -4882,7 +4882,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #244
+#244
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -4902,7 +4902,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #245
+#245
 
 - Gear: Flats
 - Rarity: Legendary
@@ -4922,7 +4922,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #246
+#246
 
 - Gear: Heels
 - Rarity: Legendary
@@ -4942,7 +4942,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #247
+#247
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -4962,7 +4962,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #248
+#248
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -4982,7 +4982,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #249
+#249
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -5002,7 +5002,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #250
+#250
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -5022,7 +5022,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #251
+#251
 
 - Gear: Boots
 - Rarity: Legendary
@@ -5042,7 +5042,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #252
+#252
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -5064,7 +5064,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #253
+#253
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -5084,7 +5084,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #254
+#254
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -5104,7 +5104,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #255
+#255
 
 - Gear: Flats
 - Rarity: Legendary
@@ -5124,7 +5124,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #256
+#256
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -5144,7 +5144,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #257
+#257
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -5164,7 +5164,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #258
+#258
 
 - Gear: Heels
 - Rarity: Legendary
@@ -5186,7 +5186,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #259
+#259
 
 - Gear: Boots
 - Rarity: Legendary
@@ -5206,7 +5206,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #260
+#260
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -5226,7 +5226,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #261
+#261
 
 - Gear: Flats
 - Rarity: Legendary
@@ -5246,7 +5246,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #262
+#262
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -5266,7 +5266,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #263
+#263
 
 - Gear: Boots
 - Rarity: Legendary
@@ -5286,7 +5286,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #264
+#264
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -5306,7 +5306,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #265
+#265
 
 - Gear: Heels
 - Rarity: Legendary
@@ -5326,7 +5326,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #266
+#266
 
 - Gear: Boots
 - Rarity: Legendary
@@ -5346,7 +5346,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #267
+#267
 
 - Gear: Heels
 - Rarity: Legendary
@@ -5366,7 +5366,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #268
+#268
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -5386,7 +5386,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #269
+#269
 
 - Gear: Flats
 - Rarity: Legendary
@@ -5406,7 +5406,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #270
+#270
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -5426,7 +5426,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #271
+#271
 
 - Gear: Flats
 - Rarity: Legendary
@@ -5446,7 +5446,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #272
+#272
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -5466,7 +5466,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #273
+#273
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -5486,7 +5486,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #274
+#274
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -5506,7 +5506,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #275
+#275
 
 - Gear: Boots
 - Rarity: Legendary
@@ -5526,7 +5526,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #276
+#276
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -5546,7 +5546,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #277
+#277
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -5566,7 +5566,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #278
+#278
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -5586,7 +5586,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #279
+#279
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -5606,7 +5606,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #280
+#280
 
 - Gear: Heels
 - Rarity: Legendary
@@ -5626,7 +5626,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #281
+#281
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -5646,7 +5646,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #282
+#282
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -5666,7 +5666,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #283
+#283
 
 - Gear: Flats
 - Rarity: Legendary
@@ -5686,7 +5686,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #284
+#284
 
 - Gear: Heels
 - Rarity: Legendary
@@ -5706,7 +5706,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #285
+#285
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -5726,7 +5726,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #286
+#286
 
 - Gear: Flats
 - Rarity: Legendary
@@ -5746,7 +5746,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #287
+#287
 
 - Gear: Boots
 - Rarity: Legendary
@@ -5766,7 +5766,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #288
+#288
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -5786,7 +5786,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #289
+#289
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -5806,7 +5806,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #290
+#290
 
 - Gear: Flats
 - Rarity: Legendary
@@ -5826,7 +5826,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #291
+#291
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -5848,7 +5848,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #292
+#292
 
 - Gear: Heels
 - Rarity: Legendary
@@ -5868,7 +5868,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #293
+#293
 
 - Gear: Heels
 - Rarity: Legendary
@@ -5888,7 +5888,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #294
+#294
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -5908,7 +5908,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #295
+#295
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -5928,7 +5928,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #296
+#296
 
 - Gear: Flats
 - Rarity: Legendary
@@ -5948,7 +5948,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #297
+#297
 
 - Gear: Boots
 - Rarity: Legendary
@@ -5968,7 +5968,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #298
+#298
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -5988,7 +5988,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #299
+#299
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -6008,7 +6008,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #300
+#300
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -6028,7 +6028,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #301
+#301
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -6048,7 +6048,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #302
+#302
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -6068,7 +6068,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #303
+#303
 
 - Gear: Heels
 - Rarity: Legendary
@@ -6088,7 +6088,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #304
+#304
 
 - Gear: Heels
 - Rarity: Legendary
@@ -6108,7 +6108,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #305
+#305
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -6128,7 +6128,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #306
+#306
 
 - Gear: Boots
 - Rarity: Legendary
@@ -6148,7 +6148,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #307
+#307
 
 - Gear: Heels
 - Rarity: Legendary
@@ -6168,7 +6168,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #308
+#308
 
 - Gear: Flats
 - Rarity: Legendary
@@ -6188,7 +6188,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #309
+#309
 
 - Gear: Heels
 - Rarity: Legendary
@@ -6208,7 +6208,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #310
+#310
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -6228,7 +6228,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #311
+#311
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -6248,7 +6248,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #312
+#312
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -6268,7 +6268,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #313
+#313
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -6288,7 +6288,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #314
+#314
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -6308,7 +6308,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #315
+#315
 
 - Gear: Boots
 - Rarity: Legendary
@@ -6328,7 +6328,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #316
+#316
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -6348,7 +6348,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #317
+#317
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -6368,7 +6368,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #318
+#318
 
 - Gear: Flats
 - Rarity: Legendary
@@ -6388,7 +6388,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #319
+#319
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -6408,7 +6408,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #320
+#320
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -6428,7 +6428,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #321
+#321
 
 - Gear: Flats
 - Rarity: Legendary
@@ -6448,7 +6448,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #322
+#322
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -6468,7 +6468,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #323
+#323
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -6488,7 +6488,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #324
+#324
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -6508,7 +6508,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #325
+#325
 
 - Gear: Boots
 - Rarity: Legendary
@@ -6528,7 +6528,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #326
+#326
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -6548,7 +6548,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #327
+#327
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -6568,7 +6568,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #328
+#328
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -6588,7 +6588,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #329
+#329
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -6608,7 +6608,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #330
+#330
 
 - Gear: Boots
 - Rarity: Legendary
@@ -6628,7 +6628,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #331
+#331
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -6648,7 +6648,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #332
+#332
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -6668,7 +6668,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #333
+#333
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -6688,7 +6688,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #334
+#334
 
 - Gear: Heels
 - Rarity: Legendary
@@ -6708,7 +6708,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #335
+#335
 
 - Gear: Boots
 - Rarity: Legendary
@@ -6728,7 +6728,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #336
+#336
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -6748,7 +6748,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #337
+#337
 
 - Gear: Heels
 - Rarity: Legendary
@@ -6768,7 +6768,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #338
+#338
 
 - Gear: Flats
 - Rarity: Legendary
@@ -6788,7 +6788,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #339
+#339
 
 - Gear: Boots
 - Rarity: Legendary
@@ -6808,7 +6808,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #340
+#340
 
 - Gear: Flats
 - Rarity: Legendary
@@ -6828,7 +6828,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #341
+#341
 
 - Gear: Flats
 - Rarity: Legendary
@@ -6848,7 +6848,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #342
+#342
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -6868,7 +6868,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #343
+#343
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -6888,7 +6888,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #344
+#344
 
 - Gear: Heels
 - Rarity: Legendary
@@ -6908,7 +6908,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #345
+#345
 
 - Gear: Boots
 - Rarity: Legendary
@@ -6928,7 +6928,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #346
+#346
 
 - Gear: Heels
 - Rarity: Legendary
@@ -6950,7 +6950,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #347
+#347
 
 - Gear: Flats
 - Rarity: Legendary
@@ -6970,7 +6970,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #348
+#348
 
 - Gear: Boots
 - Rarity: Legendary
@@ -6990,7 +6990,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #349
+#349
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -7010,7 +7010,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #350
+#350
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -7030,7 +7030,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #351
+#351
 
 - Gear: Heels
 - Rarity: Legendary
@@ -7050,7 +7050,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #352
+#352
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -7070,7 +7070,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #353
+#353
 
 - Gear: Boots
 - Rarity: Legendary
@@ -7090,7 +7090,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #354
+#354
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -7110,7 +7110,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #355
+#355
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -7130,7 +7130,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #356
+#356
 
 - Gear: Heels
 - Rarity: Legendary
@@ -7150,7 +7150,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #357
+#357
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -7170,7 +7170,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #358
+#358
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -7190,7 +7190,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #359
+#359
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -7210,7 +7210,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #360
+#360
 
 - Gear: Flats
 - Rarity: Legendary
@@ -7230,7 +7230,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #361
+#361
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -7250,7 +7250,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #362
+#362
 
 - Gear: Boots
 - Rarity: Legendary
@@ -7270,7 +7270,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #363
+#363
 
 - Gear: Flats
 - Rarity: Legendary
@@ -7290,7 +7290,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #364
+#364
 
 - Gear: Boots
 - Rarity: Legendary
@@ -7310,7 +7310,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #365
+#365
 
 - Gear: Flats
 - Rarity: Legendary
@@ -7330,7 +7330,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #366
+#366
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -7350,7 +7350,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #367
+#367
 
 - Gear: Flats
 - Rarity: Legendary
@@ -7370,7 +7370,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #368
+#368
 
 - Gear: Heels
 - Rarity: Legendary
@@ -7390,7 +7390,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #369
+#369
 
 - Gear: Boots
 - Rarity: Legendary
@@ -7410,7 +7410,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #370
+#370
 
 - Gear: Flats
 - Rarity: Legendary
@@ -7430,7 +7430,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #371
+#371
 
 - Gear: Heels
 - Rarity: Legendary
@@ -7450,7 +7450,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #372
+#372
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -7470,7 +7470,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #373
+#373
 
 - Gear: Boots
 - Rarity: Legendary
@@ -7490,7 +7490,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #374
+#374
 
 - Gear: Flats
 - Rarity: Legendary
@@ -7510,7 +7510,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #375
+#375
 
 - Gear: Flats
 - Rarity: Legendary
@@ -7530,7 +7530,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #376
+#376
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -7550,7 +7550,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #377
+#377
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -7570,7 +7570,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #378
+#378
 
 - Gear: Flats
 - Rarity: Legendary
@@ -7590,7 +7590,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #379
+#379
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -7610,7 +7610,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #380
+#380
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -7630,7 +7630,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #381
+#381
 
 - Gear: Boots
 - Rarity: Legendary
@@ -7650,7 +7650,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #382
+#382
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -7670,7 +7670,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #383
+#383
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -7690,7 +7690,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #384
+#384
 
 - Gear: Boots
 - Rarity: Legendary
@@ -7710,7 +7710,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #385
+#385
 
 - Gear: Flats
 - Rarity: Legendary
@@ -7730,7 +7730,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #386
+#386
 
 - Gear: Heels
 - Rarity: Legendary
@@ -7750,7 +7750,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #387
+#387
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -7770,7 +7770,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #388
+#388
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -7790,7 +7790,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #389
+#389
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -7810,7 +7810,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #390
+#390
 
 - Gear: Boots
 - Rarity: Legendary
@@ -7830,7 +7830,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #391
+#391
 
 - Gear: Boots
 - Rarity: Legendary
@@ -7850,7 +7850,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #392
+#392
 
 - Gear: Flats
 - Rarity: Legendary
@@ -7870,7 +7870,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #393
+#393
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -7890,7 +7890,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #394
+#394
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -7910,7 +7910,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #395
+#395
 
 - Gear: Heels
 - Rarity: Legendary
@@ -7930,7 +7930,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #396
+#396
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -7950,7 +7950,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #397
+#397
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -7970,7 +7970,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #398
+#398
 
 - Gear: Boots
 - Rarity: Legendary
@@ -7990,7 +7990,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #399
+#399
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -8010,7 +8010,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #400
+#400
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -8030,7 +8030,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #401
+#401
 
 - Gear: Flats
 - Rarity: Legendary
@@ -8050,7 +8050,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #402
+#402
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -8070,7 +8070,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #403
+#403
 
 - Gear: Heels
 - Rarity: Legendary
@@ -8090,7 +8090,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #404
+#404
 
 - Gear: Boots
 - Rarity: Legendary
@@ -8110,7 +8110,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #405
+#405
 
 - Gear: Heels
 - Rarity: Legendary
@@ -8130,7 +8130,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #406
+#406
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -8150,7 +8150,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #407
+#407
 
 - Gear: Heels
 - Rarity: Legendary
@@ -8170,7 +8170,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #408
+#408
 
 - Gear: Flats
 - Rarity: Legendary
@@ -8190,7 +8190,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #409
+#409
 
 - Gear: Heels
 - Rarity: Legendary
@@ -8210,7 +8210,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #410
+#410
 
 - Gear: Flats
 - Rarity: Legendary
@@ -8230,7 +8230,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #411
+#411
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -8252,7 +8252,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #412
+#412
 
 - Gear: Heels
 - Rarity: Legendary
@@ -8272,7 +8272,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #413
+#413
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -8292,7 +8292,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #414
+#414
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -8312,7 +8312,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #415
+#415
 
 - Gear: Boots
 - Rarity: Legendary
@@ -8332,7 +8332,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #416
+#416
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -8352,7 +8352,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #417
+#417
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -8372,7 +8372,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #418
+#418
 
 - Gear: Heels
 - Rarity: Legendary
@@ -8392,7 +8392,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #419
+#419
 
 - Gear: Heels
 - Rarity: Legendary
@@ -8412,7 +8412,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #420
+#420
 
 - Gear: Flats
 - Rarity: Legendary
@@ -8432,7 +8432,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #421
+#421
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -8452,7 +8452,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #422
+#422
 
 - Gear: Boots
 - Rarity: Legendary
@@ -8472,7 +8472,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #423
+#423
 
 - Gear: Heels
 - Rarity: Legendary
@@ -8492,7 +8492,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #424
+#424
 
 - Gear: Flats
 - Rarity: Legendary
@@ -8512,7 +8512,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #425
+#425
 
 - Gear: Heels
 - Rarity: Legendary
@@ -8532,7 +8532,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #426
+#426
 
 - Gear: Heels
 - Rarity: Legendary
@@ -8552,7 +8552,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #427
+#427
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -8572,7 +8572,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #428
+#428
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -8592,7 +8592,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #429
+#429
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -8612,7 +8612,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #430
+#430
 
 - Gear: Flats
 - Rarity: Legendary
@@ -8632,7 +8632,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #431
+#431
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -8652,7 +8652,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #432
+#432
 
 - Gear: Heels
 - Rarity: Legendary
@@ -8672,7 +8672,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #433
+#433
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -8692,7 +8692,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #434
+#434
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -8712,7 +8712,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #435
+#435
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -8732,7 +8732,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #436
+#436
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -8752,7 +8752,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #437
+#437
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -8772,7 +8772,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #438
+#438
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -8792,7 +8792,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #439
+#439
 
 - Gear: Boots
 - Rarity: Legendary
@@ -8812,7 +8812,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #440
+#440
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -8832,7 +8832,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #441
+#441
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -8852,7 +8852,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #442
+#442
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -8872,7 +8872,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #443
+#443
 
 - Gear: Boots
 - Rarity: Legendary
@@ -8892,7 +8892,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #444
+#444
 
 - Gear: Flats
 - Rarity: Legendary
@@ -8912,7 +8912,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #445
+#445
 
 - Gear: Heels
 - Rarity: Legendary
@@ -8932,7 +8932,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #446
+#446
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -8952,7 +8952,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #447
+#447
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -8972,7 +8972,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #448
+#448
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -8994,7 +8994,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #449
+#449
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -9014,7 +9014,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #450
+#450
 
 - Gear: Flats
 - Rarity: Legendary
@@ -9034,7 +9034,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #451
+#451
 
 - Gear: Heels
 - Rarity: Legendary
@@ -9054,7 +9054,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #452
+#452
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -9074,7 +9074,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #453
+#453
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -9094,7 +9094,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #454
+#454
 
 - Gear: Heels
 - Rarity: Legendary
@@ -9114,7 +9114,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #455
+#455
 
 - Gear: Heels
 - Rarity: Legendary
@@ -9134,7 +9134,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #456
+#456
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -9154,7 +9154,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #457
+#457
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -9174,7 +9174,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #458
+#458
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -9194,7 +9194,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #459
+#459
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -9214,7 +9214,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #460
+#460
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -9234,7 +9234,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #461
+#461
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -9254,7 +9254,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #462
+#462
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -9274,7 +9274,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #463
+#463
 
 - Gear: Flats
 - Rarity: Legendary
@@ -9294,7 +9294,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #464
+#464
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -9314,7 +9314,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #465
+#465
 
 - Gear: Heels
 - Rarity: Legendary
@@ -9334,7 +9334,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #466
+#466
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -9354,7 +9354,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #467
+#467
 
 - Gear: Heels
 - Rarity: Legendary
@@ -9374,7 +9374,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #468
+#468
 
 - Gear: Boots
 - Rarity: Legendary
@@ -9394,7 +9394,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #469
+#469
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -9414,7 +9414,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #470
+#470
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -9434,7 +9434,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #471
+#471
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -9454,7 +9454,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #472
+#472
 
 - Gear: Boots
 - Rarity: Legendary
@@ -9474,7 +9474,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #473
+#473
 
 - Gear: Flats
 - Rarity: Legendary
@@ -9494,7 +9494,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #474
+#474
 
 - Gear: Boots
 - Rarity: Legendary
@@ -9514,7 +9514,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #475
+#475
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -9534,7 +9534,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #476
+#476
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -9554,7 +9554,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #477
+#477
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -9574,7 +9574,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #478
+#478
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -9594,7 +9594,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #479
+#479
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -9614,7 +9614,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #480
+#480
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -9634,7 +9634,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #481
+#481
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -9654,7 +9654,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #482
+#482
 
 - Gear: Heels
 - Rarity: Legendary
@@ -9674,7 +9674,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #483
+#483
 
 - Gear: Heels
 - Rarity: Legendary
@@ -9694,7 +9694,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #484
+#484
 
 - Gear: Flats
 - Rarity: Legendary
@@ -9714,7 +9714,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #485
+#485
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -9734,7 +9734,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #486
+#486
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -9754,7 +9754,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #487
+#487
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -9774,7 +9774,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #488
+#488
 
 - Gear: Heels
 - Rarity: Legendary
@@ -9794,7 +9794,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #489
+#489
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -9814,7 +9814,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #490
+#490
 
 - Gear: Heels
 - Rarity: Legendary
@@ -9834,7 +9834,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #491
+#491
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -9854,7 +9854,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #492
+#492
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -9874,7 +9874,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #493
+#493
 
 - Gear: Heels
 - Rarity: Legendary
@@ -9894,7 +9894,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #494
+#494
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -9914,7 +9914,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #495
+#495
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -9934,7 +9934,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #496
+#496
 
 - Gear: Boots
 - Rarity: Legendary
@@ -9954,7 +9954,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #497
+#497
 
 - Gear: Flats
 - Rarity: Legendary
@@ -9974,7 +9974,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #498
+#498
 
 - Gear: Boots
 - Rarity: Legendary
@@ -9994,7 +9994,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #499
+#499
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -10014,7 +10014,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #500
+#500
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -10034,7 +10034,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #501
+#501
 
 - Gear: Heels
 - Rarity: Legendary
@@ -10054,7 +10054,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #502
+#502
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -10074,7 +10074,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #503
+#503
 
 - Gear: Boots
 - Rarity: Legendary
@@ -10094,7 +10094,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #504
+#504
 
 - Gear: Boots
 - Rarity: Legendary
@@ -10114,7 +10114,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #505
+#505
 
 - Gear: Boots
 - Rarity: Legendary
@@ -10134,7 +10134,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #506
+#506
 
 - Gear: Heels
 - Rarity: Legendary
@@ -10154,7 +10154,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #507
+#507
 
 - Gear: Boots
 - Rarity: Legendary
@@ -10174,7 +10174,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #508
+#508
 
 - Gear: Flats
 - Rarity: Legendary
@@ -10196,7 +10196,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #509
+#509
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -10216,7 +10216,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #510
+#510
 
 - Gear: Heels
 - Rarity: Legendary
@@ -10236,7 +10236,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #511
+#511
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -10256,7 +10256,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #512
+#512
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -10276,7 +10276,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #513
+#513
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -10296,7 +10296,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #514
+#514
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -10318,7 +10318,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #515
+#515
 
 - Gear: Heels
 - Rarity: Legendary
@@ -10338,7 +10338,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #516
+#516
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -10358,7 +10358,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #517
+#517
 
 - Gear: Boots
 - Rarity: Legendary
@@ -10378,7 +10378,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #518
+#518
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -10398,7 +10398,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #519
+#519
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -10418,7 +10418,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #520
+#520
 
 - Gear: Heels
 - Rarity: Legendary
@@ -10438,7 +10438,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #521
+#521
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -10458,7 +10458,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #522
+#522
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -10478,7 +10478,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #523
+#523
 
 - Gear: Boots
 - Rarity: Legendary
@@ -10498,7 +10498,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #524
+#524
 
 - Gear: Flats
 - Rarity: Legendary
@@ -10518,7 +10518,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #525
+#525
 
 - Gear: Heels
 - Rarity: Legendary
@@ -10538,7 +10538,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #526
+#526
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -10558,7 +10558,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #527
+#527
 
 - Gear: Boots
 - Rarity: Legendary
@@ -10578,7 +10578,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #528
+#528
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -10598,7 +10598,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #529
+#529
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -10618,7 +10618,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #530
+#530
 
 - Gear: Heels
 - Rarity: Legendary
@@ -10638,7 +10638,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #531
+#531
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -10658,7 +10658,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #532
+#532
 
 - Gear: Heels
 - Rarity: Legendary
@@ -10678,7 +10678,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #533
+#533
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -10698,7 +10698,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #534
+#534
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -10718,7 +10718,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #535
+#535
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -10738,7 +10738,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #536
+#536
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -10760,7 +10760,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #537
+#537
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -10780,7 +10780,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #538
+#538
 
 - Gear: Heels
 - Rarity: Legendary
@@ -10800,7 +10800,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #539
+#539
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -10820,7 +10820,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #540
+#540
 
 - Gear: Boots
 - Rarity: Legendary
@@ -10840,7 +10840,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #541
+#541
 
 - Gear: Flats
 - Rarity: Legendary
@@ -10860,7 +10860,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #542
+#542
 
 - Gear: Flats
 - Rarity: Legendary
@@ -10880,7 +10880,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #543
+#543
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -10900,7 +10900,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #544
+#544
 
 - Gear: Heels
 - Rarity: Legendary
@@ -10920,7 +10920,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #545
+#545
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -10940,7 +10940,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #546
+#546
 
 - Gear: Boots
 - Rarity: Legendary
@@ -10960,7 +10960,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #547
+#547
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -10980,7 +10980,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #548
+#548
 
 - Gear: Flats
 - Rarity: Legendary
@@ -11000,7 +11000,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #549
+#549
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -11020,7 +11020,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #550
+#550
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -11040,7 +11040,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #551
+#551
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -11060,7 +11060,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #552
+#552
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -11080,7 +11080,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #553
+#553
 
 - Gear: Boots
 - Rarity: Legendary
@@ -11100,7 +11100,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #554
+#554
 
 - Gear: Boots
 - Rarity: Legendary
@@ -11120,7 +11120,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #555
+#555
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -11140,7 +11140,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #556
+#556
 
 - Gear: Heels
 - Rarity: Legendary
@@ -11160,7 +11160,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #557
+#557
 
 - Gear: Boots
 - Rarity: Legendary
@@ -11180,7 +11180,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #558
+#558
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -11200,7 +11200,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #559
+#559
 
 - Gear: Boots
 - Rarity: Legendary
@@ -11220,7 +11220,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #560
+#560
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -11240,7 +11240,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #561
+#561
 
 - Gear: Flats
 - Rarity: Legendary
@@ -11260,7 +11260,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #562
+#562
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -11280,7 +11280,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #563
+#563
 
 - Gear: Flats
 - Rarity: Legendary
@@ -11300,7 +11300,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #564
+#564
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -11320,7 +11320,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #565
+#565
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -11340,7 +11340,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #566
+#566
 
 - Gear: Boots
 - Rarity: Legendary
@@ -11360,7 +11360,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #567
+#567
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -11380,7 +11380,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #568
+#568
 
 - Gear: Heels
 - Rarity: Legendary
@@ -11400,7 +11400,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #569
+#569
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -11420,7 +11420,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #570
+#570
 
 - Gear: Boots
 - Rarity: Legendary
@@ -11440,7 +11440,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #571
+#571
 
 - Gear: Boots
 - Rarity: Legendary
@@ -11460,7 +11460,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #572
+#572
 
 - Gear: Flats
 - Rarity: Legendary
@@ -11480,7 +11480,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #573
+#573
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -11500,7 +11500,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #574
+#574
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -11520,7 +11520,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #575
+#575
 
 - Gear: Flats
 - Rarity: Legendary
@@ -11540,7 +11540,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #576
+#576
 
 - Gear: Boots
 - Rarity: Legendary
@@ -11560,7 +11560,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #577
+#577
 
 - Gear: Heels
 - Rarity: Legendary
@@ -11580,7 +11580,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #578
+#578
 
 - Gear: Flats
 - Rarity: Legendary
@@ -11600,7 +11600,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #579
+#579
 
 - Gear: Boots
 - Rarity: Legendary
@@ -11620,7 +11620,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #580
+#580
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -11640,7 +11640,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #581
+#581
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -11660,7 +11660,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #582
+#582
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -11680,7 +11680,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #583
+#583
 
 - Gear: Boots
 - Rarity: Legendary
@@ -11700,7 +11700,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #584
+#584
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -11720,7 +11720,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #585
+#585
 
 - Gear: Boots
 - Rarity: Legendary
@@ -11740,7 +11740,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #586
+#586
 
 - Gear: Boots
 - Rarity: Legendary
@@ -11760,7 +11760,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #587
+#587
 
 - Gear: Flats
 - Rarity: Legendary
@@ -11780,7 +11780,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #588
+#588
 
 - Gear: Flats
 - Rarity: Legendary
@@ -11800,7 +11800,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #589
+#589
 
 - Gear: Boots
 - Rarity: Legendary
@@ -11820,7 +11820,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #590
+#590
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -11840,7 +11840,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #591
+#591
 
 - Gear: Flats
 - Rarity: Legendary
@@ -11860,7 +11860,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #592
+#592
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -11880,7 +11880,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #593
+#593
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -11900,7 +11900,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #594
+#594
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -11920,7 +11920,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #595
+#595
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -11940,7 +11940,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #596
+#596
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -11960,7 +11960,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #597
+#597
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -11982,7 +11982,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #598
+#598
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -12002,7 +12002,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #599
+#599
 
 - Gear: Heels
 - Rarity: Legendary
@@ -12022,7 +12022,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #600
+#600
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -12042,7 +12042,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #601
+#601
 
 - Gear: Heels
 - Rarity: Legendary
@@ -12062,7 +12062,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #602
+#602
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -12082,7 +12082,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #603
+#603
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -12102,7 +12102,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #604
+#604
 
 - Gear: Boots
 - Rarity: Legendary
@@ -12122,7 +12122,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #605
+#605
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -12142,7 +12142,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #606
+#606
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -12162,7 +12162,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #607
+#607
 
 - Gear: Flats
 - Rarity: Legendary
@@ -12182,7 +12182,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #608
+#608
 
 - Gear: Flats
 - Rarity: Legendary
@@ -12202,7 +12202,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #609
+#609
 
 - Gear: Heels
 - Rarity: Legendary
@@ -12222,7 +12222,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #610
+#610
 
 - Gear: Boots
 - Rarity: Legendary
@@ -12242,7 +12242,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #611
+#611
 
 - Gear: Flats
 - Rarity: Legendary
@@ -12262,7 +12262,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #612
+#612
 
 - Gear: Boots
 - Rarity: Legendary
@@ -12282,7 +12282,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #613
+#613
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -12302,7 +12302,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #614
+#614
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -12322,7 +12322,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #615
+#615
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -12342,7 +12342,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #616
+#616
 
 - Gear: Flats
 - Rarity: Legendary
@@ -12362,7 +12362,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #617
+#617
 
 - Gear: Boots
 - Rarity: Legendary
@@ -12382,7 +12382,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #618
+#618
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -12402,7 +12402,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #619
+#619
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -12422,7 +12422,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #620
+#620
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -12442,7 +12442,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #621
+#621
 
 - Gear: Boots
 - Rarity: Legendary
@@ -12462,7 +12462,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #622
+#622
 
 - Gear: Flats
 - Rarity: Legendary
@@ -12482,7 +12482,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #623
+#623
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -12502,7 +12502,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #624
+#624
 
 - Gear: Boots
 - Rarity: Legendary
@@ -12522,7 +12522,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #625
+#625
 
 - Gear: Flats
 - Rarity: Legendary
@@ -12542,7 +12542,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #626
+#626
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -12562,7 +12562,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #627
+#627
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -12582,7 +12582,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #628
+#628
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -12602,7 +12602,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #629
+#629
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -12622,7 +12622,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #630
+#630
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -12642,7 +12642,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #631
+#631
 
 - Gear: Heels
 - Rarity: Legendary
@@ -12662,7 +12662,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #632
+#632
 
 - Gear: Flats
 - Rarity: Legendary
@@ -12682,7 +12682,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #633
+#633
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -12702,7 +12702,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #634
+#634
 
 - Gear: Boots
 - Rarity: Legendary
@@ -12722,7 +12722,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #635
+#635
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -12742,7 +12742,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #636
+#636
 
 - Gear: Flats
 - Rarity: Legendary
@@ -12762,7 +12762,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #637
+#637
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -12782,7 +12782,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #638
+#638
 
 - Gear: Boots
 - Rarity: Legendary
@@ -12802,7 +12802,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #639
+#639
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -12822,7 +12822,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #640
+#640
 
 - Gear: Boots
 - Rarity: Legendary
@@ -12842,7 +12842,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #641
+#641
 
 - Gear: Flats
 - Rarity: Legendary
@@ -12862,7 +12862,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #642
+#642
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -12882,7 +12882,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #643
+#643
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -12902,7 +12902,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #644
+#644
 
 - Gear: Flats
 - Rarity: Legendary
@@ -12924,7 +12924,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #645
+#645
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -12944,7 +12944,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #646
+#646
 
 - Gear: Heels
 - Rarity: Legendary
@@ -12964,7 +12964,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #647
+#647
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -12984,7 +12984,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #648
+#648
 
 - Gear: Flats
 - Rarity: Legendary
@@ -13004,7 +13004,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #649
+#649
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -13024,7 +13024,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #650
+#650
 
 - Gear: Heels
 - Rarity: Legendary
@@ -13044,7 +13044,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #651
+#651
 
 - Gear: Flats
 - Rarity: Legendary
@@ -13064,7 +13064,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #652
+#652
 
 - Gear: Flats
 - Rarity: Legendary
@@ -13084,7 +13084,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #653
+#653
 
 - Gear: Flats
 - Rarity: Legendary
@@ -13104,7 +13104,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #654
+#654
 
 - Gear: Boots
 - Rarity: Legendary
@@ -13124,7 +13124,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #655
+#655
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -13144,7 +13144,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #656
+#656
 
 - Gear: Flats
 - Rarity: Legendary
@@ -13164,7 +13164,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #657
+#657
 
 - Gear: Heels
 - Rarity: Legendary
@@ -13184,7 +13184,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #658
+#658
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -13204,7 +13204,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #659
+#659
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -13224,7 +13224,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #660
+#660
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -13244,7 +13244,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #661
+#661
 
 - Gear: Boots
 - Rarity: Legendary
@@ -13264,7 +13264,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #662
+#662
 
 - Gear: Boots
 - Rarity: Legendary
@@ -13284,7 +13284,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #663
+#663
 
 - Gear: Flats
 - Rarity: Legendary
@@ -13304,7 +13304,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #664
+#664
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -13324,7 +13324,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #665
+#665
 
 - Gear: Flats
 - Rarity: Legendary
@@ -13344,7 +13344,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #666
+#666
 
 - Gear: Boots
 - Rarity: Legendary
@@ -13364,7 +13364,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #667
+#667
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -13384,7 +13384,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #668
+#668
 
 - Gear: Flats
 - Rarity: Legendary
@@ -13404,7 +13404,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #669
+#669
 
 - Gear: Boots
 - Rarity: Legendary
@@ -13424,7 +13424,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #670
+#670
 
 - Gear: Boots
 - Rarity: Legendary
@@ -13444,7 +13444,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #671
+#671
 
 - Gear: Heels
 - Rarity: Legendary
@@ -13464,7 +13464,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #672
+#672
 
 - Gear: Boots
 - Rarity: Legendary
@@ -13484,7 +13484,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #673
+#673
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -13504,7 +13504,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #674
+#674
 
 - Gear: Heels
 - Rarity: Legendary
@@ -13524,7 +13524,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #675
+#675
 
 - Gear: Heels
 - Rarity: Legendary
@@ -13544,7 +13544,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #676
+#676
 
 - Gear: Heels
 - Rarity: Legendary
@@ -13564,7 +13564,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #677
+#677
 
 - Gear: Heels
 - Rarity: Legendary
@@ -13584,7 +13584,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #678
+#678
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -13604,7 +13604,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #679
+#679
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -13624,7 +13624,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #680
+#680
 
 - Gear: Boots
 - Rarity: Legendary
@@ -13644,7 +13644,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #681
+#681
 
 - Gear: Boots
 - Rarity: Legendary
@@ -13664,7 +13664,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #682
+#682
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -13684,7 +13684,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #683
+#683
 
 - Gear: Boots
 - Rarity: Legendary
@@ -13704,7 +13704,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #684
+#684
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -13724,7 +13724,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #685
+#685
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -13744,7 +13744,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #686
+#686
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -13764,7 +13764,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #687
+#687
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -13784,7 +13784,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #688
+#688
 
 - Gear: Boots
 - Rarity: Legendary
@@ -13804,7 +13804,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #689
+#689
 
 - Gear: Flats
 - Rarity: Legendary
@@ -13824,7 +13824,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #690
+#690
 
 - Gear: Flats
 - Rarity: Legendary
@@ -13844,7 +13844,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #691
+#691
 
 - Gear: Boots
 - Rarity: Legendary
@@ -13866,7 +13866,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #692
+#692
 
 - Gear: Boots
 - Rarity: Legendary
@@ -13886,7 +13886,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #693
+#693
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -13906,7 +13906,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #694
+#694
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -13926,7 +13926,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #695
+#695
 
 - Gear: Boots
 - Rarity: Legendary
@@ -13946,7 +13946,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #696
+#696
 
 - Gear: Flats
 - Rarity: Legendary
@@ -13966,7 +13966,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #697
+#697
 
 - Gear: Heels
 - Rarity: Legendary
@@ -13986,7 +13986,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #698
+#698
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -14006,7 +14006,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #699
+#699
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -14026,7 +14026,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #700
+#700
 
 - Gear: Boots
 - Rarity: Legendary
@@ -14046,7 +14046,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #701
+#701
 
 - Gear: Boots
 - Rarity: Legendary
@@ -14066,7 +14066,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #702
+#702
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -14086,7 +14086,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #703
+#703
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -14106,7 +14106,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #704
+#704
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -14126,7 +14126,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #705
+#705
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -14146,7 +14146,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #706
+#706
 
 - Gear: Flats
 - Rarity: Legendary
@@ -14166,7 +14166,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #707
+#707
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -14186,7 +14186,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #708
+#708
 
 - Gear: Heels
 - Rarity: Legendary
@@ -14206,7 +14206,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #709
+#709
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -14226,7 +14226,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #710
+#710
 
 - Gear: Boots
 - Rarity: Legendary
@@ -14246,7 +14246,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #711
+#711
 
 - Gear: Flats
 - Rarity: Legendary
@@ -14266,7 +14266,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #712
+#712
 
 - Gear: Heels
 - Rarity: Legendary
@@ -14286,7 +14286,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #713
+#713
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -14306,7 +14306,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #714
+#714
 
 - Gear: Heels
 - Rarity: Legendary
@@ -14326,7 +14326,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #715
+#715
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -14346,7 +14346,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #716
+#716
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -14368,7 +14368,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #717
+#717
 
 - Gear: Heels
 - Rarity: Legendary
@@ -14388,7 +14388,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #718
+#718
 
 - Gear: Boots
 - Rarity: Legendary
@@ -14408,7 +14408,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #719
+#719
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -14428,7 +14428,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #720
+#720
 
 - Gear: Boots
 - Rarity: Legendary
@@ -14448,7 +14448,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #721
+#721
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -14468,7 +14468,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #722
+#722
 
 - Gear: Flats
 - Rarity: Legendary
@@ -14488,7 +14488,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #723
+#723
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -14508,7 +14508,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #724
+#724
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -14528,7 +14528,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #725
+#725
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -14548,7 +14548,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #726
+#726
 
 - Gear: Heels
 - Rarity: Legendary
@@ -14568,7 +14568,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #727
+#727
 
 - Gear: Heels
 - Rarity: Legendary
@@ -14588,7 +14588,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #728
+#728
 
 - Gear: Boots
 - Rarity: Legendary
@@ -14608,7 +14608,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #729
+#729
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -14628,7 +14628,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #730
+#730
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -14648,7 +14648,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #731
+#731
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -14668,7 +14668,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #732
+#732
 
 - Gear: Heels
 - Rarity: Legendary
@@ -14688,7 +14688,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #733
+#733
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -14708,7 +14708,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #734
+#734
 
 - Gear: Flats
 - Rarity: Legendary
@@ -14728,7 +14728,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #735
+#735
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -14748,7 +14748,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #736
+#736
 
 - Gear: Flats
 - Rarity: Legendary
@@ -14768,7 +14768,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #737
+#737
 
 - Gear: Boots
 - Rarity: Legendary
@@ -14790,7 +14790,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #738
+#738
 
 - Gear: Heels
 - Rarity: Legendary
@@ -14810,7 +14810,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #739
+#739
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -14830,7 +14830,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #740
+#740
 
 - Gear: Heels
 - Rarity: Legendary
@@ -14850,7 +14850,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #741
+#741
 
 - Gear: Flats
 - Rarity: Legendary
@@ -14870,7 +14870,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #742
+#742
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -14890,7 +14890,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #743
+#743
 
 - Gear: Flats
 - Rarity: Legendary
@@ -14910,7 +14910,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #744
+#744
 
 - Gear: Heels
 - Rarity: Legendary
@@ -14930,7 +14930,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #745
+#745
 
 - Gear: Flats
 - Rarity: Legendary
@@ -14950,7 +14950,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #746
+#746
 
 - Gear: Boots
 - Rarity: Legendary
@@ -14970,7 +14970,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #747
+#747
 
 - Gear: Flats
 - Rarity: Legendary
@@ -14990,7 +14990,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #748
+#748
 
 - Gear: Flats
 - Rarity: Legendary
@@ -15010,7 +15010,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #749
+#749
 
 - Gear: Boots
 - Rarity: Legendary
@@ -15030,7 +15030,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #750
+#750
 
 - Gear: Flats
 - Rarity: Legendary
@@ -15050,7 +15050,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #751
+#751
 
 - Gear: Heels
 - Rarity: Legendary
@@ -15070,7 +15070,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #752
+#752
 
 - Gear: Flats
 - Rarity: Legendary
@@ -15090,7 +15090,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #753
+#753
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -15110,7 +15110,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #754
+#754
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -15130,7 +15130,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #755
+#755
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -15150,7 +15150,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #756
+#756
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -15170,7 +15170,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #757
+#757
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -15190,7 +15190,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #758
+#758
 
 - Gear: Heels
 - Rarity: Legendary
@@ -15210,7 +15210,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #759
+#759
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -15230,7 +15230,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #760
+#760
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -15250,7 +15250,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #761
+#761
 
 - Gear: Boots
 - Rarity: Legendary
@@ -15270,7 +15270,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #762
+#762
 
 - Gear: Boots
 - Rarity: Legendary
@@ -15290,7 +15290,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #763
+#763
 
 - Gear: Flats
 - Rarity: Legendary
@@ -15310,7 +15310,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #764
+#764
 
 - Gear: Heels
 - Rarity: Legendary
@@ -15330,7 +15330,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #765
+#765
 
 - Gear: Flats
 - Rarity: Legendary
@@ -15350,7 +15350,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #766
+#766
 
 - Gear: Flats
 - Rarity: Legendary
@@ -15370,7 +15370,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #767
+#767
 
 - Gear: Heels
 - Rarity: Legendary
@@ -15392,7 +15392,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #768
+#768
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -15412,7 +15412,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #769
+#769
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -15432,7 +15432,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #770
+#770
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -15452,7 +15452,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #771
+#771
 
 - Gear: Flats
 - Rarity: Legendary
@@ -15472,7 +15472,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #772
+#772
 
 - Gear: Boots
 - Rarity: Legendary
@@ -15492,7 +15492,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #773
+#773
 
 - Gear: Heels
 - Rarity: Legendary
@@ -15512,7 +15512,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #774
+#774
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -15532,7 +15532,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #775
+#775
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -15552,7 +15552,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #776
+#776
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -15572,7 +15572,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #777
+#777
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -15592,7 +15592,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #778
+#778
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -15612,7 +15612,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #779
+#779
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -15634,7 +15634,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #780
+#780
 
 - Gear: Flats
 - Rarity: Legendary
@@ -15654,7 +15654,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #781
+#781
 
 - Gear: Boots
 - Rarity: Legendary
@@ -15674,7 +15674,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #782
+#782
 
 - Gear: Boots
 - Rarity: Legendary
@@ -15694,7 +15694,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #783
+#783
 
 - Gear: Flats
 - Rarity: Legendary
@@ -15714,7 +15714,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #784
+#784
 
 - Gear: Heels
 - Rarity: Legendary
@@ -15734,7 +15734,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #785
+#785
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -15754,7 +15754,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #786
+#786
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -15774,7 +15774,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #787
+#787
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -15794,7 +15794,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #788
+#788
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -15814,7 +15814,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #789
+#789
 
 - Gear: Flats
 - Rarity: Legendary
@@ -15834,7 +15834,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #790
+#790
 
 - Gear: Boots
 - Rarity: Legendary
@@ -15854,7 +15854,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #791
+#791
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -15874,7 +15874,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #792
+#792
 
 - Gear: Boots
 - Rarity: Legendary
@@ -15894,7 +15894,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #793
+#793
 
 - Gear: Boots
 - Rarity: Legendary
@@ -15914,7 +15914,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #794
+#794
 
 - Gear: Heels
 - Rarity: Legendary
@@ -15934,7 +15934,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #795
+#795
 
 - Gear: Flats
 - Rarity: Legendary
@@ -15954,7 +15954,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #796
+#796
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -15974,7 +15974,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #797
+#797
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -15994,7 +15994,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #798
+#798
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -16014,7 +16014,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #799
+#799
 
 - Gear: Heels
 - Rarity: Legendary
@@ -16034,7 +16034,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #800
+#800
 
 - Gear: Flats
 - Rarity: Legendary
@@ -16054,7 +16054,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #801
+#801
 
 - Gear: Flats
 - Rarity: Legendary
@@ -16074,7 +16074,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #802
+#802
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -16094,7 +16094,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #803
+#803
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -16114,7 +16114,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #804
+#804
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -16134,7 +16134,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #805
+#805
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -16154,7 +16154,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #806
+#806
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -16174,7 +16174,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #807
+#807
 
 - Gear: Flats
 - Rarity: Legendary
@@ -16194,7 +16194,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #808
+#808
 
 - Gear: Heels
 - Rarity: Legendary
@@ -16214,7 +16214,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #809
+#809
 
 - Gear: Flats
 - Rarity: Legendary
@@ -16234,7 +16234,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #810
+#810
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -16254,7 +16254,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #811
+#811
 
 - Gear: Flats
 - Rarity: Legendary
@@ -16274,7 +16274,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #812
+#812
 
 - Gear: Boots
 - Rarity: Legendary
@@ -16294,7 +16294,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #813
+#813
 
 - Gear: Heels
 - Rarity: Legendary
@@ -16314,7 +16314,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #814
+#814
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -16334,7 +16334,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #815
+#815
 
 - Gear: Boots
 - Rarity: Legendary
@@ -16354,7 +16354,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #816
+#816
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -16374,7 +16374,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #817
+#817
 
 - Gear: Flats
 - Rarity: Legendary
@@ -16394,7 +16394,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #818
+#818
 
 - Gear: Heels
 - Rarity: Legendary
@@ -16414,7 +16414,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #819
+#819
 
 - Gear: Flats
 - Rarity: Legendary
@@ -16434,7 +16434,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #820
+#820
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -16454,7 +16454,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #821
+#821
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -16474,7 +16474,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #822
+#822
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -16494,7 +16494,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #823
+#823
 
 - Gear: Heels
 - Rarity: Legendary
@@ -16514,7 +16514,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #824
+#824
 
 - Gear: Heels
 - Rarity: Legendary
@@ -16534,7 +16534,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #825
+#825
 
 - Gear: Flats
 - Rarity: Legendary
@@ -16554,7 +16554,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #826
+#826
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -16576,7 +16576,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #827
+#827
 
 - Gear: Flats
 - Rarity: Legendary
@@ -16596,7 +16596,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #828
+#828
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -16616,7 +16616,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #829
+#829
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -16636,7 +16636,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #830
+#830
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -16656,7 +16656,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #831
+#831
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -16676,7 +16676,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #832
+#832
 
 - Gear: Flats
 - Rarity: Legendary
@@ -16696,7 +16696,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #833
+#833
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -16716,7 +16716,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #834
+#834
 
 - Gear: Flats
 - Rarity: Legendary
@@ -16736,7 +16736,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #835
+#835
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -16756,7 +16756,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #836
+#836
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -16776,7 +16776,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #837
+#837
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -16796,7 +16796,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #838
+#838
 
 - Gear: Heels
 - Rarity: Legendary
@@ -16818,7 +16818,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #839
+#839
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -16838,7 +16838,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #840
+#840
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -16858,7 +16858,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #841
+#841
 
 - Gear: Heels
 - Rarity: Legendary
@@ -16878,7 +16878,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #842
+#842
 
 - Gear: Boots
 - Rarity: Legendary
@@ -16898,7 +16898,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #843
+#843
 
 - Gear: Boots
 - Rarity: Legendary
@@ -16918,7 +16918,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #844
+#844
 
 - Gear: Flats
 - Rarity: Legendary
@@ -16938,7 +16938,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #845
+#845
 
 - Gear: Heels
 - Rarity: Legendary
@@ -16958,7 +16958,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #846
+#846
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -16978,7 +16978,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #847
+#847
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -16998,7 +16998,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #848
+#848
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -17018,7 +17018,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #849
+#849
 
 - Gear: Flats
 - Rarity: Legendary
@@ -17038,7 +17038,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #850
+#850
 
 - Gear: Heels
 - Rarity: Legendary
@@ -17058,7 +17058,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #851
+#851
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -17078,7 +17078,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #852
+#852
 
 - Gear: Flats
 - Rarity: Legendary
@@ -17098,7 +17098,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #853
+#853
 
 - Gear: Boots
 - Rarity: Legendary
@@ -17118,7 +17118,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #854
+#854
 
 - Gear: Boots
 - Rarity: Legendary
@@ -17138,7 +17138,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #855
+#855
 
 - Gear: Boots
 - Rarity: Legendary
@@ -17158,7 +17158,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #856
+#856
 
 - Gear: Heels
 - Rarity: Legendary
@@ -17178,7 +17178,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #857
+#857
 
 - Gear: Flats
 - Rarity: Legendary
@@ -17198,7 +17198,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #858
+#858
 
 - Gear: Heels
 - Rarity: Legendary
@@ -17218,7 +17218,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #859
+#859
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -17238,7 +17238,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #860
+#860
 
 - Gear: Flats
 - Rarity: Legendary
@@ -17258,7 +17258,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #861
+#861
 
 - Gear: Heels
 - Rarity: Legendary
@@ -17278,7 +17278,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #862
+#862
 
 - Gear: Heels
 - Rarity: Legendary
@@ -17298,7 +17298,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #863
+#863
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -17318,7 +17318,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #864
+#864
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -17338,7 +17338,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #865
+#865
 
 - Gear: Boots
 - Rarity: Legendary
@@ -17358,7 +17358,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #866
+#866
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -17378,7 +17378,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #867
+#867
 
 - Gear: Boots
 - Rarity: Legendary
@@ -17398,7 +17398,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #868
+#868
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -17418,7 +17418,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #869
+#869
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -17438,7 +17438,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #870
+#870
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -17458,7 +17458,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #871
+#871
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -17478,7 +17478,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #872
+#872
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -17498,7 +17498,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #873
+#873
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -17518,7 +17518,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #874
+#874
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -17538,7 +17538,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #875
+#875
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -17558,7 +17558,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #876
+#876
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -17578,7 +17578,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #877
+#877
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -17598,7 +17598,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #878
+#878
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -17618,7 +17618,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #879
+#879
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -17638,7 +17638,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #880
+#880
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -17658,7 +17658,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #881
+#881
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -17678,7 +17678,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #882
+#882
 
 - Gear: Flats
 - Rarity: Legendary
@@ -17698,7 +17698,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #883
+#883
 
 - Gear: Flats
 - Rarity: Legendary
@@ -17718,7 +17718,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #884
+#884
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -17738,7 +17738,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #885
+#885
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -17758,7 +17758,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #886
+#886
 
 - Gear: Boots
 - Rarity: Legendary
@@ -17778,7 +17778,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #887
+#887
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -17798,7 +17798,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #888
+#888
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -17818,7 +17818,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #889
+#889
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -17838,7 +17838,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #890
+#890
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -17858,7 +17858,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #891
+#891
 
 - Gear: Flats
 - Rarity: Legendary
@@ -17878,7 +17878,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #892
+#892
 
 - Gear: Flats
 - Rarity: Legendary
@@ -17898,7 +17898,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #893
+#893
 
 - Gear: Boots
 - Rarity: Legendary
@@ -17918,7 +17918,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #894
+#894
 
 - Gear: Boots
 - Rarity: Legendary
@@ -17938,7 +17938,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #895
+#895
 
 - Gear: Flats
 - Rarity: Legendary
@@ -17958,7 +17958,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #896
+#896
 
 - Gear: Boots
 - Rarity: Legendary
@@ -17978,7 +17978,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #897
+#897
 
 - Gear: Heels
 - Rarity: Legendary
@@ -17998,7 +17998,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #898
+#898
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -18018,7 +18018,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #899
+#899
 
 - Gear: Flats
 - Rarity: Legendary
@@ -18038,7 +18038,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #900
+#900
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -18058,7 +18058,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #901
+#901
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -18078,7 +18078,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #902
+#902
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -18098,7 +18098,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #903
+#903
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -18118,7 +18118,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #904
+#904
 
 - Gear: Heels
 - Rarity: Legendary
@@ -18138,7 +18138,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #905
+#905
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -18158,7 +18158,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #906
+#906
 
 - Gear: Heels
 - Rarity: Legendary
@@ -18178,7 +18178,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #907
+#907
 
 - Gear: Boots
 - Rarity: Legendary
@@ -18198,7 +18198,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #908
+#908
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -18218,7 +18218,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #909
+#909
 
 - Gear: Flats
 - Rarity: Legendary
@@ -18238,7 +18238,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #910
+#910
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -18258,7 +18258,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #911
+#911
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -18278,7 +18278,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #912
+#912
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -18298,7 +18298,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #913
+#913
 
 - Gear: Heels
 - Rarity: Legendary
@@ -18318,7 +18318,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #914
+#914
 
 - Gear: Boots
 - Rarity: Legendary
@@ -18338,7 +18338,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #915
+#915
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -18358,7 +18358,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #916
+#916
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -18378,7 +18378,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #917
+#917
 
 - Gear: Heels
 - Rarity: Legendary
@@ -18398,7 +18398,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #918
+#918
 
 - Gear: Flats
 - Rarity: Legendary
@@ -18418,7 +18418,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #919
+#919
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -18438,7 +18438,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #920
+#920
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -18460,7 +18460,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #921
+#921
 
 - Gear: Flats
 - Rarity: Legendary
@@ -18480,7 +18480,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #922
+#922
 
 - Gear: Heels
 - Rarity: Legendary
@@ -18500,7 +18500,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #923
+#923
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -18520,7 +18520,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #924
+#924
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -18540,7 +18540,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #925
+#925
 
 - Gear: Heels
 - Rarity: Legendary
@@ -18560,7 +18560,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #926
+#926
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -18580,7 +18580,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #927
+#927
 
 - Gear: Boots
 - Rarity: Legendary
@@ -18600,7 +18600,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #928
+#928
 
 - Gear: Heels
 - Rarity: Legendary
@@ -18620,7 +18620,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #929
+#929
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -18640,7 +18640,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #930
+#930
 
 - Gear: Flats
 - Rarity: Legendary
@@ -18660,7 +18660,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #931
+#931
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -18680,7 +18680,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #932
+#932
 
 - Gear: Boots
 - Rarity: Legendary
@@ -18700,7 +18700,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #933
+#933
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -18720,7 +18720,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #934
+#934
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -18740,7 +18740,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #935
+#935
 
 - Gear: Flats
 - Rarity: Legendary
@@ -18760,7 +18760,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #936
+#936
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -18780,7 +18780,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #937
+#937
 
 - Gear: Flats
 - Rarity: Legendary
@@ -18800,7 +18800,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #938
+#938
 
 - Gear: Flats
 - Rarity: Legendary
@@ -18820,7 +18820,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #939
+#939
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -18840,7 +18840,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #940
+#940
 
 - Gear: Flats
 - Rarity: Legendary
@@ -18860,7 +18860,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #941
+#941
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -18880,7 +18880,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #942
+#942
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -18900,7 +18900,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #943
+#943
 
 - Gear: Heels
 - Rarity: Legendary
@@ -18920,7 +18920,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #944
+#944
 
 - Gear: Boots
 - Rarity: Legendary
@@ -18940,7 +18940,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #945
+#945
 
 - Gear: Heels
 - Rarity: Legendary
@@ -18960,7 +18960,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #946
+#946
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -18980,7 +18980,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #947
+#947
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -19000,7 +19000,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #948
+#948
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -19020,7 +19020,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #949
+#949
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -19040,7 +19040,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #950
+#950
 
 - Gear: Flats
 - Rarity: Legendary
@@ -19060,7 +19060,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #951
+#951
 
 - Gear: Boots
 - Rarity: Legendary
@@ -19080,7 +19080,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #952
+#952
 
 - Gear: Flats
 - Rarity: Legendary
@@ -19100,7 +19100,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #953
+#953
 
 - Gear: Boots
 - Rarity: Legendary
@@ -19120,7 +19120,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #954
+#954
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -19140,7 +19140,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #955
+#955
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -19160,7 +19160,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #956
+#956
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -19180,7 +19180,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #957
+#957
 
 - Gear: Flats
 - Rarity: Legendary
@@ -19200,7 +19200,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #958
+#958
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -19220,7 +19220,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #959
+#959
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -19240,7 +19240,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #960
+#960
 
 - Gear: Boots
 - Rarity: Legendary
@@ -19260,7 +19260,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #961
+#961
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -19280,7 +19280,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #962
+#962
 
 - Gear: Boots
 - Rarity: Legendary
@@ -19300,7 +19300,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #963
+#963
 
 - Gear: Heels
 - Rarity: Legendary
@@ -19320,7 +19320,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #964
+#964
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -19340,7 +19340,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #965
+#965
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -19360,7 +19360,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #966
+#966
 
 - Gear: Heels
 - Rarity: Legendary
@@ -19380,7 +19380,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #967
+#967
 
 - Gear: Heels
 - Rarity: Legendary
@@ -19400,7 +19400,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #968
+#968
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -19420,7 +19420,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #969
+#969
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -19440,7 +19440,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #970
+#970
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -19460,7 +19460,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #971
+#971
 
 - Gear: Boots
 - Rarity: Legendary
@@ -19482,7 +19482,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #972
+#972
 
 - Gear: Heels
 - Rarity: Legendary
@@ -19504,7 +19504,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #973
+#973
 
 - Gear: Flats
 - Rarity: Legendary
@@ -19524,7 +19524,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #974
+#974
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -19544,7 +19544,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #975
+#975
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -19564,7 +19564,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #976
+#976
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -19584,7 +19584,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #977
+#977
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -19604,7 +19604,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #978
+#978
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -19624,7 +19624,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #979
+#979
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -19644,7 +19644,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #980
+#980
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -19664,7 +19664,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #981
+#981
 
 - Gear: Flats
 - Rarity: Legendary
@@ -19684,7 +19684,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #982
+#982
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -19704,7 +19704,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #983
+#983
 
 - Gear: Heels
 - Rarity: Legendary
@@ -19724,7 +19724,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #984
+#984
 
 - Gear: Boots
 - Rarity: Legendary
@@ -19744,7 +19744,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #985
+#985
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -19766,7 +19766,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #986
+#986
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -19786,7 +19786,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #987
+#987
 
 - Gear: Boots
 - Rarity: Legendary
@@ -19806,7 +19806,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #988
+#988
 
 - Gear: Heels
 - Rarity: Legendary
@@ -19826,7 +19826,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #989
+#989
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -19846,7 +19846,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #990
+#990
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -19866,7 +19866,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Asticarian (Modern)
 
-## #991
+#991
 
 - Gear: Boots
 - Rarity: Legendary
@@ -19886,7 +19886,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #992
+#992
 
 - Gear: Sneakers
 - Rarity: Legendary
@@ -19906,7 +19906,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Ydilikian (Medieval)
 
-## #993
+#993
 
 - Gear: Boots
 - Rarity: Legendary
@@ -19926,7 +19926,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Rtolkan (Steampunk)
 
-## #994
+#994
 
 - Gear: Heels
 - Rarity: Legendary
@@ -19946,7 +19946,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #995
+#995
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -19966,7 +19966,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Valdan (Cyberpunk)
 
-## #996
+#996
 
 - Gear: Platform Shoes
 - Rarity: Legendary
@@ -19986,7 +19986,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #997
+#997
 
 - Gear: Boots
 - Rarity: Legendary
@@ -20006,7 +20006,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #998
+#998
 
 - Gear: Sandals
 - Rarity: Legendary
@@ -20026,7 +20026,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Pirate)
 
-## #999
+#999
 
 - Gear: Flats
 - Rarity: Legendary
@@ -20046,7 +20046,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 1000
 - Aesthetic: Cortez (Western)
 
-## #1000
+#1000
 
 - Gear: Boots
 - Rarity: Legendary

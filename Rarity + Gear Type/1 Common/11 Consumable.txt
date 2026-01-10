@@ -12,7 +12,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 
 # Loot Chart
 
-## #1
+#1
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -22,7 +22,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #2
+#2
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -32,7 +32,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #3
+#3
 
 - Gear: Pills
 - Rarity: Common
@@ -42,7 +42,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #4
+#4
 
 - Gear: Candy
 - Rarity: Common
@@ -52,7 +52,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #5
+#5
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -62,7 +62,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #6
+#6
 
 - Gear: Soap
 - Rarity: Common
@@ -72,7 +72,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #7
+#7
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -82,7 +82,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #8
+#8
 
 - Gear: Steak
 - Rarity: Common
@@ -92,7 +92,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #9
+#9
 
 - Gear: Pills
 - Rarity: Common
@@ -102,7 +102,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #10
+#10
 
 - Gear: Candy
 - Rarity: Common
@@ -112,7 +112,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #11
+#11
 
 - Gear: Pills
 - Rarity: Common
@@ -122,7 +122,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #12
+#12
 
 - Gear: Candy
 - Rarity: Common
@@ -132,7 +132,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #13
+#13
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -142,7 +142,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #14
+#14
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -152,7 +152,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #15
+#15
 
 - Gear: Juice Box
 - Rarity: Common
@@ -162,7 +162,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #16
+#16
 
 - Gear: Sandwich
 - Rarity: Common
@@ -172,7 +172,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #17
+#17
 
 - Gear: Steak
 - Rarity: Common
@@ -182,7 +182,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #18
+#18
 
 - Gear: Juice Box
 - Rarity: Common
@@ -192,7 +192,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #19
+#19
 
 - Gear: Candy
 - Rarity: Common
@@ -202,7 +202,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #20
+#20
 
 - Gear: Pills
 - Rarity: Common
@@ -212,7 +212,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #21
+#21
 
 - Gear: Steak
 - Rarity: Common
@@ -222,7 +222,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #22
+#22
 
 - Gear: Soap
 - Rarity: Common
@@ -232,7 +232,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #23
+#23
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -242,7 +242,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #24
+#24
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -254,7 +254,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #25
+#25
 
 - Gear: Steak
 - Rarity: Common
@@ -264,7 +264,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #26
+#26
 
 - Gear: Juice Box
 - Rarity: Common
@@ -274,7 +274,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #27
+#27
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -284,7 +284,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #28
+#28
 
 - Gear: Steak
 - Rarity: Common
@@ -294,7 +294,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #29
+#29
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -304,7 +304,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #30
+#30
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -314,7 +314,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #31
+#31
 
 - Gear: Tea
 - Rarity: Common
@@ -324,7 +324,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #32
+#32
 
 - Gear: Tea
 - Rarity: Common
@@ -336,7 +336,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #33
+#33
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -346,7 +346,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #34
+#34
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -356,7 +356,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #35
+#35
 
 - Gear: Tea
 - Rarity: Common
@@ -366,7 +366,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #36
+#36
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -376,7 +376,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #37
+#37
 
 - Gear: Firework
 - Rarity: Common
@@ -386,7 +386,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #38
+#38
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -396,7 +396,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #39
+#39
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -408,7 +408,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #40
+#40
 
 - Gear: Soap
 - Rarity: Common
@@ -420,7 +420,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #41
+#41
 
 - Gear: Soap
 - Rarity: Common
@@ -430,7 +430,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #42
+#42
 
 - Gear: Candle
 - Rarity: Common
@@ -440,7 +440,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #43
+#43
 
 - Gear: Soap
 - Rarity: Common
@@ -450,7 +450,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #44
+#44
 
 - Gear: Tea
 - Rarity: Common
@@ -462,7 +462,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #45
+#45
 
 - Gear: Soap
 - Rarity: Common
@@ -472,7 +472,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #46
+#46
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -482,7 +482,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #47
+#47
 
 - Gear: Juice Box
 - Rarity: Common
@@ -492,7 +492,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #48
+#48
 
 - Gear: Ramen
 - Rarity: Common
@@ -502,7 +502,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #49
+#49
 
 - Gear: Sushi
 - Rarity: Common
@@ -512,7 +512,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #50
+#50
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -524,7 +524,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #51
+#51
 
 - Gear: Soap
 - Rarity: Common
@@ -534,7 +534,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #52
+#52
 
 - Gear: Steak
 - Rarity: Common
@@ -544,7 +544,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #53
+#53
 
 - Gear: Candle
 - Rarity: Common
@@ -554,7 +554,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #54
+#54
 
 - Gear: Firework
 - Rarity: Common
@@ -564,7 +564,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #55
+#55
 
 - Gear: Pills
 - Rarity: Common
@@ -574,7 +574,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #56
+#56
 
 - Gear: Candle
 - Rarity: Common
@@ -584,7 +584,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #57
+#57
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -594,7 +594,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #58
+#58
 
 - Gear: Pills
 - Rarity: Common
@@ -604,7 +604,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #59
+#59
 
 - Gear: Pills
 - Rarity: Common
@@ -614,7 +614,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #60
+#60
 
 - Gear: Pills
 - Rarity: Common
@@ -624,7 +624,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #61
+#61
 
 - Gear: Sandwich
 - Rarity: Common
@@ -634,7 +634,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #62
+#62
 
 - Gear: Candy
 - Rarity: Common
@@ -644,7 +644,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #63
+#63
 
 - Gear: Candy
 - Rarity: Common
@@ -654,7 +654,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #64
+#64
 
 - Gear: Steak
 - Rarity: Common
@@ -664,7 +664,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #65
+#65
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -674,7 +674,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #66
+#66
 
 - Gear: Candle
 - Rarity: Common
@@ -684,7 +684,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #67
+#67
 
 - Gear: Soap
 - Rarity: Common
@@ -694,7 +694,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #68
+#68
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -704,7 +704,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #69
+#69
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -714,7 +714,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #70
+#70
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -724,7 +724,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #71
+#71
 
 - Gear: Sushi
 - Rarity: Common
@@ -734,7 +734,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #72
+#72
 
 - Gear: Steak
 - Rarity: Common
@@ -744,7 +744,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #73
+#73
 
 - Gear: Juice Box
 - Rarity: Common
@@ -754,7 +754,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #74
+#74
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -766,7 +766,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #75
+#75
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -778,7 +778,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #76
+#76
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -788,7 +788,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #77
+#77
 
 - Gear: Candy
 - Rarity: Common
@@ -798,7 +798,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #78
+#78
 
 - Gear: Steak
 - Rarity: Common
@@ -808,7 +808,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #79
+#79
 
 - Gear: Candle
 - Rarity: Common
@@ -818,7 +818,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #80
+#80
 
 - Gear: Steak
 - Rarity: Common
@@ -828,7 +828,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #81
+#81
 
 - Gear: Steak
 - Rarity: Common
@@ -838,7 +838,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #82
+#82
 
 - Gear: Pills
 - Rarity: Common
@@ -850,7 +850,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #83
+#83
 
 - Gear: Sandwich
 - Rarity: Common
@@ -860,7 +860,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #84
+#84
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -870,7 +870,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #85
+#85
 
 - Gear: Juice Box
 - Rarity: Common
@@ -880,7 +880,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #86
+#86
 
 - Gear: Candy
 - Rarity: Common
@@ -890,7 +890,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #87
+#87
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -900,7 +900,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #88
+#88
 
 - Gear: Potion
 - Rarity: Common
@@ -910,7 +910,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #89
+#89
 
 - Gear: Tea
 - Rarity: Common
@@ -922,7 +922,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #90
+#90
 
 - Gear: Juice Box
 - Rarity: Common
@@ -932,7 +932,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #91
+#91
 
 - Gear: Candle
 - Rarity: Common
@@ -942,7 +942,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #92
+#92
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -952,7 +952,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #93
+#93
 
 - Gear: Potion
 - Rarity: Common
@@ -962,7 +962,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #94
+#94
 
 - Gear: Candy
 - Rarity: Common
@@ -972,7 +972,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #95
+#95
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -984,7 +984,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #96
+#96
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -994,7 +994,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #97
+#97
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -1004,7 +1004,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #98
+#98
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -1014,7 +1014,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #99
+#99
 
 - Gear: Firework
 - Rarity: Common
@@ -1024,7 +1024,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #100
+#100
 
 - Gear: Pills
 - Rarity: Common
@@ -1034,7 +1034,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #101
+#101
 
 - Gear: Sushi
 - Rarity: Common
@@ -1044,7 +1044,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #102
+#102
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -1056,7 +1056,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #103
+#103
 
 - Gear: Pills
 - Rarity: Common
@@ -1066,7 +1066,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #104
+#104
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -1076,7 +1076,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #105
+#105
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -1086,7 +1086,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #106
+#106
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -1096,7 +1096,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #107
+#107
 
 - Gear: Sushi
 - Rarity: Common
@@ -1108,7 +1108,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #108
+#108
 
 - Gear: Sandwich
 - Rarity: Common
@@ -1118,7 +1118,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #109
+#109
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -1128,7 +1128,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #110
+#110
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -1138,7 +1138,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #111
+#111
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -1148,7 +1148,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #112
+#112
 
 - Gear: Sandwich
 - Rarity: Common
@@ -1158,7 +1158,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #113
+#113
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -1168,7 +1168,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #114
+#114
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -1178,7 +1178,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #115
+#115
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -1188,7 +1188,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #116
+#116
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -1198,7 +1198,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #117
+#117
 
 - Gear: Sandwich
 - Rarity: Common
@@ -1208,7 +1208,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #118
+#118
 
 - Gear: Steak
 - Rarity: Common
@@ -1218,7 +1218,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #119
+#119
 
 - Gear: Potion
 - Rarity: Common
@@ -1230,7 +1230,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #120
+#120
 
 - Gear: Tea
 - Rarity: Common
@@ -1240,7 +1240,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #121
+#121
 
 - Gear: Soap
 - Rarity: Common
@@ -1250,7 +1250,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #122
+#122
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -1260,7 +1260,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #123
+#123
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -1270,7 +1270,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #124
+#124
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -1280,7 +1280,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #125
+#125
 
 - Gear: Steak
 - Rarity: Common
@@ -1290,7 +1290,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #126
+#126
 
 - Gear: Candy
 - Rarity: Common
@@ -1300,7 +1300,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #127
+#127
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -1310,7 +1310,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #128
+#128
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -1320,7 +1320,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #129
+#129
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -1330,7 +1330,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #130
+#130
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -1340,7 +1340,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #131
+#131
 
 - Gear: Ramen
 - Rarity: Common
@@ -1350,7 +1350,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #132
+#132
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -1360,7 +1360,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #133
+#133
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -1372,7 +1372,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #134
+#134
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -1382,7 +1382,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #135
+#135
 
 - Gear: Sandwich
 - Rarity: Common
@@ -1392,7 +1392,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #136
+#136
 
 - Gear: Juice Box
 - Rarity: Common
@@ -1402,7 +1402,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #137
+#137
 
 - Gear: Tea
 - Rarity: Common
@@ -1412,7 +1412,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #138
+#138
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -1422,7 +1422,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #139
+#139
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -1432,7 +1432,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #140
+#140
 
 - Gear: Sandwich
 - Rarity: Common
@@ -1442,7 +1442,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #141
+#141
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -1452,7 +1452,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #142
+#142
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -1462,7 +1462,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #143
+#143
 
 - Gear: Ramen
 - Rarity: Common
@@ -1472,7 +1472,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #144
+#144
 
 - Gear: Soap
 - Rarity: Common
@@ -1482,7 +1482,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #145
+#145
 
 - Gear: Ramen
 - Rarity: Common
@@ -1494,7 +1494,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #146
+#146
 
 - Gear: Pills
 - Rarity: Common
@@ -1504,7 +1504,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #147
+#147
 
 - Gear: Juice Box
 - Rarity: Common
@@ -1516,7 +1516,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #148
+#148
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -1528,7 +1528,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #149
+#149
 
 - Gear: Steak
 - Rarity: Common
@@ -1538,7 +1538,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #150
+#150
 
 - Gear: Soap
 - Rarity: Common
@@ -1548,7 +1548,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #151
+#151
 
 - Gear: Candy
 - Rarity: Common
@@ -1558,7 +1558,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #152
+#152
 
 - Gear: Candle
 - Rarity: Common
@@ -1568,7 +1568,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #153
+#153
 
 - Gear: Potion
 - Rarity: Common
@@ -1578,7 +1578,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #154
+#154
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -1588,7 +1588,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #155
+#155
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -1598,7 +1598,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #156
+#156
 
 - Gear: Sandwich
 - Rarity: Common
@@ -1608,7 +1608,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #157
+#157
 
 - Gear: Tea
 - Rarity: Common
@@ -1618,7 +1618,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #158
+#158
 
 - Gear: Candy
 - Rarity: Common
@@ -1628,7 +1628,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #159
+#159
 
 - Gear: Soap
 - Rarity: Common
@@ -1638,7 +1638,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #160
+#160
 
 - Gear: Steak
 - Rarity: Common
@@ -1648,7 +1648,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #161
+#161
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -1658,7 +1658,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #162
+#162
 
 - Gear: Candy
 - Rarity: Common
@@ -1668,7 +1668,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #163
+#163
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -1678,7 +1678,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #164
+#164
 
 - Gear: Ramen
 - Rarity: Common
@@ -1688,7 +1688,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #165
+#165
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -1698,7 +1698,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #166
+#166
 
 - Gear: Candy
 - Rarity: Common
@@ -1708,7 +1708,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #167
+#167
 
 - Gear: Tea
 - Rarity: Common
@@ -1720,7 +1720,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #168
+#168
 
 - Gear: Candy
 - Rarity: Common
@@ -1730,7 +1730,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #169
+#169
 
 - Gear: Sandwich
 - Rarity: Common
@@ -1740,7 +1740,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #170
+#170
 
 - Gear: Candle
 - Rarity: Common
@@ -1750,7 +1750,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #171
+#171
 
 - Gear: Pills
 - Rarity: Common
@@ -1760,7 +1760,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #172
+#172
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -1770,7 +1770,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #173
+#173
 
 - Gear: Soap
 - Rarity: Common
@@ -1782,7 +1782,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #174
+#174
 
 - Gear: Pills
 - Rarity: Common
@@ -1792,7 +1792,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #175
+#175
 
 - Gear: Sandwich
 - Rarity: Common
@@ -1802,7 +1802,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #176
+#176
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -1812,7 +1812,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #177
+#177
 
 - Gear: Candle
 - Rarity: Common
@@ -1822,7 +1822,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #178
+#178
 
 - Gear: Candy
 - Rarity: Common
@@ -1832,7 +1832,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #179
+#179
 
 - Gear: Potion
 - Rarity: Common
@@ -1842,7 +1842,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #180
+#180
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -1852,7 +1852,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #181
+#181
 
 - Gear: Firework
 - Rarity: Common
@@ -1862,7 +1862,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #182
+#182
 
 - Gear: Candy
 - Rarity: Common
@@ -1872,7 +1872,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #183
+#183
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -1882,7 +1882,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #184
+#184
 
 - Gear: Candy
 - Rarity: Common
@@ -1892,7 +1892,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #185
+#185
 
 - Gear: Candy
 - Rarity: Common
@@ -1902,7 +1902,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #186
+#186
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -1912,7 +1912,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #187
+#187
 
 - Gear: Pills
 - Rarity: Common
@@ -1922,7 +1922,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #188
+#188
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -1932,7 +1932,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #189
+#189
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -1942,7 +1942,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #190
+#190
 
 - Gear: Soap
 - Rarity: Common
@@ -1952,7 +1952,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #191
+#191
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -1962,7 +1962,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #192
+#192
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -1972,7 +1972,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #193
+#193
 
 - Gear: Pills
 - Rarity: Common
@@ -1982,7 +1982,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #194
+#194
 
 - Gear: Ramen
 - Rarity: Common
@@ -1992,7 +1992,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #195
+#195
 
 - Gear: Firework
 - Rarity: Common
@@ -2002,7 +2002,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #196
+#196
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -2012,7 +2012,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #197
+#197
 
 - Gear: Steak
 - Rarity: Common
@@ -2022,7 +2022,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #198
+#198
 
 - Gear: Tea
 - Rarity: Common
@@ -2032,7 +2032,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #199
+#199
 
 - Gear: Soap
 - Rarity: Common
@@ -2042,7 +2042,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #200
+#200
 
 - Gear: Firework
 - Rarity: Common
@@ -2052,7 +2052,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #201
+#201
 
 - Gear: Juice Box
 - Rarity: Common
@@ -2062,7 +2062,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #202
+#202
 
 - Gear: Ramen
 - Rarity: Common
@@ -2072,7 +2072,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #203
+#203
 
 - Gear: Candy
 - Rarity: Common
@@ -2082,7 +2082,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #204
+#204
 
 - Gear: Firework
 - Rarity: Common
@@ -2092,7 +2092,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #205
+#205
 
 - Gear: Soap
 - Rarity: Common
@@ -2102,7 +2102,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #206
+#206
 
 - Gear: Sandwich
 - Rarity: Common
@@ -2112,7 +2112,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #207
+#207
 
 - Gear: Tea
 - Rarity: Common
@@ -2126,7 +2126,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #208
+#208
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -2136,7 +2136,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #209
+#209
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -2146,7 +2146,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #210
+#210
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -2156,7 +2156,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #211
+#211
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -2166,7 +2166,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #212
+#212
 
 - Gear: Sandwich
 - Rarity: Common
@@ -2176,7 +2176,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #213
+#213
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -2186,7 +2186,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #214
+#214
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -2196,7 +2196,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #215
+#215
 
 - Gear: Juice Box
 - Rarity: Common
@@ -2206,7 +2206,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #216
+#216
 
 - Gear: Candle
 - Rarity: Common
@@ -2216,7 +2216,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #217
+#217
 
 - Gear: Candle
 - Rarity: Common
@@ -2226,7 +2226,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #218
+#218
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -2236,7 +2236,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #219
+#219
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -2246,7 +2246,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #220
+#220
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -2256,7 +2256,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #221
+#221
 
 - Gear: Potion
 - Rarity: Common
@@ -2266,7 +2266,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #222
+#222
 
 - Gear: Ramen
 - Rarity: Common
@@ -2276,7 +2276,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #223
+#223
 
 - Gear: Tea
 - Rarity: Common
@@ -2286,7 +2286,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #224
+#224
 
 - Gear: Firework
 - Rarity: Common
@@ -2296,7 +2296,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #225
+#225
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -2306,7 +2306,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #226
+#226
 
 - Gear: Candle
 - Rarity: Common
@@ -2316,7 +2316,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #227
+#227
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -2326,7 +2326,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #228
+#228
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -2336,7 +2336,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #229
+#229
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -2348,7 +2348,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #230
+#230
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -2358,7 +2358,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #231
+#231
 
 - Gear: Sandwich
 - Rarity: Common
@@ -2368,7 +2368,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #232
+#232
 
 - Gear: Sushi
 - Rarity: Common
@@ -2378,7 +2378,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #233
+#233
 
 - Gear: Steak
 - Rarity: Common
@@ -2390,7 +2390,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #234
+#234
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -2400,7 +2400,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #235
+#235
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -2410,7 +2410,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #236
+#236
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -2420,7 +2420,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #237
+#237
 
 - Gear: Sushi
 - Rarity: Common
@@ -2430,7 +2430,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #238
+#238
 
 - Gear: Potion
 - Rarity: Common
@@ -2442,7 +2442,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #239
+#239
 
 - Gear: Sushi
 - Rarity: Common
@@ -2452,7 +2452,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #240
+#240
 
 - Gear: Candle
 - Rarity: Common
@@ -2462,7 +2462,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #241
+#241
 
 - Gear: Candy
 - Rarity: Common
@@ -2472,7 +2472,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #242
+#242
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -2482,7 +2482,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #243
+#243
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -2492,7 +2492,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #244
+#244
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -2502,7 +2502,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #245
+#245
 
 - Gear: Steak
 - Rarity: Common
@@ -2512,7 +2512,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #246
+#246
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -2522,7 +2522,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #247
+#247
 
 - Gear: Sandwich
 - Rarity: Common
@@ -2532,7 +2532,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #248
+#248
 
 - Gear: Potion
 - Rarity: Common
@@ -2542,7 +2542,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #249
+#249
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -2552,7 +2552,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #250
+#250
 
 - Gear: Potion
 - Rarity: Common
@@ -2562,7 +2562,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #251
+#251
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -2572,7 +2572,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #252
+#252
 
 - Gear: Candy
 - Rarity: Common
@@ -2582,7 +2582,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #253
+#253
 
 - Gear: Firework
 - Rarity: Common
@@ -2592,7 +2592,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #254
+#254
 
 - Gear: Potion
 - Rarity: Common
@@ -2602,7 +2602,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #255
+#255
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -2612,7 +2612,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #256
+#256
 
 - Gear: Candle
 - Rarity: Common
@@ -2622,7 +2622,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #257
+#257
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -2632,7 +2632,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #258
+#258
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -2644,7 +2644,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #259
+#259
 
 - Gear: Candle
 - Rarity: Common
@@ -2654,7 +2654,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #260
+#260
 
 - Gear: Pills
 - Rarity: Common
@@ -2664,7 +2664,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #261
+#261
 
 - Gear: Sushi
 - Rarity: Common
@@ -2674,7 +2674,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #262
+#262
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -2688,7 +2688,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #263
+#263
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -2698,7 +2698,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #264
+#264
 
 - Gear: Pills
 - Rarity: Common
@@ -2708,7 +2708,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #265
+#265
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -2718,7 +2718,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #266
+#266
 
 - Gear: Tea
 - Rarity: Common
@@ -2730,7 +2730,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #267
+#267
 
 - Gear: Potion
 - Rarity: Common
@@ -2740,7 +2740,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #268
+#268
 
 - Gear: Steak
 - Rarity: Common
@@ -2750,7 +2750,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #269
+#269
 
 - Gear: Potion
 - Rarity: Common
@@ -2760,7 +2760,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #270
+#270
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -2770,7 +2770,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #271
+#271
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -2782,7 +2782,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #272
+#272
 
 - Gear: Sushi
 - Rarity: Common
@@ -2792,7 +2792,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #273
+#273
 
 - Gear: Candle
 - Rarity: Common
@@ -2802,7 +2802,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #274
+#274
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -2814,7 +2814,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #275
+#275
 
 - Gear: Steak
 - Rarity: Common
@@ -2824,7 +2824,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #276
+#276
 
 - Gear: Steak
 - Rarity: Common
@@ -2836,7 +2836,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #277
+#277
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -2846,7 +2846,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #278
+#278
 
 - Gear: Firework
 - Rarity: Common
@@ -2856,7 +2856,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #279
+#279
 
 - Gear: Juice Box
 - Rarity: Common
@@ -2866,7 +2866,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #280
+#280
 
 - Gear: Candy
 - Rarity: Common
@@ -2876,7 +2876,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #281
+#281
 
 - Gear: Sandwich
 - Rarity: Common
@@ -2886,7 +2886,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #282
+#282
 
 - Gear: Firework
 - Rarity: Common
@@ -2898,7 +2898,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #283
+#283
 
 - Gear: Potion
 - Rarity: Common
@@ -2908,7 +2908,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #284
+#284
 
 - Gear: Steak
 - Rarity: Common
@@ -2920,7 +2920,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #285
+#285
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -2930,7 +2930,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #286
+#286
 
 - Gear: Ramen
 - Rarity: Common
@@ -2940,7 +2940,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #287
+#287
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -2950,7 +2950,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #288
+#288
 
 - Gear: Soap
 - Rarity: Common
@@ -2960,7 +2960,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #289
+#289
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -2970,7 +2970,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #290
+#290
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -2982,7 +2982,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #291
+#291
 
 - Gear: Candy
 - Rarity: Common
@@ -2992,7 +2992,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #292
+#292
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -3002,7 +3002,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #293
+#293
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -3012,7 +3012,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #294
+#294
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -3022,7 +3022,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #295
+#295
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -3032,7 +3032,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #296
+#296
 
 - Gear: Pills
 - Rarity: Common
@@ -3042,7 +3042,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #297
+#297
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -3054,7 +3054,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #298
+#298
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -3064,7 +3064,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #299
+#299
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -3074,7 +3074,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #300
+#300
 
 - Gear: Soap
 - Rarity: Common
@@ -3084,7 +3084,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #301
+#301
 
 - Gear: Steak
 - Rarity: Common
@@ -3094,7 +3094,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #302
+#302
 
 - Gear: Sandwich
 - Rarity: Common
@@ -3106,7 +3106,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #303
+#303
 
 - Gear: Potion
 - Rarity: Common
@@ -3116,7 +3116,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #304
+#304
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -3126,7 +3126,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #305
+#305
 
 - Gear: Soap
 - Rarity: Common
@@ -3136,7 +3136,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #306
+#306
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -3146,7 +3146,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #307
+#307
 
 - Gear: Pills
 - Rarity: Common
@@ -3156,7 +3156,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #308
+#308
 
 - Gear: Candle
 - Rarity: Common
@@ -3166,7 +3166,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #309
+#309
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -3176,7 +3176,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #310
+#310
 
 - Gear: Candy
 - Rarity: Common
@@ -3186,7 +3186,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #311
+#311
 
 - Gear: Firework
 - Rarity: Common
@@ -3196,7 +3196,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #312
+#312
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -3208,7 +3208,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #313
+#313
 
 - Gear: Sandwich
 - Rarity: Common
@@ -3218,7 +3218,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #314
+#314
 
 - Gear: Ramen
 - Rarity: Common
@@ -3228,7 +3228,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #315
+#315
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -3240,7 +3240,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #316
+#316
 
 - Gear: Ramen
 - Rarity: Common
@@ -3250,7 +3250,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #317
+#317
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -3260,7 +3260,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #318
+#318
 
 - Gear: Tea
 - Rarity: Common
@@ -3272,7 +3272,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #319
+#319
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -3282,7 +3282,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #320
+#320
 
 - Gear: Pills
 - Rarity: Common
@@ -3292,7 +3292,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #321
+#321
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -3302,7 +3302,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #322
+#322
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -3312,7 +3312,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #323
+#323
 
 - Gear: Potion
 - Rarity: Common
@@ -3322,7 +3322,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #324
+#324
 
 - Gear: Steak
 - Rarity: Common
@@ -3332,7 +3332,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #325
+#325
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -3342,7 +3342,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #326
+#326
 
 - Gear: Ramen
 - Rarity: Common
@@ -3354,7 +3354,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #327
+#327
 
 - Gear: Tea
 - Rarity: Common
@@ -3364,7 +3364,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #328
+#328
 
 - Gear: Sushi
 - Rarity: Common
@@ -3374,7 +3374,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #329
+#329
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -3384,7 +3384,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #330
+#330
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -3394,7 +3394,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #331
+#331
 
 - Gear: Soap
 - Rarity: Common
@@ -3404,7 +3404,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #332
+#332
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -3414,7 +3414,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #333
+#333
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -3424,7 +3424,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #334
+#334
 
 - Gear: Sushi
 - Rarity: Common
@@ -3434,7 +3434,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #335
+#335
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -3446,7 +3446,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #336
+#336
 
 - Gear: Candy
 - Rarity: Common
@@ -3456,7 +3456,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #337
+#337
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -3466,7 +3466,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #338
+#338
 
 - Gear: Ramen
 - Rarity: Common
@@ -3476,7 +3476,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #339
+#339
 
 - Gear: Potion
 - Rarity: Common
@@ -3486,7 +3486,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #340
+#340
 
 - Gear: Candy
 - Rarity: Common
@@ -3496,7 +3496,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #341
+#341
 
 - Gear: Pills
 - Rarity: Common
@@ -3508,7 +3508,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #342
+#342
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -3518,7 +3518,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #343
+#343
 
 - Gear: Potion
 - Rarity: Common
@@ -3530,7 +3530,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #344
+#344
 
 - Gear: Candle
 - Rarity: Common
@@ -3540,7 +3540,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #345
+#345
 
 - Gear: Steak
 - Rarity: Common
@@ -3550,7 +3550,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #346
+#346
 
 - Gear: Ramen
 - Rarity: Common
@@ -3560,7 +3560,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #347
+#347
 
 - Gear: Sandwich
 - Rarity: Common
@@ -3570,7 +3570,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #348
+#348
 
 - Gear: Sushi
 - Rarity: Common
@@ -3580,7 +3580,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #349
+#349
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -3590,7 +3590,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #350
+#350
 
 - Gear: Steak
 - Rarity: Common
@@ -3600,7 +3600,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #351
+#351
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -3610,7 +3610,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #352
+#352
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -3620,7 +3620,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #353
+#353
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -3630,7 +3630,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #354
+#354
 
 - Gear: Candy
 - Rarity: Common
@@ -3640,7 +3640,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #355
+#355
 
 - Gear: Tea
 - Rarity: Common
@@ -3650,7 +3650,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #356
+#356
 
 - Gear: Steak
 - Rarity: Common
@@ -3660,7 +3660,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #357
+#357
 
 - Gear: Candy
 - Rarity: Common
@@ -3672,7 +3672,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #358
+#358
 
 - Gear: Candle
 - Rarity: Common
@@ -3682,7 +3682,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #359
+#359
 
 - Gear: Ramen
 - Rarity: Common
@@ -3692,7 +3692,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #360
+#360
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -3702,7 +3702,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #361
+#361
 
 - Gear: Juice Box
 - Rarity: Common
@@ -3712,7 +3712,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #362
+#362
 
 - Gear: Candle
 - Rarity: Common
@@ -3722,7 +3722,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #363
+#363
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -3734,7 +3734,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #364
+#364
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -3744,7 +3744,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #365
+#365
 
 - Gear: Firework
 - Rarity: Common
@@ -3754,7 +3754,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #366
+#366
 
 - Gear: Tea
 - Rarity: Common
@@ -3766,7 +3766,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #367
+#367
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -3776,7 +3776,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #368
+#368
 
 - Gear: Firework
 - Rarity: Common
@@ -3786,7 +3786,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #369
+#369
 
 - Gear: Firework
 - Rarity: Common
@@ -3796,7 +3796,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #370
+#370
 
 - Gear: Steak
 - Rarity: Common
@@ -3810,7 +3810,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #371
+#371
 
 - Gear: Pills
 - Rarity: Common
@@ -3820,7 +3820,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #372
+#372
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -3830,7 +3830,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #373
+#373
 
 - Gear: Sushi
 - Rarity: Common
@@ -3840,7 +3840,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #374
+#374
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -3850,7 +3850,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #375
+#375
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -3860,7 +3860,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #376
+#376
 
 - Gear: Candy
 - Rarity: Common
@@ -3870,7 +3870,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #377
+#377
 
 - Gear: Candy
 - Rarity: Common
@@ -3880,7 +3880,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #378
+#378
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -3892,7 +3892,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #379
+#379
 
 - Gear: Sandwich
 - Rarity: Common
@@ -3902,7 +3902,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #380
+#380
 
 - Gear: Sandwich
 - Rarity: Common
@@ -3912,7 +3912,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #381
+#381
 
 - Gear: Potion
 - Rarity: Common
@@ -3922,7 +3922,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #382
+#382
 
 - Gear: Pills
 - Rarity: Common
@@ -3934,7 +3934,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #383
+#383
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -3944,7 +3944,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #384
+#384
 
 - Gear: Potion
 - Rarity: Common
@@ -3954,7 +3954,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #385
+#385
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -3964,7 +3964,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #386
+#386
 
 - Gear: Steak
 - Rarity: Common
@@ -3974,7 +3974,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #387
+#387
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -3984,7 +3984,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #388
+#388
 
 - Gear: Sandwich
 - Rarity: Common
@@ -3996,7 +3996,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #389
+#389
 
 - Gear: Candy
 - Rarity: Common
@@ -4006,7 +4006,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #390
+#390
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -4016,7 +4016,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #391
+#391
 
 - Gear: Soap
 - Rarity: Common
@@ -4026,7 +4026,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #392
+#392
 
 - Gear: Potion
 - Rarity: Common
@@ -4038,7 +4038,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #393
+#393
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -4048,7 +4048,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #394
+#394
 
 - Gear: Ramen
 - Rarity: Common
@@ -4058,7 +4058,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #395
+#395
 
 - Gear: Candy
 - Rarity: Common
@@ -4068,7 +4068,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #396
+#396
 
 - Gear: Potion
 - Rarity: Common
@@ -4078,7 +4078,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #397
+#397
 
 - Gear: Candle
 - Rarity: Common
@@ -4088,7 +4088,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #398
+#398
 
 - Gear: Candle
 - Rarity: Common
@@ -4098,7 +4098,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #399
+#399
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -4108,7 +4108,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #400
+#400
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -4118,7 +4118,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #401
+#401
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -4128,7 +4128,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #402
+#402
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -4138,7 +4138,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #403
+#403
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -4148,7 +4148,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #404
+#404
 
 - Gear: Soap
 - Rarity: Common
@@ -4158,7 +4158,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #405
+#405
 
 - Gear: Candle
 - Rarity: Common
@@ -4168,7 +4168,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #406
+#406
 
 - Gear: Sandwich
 - Rarity: Common
@@ -4178,7 +4178,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #407
+#407
 
 - Gear: Firework
 - Rarity: Common
@@ -4188,7 +4188,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #408
+#408
 
 - Gear: Potion
 - Rarity: Common
@@ -4198,7 +4198,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #409
+#409
 
 - Gear: Sushi
 - Rarity: Common
@@ -4208,7 +4208,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #410
+#410
 
 - Gear: Sandwich
 - Rarity: Common
@@ -4218,7 +4218,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #411
+#411
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -4230,7 +4230,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #412
+#412
 
 - Gear: Tea
 - Rarity: Common
@@ -4240,7 +4240,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #413
+#413
 
 - Gear: Candle
 - Rarity: Common
@@ -4250,7 +4250,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #414
+#414
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -4260,7 +4260,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #415
+#415
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -4270,7 +4270,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #416
+#416
 
 - Gear: Candy
 - Rarity: Common
@@ -4280,7 +4280,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #417
+#417
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -4290,7 +4290,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #418
+#418
 
 - Gear: Potion
 - Rarity: Common
@@ -4302,7 +4302,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #419
+#419
 
 - Gear: Juice Box
 - Rarity: Common
@@ -4312,7 +4312,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #420
+#420
 
 - Gear: Pills
 - Rarity: Common
@@ -4322,7 +4322,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #421
+#421
 
 - Gear: Potion
 - Rarity: Common
@@ -4332,7 +4332,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #422
+#422
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -4342,7 +4342,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #423
+#423
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -4352,7 +4352,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #424
+#424
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -4362,7 +4362,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #425
+#425
 
 - Gear: Potion
 - Rarity: Common
@@ -4372,7 +4372,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #426
+#426
 
 - Gear: Candy
 - Rarity: Common
@@ -4382,7 +4382,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #427
+#427
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -4392,7 +4392,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #428
+#428
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -4402,7 +4402,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #429
+#429
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -4412,7 +4412,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #430
+#430
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -4422,7 +4422,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #431
+#431
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -4432,7 +4432,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #432
+#432
 
 - Gear: Potion
 - Rarity: Common
@@ -4444,7 +4444,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #433
+#433
 
 - Gear: Sushi
 - Rarity: Common
@@ -4454,7 +4454,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #434
+#434
 
 - Gear: Firework
 - Rarity: Common
@@ -4464,7 +4464,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #435
+#435
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -4476,7 +4476,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #436
+#436
 
 - Gear: Candle
 - Rarity: Common
@@ -4486,7 +4486,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #437
+#437
 
 - Gear: Candle
 - Rarity: Common
@@ -4496,7 +4496,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #438
+#438
 
 - Gear: Candy
 - Rarity: Common
@@ -4506,7 +4506,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #439
+#439
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -4516,7 +4516,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #440
+#440
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -4526,7 +4526,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #441
+#441
 
 - Gear: Candle
 - Rarity: Common
@@ -4538,7 +4538,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #442
+#442
 
 - Gear: Firework
 - Rarity: Common
@@ -4550,7 +4550,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #443
+#443
 
 - Gear: Firework
 - Rarity: Common
@@ -4560,7 +4560,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #444
+#444
 
 - Gear: Steak
 - Rarity: Common
@@ -4570,7 +4570,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #445
+#445
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -4580,7 +4580,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #446
+#446
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -4590,7 +4590,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #447
+#447
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -4600,7 +4600,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #448
+#448
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -4610,7 +4610,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #449
+#449
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -4622,7 +4622,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #450
+#450
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -4634,7 +4634,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #451
+#451
 
 - Gear: Candy
 - Rarity: Common
@@ -4644,7 +4644,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #452
+#452
 
 - Gear: Soap
 - Rarity: Common
@@ -4654,7 +4654,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #453
+#453
 
 - Gear: Soap
 - Rarity: Common
@@ -4664,7 +4664,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #454
+#454
 
 - Gear: Sushi
 - Rarity: Common
@@ -4674,7 +4674,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #455
+#455
 
 - Gear: Soap
 - Rarity: Common
@@ -4684,7 +4684,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #456
+#456
 
 - Gear: Ramen
 - Rarity: Common
@@ -4694,7 +4694,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #457
+#457
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -4704,7 +4704,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #458
+#458
 
 - Gear: Sushi
 - Rarity: Common
@@ -4714,7 +4714,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #459
+#459
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -4724,7 +4724,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #460
+#460
 
 - Gear: Firework
 - Rarity: Common
@@ -4734,7 +4734,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #461
+#461
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -4744,7 +4744,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #462
+#462
 
 - Gear: Steak
 - Rarity: Common
@@ -4754,7 +4754,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #463
+#463
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -4766,7 +4766,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #464
+#464
 
 - Gear: Ramen
 - Rarity: Common
@@ -4776,7 +4776,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #465
+#465
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -4788,7 +4788,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #466
+#466
 
 - Gear: Juice Box
 - Rarity: Common
@@ -4798,7 +4798,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #467
+#467
 
 - Gear: Soap
 - Rarity: Common
@@ -4808,7 +4808,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #468
+#468
 
 - Gear: Pills
 - Rarity: Common
@@ -4818,7 +4818,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #469
+#469
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -4830,7 +4830,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #470
+#470
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -4840,7 +4840,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #471
+#471
 
 - Gear: Steak
 - Rarity: Common
@@ -4850,7 +4850,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #472
+#472
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -4860,7 +4860,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #473
+#473
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -4870,7 +4870,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #474
+#474
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -4880,7 +4880,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #475
+#475
 
 - Gear: Sushi
 - Rarity: Common
@@ -4890,7 +4890,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #476
+#476
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -4900,7 +4900,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #477
+#477
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -4910,7 +4910,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #478
+#478
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -4920,7 +4920,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #479
+#479
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -4930,7 +4930,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #480
+#480
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -4940,7 +4940,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #481
+#481
 
 - Gear: Steak
 - Rarity: Common
@@ -4952,7 +4952,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #482
+#482
 
 - Gear: Soap
 - Rarity: Common
@@ -4962,7 +4962,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #483
+#483
 
 - Gear: Firework
 - Rarity: Common
@@ -4972,7 +4972,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #484
+#484
 
 - Gear: Candy
 - Rarity: Common
@@ -4982,7 +4982,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #485
+#485
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -4992,7 +4992,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #486
+#486
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -5002,7 +5002,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #487
+#487
 
 - Gear: Pills
 - Rarity: Common
@@ -5012,7 +5012,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #488
+#488
 
 - Gear: Tea
 - Rarity: Common
@@ -5024,7 +5024,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #489
+#489
 
 - Gear: Firework
 - Rarity: Common
@@ -5034,7 +5034,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #490
+#490
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -5044,7 +5044,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #491
+#491
 
 - Gear: Ramen
 - Rarity: Common
@@ -5054,7 +5054,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #492
+#492
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -5064,7 +5064,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #493
+#493
 
 - Gear: Sushi
 - Rarity: Common
@@ -5074,7 +5074,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #494
+#494
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -5084,7 +5084,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #495
+#495
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -5094,7 +5094,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #496
+#496
 
 - Gear: Steak
 - Rarity: Common
@@ -5104,7 +5104,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #497
+#497
 
 - Gear: Sandwich
 - Rarity: Common
@@ -5114,7 +5114,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #498
+#498
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -5124,7 +5124,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #499
+#499
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -5134,7 +5134,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #500
+#500
 
 - Gear: Candy
 - Rarity: Common
@@ -5144,7 +5144,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #501
+#501
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -5154,7 +5154,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #502
+#502
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -5164,7 +5164,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #503
+#503
 
 - Gear: Sandwich
 - Rarity: Common
@@ -5174,7 +5174,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #504
+#504
 
 - Gear: Candle
 - Rarity: Common
@@ -5184,7 +5184,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #505
+#505
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -5194,7 +5194,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #506
+#506
 
 - Gear: Candle
 - Rarity: Common
@@ -5204,7 +5204,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #507
+#507
 
 - Gear: Soap
 - Rarity: Common
@@ -5214,7 +5214,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #508
+#508
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -5224,7 +5224,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #509
+#509
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -5234,7 +5234,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #510
+#510
 
 - Gear: Pills
 - Rarity: Common
@@ -5244,7 +5244,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #511
+#511
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -5254,7 +5254,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #512
+#512
 
 - Gear: Sushi
 - Rarity: Common
@@ -5264,7 +5264,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #513
+#513
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -5274,7 +5274,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #514
+#514
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -5284,7 +5284,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #515
+#515
 
 - Gear: Potion
 - Rarity: Common
@@ -5294,7 +5294,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #516
+#516
 
 - Gear: Sandwich
 - Rarity: Common
@@ -5304,7 +5304,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #517
+#517
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -5316,7 +5316,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #518
+#518
 
 - Gear: Firework
 - Rarity: Common
@@ -5326,7 +5326,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #519
+#519
 
 - Gear: Candle
 - Rarity: Common
@@ -5336,7 +5336,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #520
+#520
 
 - Gear: Steak
 - Rarity: Common
@@ -5346,7 +5346,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #521
+#521
 
 - Gear: Ramen
 - Rarity: Common
@@ -5356,7 +5356,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #522
+#522
 
 - Gear: Pills
 - Rarity: Common
@@ -5368,7 +5368,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #523
+#523
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -5378,7 +5378,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #524
+#524
 
 - Gear: Juice Box
 - Rarity: Common
@@ -5388,7 +5388,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #525
+#525
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -5400,7 +5400,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #526
+#526
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -5410,7 +5410,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #527
+#527
 
 - Gear: Potion
 - Rarity: Common
@@ -5422,7 +5422,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #528
+#528
 
 - Gear: Ramen
 - Rarity: Common
@@ -5432,7 +5432,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #529
+#529
 
 - Gear: Candle
 - Rarity: Common
@@ -5444,7 +5444,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #530
+#530
 
 - Gear: Firework
 - Rarity: Common
@@ -5454,7 +5454,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #531
+#531
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -5464,7 +5464,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #532
+#532
 
 - Gear: Sandwich
 - Rarity: Common
@@ -5476,7 +5476,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #533
+#533
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -5486,7 +5486,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #534
+#534
 
 - Gear: Tea
 - Rarity: Common
@@ -5496,7 +5496,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #535
+#535
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -5506,7 +5506,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #536
+#536
 
 - Gear: Steak
 - Rarity: Common
@@ -5516,7 +5516,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #537
+#537
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -5526,7 +5526,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #538
+#538
 
 - Gear: Firework
 - Rarity: Common
@@ -5536,7 +5536,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #539
+#539
 
 - Gear: Pills
 - Rarity: Common
@@ -5548,7 +5548,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #540
+#540
 
 - Gear: Candy
 - Rarity: Common
@@ -5558,7 +5558,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #541
+#541
 
 - Gear: Sandwich
 - Rarity: Common
@@ -5568,7 +5568,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #542
+#542
 
 - Gear: Tea
 - Rarity: Common
@@ -5578,7 +5578,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #543
+#543
 
 - Gear: Steak
 - Rarity: Common
@@ -5588,7 +5588,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #544
+#544
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -5598,7 +5598,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #545
+#545
 
 - Gear: Steak
 - Rarity: Common
@@ -5608,7 +5608,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #546
+#546
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -5618,7 +5618,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #547
+#547
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -5630,7 +5630,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #548
+#548
 
 - Gear: Pills
 - Rarity: Common
@@ -5640,7 +5640,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #549
+#549
 
 - Gear: Pills
 - Rarity: Common
@@ -5652,7 +5652,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #550
+#550
 
 - Gear: Sushi
 - Rarity: Common
@@ -5662,7 +5662,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #551
+#551
 
 - Gear: Steak
 - Rarity: Common
@@ -5672,7 +5672,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #552
+#552
 
 - Gear: Ramen
 - Rarity: Common
@@ -5682,7 +5682,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #553
+#553
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -5692,7 +5692,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #554
+#554
 
 - Gear: Steak
 - Rarity: Common
@@ -5702,7 +5702,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #555
+#555
 
 - Gear: Steak
 - Rarity: Common
@@ -5714,7 +5714,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #556
+#556
 
 - Gear: Candy
 - Rarity: Common
@@ -5724,7 +5724,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #557
+#557
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -5734,7 +5734,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #558
+#558
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -5744,7 +5744,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #559
+#559
 
 - Gear: Juice Box
 - Rarity: Common
@@ -5754,7 +5754,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #560
+#560
 
 - Gear: Sushi
 - Rarity: Common
@@ -5766,7 +5766,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #561
+#561
 
 - Gear: Sushi
 - Rarity: Common
@@ -5776,7 +5776,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #562
+#562
 
 - Gear: Soap
 - Rarity: Common
@@ -5786,7 +5786,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #563
+#563
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -5796,7 +5796,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #564
+#564
 
 - Gear: Sushi
 - Rarity: Common
@@ -5806,7 +5806,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #565
+#565
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -5816,7 +5816,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #566
+#566
 
 - Gear: Soap
 - Rarity: Common
@@ -5826,7 +5826,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #567
+#567
 
 - Gear: Candle
 - Rarity: Common
@@ -5836,7 +5836,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #568
+#568
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -5846,7 +5846,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #569
+#569
 
 - Gear: Steak
 - Rarity: Common
@@ -5856,7 +5856,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #570
+#570
 
 - Gear: Pills
 - Rarity: Common
@@ -5866,7 +5866,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #571
+#571
 
 - Gear: Firework
 - Rarity: Common
@@ -5878,7 +5878,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #572
+#572
 
 - Gear: Candle
 - Rarity: Common
@@ -5890,7 +5890,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #573
+#573
 
 - Gear: Steak
 - Rarity: Common
@@ -5902,7 +5902,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #574
+#574
 
 - Gear: Candy
 - Rarity: Common
@@ -5912,7 +5912,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #575
+#575
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -5922,7 +5922,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #576
+#576
 
 - Gear: Soap
 - Rarity: Common
@@ -5932,7 +5932,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #577
+#577
 
 - Gear: Soap
 - Rarity: Common
@@ -5942,7 +5942,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #578
+#578
 
 - Gear: Potion
 - Rarity: Common
@@ -5952,7 +5952,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #579
+#579
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -5962,7 +5962,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #580
+#580
 
 - Gear: Potion
 - Rarity: Common
@@ -5972,7 +5972,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #581
+#581
 
 - Gear: Potion
 - Rarity: Common
@@ -5982,7 +5982,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #582
+#582
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -5992,7 +5992,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #583
+#583
 
 - Gear: Candy
 - Rarity: Common
@@ -6002,7 +6002,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #584
+#584
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -6012,7 +6012,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #585
+#585
 
 - Gear: Sandwich
 - Rarity: Common
@@ -6022,7 +6022,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #586
+#586
 
 - Gear: Soap
 - Rarity: Common
@@ -6032,7 +6032,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #587
+#587
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -6044,7 +6044,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #588
+#588
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -6054,7 +6054,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #589
+#589
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -6064,7 +6064,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #590
+#590
 
 - Gear: Firework
 - Rarity: Common
@@ -6074,7 +6074,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #591
+#591
 
 - Gear: Steak
 - Rarity: Common
@@ -6084,7 +6084,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #592
+#592
 
 - Gear: Potion
 - Rarity: Common
@@ -6096,7 +6096,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #593
+#593
 
 - Gear: Candy
 - Rarity: Common
@@ -6106,7 +6106,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #594
+#594
 
 - Gear: Sushi
 - Rarity: Common
@@ -6116,7 +6116,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #595
+#595
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -6126,7 +6126,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #596
+#596
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -6136,7 +6136,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #597
+#597
 
 - Gear: Candle
 - Rarity: Common
@@ -6146,7 +6146,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #598
+#598
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -6156,7 +6156,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #599
+#599
 
 - Gear: Potion
 - Rarity: Common
@@ -6166,7 +6166,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #600
+#600
 
 - Gear: Pills
 - Rarity: Common
@@ -6176,7 +6176,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #601
+#601
 
 - Gear: Sandwich
 - Rarity: Common
@@ -6188,7 +6188,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #602
+#602
 
 - Gear: Candle
 - Rarity: Common
@@ -6198,7 +6198,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #603
+#603
 
 - Gear: Ramen
 - Rarity: Common
@@ -6208,7 +6208,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #604
+#604
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -6218,7 +6218,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #605
+#605
 
 - Gear: Candle
 - Rarity: Common
@@ -6228,7 +6228,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #606
+#606
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -6240,7 +6240,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #607
+#607
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -6250,7 +6250,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #608
+#608
 
 - Gear: Candle
 - Rarity: Common
@@ -6262,7 +6262,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #609
+#609
 
 - Gear: Sandwich
 - Rarity: Common
@@ -6272,7 +6272,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #610
+#610
 
 - Gear: Juice Box
 - Rarity: Common
@@ -6282,7 +6282,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #611
+#611
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -6292,7 +6292,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #612
+#612
 
 - Gear: Juice Box
 - Rarity: Common
@@ -6302,7 +6302,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #613
+#613
 
 - Gear: Sushi
 - Rarity: Common
@@ -6312,7 +6312,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #614
+#614
 
 - Gear: Sushi
 - Rarity: Common
@@ -6322,7 +6322,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #615
+#615
 
 - Gear: Soap
 - Rarity: Common
@@ -6332,7 +6332,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #616
+#616
 
 - Gear: Firework
 - Rarity: Common
@@ -6344,7 +6344,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #617
+#617
 
 - Gear: Ramen
 - Rarity: Common
@@ -6354,7 +6354,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #618
+#618
 
 - Gear: Steak
 - Rarity: Common
@@ -6364,7 +6364,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #619
+#619
 
 - Gear: Steak
 - Rarity: Common
@@ -6374,7 +6374,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #620
+#620
 
 - Gear: Ramen
 - Rarity: Common
@@ -6384,7 +6384,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #621
+#621
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -6394,7 +6394,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #622
+#622
 
 - Gear: Candle
 - Rarity: Common
@@ -6404,7 +6404,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #623
+#623
 
 - Gear: Soap
 - Rarity: Common
@@ -6414,7 +6414,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #624
+#624
 
 - Gear: Candy
 - Rarity: Common
@@ -6424,7 +6424,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #625
+#625
 
 - Gear: Sushi
 - Rarity: Common
@@ -6434,7 +6434,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #626
+#626
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -6444,7 +6444,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #627
+#627
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -6454,7 +6454,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #628
+#628
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -6464,7 +6464,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #629
+#629
 
 - Gear: Firework
 - Rarity: Common
@@ -6476,7 +6476,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #630
+#630
 
 - Gear: Firework
 - Rarity: Common
@@ -6486,7 +6486,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #631
+#631
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -6496,7 +6496,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #632
+#632
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -6506,7 +6506,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #633
+#633
 
 - Gear: Pills
 - Rarity: Common
@@ -6516,7 +6516,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #634
+#634
 
 - Gear: Pills
 - Rarity: Common
@@ -6526,7 +6526,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #635
+#635
 
 - Gear: Sandwich
 - Rarity: Common
@@ -6536,7 +6536,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #636
+#636
 
 - Gear: Tea
 - Rarity: Common
@@ -6546,7 +6546,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #637
+#637
 
 - Gear: Firework
 - Rarity: Common
@@ -6556,7 +6556,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #638
+#638
 
 - Gear: Steak
 - Rarity: Common
@@ -6566,7 +6566,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #639
+#639
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -6576,7 +6576,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #640
+#640
 
 - Gear: Potion
 - Rarity: Common
@@ -6586,7 +6586,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #641
+#641
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -6596,7 +6596,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #642
+#642
 
 - Gear: Tea
 - Rarity: Common
@@ -6606,7 +6606,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #643
+#643
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -6616,7 +6616,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #644
+#644
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -6626,7 +6626,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #645
+#645
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -6636,7 +6636,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #646
+#646
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -6646,7 +6646,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #647
+#647
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -6656,7 +6656,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #648
+#648
 
 - Gear: Soap
 - Rarity: Common
@@ -6666,7 +6666,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #649
+#649
 
 - Gear: Firework
 - Rarity: Common
@@ -6676,7 +6676,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #650
+#650
 
 - Gear: Candle
 - Rarity: Common
@@ -6686,7 +6686,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #651
+#651
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -6696,7 +6696,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #652
+#652
 
 - Gear: Juice Box
 - Rarity: Common
@@ -6706,7 +6706,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #653
+#653
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -6716,7 +6716,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #654
+#654
 
 - Gear: Potion
 - Rarity: Common
@@ -6726,7 +6726,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #655
+#655
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -6736,7 +6736,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #656
+#656
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -6746,7 +6746,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #657
+#657
 
 - Gear: Sushi
 - Rarity: Common
@@ -6756,7 +6756,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #658
+#658
 
 - Gear: Steak
 - Rarity: Common
@@ -6766,7 +6766,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #659
+#659
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -6776,7 +6776,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #660
+#660
 
 - Gear: Ramen
 - Rarity: Common
@@ -6786,7 +6786,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #661
+#661
 
 - Gear: Juice Box
 - Rarity: Common
@@ -6796,7 +6796,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #662
+#662
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -6806,7 +6806,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #663
+#663
 
 - Gear: Soap
 - Rarity: Common
@@ -6816,7 +6816,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #664
+#664
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -6826,7 +6826,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #665
+#665
 
 - Gear: Sandwich
 - Rarity: Common
@@ -6836,7 +6836,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #666
+#666
 
 - Gear: Sushi
 - Rarity: Common
@@ -6846,7 +6846,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #667
+#667
 
 - Gear: Firework
 - Rarity: Common
@@ -6856,7 +6856,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #668
+#668
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -6866,7 +6866,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #669
+#669
 
 - Gear: Firework
 - Rarity: Common
@@ -6876,7 +6876,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #670
+#670
 
 - Gear: Candle
 - Rarity: Common
@@ -6886,7 +6886,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #671
+#671
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -6896,7 +6896,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #672
+#672
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -6906,7 +6906,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #673
+#673
 
 - Gear: Firework
 - Rarity: Common
@@ -6916,7 +6916,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #674
+#674
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -6926,7 +6926,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #675
+#675
 
 - Gear: Sushi
 - Rarity: Common
@@ -6940,7 +6940,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #676
+#676
 
 - Gear: Firework
 - Rarity: Common
@@ -6950,7 +6950,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #677
+#677
 
 - Gear: Candle
 - Rarity: Common
@@ -6960,7 +6960,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #678
+#678
 
 - Gear: Ramen
 - Rarity: Common
@@ -6970,7 +6970,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #679
+#679
 
 - Gear: Potion
 - Rarity: Common
@@ -6980,7 +6980,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #680
+#680
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -6990,7 +6990,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #681
+#681
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -7000,7 +7000,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #682
+#682
 
 - Gear: Juice Box
 - Rarity: Common
@@ -7010,7 +7010,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #683
+#683
 
 - Gear: Firework
 - Rarity: Common
@@ -7020,7 +7020,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #684
+#684
 
 - Gear: Sushi
 - Rarity: Common
@@ -7030,7 +7030,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #685
+#685
 
 - Gear: Ramen
 - Rarity: Common
@@ -7040,7 +7040,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #686
+#686
 
 - Gear: Juice Box
 - Rarity: Common
@@ -7050,7 +7050,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #687
+#687
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -7060,7 +7060,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #688
+#688
 
 - Gear: Potion
 - Rarity: Common
@@ -7070,7 +7070,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #689
+#689
 
 - Gear: Sandwich
 - Rarity: Common
@@ -7080,7 +7080,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #690
+#690
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -7090,7 +7090,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #691
+#691
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -7100,7 +7100,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #692
+#692
 
 - Gear: Sushi
 - Rarity: Common
@@ -7110,7 +7110,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #693
+#693
 
 - Gear: Ramen
 - Rarity: Common
@@ -7120,7 +7120,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #694
+#694
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -7132,7 +7132,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #695
+#695
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -7142,7 +7142,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #696
+#696
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -7152,7 +7152,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #697
+#697
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -7162,7 +7162,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #698
+#698
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -7172,7 +7172,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #699
+#699
 
 - Gear: Candy
 - Rarity: Common
@@ -7182,7 +7182,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #700
+#700
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -7192,7 +7192,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #701
+#701
 
 - Gear: Sandwich
 - Rarity: Common
@@ -7202,7 +7202,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #702
+#702
 
 - Gear: Tea
 - Rarity: Common
@@ -7212,7 +7212,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #703
+#703
 
 - Gear: Candle
 - Rarity: Common
@@ -7222,7 +7222,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #704
+#704
 
 - Gear: Candle
 - Rarity: Common
@@ -7232,7 +7232,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #705
+#705
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -7242,7 +7242,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #706
+#706
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -7252,7 +7252,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #707
+#707
 
 - Gear: Steak
 - Rarity: Common
@@ -7264,7 +7264,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #708
+#708
 
 - Gear: Soap
 - Rarity: Common
@@ -7274,7 +7274,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #709
+#709
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -7284,7 +7284,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #710
+#710
 
 - Gear: Steak
 - Rarity: Common
@@ -7296,7 +7296,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #711
+#711
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -7306,7 +7306,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #712
+#712
 
 - Gear: Sandwich
 - Rarity: Common
@@ -7316,7 +7316,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #713
+#713
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -7326,7 +7326,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #714
+#714
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -7336,7 +7336,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #715
+#715
 
 - Gear: Candy
 - Rarity: Common
@@ -7348,7 +7348,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #716
+#716
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -7358,7 +7358,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #717
+#717
 
 - Gear: Juice Box
 - Rarity: Common
@@ -7368,7 +7368,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #718
+#718
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -7378,7 +7378,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #719
+#719
 
 - Gear: Ramen
 - Rarity: Common
@@ -7388,7 +7388,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #720
+#720
 
 - Gear: Sushi
 - Rarity: Common
@@ -7398,7 +7398,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #721
+#721
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -7408,7 +7408,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #722
+#722
 
 - Gear: Ramen
 - Rarity: Common
@@ -7420,7 +7420,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #723
+#723
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -7430,7 +7430,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #724
+#724
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -7440,7 +7440,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #725
+#725
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -7450,7 +7450,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #726
+#726
 
 - Gear: Candle
 - Rarity: Common
@@ -7460,7 +7460,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #727
+#727
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -7472,7 +7472,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #728
+#728
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -7482,7 +7482,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #729
+#729
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -7492,7 +7492,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #730
+#730
 
 - Gear: Pills
 - Rarity: Common
@@ -7502,7 +7502,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #731
+#731
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -7512,7 +7512,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #732
+#732
 
 - Gear: Candle
 - Rarity: Common
@@ -7522,7 +7522,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #733
+#733
 
 - Gear: Potion
 - Rarity: Common
@@ -7532,7 +7532,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #734
+#734
 
 - Gear: Candy
 - Rarity: Common
@@ -7542,7 +7542,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #735
+#735
 
 - Gear: Soap
 - Rarity: Common
@@ -7552,7 +7552,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #736
+#736
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -7562,7 +7562,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #737
+#737
 
 - Gear: Steak
 - Rarity: Common
@@ -7574,7 +7574,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #738
+#738
 
 - Gear: Sushi
 - Rarity: Common
@@ -7584,7 +7584,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #739
+#739
 
 - Gear: Tea
 - Rarity: Common
@@ -7594,7 +7594,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #740
+#740
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -7604,7 +7604,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #741
+#741
 
 - Gear: Candy
 - Rarity: Common
@@ -7614,7 +7614,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #742
+#742
 
 - Gear: Sandwich
 - Rarity: Common
@@ -7624,7 +7624,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #743
+#743
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -7636,7 +7636,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #744
+#744
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -7646,7 +7646,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #745
+#745
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -7656,7 +7656,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #746
+#746
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -7666,7 +7666,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #747
+#747
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -7676,7 +7676,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #748
+#748
 
 - Gear: Potion
 - Rarity: Common
@@ -7686,7 +7686,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #749
+#749
 
 - Gear: Juice Box
 - Rarity: Common
@@ -7696,7 +7696,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #750
+#750
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -7706,7 +7706,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #751
+#751
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -7716,7 +7716,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #752
+#752
 
 - Gear: Soap
 - Rarity: Common
@@ -7726,7 +7726,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #753
+#753
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -7736,7 +7736,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #754
+#754
 
 - Gear: Soap
 - Rarity: Common
@@ -7746,7 +7746,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #755
+#755
 
 - Gear: Ramen
 - Rarity: Common
@@ -7758,7 +7758,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #756
+#756
 
 - Gear: Steak
 - Rarity: Common
@@ -7768,7 +7768,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #757
+#757
 
 - Gear: Firework
 - Rarity: Common
@@ -7778,7 +7778,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #758
+#758
 
 - Gear: Pills
 - Rarity: Common
@@ -7788,7 +7788,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #759
+#759
 
 - Gear: Sushi
 - Rarity: Common
@@ -7798,7 +7798,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #760
+#760
 
 - Gear: Firework
 - Rarity: Common
@@ -7808,7 +7808,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #761
+#761
 
 - Gear: Sandwich
 - Rarity: Common
@@ -7818,7 +7818,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #762
+#762
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -7828,7 +7828,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #763
+#763
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -7838,7 +7838,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #764
+#764
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -7848,7 +7848,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #765
+#765
 
 - Gear: Tea
 - Rarity: Common
@@ -7858,7 +7858,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #766
+#766
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -7868,7 +7868,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #767
+#767
 
 - Gear: Ramen
 - Rarity: Common
@@ -7878,7 +7878,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #768
+#768
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -7888,7 +7888,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #769
+#769
 
 - Gear: Steak
 - Rarity: Common
@@ -7898,7 +7898,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #770
+#770
 
 - Gear: Soap
 - Rarity: Common
@@ -7908,7 +7908,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #771
+#771
 
 - Gear: Potion
 - Rarity: Common
@@ -7918,7 +7918,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #772
+#772
 
 - Gear: Tea
 - Rarity: Common
@@ -7928,7 +7928,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #773
+#773
 
 - Gear: Pills
 - Rarity: Common
@@ -7938,7 +7938,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #774
+#774
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -7948,7 +7948,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #775
+#775
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -7958,7 +7958,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #776
+#776
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -7968,7 +7968,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #777
+#777
 
 - Gear: Firework
 - Rarity: Common
@@ -7978,7 +7978,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #778
+#778
 
 - Gear: Candy
 - Rarity: Common
@@ -7988,7 +7988,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #779
+#779
 
 - Gear: Sandwich
 - Rarity: Common
@@ -7998,7 +7998,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #780
+#780
 
 - Gear: Juice Box
 - Rarity: Common
@@ -8008,7 +8008,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #781
+#781
 
 - Gear: Pills
 - Rarity: Common
@@ -8018,7 +8018,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #782
+#782
 
 - Gear: Candle
 - Rarity: Common
@@ -8028,7 +8028,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #783
+#783
 
 - Gear: Ramen
 - Rarity: Common
@@ -8038,7 +8038,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #784
+#784
 
 - Gear: Candle
 - Rarity: Common
@@ -8048,7 +8048,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #785
+#785
 
 - Gear: Firework
 - Rarity: Common
@@ -8058,7 +8058,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #786
+#786
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -8068,7 +8068,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #787
+#787
 
 - Gear: Juice Box
 - Rarity: Common
@@ -8078,7 +8078,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #788
+#788
 
 - Gear: Juice Box
 - Rarity: Common
@@ -8088,7 +8088,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #789
+#789
 
 - Gear: Candy
 - Rarity: Common
@@ -8098,7 +8098,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #790
+#790
 
 - Gear: Tea
 - Rarity: Common
@@ -8108,7 +8108,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #791
+#791
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -8118,7 +8118,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #792
+#792
 
 - Gear: Sushi
 - Rarity: Common
@@ -8130,7 +8130,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #793
+#793
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -8140,7 +8140,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #794
+#794
 
 - Gear: Potion
 - Rarity: Common
@@ -8150,7 +8150,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #795
+#795
 
 - Gear: Pills
 - Rarity: Common
@@ -8160,7 +8160,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #796
+#796
 
 - Gear: Ramen
 - Rarity: Common
@@ -8170,7 +8170,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #797
+#797
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -8182,7 +8182,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #798
+#798
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -8194,7 +8194,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #799
+#799
 
 - Gear: Tea
 - Rarity: Common
@@ -8204,7 +8204,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #800
+#800
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -8214,7 +8214,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #801
+#801
 
 - Gear: Potion
 - Rarity: Common
@@ -8224,7 +8224,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #802
+#802
 
 - Gear: Tea
 - Rarity: Common
@@ -8234,7 +8234,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #803
+#803
 
 - Gear: Steak
 - Rarity: Common
@@ -8246,7 +8246,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #804
+#804
 
 - Gear: Ramen
 - Rarity: Common
@@ -8256,7 +8256,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #805
+#805
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -8268,7 +8268,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #806
+#806
 
 - Gear: Soap
 - Rarity: Common
@@ -8278,7 +8278,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #807
+#807
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -8288,7 +8288,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #808
+#808
 
 - Gear: Candy
 - Rarity: Common
@@ -8298,7 +8298,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #809
+#809
 
 - Gear: Candle
 - Rarity: Common
@@ -8308,7 +8308,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #810
+#810
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -8320,7 +8320,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #811
+#811
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -8330,7 +8330,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #812
+#812
 
 - Gear: Steak
 - Rarity: Common
@@ -8340,7 +8340,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #813
+#813
 
 - Gear: Steak
 - Rarity: Common
@@ -8350,7 +8350,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #814
+#814
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -8360,7 +8360,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #815
+#815
 
 - Gear: Sandwich
 - Rarity: Common
@@ -8370,7 +8370,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #816
+#816
 
 - Gear: Firework
 - Rarity: Common
@@ -8380,7 +8380,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #817
+#817
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -8392,7 +8392,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #818
+#818
 
 - Gear: Firework
 - Rarity: Common
@@ -8402,7 +8402,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #819
+#819
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -8412,7 +8412,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #820
+#820
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -8422,7 +8422,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #821
+#821
 
 - Gear: Tea
 - Rarity: Common
@@ -8432,7 +8432,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #822
+#822
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -8442,7 +8442,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #823
+#823
 
 - Gear: Sandwich
 - Rarity: Common
@@ -8452,7 +8452,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #824
+#824
 
 - Gear: Candle
 - Rarity: Common
@@ -8462,7 +8462,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #825
+#825
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -8472,7 +8472,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #826
+#826
 
 - Gear: Sandwich
 - Rarity: Common
@@ -8482,7 +8482,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #827
+#827
 
 - Gear: Sushi
 - Rarity: Common
@@ -8492,7 +8492,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #828
+#828
 
 - Gear: Candle
 - Rarity: Common
@@ -8502,7 +8502,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #829
+#829
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -8512,7 +8512,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #830
+#830
 
 - Gear: Potion
 - Rarity: Common
@@ -8522,7 +8522,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #831
+#831
 
 - Gear: Potion
 - Rarity: Common
@@ -8532,7 +8532,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #832
+#832
 
 - Gear: Firework
 - Rarity: Common
@@ -8542,7 +8542,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #833
+#833
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -8552,7 +8552,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #834
+#834
 
 - Gear: Candle
 - Rarity: Common
@@ -8562,7 +8562,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #835
+#835
 
 - Gear: Firework
 - Rarity: Common
@@ -8572,7 +8572,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #836
+#836
 
 - Gear: Juice Box
 - Rarity: Common
@@ -8582,7 +8582,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #837
+#837
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -8592,7 +8592,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #838
+#838
 
 - Gear: Pills
 - Rarity: Common
@@ -8602,7 +8602,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #839
+#839
 
 - Gear: Firework
 - Rarity: Common
@@ -8612,7 +8612,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #840
+#840
 
 - Gear: Tea
 - Rarity: Common
@@ -8624,7 +8624,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #841
+#841
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -8634,7 +8634,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #842
+#842
 
 - Gear: Soap
 - Rarity: Common
@@ -8644,7 +8644,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #843
+#843
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -8654,7 +8654,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #844
+#844
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -8664,7 +8664,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #845
+#845
 
 - Gear: Sushi
 - Rarity: Common
@@ -8674,7 +8674,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #846
+#846
 
 - Gear: Candle
 - Rarity: Common
@@ -8686,7 +8686,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #847
+#847
 
 - Gear: Steak
 - Rarity: Common
@@ -8696,7 +8696,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #848
+#848
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -8706,7 +8706,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #849
+#849
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -8716,7 +8716,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #850
+#850
 
 - Gear: Potion
 - Rarity: Common
@@ -8726,7 +8726,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #851
+#851
 
 - Gear: Juice Box
 - Rarity: Common
@@ -8736,7 +8736,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #852
+#852
 
 - Gear: Candy
 - Rarity: Common
@@ -8746,7 +8746,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #853
+#853
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -8756,7 +8756,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #854
+#854
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -8766,7 +8766,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #855
+#855
 
 - Gear: Firework
 - Rarity: Common
@@ -8776,7 +8776,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #856
+#856
 
 - Gear: Candy
 - Rarity: Common
@@ -8786,7 +8786,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #857
+#857
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -8796,7 +8796,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #858
+#858
 
 - Gear: Sandwich
 - Rarity: Common
@@ -8806,7 +8806,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #859
+#859
 
 - Gear: Firework
 - Rarity: Common
@@ -8816,7 +8816,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #860
+#860
 
 - Gear: Sandwich
 - Rarity: Common
@@ -8826,7 +8826,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #861
+#861
 
 - Gear: Steak
 - Rarity: Common
@@ -8836,7 +8836,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #862
+#862
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -8846,7 +8846,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #863
+#863
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -8856,7 +8856,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #864
+#864
 
 - Gear: Juice Box
 - Rarity: Common
@@ -8866,7 +8866,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #865
+#865
 
 - Gear: Ramen
 - Rarity: Common
@@ -8876,7 +8876,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #866
+#866
 
 - Gear: Sandwich
 - Rarity: Common
@@ -8886,7 +8886,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #867
+#867
 
 - Gear: Candle
 - Rarity: Common
@@ -8896,7 +8896,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #868
+#868
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -8906,7 +8906,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #869
+#869
 
 - Gear: Steak
 - Rarity: Common
@@ -8916,7 +8916,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #870
+#870
 
 - Gear: Soap
 - Rarity: Common
@@ -8926,7 +8926,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #871
+#871
 
 - Gear: Pills
 - Rarity: Common
@@ -8936,7 +8936,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #872
+#872
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -8946,7 +8946,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #873
+#873
 
 - Gear: Ramen
 - Rarity: Common
@@ -8956,7 +8956,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #874
+#874
 
 - Gear: Candy
 - Rarity: Common
@@ -8966,7 +8966,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #875
+#875
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -8976,7 +8976,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #876
+#876
 
 - Gear: Soap
 - Rarity: Common
@@ -8986,7 +8986,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #877
+#877
 
 - Gear: Sushi
 - Rarity: Common
@@ -8996,7 +8996,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #878
+#878
 
 - Gear: Soap
 - Rarity: Common
@@ -9006,7 +9006,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #879
+#879
 
 - Gear: Candle
 - Rarity: Common
@@ -9018,7 +9018,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #880
+#880
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -9028,7 +9028,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #881
+#881
 
 - Gear: Firework
 - Rarity: Common
@@ -9038,7 +9038,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #882
+#882
 
 - Gear: Pills
 - Rarity: Common
@@ -9048,7 +9048,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #883
+#883
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -9060,7 +9060,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #884
+#884
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -9070,7 +9070,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #885
+#885
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -9080,7 +9080,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #886
+#886
 
 - Gear: Sandwich
 - Rarity: Common
@@ -9090,7 +9090,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #887
+#887
 
 - Gear: Tea
 - Rarity: Common
@@ -9100,7 +9100,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #888
+#888
 
 - Gear: Sushi
 - Rarity: Common
@@ -9110,7 +9110,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #889
+#889
 
 - Gear: Ramen
 - Rarity: Common
@@ -9120,7 +9120,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #890
+#890
 
 - Gear: Potion
 - Rarity: Common
@@ -9130,7 +9130,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #891
+#891
 
 - Gear: Sushi
 - Rarity: Common
@@ -9140,7 +9140,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #892
+#892
 
 - Gear: Juice Box
 - Rarity: Common
@@ -9150,7 +9150,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #893
+#893
 
 - Gear: Juice Box
 - Rarity: Common
@@ -9162,7 +9162,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #894
+#894
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -9174,7 +9174,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #895
+#895
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -9184,7 +9184,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #896
+#896
 
 - Gear: Candle
 - Rarity: Common
@@ -9194,7 +9194,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #897
+#897
 
 - Gear: Soap
 - Rarity: Common
@@ -9204,7 +9204,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #898
+#898
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -9214,7 +9214,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #899
+#899
 
 - Gear: Pills
 - Rarity: Common
@@ -9224,7 +9224,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #900
+#900
 
 - Gear: Tea
 - Rarity: Common
@@ -9234,7 +9234,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #901
+#901
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -9244,7 +9244,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #902
+#902
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -9254,7 +9254,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #903
+#903
 
 - Gear: Steak
 - Rarity: Common
@@ -9264,7 +9264,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #904
+#904
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -9274,7 +9274,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #905
+#905
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -9284,7 +9284,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #906
+#906
 
 - Gear: Sandwich
 - Rarity: Common
@@ -9294,7 +9294,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #907
+#907
 
 - Gear: Steak
 - Rarity: Common
@@ -9304,7 +9304,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #908
+#908
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -9314,7 +9314,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #909
+#909
 
 - Gear: Ramen
 - Rarity: Common
@@ -9324,7 +9324,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #910
+#910
 
 - Gear: Ramen
 - Rarity: Common
@@ -9334,7 +9334,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #911
+#911
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -9344,7 +9344,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #912
+#912
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -9354,7 +9354,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #913
+#913
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -9364,7 +9364,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #914
+#914
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -9374,7 +9374,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #915
+#915
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -9384,7 +9384,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #916
+#916
 
 - Gear: Soap
 - Rarity: Common
@@ -9394,7 +9394,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #917
+#917
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -9404,7 +9404,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #918
+#918
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -9414,7 +9414,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #919
+#919
 
 - Gear: Sandwich
 - Rarity: Common
@@ -9424,7 +9424,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #920
+#920
 
 - Gear: Soap
 - Rarity: Common
@@ -9434,7 +9434,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #921
+#921
 
 - Gear: Firework
 - Rarity: Common
@@ -9444,7 +9444,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #922
+#922
 
 - Gear: Firework
 - Rarity: Common
@@ -9456,7 +9456,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #923
+#923
 
 - Gear: Juice Box
 - Rarity: Common
@@ -9466,7 +9466,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #924
+#924
 
 - Gear: Firework
 - Rarity: Common
@@ -9476,7 +9476,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #925
+#925
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -9486,7 +9486,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #926
+#926
 
 - Gear: Soap
 - Rarity: Common
@@ -9496,7 +9496,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #927
+#927
 
 - Gear: Steak
 - Rarity: Common
@@ -9506,7 +9506,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #928
+#928
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -9518,7 +9518,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #929
+#929
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -9528,7 +9528,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #930
+#930
 
 - Gear: Soap
 - Rarity: Common
@@ -9538,7 +9538,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #931
+#931
 
 - Gear: Potion
 - Rarity: Common
@@ -9550,7 +9550,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #932
+#932
 
 - Gear: Pills
 - Rarity: Common
@@ -9560,7 +9560,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #933
+#933
 
 - Gear: Soap
 - Rarity: Common
@@ -9570,7 +9570,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #934
+#934
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -9580,7 +9580,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #935
+#935
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -9590,7 +9590,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #936
+#936
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -9600,7 +9600,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #937
+#937
 
 - Gear: Juice Box
 - Rarity: Common
@@ -9610,7 +9610,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #938
+#938
 
 - Gear: Soap
 - Rarity: Common
@@ -9620,7 +9620,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #939
+#939
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -9630,7 +9630,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #940
+#940
 
 - Gear: Juice Box
 - Rarity: Common
@@ -9640,7 +9640,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #941
+#941
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -9650,7 +9650,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #942
+#942
 
 - Gear: Pills
 - Rarity: Common
@@ -9660,7 +9660,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #943
+#943
 
 - Gear: Pills
 - Rarity: Common
@@ -9670,7 +9670,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #944
+#944
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -9680,7 +9680,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #945
+#945
 
 - Gear: Soap
 - Rarity: Common
@@ -9690,7 +9690,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #946
+#946
 
 - Gear: Chewing Gum
 - Rarity: Common
@@ -9700,7 +9700,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #947
+#947
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -9710,7 +9710,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #948
+#948
 
 - Gear: Candle
 - Rarity: Common
@@ -9720,7 +9720,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #949
+#949
 
 - Gear: Ramen
 - Rarity: Common
@@ -9730,7 +9730,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #950
+#950
 
 - Gear: Soap
 - Rarity: Common
@@ -9740,7 +9740,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #951
+#951
 
 - Gear: Sushi
 - Rarity: Common
@@ -9750,7 +9750,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #952
+#952
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -9760,7 +9760,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #953
+#953
 
 - Gear: Firework
 - Rarity: Common
@@ -9770,7 +9770,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #954
+#954
 
 - Gear: Potion
 - Rarity: Common
@@ -9780,7 +9780,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #955
+#955
 
 - Gear: Injectable Drug
 - Rarity: Common
@@ -9790,7 +9790,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #956
+#956
 
 - Gear: Ramen
 - Rarity: Common
@@ -9800,7 +9800,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #957
+#957
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -9810,7 +9810,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #958
+#958
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -9820,7 +9820,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #959
+#959
 
 - Gear: Candy
 - Rarity: Common
@@ -9830,7 +9830,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #960
+#960
 
 - Gear: Energy Drink
 - Rarity: Common
@@ -9842,7 +9842,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #961
+#961
 
 - Gear: Juice Box
 - Rarity: Common
@@ -9852,7 +9852,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #962
+#962
 
 - Gear: Candle
 - Rarity: Common
@@ -9862,7 +9862,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #963
+#963
 
 - Gear: Candle
 - Rarity: Common
@@ -9872,7 +9872,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #964
+#964
 
 - Gear: Firework
 - Rarity: Common
@@ -9882,7 +9882,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #965
+#965
 
 - Gear: Sushi
 - Rarity: Common
@@ -9892,7 +9892,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #966
+#966
 
 - Gear: Soap
 - Rarity: Common
@@ -9904,7 +9904,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #967
+#967
 
 - Gear: Pills
 - Rarity: Common
@@ -9914,7 +9914,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #968
+#968
 
 - Gear: Smokable Drug
 - Rarity: Common
@@ -9924,7 +9924,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #969
+#969
 
 - Gear: Steak
 - Rarity: Common
@@ -9934,7 +9934,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Asticarian (Modern)
 
-## #970
+#970
 
 - Gear: Steak
 - Rarity: Common
@@ -9944,7 +9944,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #971
+#971
 
 - Gear: Soap
 - Rarity: Common
@@ -9954,7 +9954,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #972
+#972
 
 - Gear: Juice Box
 - Rarity: Common
@@ -9964,7 +9964,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #973
+#973
 
 - Gear: Potion
 - Rarity: Common
@@ -9974,7 +9974,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #974
+#974
 
 - Gear: Candle
 - Rarity: Common
@@ -9984,7 +9984,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #975
+#975
 
 - Gear: Candy
 - Rarity: Common
@@ -9994,7 +9994,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #976
+#976
 
 - Gear: Candy
 - Rarity: Common
@@ -10004,7 +10004,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #977
+#977
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -10014,7 +10014,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #978
+#978
 
 - Gear: Soap
 - Rarity: Common
@@ -10024,7 +10024,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #979
+#979
 
 - Gear: Juice Box
 - Rarity: Common
@@ -10034,7 +10034,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #980
+#980
 
 - Gear: Soap
 - Rarity: Common
@@ -10044,7 +10044,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #981
+#981
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -10054,7 +10054,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #982
+#982
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -10064,7 +10064,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #983
+#983
 
 - Gear: Soap
 - Rarity: Common
@@ -10074,7 +10074,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #984
+#984
 
 - Gear: Medic Kit
 - Rarity: Common
@@ -10084,7 +10084,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #985
+#985
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -10094,7 +10094,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Rtolkan (Steampunk)
 
-## #986
+#986
 
 - Gear: Steak
 - Rarity: Common
@@ -10104,7 +10104,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Ydilikian (Medieval)
 
-## #987
+#987
 
 - Gear: Juice Box
 - Rarity: Common
@@ -10114,7 +10114,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #988
+#988
 
 - Gear: Steak
 - Rarity: Common
@@ -10124,7 +10124,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #989
+#989
 
 - Gear: Powder Drug
 - Rarity: Common
@@ -10134,7 +10134,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #990
+#990
 
 - Gear: Candle
 - Rarity: Common
@@ -10144,7 +10144,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #991
+#991
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -10154,7 +10154,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Western)
 
-## #992
+#992
 
 - Gear: Candy
 - Rarity: Common
@@ -10164,7 +10164,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #993
+#993
 
 - Gear: Candle
 - Rarity: Common
@@ -10174,7 +10174,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Cortez (Pirate)
 
-## #994
+#994
 
 - Gear: Ramen
 - Rarity: Common
@@ -10184,7 +10184,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #995
+#995
 
 - Gear: Soap
 - Rarity: Common
@@ -10194,7 +10194,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #996
+#996
 
 - Gear: Toothpaste
 - Rarity: Common
@@ -10204,7 +10204,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #997
+#997
 
 - Gear: Soup Cup
 - Rarity: Common
@@ -10216,7 +10216,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #998
+#998
 
 - Gear: Sushi
 - Rarity: Common
@@ -10226,7 +10226,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Valdan (Cyberpunk)
 
-## #999
+#999
 
 - Gear: Firework
 - Rarity: Common
@@ -10236,7 +10236,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 50
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #1000
+#1000
 
 - Gear: Smokable Drug
 - Rarity: Common

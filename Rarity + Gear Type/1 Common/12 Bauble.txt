@@ -12,7 +12,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 
 # Loot Chart
 
-## #1
+#1
 
 - Gear: Key Item
 - Rarity: Common
@@ -21,7 +21,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #2
+#2
 
 - Gear: Egg
 - Rarity: Common
@@ -33,7 +33,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #3
+#3
 
 - Gear: Key Item
 - Rarity: Common
@@ -42,7 +42,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #4
+#4
 
 - Gear: Curio
 - Rarity: Common
@@ -52,7 +52,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Valdan (Cyberpunk)
 
-## #5
+#5
 
 - Gear: Key Item
 - Rarity: Common
@@ -61,7 +61,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #6
+#6
 
 - Gear: Knickknack
 - Rarity: Common
@@ -72,7 +72,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #7
+#7
 
 - Gear: Egg
 - Rarity: Common
@@ -83,7 +83,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #8
+#8
 
 - Gear: Key Item
 - Rarity: Common
@@ -92,7 +92,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #9
+#9
 
 - Gear: Curio
 - Rarity: Common
@@ -102,7 +102,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Western)
 
-## #10
+#10
 
 - Gear: Diamond
 - Rarity: Common
@@ -114,7 +114,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #11
+#11
 
 - Gear: Diamond
 - Rarity: Common
@@ -126,7 +126,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #12
+#12
 
 - Gear: Diamond
 - Rarity: Common
@@ -138,7 +138,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #13
+#13
 
 - Gear: Egg
 - Rarity: Common
@@ -149,7 +149,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #14
+#14
 
 - Gear: Key Item
 - Rarity: Common
@@ -158,7 +158,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #15
+#15
 
 - Gear: Trinket
 - Rarity: Common
@@ -168,7 +168,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #16
+#16
 
 - Gear: Egg
 - Rarity: Common
@@ -179,7 +179,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #17
+#17
 
 - Gear: Curio
 - Rarity: Common
@@ -189,7 +189,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Western)
 
-## #18
+#18
 
 - Gear: Trinket
 - Rarity: Common
@@ -199,7 +199,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #19
+#19
 
 - Gear: Diamond
 - Rarity: Common
@@ -211,7 +211,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #20
+#20
 
 - Gear: Key Item
 - Rarity: Common
@@ -220,7 +220,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #21
+#21
 
 - Gear: Egg
 - Rarity: Common
@@ -231,7 +231,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #22
+#22
 
 - Gear: Curio
 - Rarity: Common
@@ -241,7 +241,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #23
+#23
 
 - Gear: Orb
 - Rarity: Common
@@ -253,7 +253,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #24
+#24
 
 - Gear: Trinket
 - Rarity: Common
@@ -263,7 +263,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #25
+#25
 
 - Gear: Key Item
 - Rarity: Common
@@ -272,7 +272,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #26
+#26
 
 - Gear: Curio
 - Rarity: Common
@@ -282,7 +282,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Valdan (Cyberpunk)
 
-## #27
+#27
 
 - Gear: Trinket
 - Rarity: Common
@@ -292,7 +292,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #28
+#28
 
 - Gear: Egg
 - Rarity: Common
@@ -303,7 +303,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #29
+#29
 
 - Gear: Diamond
 - Rarity: Common
@@ -315,7 +315,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #30
+#30
 
 - Gear: Key Item
 - Rarity: Common
@@ -324,7 +324,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #31
+#31
 
 - Gear: Curio
 - Rarity: Common
@@ -334,7 +334,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Asticarian (Modern)
 
-## #32
+#32
 
 - Gear: Key Item
 - Rarity: Common
@@ -343,7 +343,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #33
+#33
 
 - Gear: Knickknack
 - Rarity: Common
@@ -354,7 +354,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #34
+#34
 
 - Gear: Knickknack
 - Rarity: Common
@@ -365,7 +365,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #35
+#35
 
 - Gear: Diamond
 - Rarity: Common
@@ -377,7 +377,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #36
+#36
 
 - Gear: Orb
 - Rarity: Common
@@ -391,7 +391,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #37
+#37
 
 - Gear: Egg
 - Rarity: Common
@@ -402,7 +402,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #38
+#38
 
 - Gear: Trinket
 - Rarity: Common
@@ -412,7 +412,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #39
+#39
 
 - Gear: Egg
 - Rarity: Common
@@ -423,7 +423,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #40
+#40
 
 - Gear: Knickknack
 - Rarity: Common
@@ -434,7 +434,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #41
+#41
 
 - Gear: Trinket
 - Rarity: Common
@@ -444,7 +444,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #42
+#42
 
 - Gear: Trinket
 - Rarity: Common
@@ -454,7 +454,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #43
+#43
 
 - Gear: Trinket
 - Rarity: Common
@@ -464,7 +464,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #44
+#44
 
 - Gear: Egg
 - Rarity: Common
@@ -475,7 +475,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #45
+#45
 
 - Gear: Egg
 - Rarity: Common
@@ -486,7 +486,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #46
+#46
 
 - Gear: Orb
 - Rarity: Common
@@ -498,7 +498,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #47
+#47
 
 - Gear: Orb
 - Rarity: Common
@@ -510,7 +510,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #48
+#48
 
 - Gear: Key Item
 - Rarity: Common
@@ -519,7 +519,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #49
+#49
 
 - Gear: Knickknack
 - Rarity: Common
@@ -530,7 +530,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #50
+#50
 
 - Gear: Egg
 - Rarity: Common
@@ -541,7 +541,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #51
+#51
 
 - Gear: Diamond
 - Rarity: Common
@@ -553,7 +553,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #52
+#52
 
 - Gear: Key Item
 - Rarity: Common
@@ -562,7 +562,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #53
+#53
 
 - Gear: Diamond
 - Rarity: Common
@@ -574,7 +574,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #54
+#54
 
 - Gear: Trinket
 - Rarity: Common
@@ -584,7 +584,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #55
+#55
 
 - Gear: Curio
 - Rarity: Common
@@ -594,7 +594,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Pirate)
 
-## #56
+#56
 
 - Gear: Key Item
 - Rarity: Common
@@ -603,7 +603,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #57
+#57
 
 - Gear: Key Item
 - Rarity: Common
@@ -612,7 +612,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #58
+#58
 
 - Gear: Trinket
 - Rarity: Common
@@ -622,7 +622,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #59
+#59
 
 - Gear: Orb
 - Rarity: Common
@@ -634,7 +634,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #60
+#60
 
 - Gear: Trinket
 - Rarity: Common
@@ -644,7 +644,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #61
+#61
 
 - Gear: Key Item
 - Rarity: Common
@@ -653,7 +653,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #62
+#62
 
 - Gear: Orb
 - Rarity: Common
@@ -665,7 +665,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #63
+#63
 
 - Gear: Trinket
 - Rarity: Common
@@ -675,7 +675,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #64
+#64
 
 - Gear: Diamond
 - Rarity: Common
@@ -687,7 +687,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #65
+#65
 
 - Gear: Orb
 - Rarity: Common
@@ -699,7 +699,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #66
+#66
 
 - Gear: Key Item
 - Rarity: Common
@@ -708,7 +708,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #67
+#67
 
 - Gear: Orb
 - Rarity: Common
@@ -720,7 +720,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #68
+#68
 
 - Gear: Orb
 - Rarity: Common
@@ -732,7 +732,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #69
+#69
 
 - Gear: Knickknack
 - Rarity: Common
@@ -743,7 +743,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #70
+#70
 
 - Gear: Knickknack
 - Rarity: Common
@@ -754,7 +754,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #71
+#71
 
 - Gear: Trinket
 - Rarity: Common
@@ -764,7 +764,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #72
+#72
 
 - Gear: Diamond
 - Rarity: Common
@@ -776,7 +776,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #73
+#73
 
 - Gear: Egg
 - Rarity: Common
@@ -787,7 +787,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #74
+#74
 
 - Gear: Diamond
 - Rarity: Common
@@ -799,7 +799,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #75
+#75
 
 - Gear: Orb
 - Rarity: Common
@@ -811,7 +811,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #76
+#76
 
 - Gear: Curio
 - Rarity: Common
@@ -821,7 +821,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Rtolkan (Steampunk)
 
-## #77
+#77
 
 - Gear: Knickknack
 - Rarity: Common
@@ -832,7 +832,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #78
+#78
 
 - Gear: Curio
 - Rarity: Common
@@ -842,7 +842,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #79
+#79
 
 - Gear: Curio
 - Rarity: Common
@@ -852,7 +852,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #80
+#80
 
 - Gear: Egg
 - Rarity: Common
@@ -863,7 +863,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #81
+#81
 
 - Gear: Orb
 - Rarity: Common
@@ -875,7 +875,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #82
+#82
 
 - Gear: Egg
 - Rarity: Common
@@ -886,7 +886,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #83
+#83
 
 - Gear: Trinket
 - Rarity: Common
@@ -896,7 +896,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #84
+#84
 
 - Gear: Egg
 - Rarity: Common
@@ -907,7 +907,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #85
+#85
 
 - Gear: Curio
 - Rarity: Common
@@ -917,7 +917,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Asticarian (Modern)
 
-## #86
+#86
 
 - Gear: Orb
 - Rarity: Common
@@ -929,7 +929,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #87
+#87
 
 - Gear: Key Item
 - Rarity: Common
@@ -938,7 +938,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #88
+#88
 
 - Gear: Orb
 - Rarity: Common
@@ -950,7 +950,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #89
+#89
 
 - Gear: Curio
 - Rarity: Common
@@ -960,7 +960,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #90
+#90
 
 - Gear: Diamond
 - Rarity: Common
@@ -972,7 +972,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #91
+#91
 
 - Gear: Trinket
 - Rarity: Common
@@ -982,7 +982,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #92
+#92
 
 - Gear: Diamond
 - Rarity: Common
@@ -994,7 +994,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #93
+#93
 
 - Gear: Key Item
 - Rarity: Common
@@ -1003,7 +1003,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #94
+#94
 
 - Gear: Curio
 - Rarity: Common
@@ -1013,7 +1013,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #95
+#95
 
 - Gear: Diamond
 - Rarity: Common
@@ -1025,7 +1025,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #96
+#96
 
 - Gear: Egg
 - Rarity: Common
@@ -1036,7 +1036,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #97
+#97
 
 - Gear: Egg
 - Rarity: Common
@@ -1047,7 +1047,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #98
+#98
 
 - Gear: Egg
 - Rarity: Common
@@ -1058,7 +1058,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #99
+#99
 
 - Gear: Key Item
 - Rarity: Common
@@ -1067,7 +1067,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #100
+#100
 
 - Gear: Trinket
 - Rarity: Common
@@ -1077,7 +1077,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #101
+#101
 
 - Gear: Curio
 - Rarity: Common
@@ -1087,7 +1087,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Pirate)
 
-## #102
+#102
 
 - Gear: Curio
 - Rarity: Common
@@ -1097,7 +1097,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Rtolkan (Steampunk)
 
-## #103
+#103
 
 - Gear: Diamond
 - Rarity: Common
@@ -1109,7 +1109,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #104
+#104
 
 - Gear: Diamond
 - Rarity: Common
@@ -1121,7 +1121,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #105
+#105
 
 - Gear: Egg
 - Rarity: Common
@@ -1132,7 +1132,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #106
+#106
 
 - Gear: Curio
 - Rarity: Common
@@ -1142,7 +1142,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #107
+#107
 
 - Gear: Egg
 - Rarity: Common
@@ -1153,7 +1153,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #108
+#108
 
 - Gear: Key Item
 - Rarity: Common
@@ -1162,7 +1162,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #109
+#109
 
 - Gear: Egg
 - Rarity: Common
@@ -1173,7 +1173,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #110
+#110
 
 - Gear: Curio
 - Rarity: Common
@@ -1183,7 +1183,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Western)
 
-## #111
+#111
 
 - Gear: Trinket
 - Rarity: Common
@@ -1193,7 +1193,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #112
+#112
 
 - Gear: Trinket
 - Rarity: Common
@@ -1203,7 +1203,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #113
+#113
 
 - Gear: Knickknack
 - Rarity: Common
@@ -1214,7 +1214,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #114
+#114
 
 - Gear: Key Item
 - Rarity: Common
@@ -1223,7 +1223,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #115
+#115
 
 - Gear: Diamond
 - Rarity: Common
@@ -1235,7 +1235,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #116
+#116
 
 - Gear: Trinket
 - Rarity: Common
@@ -1245,7 +1245,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #117
+#117
 
 - Gear: Curio
 - Rarity: Common
@@ -1255,7 +1255,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #118
+#118
 
 - Gear: Orb
 - Rarity: Common
@@ -1267,7 +1267,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #119
+#119
 
 - Gear: Key Item
 - Rarity: Common
@@ -1276,7 +1276,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #120
+#120
 
 - Gear: Trinket
 - Rarity: Common
@@ -1286,7 +1286,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #121
+#121
 
 - Gear: Egg
 - Rarity: Common
@@ -1298,7 +1298,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #122
+#122
 
 - Gear: Egg
 - Rarity: Common
@@ -1309,7 +1309,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #123
+#123
 
 - Gear: Orb
 - Rarity: Common
@@ -1321,7 +1321,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #124
+#124
 
 - Gear: Trinket
 - Rarity: Common
@@ -1331,7 +1331,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #125
+#125
 
 - Gear: Key Item
 - Rarity: Common
@@ -1340,7 +1340,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #126
+#126
 
 - Gear: Knickknack
 - Rarity: Common
@@ -1351,7 +1351,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #127
+#127
 
 - Gear: Trinket
 - Rarity: Common
@@ -1361,7 +1361,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #128
+#128
 
 - Gear: Egg
 - Rarity: Common
@@ -1372,7 +1372,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #129
+#129
 
 - Gear: Knickknack
 - Rarity: Common
@@ -1383,7 +1383,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #130
+#130
 
 - Gear: Knickknack
 - Rarity: Common
@@ -1394,7 +1394,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #131
+#131
 
 - Gear: Knickknack
 - Rarity: Common
@@ -1405,7 +1405,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #132
+#132
 
 - Gear: Orb
 - Rarity: Common
@@ -1417,7 +1417,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #133
+#133
 
 - Gear: Trinket
 - Rarity: Common
@@ -1427,7 +1427,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #134
+#134
 
 - Gear: Trinket
 - Rarity: Common
@@ -1437,7 +1437,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #135
+#135
 
 - Gear: Diamond
 - Rarity: Common
@@ -1449,7 +1449,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #136
+#136
 
 - Gear: Key Item
 - Rarity: Common
@@ -1458,7 +1458,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #137
+#137
 
 - Gear: Curio
 - Rarity: Common
@@ -1468,7 +1468,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #138
+#138
 
 - Gear: Diamond
 - Rarity: Common
@@ -1480,7 +1480,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #139
+#139
 
 - Gear: Egg
 - Rarity: Common
@@ -1491,7 +1491,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #140
+#140
 
 - Gear: Curio
 - Rarity: Common
@@ -1501,7 +1501,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #141
+#141
 
 - Gear: Diamond
 - Rarity: Common
@@ -1513,7 +1513,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #142
+#142
 
 - Gear: Knickknack
 - Rarity: Common
@@ -1524,7 +1524,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #143
+#143
 
 - Gear: Orb
 - Rarity: Common
@@ -1536,7 +1536,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #144
+#144
 
 - Gear: Trinket
 - Rarity: Common
@@ -1546,7 +1546,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #145
+#145
 
 - Gear: Curio
 - Rarity: Common
@@ -1556,7 +1556,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #146
+#146
 
 - Gear: Egg
 - Rarity: Common
@@ -1567,7 +1567,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #147
+#147
 
 - Gear: Orb
 - Rarity: Common
@@ -1579,7 +1579,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #148
+#148
 
 - Gear: Egg
 - Rarity: Common
@@ -1590,7 +1590,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #149
+#149
 
 - Gear: Trinket
 - Rarity: Common
@@ -1600,7 +1600,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #150
+#150
 
 - Gear: Key Item
 - Rarity: Common
@@ -1609,7 +1609,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #151
+#151
 
 - Gear: Diamond
 - Rarity: Common
@@ -1621,7 +1621,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #152
+#152
 
 - Gear: Curio
 - Rarity: Common
@@ -1631,7 +1631,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #153
+#153
 
 - Gear: Knickknack
 - Rarity: Common
@@ -1642,7 +1642,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #154
+#154
 
 - Gear: Diamond
 - Rarity: Common
@@ -1654,7 +1654,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #155
+#155
 
 - Gear: Trinket
 - Rarity: Common
@@ -1664,7 +1664,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #156
+#156
 
 - Gear: Orb
 - Rarity: Common
@@ -1676,7 +1676,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #157
+#157
 
 - Gear: Diamond
 - Rarity: Common
@@ -1688,7 +1688,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #158
+#158
 
 - Gear: Key Item
 - Rarity: Common
@@ -1697,7 +1697,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #159
+#159
 
 - Gear: Egg
 - Rarity: Common
@@ -1708,7 +1708,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #160
+#160
 
 - Gear: Diamond
 - Rarity: Common
@@ -1720,7 +1720,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #161
+#161
 
 - Gear: Curio
 - Rarity: Common
@@ -1730,7 +1730,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #162
+#162
 
 - Gear: Trinket
 - Rarity: Common
@@ -1740,7 +1740,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #163
+#163
 
 - Gear: Egg
 - Rarity: Common
@@ -1751,7 +1751,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #164
+#164
 
 - Gear: Curio
 - Rarity: Common
@@ -1761,7 +1761,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #165
+#165
 
 - Gear: Egg
 - Rarity: Common
@@ -1772,7 +1772,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #166
+#166
 
 - Gear: Knickknack
 - Rarity: Common
@@ -1783,7 +1783,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #167
+#167
 
 - Gear: Trinket
 - Rarity: Common
@@ -1793,7 +1793,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #168
+#168
 
 - Gear: Orb
 - Rarity: Common
@@ -1805,7 +1805,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #169
+#169
 
 - Gear: Diamond
 - Rarity: Common
@@ -1817,7 +1817,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #170
+#170
 
 - Gear: Knickknack
 - Rarity: Common
@@ -1828,7 +1828,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #171
+#171
 
 - Gear: Curio
 - Rarity: Common
@@ -1838,7 +1838,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Pirate)
 
-## #172
+#172
 
 - Gear: Diamond
 - Rarity: Common
@@ -1850,7 +1850,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #173
+#173
 
 - Gear: Egg
 - Rarity: Common
@@ -1861,7 +1861,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #174
+#174
 
 - Gear: Egg
 - Rarity: Common
@@ -1872,7 +1872,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #175
+#175
 
 - Gear: Curio
 - Rarity: Common
@@ -1882,7 +1882,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Rtolkan (Steampunk)
 
-## #176
+#176
 
 - Gear: Orb
 - Rarity: Common
@@ -1894,7 +1894,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #177
+#177
 
 - Gear: Knickknack
 - Rarity: Common
@@ -1905,7 +1905,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #178
+#178
 
 - Gear: Trinket
 - Rarity: Common
@@ -1915,7 +1915,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #179
+#179
 
 - Gear: Knickknack
 - Rarity: Common
@@ -1926,7 +1926,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #180
+#180
 
 - Gear: Egg
 - Rarity: Common
@@ -1937,7 +1937,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #181
+#181
 
 - Gear: Egg
 - Rarity: Common
@@ -1948,7 +1948,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #182
+#182
 
 - Gear: Key Item
 - Rarity: Common
@@ -1957,7 +1957,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #183
+#183
 
 - Gear: Key Item
 - Rarity: Common
@@ -1966,7 +1966,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #184
+#184
 
 - Gear: Knickknack
 - Rarity: Common
@@ -1977,7 +1977,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #185
+#185
 
 - Gear: Trinket
 - Rarity: Common
@@ -1987,7 +1987,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #186
+#186
 
 - Gear: Trinket
 - Rarity: Common
@@ -1997,7 +1997,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #187
+#187
 
 - Gear: Egg
 - Rarity: Common
@@ -2008,7 +2008,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #188
+#188
 
 - Gear: Curio
 - Rarity: Common
@@ -2018,7 +2018,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Valdan (Cyberpunk)
 
-## #189
+#189
 
 - Gear: Key Item
 - Rarity: Common
@@ -2027,7 +2027,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #190
+#190
 
 - Gear: Curio
 - Rarity: Common
@@ -2037,7 +2037,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Asticarian (Modern)
 
-## #191
+#191
 
 - Gear: Key Item
 - Rarity: Common
@@ -2046,7 +2046,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #192
+#192
 
 - Gear: Key Item
 - Rarity: Common
@@ -2055,7 +2055,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #193
+#193
 
 - Gear: Key Item
 - Rarity: Common
@@ -2064,7 +2064,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #194
+#194
 
 - Gear: Diamond
 - Rarity: Common
@@ -2076,7 +2076,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #195
+#195
 
 - Gear: Knickknack
 - Rarity: Common
@@ -2087,7 +2087,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #196
+#196
 
 - Gear: Knickknack
 - Rarity: Common
@@ -2098,7 +2098,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #197
+#197
 
 - Gear: Orb
 - Rarity: Common
@@ -2110,7 +2110,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #198
+#198
 
 - Gear: Key Item
 - Rarity: Common
@@ -2119,7 +2119,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #199
+#199
 
 - Gear: Knickknack
 - Rarity: Common
@@ -2130,7 +2130,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #200
+#200
 
 - Gear: Trinket
 - Rarity: Common
@@ -2140,7 +2140,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #201
+#201
 
 - Gear: Diamond
 - Rarity: Common
@@ -2152,7 +2152,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #202
+#202
 
 - Gear: Diamond
 - Rarity: Common
@@ -2164,7 +2164,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #203
+#203
 
 - Gear: Trinket
 - Rarity: Common
@@ -2174,7 +2174,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #204
+#204
 
 - Gear: Trinket
 - Rarity: Common
@@ -2184,7 +2184,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #205
+#205
 
 - Gear: Curio
 - Rarity: Common
@@ -2194,7 +2194,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Western)
 
-## #206
+#206
 
 - Gear: Orb
 - Rarity: Common
@@ -2206,7 +2206,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #207
+#207
 
 - Gear: Trinket
 - Rarity: Common
@@ -2216,7 +2216,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #208
+#208
 
 - Gear: Egg
 - Rarity: Common
@@ -2227,7 +2227,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #209
+#209
 
 - Gear: Curio
 - Rarity: Common
@@ -2237,7 +2237,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Rtolkan (Steampunk)
 
-## #210
+#210
 
 - Gear: Key Item
 - Rarity: Common
@@ -2246,7 +2246,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #211
+#211
 
 - Gear: Diamond
 - Rarity: Common
@@ -2258,7 +2258,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #212
+#212
 
 - Gear: Curio
 - Rarity: Common
@@ -2268,7 +2268,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #213
+#213
 
 - Gear: Diamond
 - Rarity: Common
@@ -2280,7 +2280,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #214
+#214
 
 - Gear: Diamond
 - Rarity: Common
@@ -2292,7 +2292,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #215
+#215
 
 - Gear: Trinket
 - Rarity: Common
@@ -2302,7 +2302,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #216
+#216
 
 - Gear: Trinket
 - Rarity: Common
@@ -2312,7 +2312,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #217
+#217
 
 - Gear: Orb
 - Rarity: Common
@@ -2324,7 +2324,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #218
+#218
 
 - Gear: Key Item
 - Rarity: Common
@@ -2333,7 +2333,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #219
+#219
 
 - Gear: Diamond
 - Rarity: Common
@@ -2345,7 +2345,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #220
+#220
 
 - Gear: Key Item
 - Rarity: Common
@@ -2354,7 +2354,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #221
+#221
 
 - Gear: Egg
 - Rarity: Common
@@ -2365,7 +2365,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #222
+#222
 
 - Gear: Curio
 - Rarity: Common
@@ -2375,7 +2375,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #223
+#223
 
 - Gear: Egg
 - Rarity: Common
@@ -2386,7 +2386,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #224
+#224
 
 - Gear: Trinket
 - Rarity: Common
@@ -2396,7 +2396,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #225
+#225
 
 - Gear: Trinket
 - Rarity: Common
@@ -2406,7 +2406,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #226
+#226
 
 - Gear: Diamond
 - Rarity: Common
@@ -2418,7 +2418,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #227
+#227
 
 - Gear: Orb
 - Rarity: Common
@@ -2430,7 +2430,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #228
+#228
 
 - Gear: Diamond
 - Rarity: Common
@@ -2442,7 +2442,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #229
+#229
 
 - Gear: Trinket
 - Rarity: Common
@@ -2452,7 +2452,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #230
+#230
 
 - Gear: Orb
 - Rarity: Common
@@ -2464,7 +2464,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #231
+#231
 
 - Gear: Knickknack
 - Rarity: Common
@@ -2475,7 +2475,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #232
+#232
 
 - Gear: Orb
 - Rarity: Common
@@ -2487,7 +2487,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #233
+#233
 
 - Gear: Diamond
 - Rarity: Common
@@ -2499,7 +2499,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #234
+#234
 
 - Gear: Curio
 - Rarity: Common
@@ -2509,7 +2509,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Asticarian (Modern)
 
-## #235
+#235
 
 - Gear: Orb
 - Rarity: Common
@@ -2521,7 +2521,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #236
+#236
 
 - Gear: Orb
 - Rarity: Common
@@ -2533,7 +2533,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #237
+#237
 
 - Gear: Trinket
 - Rarity: Common
@@ -2543,7 +2543,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #238
+#238
 
 - Gear: Knickknack
 - Rarity: Common
@@ -2554,7 +2554,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #239
+#239
 
 - Gear: Curio
 - Rarity: Common
@@ -2564,7 +2564,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Rtolkan (Steampunk)
 
-## #240
+#240
 
 - Gear: Egg
 - Rarity: Common
@@ -2575,7 +2575,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #241
+#241
 
 - Gear: Diamond
 - Rarity: Common
@@ -2587,7 +2587,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #242
+#242
 
 - Gear: Curio
 - Rarity: Common
@@ -2597,7 +2597,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Asticarian (Modern)
 
-## #243
+#243
 
 - Gear: Key Item
 - Rarity: Common
@@ -2606,7 +2606,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #244
+#244
 
 - Gear: Diamond
 - Rarity: Common
@@ -2618,7 +2618,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #245
+#245
 
 - Gear: Knickknack
 - Rarity: Common
@@ -2629,7 +2629,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #246
+#246
 
 - Gear: Knickknack
 - Rarity: Common
@@ -2640,7 +2640,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #247
+#247
 
 - Gear: Egg
 - Rarity: Common
@@ -2651,7 +2651,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #248
+#248
 
 - Gear: Orb
 - Rarity: Common
@@ -2663,7 +2663,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #249
+#249
 
 - Gear: Diamond
 - Rarity: Common
@@ -2675,7 +2675,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #250
+#250
 
 - Gear: Diamond
 - Rarity: Common
@@ -2687,7 +2687,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #251
+#251
 
 - Gear: Egg
 - Rarity: Common
@@ -2698,7 +2698,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #252
+#252
 
 - Gear: Egg
 - Rarity: Common
@@ -2709,7 +2709,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #253
+#253
 
 - Gear: Trinket
 - Rarity: Common
@@ -2719,7 +2719,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #254
+#254
 
 - Gear: Diamond
 - Rarity: Common
@@ -2731,7 +2731,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #255
+#255
 
 - Gear: Trinket
 - Rarity: Common
@@ -2741,7 +2741,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #256
+#256
 
 - Gear: Egg
 - Rarity: Common
@@ -2752,7 +2752,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #257
+#257
 
 - Gear: Orb
 - Rarity: Common
@@ -2764,7 +2764,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #258
+#258
 
 - Gear: Orb
 - Rarity: Common
@@ -2776,7 +2776,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #259
+#259
 
 - Gear: Knickknack
 - Rarity: Common
@@ -2787,7 +2787,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #260
+#260
 
 - Gear: Key Item
 - Rarity: Common
@@ -2796,7 +2796,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #261
+#261
 
 - Gear: Knickknack
 - Rarity: Common
@@ -2807,7 +2807,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #262
+#262
 
 - Gear: Diamond
 - Rarity: Common
@@ -2819,7 +2819,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #263
+#263
 
 - Gear: Egg
 - Rarity: Common
@@ -2830,7 +2830,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #264
+#264
 
 - Gear: Orb
 - Rarity: Common
@@ -2842,7 +2842,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #265
+#265
 
 - Gear: Knickknack
 - Rarity: Common
@@ -2853,7 +2853,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #266
+#266
 
 - Gear: Diamond
 - Rarity: Common
@@ -2865,7 +2865,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #267
+#267
 
 - Gear: Diamond
 - Rarity: Common
@@ -2877,7 +2877,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #268
+#268
 
 - Gear: Diamond
 - Rarity: Common
@@ -2889,7 +2889,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #269
+#269
 
 - Gear: Key Item
 - Rarity: Common
@@ -2898,7 +2898,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #270
+#270
 
 - Gear: Key Item
 - Rarity: Common
@@ -2907,7 +2907,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #271
+#271
 
 - Gear: Trinket
 - Rarity: Common
@@ -2917,7 +2917,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #272
+#272
 
 - Gear: Orb
 - Rarity: Common
@@ -2929,7 +2929,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #273
+#273
 
 - Gear: Orb
 - Rarity: Common
@@ -2941,7 +2941,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #274
+#274
 
 - Gear: Curio
 - Rarity: Common
@@ -2951,7 +2951,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #275
+#275
 
 - Gear: Curio
 - Rarity: Common
@@ -2961,7 +2961,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #276
+#276
 
 - Gear: Curio
 - Rarity: Common
@@ -2971,7 +2971,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Pirate)
 
-## #277
+#277
 
 - Gear: Knickknack
 - Rarity: Common
@@ -2982,7 +2982,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #278
+#278
 
 - Gear: Curio
 - Rarity: Common
@@ -2992,7 +2992,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Valdan (Cyberpunk)
 
-## #279
+#279
 
 - Gear: Orb
 - Rarity: Common
@@ -3004,7 +3004,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #280
+#280
 
 - Gear: Trinket
 - Rarity: Common
@@ -3014,7 +3014,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #281
+#281
 
 - Gear: Egg
 - Rarity: Common
@@ -3025,7 +3025,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #282
+#282
 
 - Gear: Egg
 - Rarity: Common
@@ -3036,7 +3036,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #283
+#283
 
 - Gear: Trinket
 - Rarity: Common
@@ -3046,7 +3046,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #284
+#284
 
 - Gear: Curio
 - Rarity: Common
@@ -3056,7 +3056,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #285
+#285
 
 - Gear: Diamond
 - Rarity: Common
@@ -3068,7 +3068,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #286
+#286
 
 - Gear: Key Item
 - Rarity: Common
@@ -3077,7 +3077,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #287
+#287
 
 - Gear: Egg
 - Rarity: Common
@@ -3088,7 +3088,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #288
+#288
 
 - Gear: Key Item
 - Rarity: Common
@@ -3097,7 +3097,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #289
+#289
 
 - Gear: Diamond
 - Rarity: Common
@@ -3109,7 +3109,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #290
+#290
 
 - Gear: Orb
 - Rarity: Common
@@ -3121,7 +3121,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #291
+#291
 
 - Gear: Diamond
 - Rarity: Common
@@ -3133,7 +3133,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #292
+#292
 
 - Gear: Curio
 - Rarity: Common
@@ -3143,7 +3143,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #293
+#293
 
 - Gear: Key Item
 - Rarity: Common
@@ -3152,7 +3152,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #294
+#294
 
 - Gear: Trinket
 - Rarity: Common
@@ -3162,7 +3162,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #295
+#295
 
 - Gear: Trinket
 - Rarity: Common
@@ -3172,7 +3172,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #296
+#296
 
 - Gear: Key Item
 - Rarity: Common
@@ -3181,7 +3181,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #297
+#297
 
 - Gear: Egg
 - Rarity: Common
@@ -3192,7 +3192,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #298
+#298
 
 - Gear: Diamond
 - Rarity: Common
@@ -3204,7 +3204,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #299
+#299
 
 - Gear: Key Item
 - Rarity: Common
@@ -3213,7 +3213,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #300
+#300
 
 - Gear: Diamond
 - Rarity: Common
@@ -3225,7 +3225,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #301
+#301
 
 - Gear: Trinket
 - Rarity: Common
@@ -3235,7 +3235,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #302
+#302
 
 - Gear: Curio
 - Rarity: Common
@@ -3245,7 +3245,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #303
+#303
 
 - Gear: Curio
 - Rarity: Common
@@ -3255,7 +3255,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Valdan (Cyberpunk)
 
-## #304
+#304
 
 - Gear: Diamond
 - Rarity: Common
@@ -3267,7 +3267,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #305
+#305
 
 - Gear: Key Item
 - Rarity: Common
@@ -3276,7 +3276,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #306
+#306
 
 - Gear: Key Item
 - Rarity: Common
@@ -3285,7 +3285,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #307
+#307
 
 - Gear: Egg
 - Rarity: Common
@@ -3296,7 +3296,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #308
+#308
 
 - Gear: Curio
 - Rarity: Common
@@ -3306,7 +3306,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #309
+#309
 
 - Gear: Egg
 - Rarity: Common
@@ -3317,7 +3317,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #310
+#310
 
 - Gear: Orb
 - Rarity: Common
@@ -3329,7 +3329,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #311
+#311
 
 - Gear: Trinket
 - Rarity: Common
@@ -3339,7 +3339,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #312
+#312
 
 - Gear: Egg
 - Rarity: Common
@@ -3350,7 +3350,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #313
+#313
 
 - Gear: Orb
 - Rarity: Common
@@ -3362,7 +3362,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #314
+#314
 
 - Gear: Diamond
 - Rarity: Common
@@ -3374,7 +3374,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #315
+#315
 
 - Gear: Diamond
 - Rarity: Common
@@ -3386,7 +3386,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #316
+#316
 
 - Gear: Diamond
 - Rarity: Common
@@ -3398,7 +3398,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #317
+#317
 
 - Gear: Diamond
 - Rarity: Common
@@ -3410,7 +3410,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #318
+#318
 
 - Gear: Knickknack
 - Rarity: Common
@@ -3421,7 +3421,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #319
+#319
 
 - Gear: Diamond
 - Rarity: Common
@@ -3433,7 +3433,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #320
+#320
 
 - Gear: Curio
 - Rarity: Common
@@ -3443,7 +3443,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Asticarian (Modern)
 
-## #321
+#321
 
 - Gear: Key Item
 - Rarity: Common
@@ -3452,7 +3452,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #322
+#322
 
 - Gear: Key Item
 - Rarity: Common
@@ -3461,7 +3461,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #323
+#323
 
 - Gear: Egg
 - Rarity: Common
@@ -3472,7 +3472,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #324
+#324
 
 - Gear: Egg
 - Rarity: Common
@@ -3483,7 +3483,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #325
+#325
 
 - Gear: Knickknack
 - Rarity: Common
@@ -3494,7 +3494,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #326
+#326
 
 - Gear: Key Item
 - Rarity: Common
@@ -3503,7 +3503,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #327
+#327
 
 - Gear: Egg
 - Rarity: Common
@@ -3514,7 +3514,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #328
+#328
 
 - Gear: Knickknack
 - Rarity: Common
@@ -3525,7 +3525,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #329
+#329
 
 - Gear: Key Item
 - Rarity: Common
@@ -3534,7 +3534,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #330
+#330
 
 - Gear: Orb
 - Rarity: Common
@@ -3546,7 +3546,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #331
+#331
 
 - Gear: Diamond
 - Rarity: Common
@@ -3558,7 +3558,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #332
+#332
 
 - Gear: Trinket
 - Rarity: Common
@@ -3568,7 +3568,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #333
+#333
 
 - Gear: Curio
 - Rarity: Common
@@ -3578,7 +3578,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Western)
 
-## #334
+#334
 
 - Gear: Key Item
 - Rarity: Common
@@ -3587,7 +3587,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #335
+#335
 
 - Gear: Diamond
 - Rarity: Common
@@ -3599,7 +3599,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #336
+#336
 
 - Gear: Knickknack
 - Rarity: Common
@@ -3610,7 +3610,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #337
+#337
 
 - Gear: Egg
 - Rarity: Common
@@ -3621,7 +3621,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #338
+#338
 
 - Gear: Knickknack
 - Rarity: Common
@@ -3632,7 +3632,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #339
+#339
 
 - Gear: Curio
 - Rarity: Common
@@ -3642,7 +3642,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Valdan (Cyberpunk)
 
-## #340
+#340
 
 - Gear: Key Item
 - Rarity: Common
@@ -3651,7 +3651,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #341
+#341
 
 - Gear: Egg
 - Rarity: Common
@@ -3662,7 +3662,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #342
+#342
 
 - Gear: Orb
 - Rarity: Common
@@ -3674,7 +3674,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #343
+#343
 
 - Gear: Orb
 - Rarity: Common
@@ -3686,7 +3686,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #344
+#344
 
 - Gear: Key Item
 - Rarity: Common
@@ -3695,7 +3695,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #345
+#345
 
 - Gear: Curio
 - Rarity: Common
@@ -3705,7 +3705,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Asticarian (Modern)
 
-## #346
+#346
 
 - Gear: Egg
 - Rarity: Common
@@ -3716,7 +3716,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #347
+#347
 
 - Gear: Trinket
 - Rarity: Common
@@ -3726,7 +3726,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #348
+#348
 
 - Gear: Trinket
 - Rarity: Common
@@ -3736,7 +3736,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #349
+#349
 
 - Gear: Diamond
 - Rarity: Common
@@ -3748,7 +3748,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #350
+#350
 
 - Gear: Orb
 - Rarity: Common
@@ -3760,7 +3760,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #351
+#351
 
 - Gear: Key Item
 - Rarity: Common
@@ -3769,7 +3769,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #352
+#352
 
 - Gear: Key Item
 - Rarity: Common
@@ -3778,7 +3778,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #353
+#353
 
 - Gear: Trinket
 - Rarity: Common
@@ -3788,7 +3788,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #354
+#354
 
 - Gear: Diamond
 - Rarity: Common
@@ -3800,7 +3800,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #355
+#355
 
 - Gear: Egg
 - Rarity: Common
@@ -3811,7 +3811,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #356
+#356
 
 - Gear: Key Item
 - Rarity: Common
@@ -3820,7 +3820,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #357
+#357
 
 - Gear: Diamond
 - Rarity: Common
@@ -3832,7 +3832,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #358
+#358
 
 - Gear: Diamond
 - Rarity: Common
@@ -3844,7 +3844,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #359
+#359
 
 - Gear: Trinket
 - Rarity: Common
@@ -3854,7 +3854,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #360
+#360
 
 - Gear: Knickknack
 - Rarity: Common
@@ -3865,7 +3865,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #361
+#361
 
 - Gear: Curio
 - Rarity: Common
@@ -3875,7 +3875,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #362
+#362
 
 - Gear: Knickknack
 - Rarity: Common
@@ -3886,7 +3886,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #363
+#363
 
 - Gear: Knickknack
 - Rarity: Common
@@ -3897,7 +3897,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #364
+#364
 
 - Gear: Orb
 - Rarity: Common
@@ -3909,7 +3909,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #365
+#365
 
 - Gear: Trinket
 - Rarity: Common
@@ -3919,7 +3919,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #366
+#366
 
 - Gear: Egg
 - Rarity: Common
@@ -3930,7 +3930,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #367
+#367
 
 - Gear: Diamond
 - Rarity: Common
@@ -3942,7 +3942,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #368
+#368
 
 - Gear: Curio
 - Rarity: Common
@@ -3952,7 +3952,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #369
+#369
 
 - Gear: Orb
 - Rarity: Common
@@ -3964,7 +3964,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #370
+#370
 
 - Gear: Key Item
 - Rarity: Common
@@ -3973,7 +3973,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #371
+#371
 
 - Gear: Diamond
 - Rarity: Common
@@ -3985,7 +3985,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #372
+#372
 
 - Gear: Diamond
 - Rarity: Common
@@ -3997,7 +3997,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #373
+#373
 
 - Gear: Diamond
 - Rarity: Common
@@ -4009,7 +4009,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #374
+#374
 
 - Gear: Orb
 - Rarity: Common
@@ -4021,7 +4021,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #375
+#375
 
 - Gear: Trinket
 - Rarity: Common
@@ -4031,7 +4031,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #376
+#376
 
 - Gear: Knickknack
 - Rarity: Common
@@ -4042,7 +4042,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #377
+#377
 
 - Gear: Trinket
 - Rarity: Common
@@ -4052,7 +4052,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #378
+#378
 
 - Gear: Diamond
 - Rarity: Common
@@ -4064,7 +4064,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #379
+#379
 
 - Gear: Egg
 - Rarity: Common
@@ -4076,7 +4076,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #380
+#380
 
 - Gear: Orb
 - Rarity: Common
@@ -4088,7 +4088,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #381
+#381
 
 - Gear: Orb
 - Rarity: Common
@@ -4100,7 +4100,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #382
+#382
 
 - Gear: Trinket
 - Rarity: Common
@@ -4110,7 +4110,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #383
+#383
 
 - Gear: Diamond
 - Rarity: Common
@@ -4122,7 +4122,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #384
+#384
 
 - Gear: Key Item
 - Rarity: Common
@@ -4131,7 +4131,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #385
+#385
 
 - Gear: Trinket
 - Rarity: Common
@@ -4141,7 +4141,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #386
+#386
 
 - Gear: Orb
 - Rarity: Common
@@ -4153,7 +4153,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #387
+#387
 
 - Gear: Orb
 - Rarity: Common
@@ -4165,7 +4165,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #388
+#388
 
 - Gear: Egg
 - Rarity: Common
@@ -4176,7 +4176,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #389
+#389
 
 - Gear: Diamond
 - Rarity: Common
@@ -4188,7 +4188,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #390
+#390
 
 - Gear: Orb
 - Rarity: Common
@@ -4200,7 +4200,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #391
+#391
 
 - Gear: Trinket
 - Rarity: Common
@@ -4210,7 +4210,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #392
+#392
 
 - Gear: Curio
 - Rarity: Common
@@ -4220,7 +4220,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Asticarian (Modern)
 
-## #393
+#393
 
 - Gear: Key Item
 - Rarity: Common
@@ -4229,7 +4229,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #394
+#394
 
 - Gear: Trinket
 - Rarity: Common
@@ -4239,7 +4239,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #395
+#395
 
 - Gear: Egg
 - Rarity: Common
@@ -4250,7 +4250,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #396
+#396
 
 - Gear: Curio
 - Rarity: Common
@@ -4260,7 +4260,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Rtolkan (Steampunk)
 
-## #397
+#397
 
 - Gear: Diamond
 - Rarity: Common
@@ -4272,7 +4272,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #398
+#398
 
 - Gear: Curio
 - Rarity: Common
@@ -4282,7 +4282,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #399
+#399
 
 - Gear: Egg
 - Rarity: Common
@@ -4293,7 +4293,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #400
+#400
 
 - Gear: Key Item
 - Rarity: Common
@@ -4302,7 +4302,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #401
+#401
 
 - Gear: Orb
 - Rarity: Common
@@ -4314,7 +4314,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #402
+#402
 
 - Gear: Diamond
 - Rarity: Common
@@ -4326,7 +4326,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #403
+#403
 
 - Gear: Egg
 - Rarity: Common
@@ -4337,7 +4337,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #404
+#404
 
 - Gear: Diamond
 - Rarity: Common
@@ -4349,7 +4349,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #405
+#405
 
 - Gear: Curio
 - Rarity: Common
@@ -4359,7 +4359,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #406
+#406
 
 - Gear: Key Item
 - Rarity: Common
@@ -4368,7 +4368,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #407
+#407
 
 - Gear: Orb
 - Rarity: Common
@@ -4380,7 +4380,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #408
+#408
 
 - Gear: Key Item
 - Rarity: Common
@@ -4389,7 +4389,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #409
+#409
 
 - Gear: Curio
 - Rarity: Common
@@ -4399,7 +4399,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Valdan (Cyberpunk)
 
-## #410
+#410
 
 - Gear: Diamond
 - Rarity: Common
@@ -4411,7 +4411,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #411
+#411
 
 - Gear: Curio
 - Rarity: Common
@@ -4421,7 +4421,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Asticarian (Modern)
 
-## #412
+#412
 
 - Gear: Diamond
 - Rarity: Common
@@ -4433,7 +4433,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #413
+#413
 
 - Gear: Trinket
 - Rarity: Common
@@ -4443,7 +4443,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #414
+#414
 
 - Gear: Trinket
 - Rarity: Common
@@ -4453,7 +4453,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #415
+#415
 
 - Gear: Orb
 - Rarity: Common
@@ -4465,7 +4465,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #416
+#416
 
 - Gear: Egg
 - Rarity: Common
@@ -4476,7 +4476,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #417
+#417
 
 - Gear: Key Item
 - Rarity: Common
@@ -4485,7 +4485,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #418
+#418
 
 - Gear: Knickknack
 - Rarity: Common
@@ -4496,7 +4496,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #419
+#419
 
 - Gear: Orb
 - Rarity: Common
@@ -4508,7 +4508,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #420
+#420
 
 - Gear: Trinket
 - Rarity: Common
@@ -4518,7 +4518,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #421
+#421
 
 - Gear: Egg
 - Rarity: Common
@@ -4529,7 +4529,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #422
+#422
 
 - Gear: Egg
 - Rarity: Common
@@ -4540,7 +4540,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #423
+#423
 
 - Gear: Orb
 - Rarity: Common
@@ -4552,7 +4552,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #424
+#424
 
 - Gear: Egg
 - Rarity: Common
@@ -4563,7 +4563,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #425
+#425
 
 - Gear: Knickknack
 - Rarity: Common
@@ -4574,7 +4574,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #426
+#426
 
 - Gear: Key Item
 - Rarity: Common
@@ -4583,7 +4583,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #427
+#427
 
 - Gear: Trinket
 - Rarity: Common
@@ -4593,7 +4593,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #428
+#428
 
 - Gear: Egg
 - Rarity: Common
@@ -4604,7 +4604,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #429
+#429
 
 - Gear: Key Item
 - Rarity: Common
@@ -4613,7 +4613,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #430
+#430
 
 - Gear: Knickknack
 - Rarity: Common
@@ -4624,7 +4624,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #431
+#431
 
 - Gear: Key Item
 - Rarity: Common
@@ -4633,7 +4633,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #432
+#432
 
 - Gear: Knickknack
 - Rarity: Common
@@ -4644,7 +4644,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #433
+#433
 
 - Gear: Trinket
 - Rarity: Common
@@ -4654,7 +4654,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #434
+#434
 
 - Gear: Knickknack
 - Rarity: Common
@@ -4665,7 +4665,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #435
+#435
 
 - Gear: Trinket
 - Rarity: Common
@@ -4675,7 +4675,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #436
+#436
 
 - Gear: Knickknack
 - Rarity: Common
@@ -4686,7 +4686,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #437
+#437
 
 - Gear: Diamond
 - Rarity: Common
@@ -4698,7 +4698,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #438
+#438
 
 - Gear: Knickknack
 - Rarity: Common
@@ -4709,7 +4709,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #439
+#439
 
 - Gear: Diamond
 - Rarity: Common
@@ -4721,7 +4721,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #440
+#440
 
 - Gear: Trinket
 - Rarity: Common
@@ -4731,7 +4731,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #441
+#441
 
 - Gear: Curio
 - Rarity: Common
@@ -4741,7 +4741,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #442
+#442
 
 - Gear: Diamond
 - Rarity: Common
@@ -4753,7 +4753,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #443
+#443
 
 - Gear: Key Item
 - Rarity: Common
@@ -4762,7 +4762,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #444
+#444
 
 - Gear: Knickknack
 - Rarity: Common
@@ -4773,7 +4773,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #445
+#445
 
 - Gear: Trinket
 - Rarity: Common
@@ -4783,7 +4783,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #446
+#446
 
 - Gear: Curio
 - Rarity: Common
@@ -4793,7 +4793,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #447
+#447
 
 - Gear: Orb
 - Rarity: Common
@@ -4805,7 +4805,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #448
+#448
 
 - Gear: Curio
 - Rarity: Common
@@ -4815,7 +4815,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Pirate)
 
-## #449
+#449
 
 - Gear: Egg
 - Rarity: Common
@@ -4826,7 +4826,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #450
+#450
 
 - Gear: Curio
 - Rarity: Common
@@ -4836,7 +4836,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #451
+#451
 
 - Gear: Key Item
 - Rarity: Common
@@ -4845,7 +4845,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #452
+#452
 
 - Gear: Orb
 - Rarity: Common
@@ -4857,7 +4857,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #453
+#453
 
 - Gear: Trinket
 - Rarity: Common
@@ -4867,7 +4867,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #454
+#454
 
 - Gear: Orb
 - Rarity: Common
@@ -4879,7 +4879,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #455
+#455
 
 - Gear: Key Item
 - Rarity: Common
@@ -4888,7 +4888,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #456
+#456
 
 - Gear: Orb
 - Rarity: Common
@@ -4900,7 +4900,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #457
+#457
 
 - Gear: Curio
 - Rarity: Common
@@ -4910,7 +4910,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Asticarian (Modern)
 
-## #458
+#458
 
 - Gear: Egg
 - Rarity: Common
@@ -4921,7 +4921,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #459
+#459
 
 - Gear: Curio
 - Rarity: Common
@@ -4931,7 +4931,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #460
+#460
 
 - Gear: Orb
 - Rarity: Common
@@ -4943,7 +4943,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #461
+#461
 
 - Gear: Orb
 - Rarity: Common
@@ -4955,7 +4955,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #462
+#462
 
 - Gear: Knickknack
 - Rarity: Common
@@ -4966,7 +4966,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #463
+#463
 
 - Gear: Key Item
 - Rarity: Common
@@ -4975,7 +4975,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #464
+#464
 
 - Gear: Key Item
 - Rarity: Common
@@ -4984,7 +4984,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #465
+#465
 
 - Gear: Trinket
 - Rarity: Common
@@ -4994,7 +4994,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #466
+#466
 
 - Gear: Diamond
 - Rarity: Common
@@ -5006,7 +5006,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #467
+#467
 
 - Gear: Egg
 - Rarity: Common
@@ -5017,7 +5017,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #468
+#468
 
 - Gear: Knickknack
 - Rarity: Common
@@ -5028,7 +5028,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #469
+#469
 
 - Gear: Diamond
 - Rarity: Common
@@ -5040,7 +5040,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #470
+#470
 
 - Gear: Orb
 - Rarity: Common
@@ -5052,7 +5052,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #471
+#471
 
 - Gear: Curio
 - Rarity: Common
@@ -5062,7 +5062,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #472
+#472
 
 - Gear: Trinket
 - Rarity: Common
@@ -5072,7 +5072,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #473
+#473
 
 - Gear: Key Item
 - Rarity: Common
@@ -5081,7 +5081,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #474
+#474
 
 - Gear: Egg
 - Rarity: Common
@@ -5092,7 +5092,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #475
+#475
 
 - Gear: Egg
 - Rarity: Common
@@ -5103,7 +5103,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #476
+#476
 
 - Gear: Egg
 - Rarity: Common
@@ -5114,7 +5114,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #477
+#477
 
 - Gear: Egg
 - Rarity: Common
@@ -5125,7 +5125,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #478
+#478
 
 - Gear: Key Item
 - Rarity: Common
@@ -5134,7 +5134,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #479
+#479
 
 - Gear: Egg
 - Rarity: Common
@@ -5145,7 +5145,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #480
+#480
 
 - Gear: Key Item
 - Rarity: Common
@@ -5154,7 +5154,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #481
+#481
 
 - Gear: Key Item
 - Rarity: Common
@@ -5163,7 +5163,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #482
+#482
 
 - Gear: Knickknack
 - Rarity: Common
@@ -5174,7 +5174,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #483
+#483
 
 - Gear: Egg
 - Rarity: Common
@@ -5185,7 +5185,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #484
+#484
 
 - Gear: Curio
 - Rarity: Common
@@ -5195,7 +5195,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Pirate)
 
-## #485
+#485
 
 - Gear: Diamond
 - Rarity: Common
@@ -5207,7 +5207,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #486
+#486
 
 - Gear: Orb
 - Rarity: Common
@@ -5219,7 +5219,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #487
+#487
 
 - Gear: Key Item
 - Rarity: Common
@@ -5228,7 +5228,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #488
+#488
 
 - Gear: Curio
 - Rarity: Common
@@ -5238,7 +5238,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Asticarian (Modern)
 
-## #489
+#489
 
 - Gear: Orb
 - Rarity: Common
@@ -5250,7 +5250,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #490
+#490
 
 - Gear: Knickknack
 - Rarity: Common
@@ -5261,7 +5261,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #491
+#491
 
 - Gear: Egg
 - Rarity: Common
@@ -5272,7 +5272,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #492
+#492
 
 - Gear: Diamond
 - Rarity: Common
@@ -5286,7 +5286,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #493
+#493
 
 - Gear: Orb
 - Rarity: Common
@@ -5298,7 +5298,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #494
+#494
 
 - Gear: Diamond
 - Rarity: Common
@@ -5310,7 +5310,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #495
+#495
 
 - Gear: Key Item
 - Rarity: Common
@@ -5319,7 +5319,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #496
+#496
 
 - Gear: Diamond
 - Rarity: Common
@@ -5333,7 +5333,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #497
+#497
 
 - Gear: Diamond
 - Rarity: Common
@@ -5345,7 +5345,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #498
+#498
 
 - Gear: Egg
 - Rarity: Common
@@ -5356,7 +5356,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #499
+#499
 
 - Gear: Egg
 - Rarity: Common
@@ -5367,7 +5367,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #500
+#500
 
 - Gear: Key Item
 - Rarity: Common
@@ -5376,7 +5376,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #501
+#501
 
 - Gear: Knickknack
 - Rarity: Common
@@ -5387,7 +5387,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #502
+#502
 
 - Gear: Diamond
 - Rarity: Common
@@ -5399,7 +5399,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #503
+#503
 
 - Gear: Egg
 - Rarity: Common
@@ -5410,7 +5410,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #504
+#504
 
 - Gear: Trinket
 - Rarity: Common
@@ -5420,7 +5420,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #505
+#505
 
 - Gear: Diamond
 - Rarity: Common
@@ -5432,7 +5432,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #506
+#506
 
 - Gear: Key Item
 - Rarity: Common
@@ -5441,7 +5441,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #507
+#507
 
 - Gear: Diamond
 - Rarity: Common
@@ -5453,7 +5453,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #508
+#508
 
 - Gear: Trinket
 - Rarity: Common
@@ -5463,7 +5463,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #509
+#509
 
 - Gear: Diamond
 - Rarity: Common
@@ -5475,7 +5475,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #510
+#510
 
 - Gear: Knickknack
 - Rarity: Common
@@ -5486,7 +5486,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #511
+#511
 
 - Gear: Trinket
 - Rarity: Common
@@ -5496,7 +5496,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #512
+#512
 
 - Gear: Knickknack
 - Rarity: Common
@@ -5507,7 +5507,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #513
+#513
 
 - Gear: Curio
 - Rarity: Common
@@ -5517,7 +5517,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Pirate)
 
-## #514
+#514
 
 - Gear: Key Item
 - Rarity: Common
@@ -5526,7 +5526,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #515
+#515
 
 - Gear: Curio
 - Rarity: Common
@@ -5536,7 +5536,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Western)
 
-## #516
+#516
 
 - Gear: Diamond
 - Rarity: Common
@@ -5548,7 +5548,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #517
+#517
 
 - Gear: Curio
 - Rarity: Common
@@ -5558,7 +5558,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Asticarian (Modern)
 
-## #518
+#518
 
 - Gear: Key Item
 - Rarity: Common
@@ -5567,7 +5567,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #519
+#519
 
 - Gear: Diamond
 - Rarity: Common
@@ -5579,7 +5579,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #520
+#520
 
 - Gear: Knickknack
 - Rarity: Common
@@ -5590,7 +5590,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #521
+#521
 
 - Gear: Egg
 - Rarity: Common
@@ -5601,7 +5601,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #522
+#522
 
 - Gear: Curio
 - Rarity: Common
@@ -5611,7 +5611,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Valdan (Cyberpunk)
 
-## #523
+#523
 
 - Gear: Trinket
 - Rarity: Common
@@ -5621,7 +5621,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #524
+#524
 
 - Gear: Curio
 - Rarity: Common
@@ -5631,7 +5631,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Pirate)
 
-## #525
+#525
 
 - Gear: Trinket
 - Rarity: Common
@@ -5641,7 +5641,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #526
+#526
 
 - Gear: Orb
 - Rarity: Common
@@ -5653,7 +5653,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #527
+#527
 
 - Gear: Diamond
 - Rarity: Common
@@ -5665,7 +5665,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #528
+#528
 
 - Gear: Key Item
 - Rarity: Common
@@ -5674,7 +5674,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #529
+#529
 
 - Gear: Curio
 - Rarity: Common
@@ -5684,7 +5684,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #530
+#530
 
 - Gear: Orb
 - Rarity: Common
@@ -5696,7 +5696,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #531
+#531
 
 - Gear: Egg
 - Rarity: Common
@@ -5707,7 +5707,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #532
+#532
 
 - Gear: Key Item
 - Rarity: Common
@@ -5716,7 +5716,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #533
+#533
 
 - Gear: Trinket
 - Rarity: Common
@@ -5726,7 +5726,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #534
+#534
 
 - Gear: Diamond
 - Rarity: Common
@@ -5738,7 +5738,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #535
+#535
 
 - Gear: Egg
 - Rarity: Common
@@ -5749,7 +5749,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #536
+#536
 
 - Gear: Curio
 - Rarity: Common
@@ -5759,7 +5759,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Asticarian (Modern)
 
-## #537
+#537
 
 - Gear: Egg
 - Rarity: Common
@@ -5770,7 +5770,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #538
+#538
 
 - Gear: Orb
 - Rarity: Common
@@ -5782,7 +5782,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #539
+#539
 
 - Gear: Trinket
 - Rarity: Common
@@ -5792,7 +5792,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #540
+#540
 
 - Gear: Orb
 - Rarity: Common
@@ -5804,7 +5804,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #541
+#541
 
 - Gear: Key Item
 - Rarity: Common
@@ -5813,7 +5813,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #542
+#542
 
 - Gear: Orb
 - Rarity: Common
@@ -5825,7 +5825,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #543
+#543
 
 - Gear: Trinket
 - Rarity: Common
@@ -5835,7 +5835,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #544
+#544
 
 - Gear: Orb
 - Rarity: Common
@@ -5847,7 +5847,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #545
+#545
 
 - Gear: Trinket
 - Rarity: Common
@@ -5857,7 +5857,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #546
+#546
 
 - Gear: Orb
 - Rarity: Common
@@ -5869,7 +5869,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #547
+#547
 
 - Gear: Diamond
 - Rarity: Common
@@ -5881,7 +5881,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #548
+#548
 
 - Gear: Egg
 - Rarity: Common
@@ -5892,7 +5892,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #549
+#549
 
 - Gear: Diamond
 - Rarity: Common
@@ -5904,7 +5904,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #550
+#550
 
 - Gear: Orb
 - Rarity: Common
@@ -5916,7 +5916,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #551
+#551
 
 - Gear: Knickknack
 - Rarity: Common
@@ -5927,7 +5927,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #552
+#552
 
 - Gear: Egg
 - Rarity: Common
@@ -5938,7 +5938,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #553
+#553
 
 - Gear: Diamond
 - Rarity: Common
@@ -5950,7 +5950,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #554
+#554
 
 - Gear: Curio
 - Rarity: Common
@@ -5960,7 +5960,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Western)
 
-## #555
+#555
 
 - Gear: Egg
 - Rarity: Common
@@ -5971,7 +5971,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #556
+#556
 
 - Gear: Knickknack
 - Rarity: Common
@@ -5982,7 +5982,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #557
+#557
 
 - Gear: Trinket
 - Rarity: Common
@@ -5992,7 +5992,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #558
+#558
 
 - Gear: Trinket
 - Rarity: Common
@@ -6002,7 +6002,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #559
+#559
 
 - Gear: Curio
 - Rarity: Common
@@ -6012,7 +6012,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #560
+#560
 
 - Gear: Knickknack
 - Rarity: Common
@@ -6023,7 +6023,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #561
+#561
 
 - Gear: Curio
 - Rarity: Common
@@ -6033,7 +6033,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #562
+#562
 
 - Gear: Key Item
 - Rarity: Common
@@ -6042,7 +6042,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #563
+#563
 
 - Gear: Curio
 - Rarity: Common
@@ -6052,7 +6052,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Pirate)
 
-## #564
+#564
 
 - Gear: Diamond
 - Rarity: Common
@@ -6064,7 +6064,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #565
+#565
 
 - Gear: Orb
 - Rarity: Common
@@ -6076,7 +6076,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #566
+#566
 
 - Gear: Orb
 - Rarity: Common
@@ -6088,7 +6088,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #567
+#567
 
 - Gear: Knickknack
 - Rarity: Common
@@ -6099,7 +6099,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #568
+#568
 
 - Gear: Orb
 - Rarity: Common
@@ -6111,7 +6111,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #569
+#569
 
 - Gear: Orb
 - Rarity: Common
@@ -6123,7 +6123,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #570
+#570
 
 - Gear: Orb
 - Rarity: Common
@@ -6135,7 +6135,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #571
+#571
 
 - Gear: Knickknack
 - Rarity: Common
@@ -6146,7 +6146,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #572
+#572
 
 - Gear: Diamond
 - Rarity: Common
@@ -6158,7 +6158,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #573
+#573
 
 - Gear: Knickknack
 - Rarity: Common
@@ -6169,7 +6169,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #574
+#574
 
 - Gear: Egg
 - Rarity: Common
@@ -6180,7 +6180,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #575
+#575
 
 - Gear: Orb
 - Rarity: Common
@@ -6192,7 +6192,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #576
+#576
 
 - Gear: Trinket
 - Rarity: Common
@@ -6202,7 +6202,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #577
+#577
 
 - Gear: Egg
 - Rarity: Common
@@ -6213,7 +6213,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #578
+#578
 
 - Gear: Egg
 - Rarity: Common
@@ -6224,7 +6224,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #579
+#579
 
 - Gear: Trinket
 - Rarity: Common
@@ -6234,7 +6234,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #580
+#580
 
 - Gear: Curio
 - Rarity: Common
@@ -6244,7 +6244,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Valdan (Cyberpunk)
 
-## #581
+#581
 
 - Gear: Orb
 - Rarity: Common
@@ -6256,7 +6256,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #582
+#582
 
 - Gear: Knickknack
 - Rarity: Common
@@ -6267,7 +6267,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #583
+#583
 
 - Gear: Orb
 - Rarity: Common
@@ -6279,7 +6279,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #584
+#584
 
 - Gear: Trinket
 - Rarity: Common
@@ -6289,7 +6289,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #585
+#585
 
 - Gear: Trinket
 - Rarity: Common
@@ -6299,7 +6299,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #586
+#586
 
 - Gear: Trinket
 - Rarity: Common
@@ -6309,7 +6309,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #587
+#587
 
 - Gear: Orb
 - Rarity: Common
@@ -6321,7 +6321,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #588
+#588
 
 - Gear: Egg
 - Rarity: Common
@@ -6332,7 +6332,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #589
+#589
 
 - Gear: Egg
 - Rarity: Common
@@ -6343,7 +6343,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #590
+#590
 
 - Gear: Orb
 - Rarity: Common
@@ -6355,7 +6355,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #591
+#591
 
 - Gear: Key Item
 - Rarity: Common
@@ -6364,7 +6364,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #592
+#592
 
 - Gear: Curio
 - Rarity: Common
@@ -6374,7 +6374,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Rtolkan (Steampunk)
 
-## #593
+#593
 
 - Gear: Key Item
 - Rarity: Common
@@ -6383,7 +6383,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #594
+#594
 
 - Gear: Curio
 - Rarity: Common
@@ -6393,7 +6393,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Western)
 
-## #595
+#595
 
 - Gear: Orb
 - Rarity: Common
@@ -6405,7 +6405,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #596
+#596
 
 - Gear: Curio
 - Rarity: Common
@@ -6415,7 +6415,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Asticarian (Modern)
 
-## #597
+#597
 
 - Gear: Egg
 - Rarity: Common
@@ -6426,7 +6426,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #598
+#598
 
 - Gear: Key Item
 - Rarity: Common
@@ -6435,7 +6435,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #599
+#599
 
 - Gear: Knickknack
 - Rarity: Common
@@ -6446,7 +6446,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #600
+#600
 
 - Gear: Orb
 - Rarity: Common
@@ -6458,7 +6458,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #601
+#601
 
 - Gear: Orb
 - Rarity: Common
@@ -6470,7 +6470,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #602
+#602
 
 - Gear: Curio
 - Rarity: Common
@@ -6480,7 +6480,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #603
+#603
 
 - Gear: Knickknack
 - Rarity: Common
@@ -6491,7 +6491,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #604
+#604
 
 - Gear: Trinket
 - Rarity: Common
@@ -6501,7 +6501,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #605
+#605
 
 - Gear: Key Item
 - Rarity: Common
@@ -6510,7 +6510,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #606
+#606
 
 - Gear: Diamond
 - Rarity: Common
@@ -6522,7 +6522,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #607
+#607
 
 - Gear: Orb
 - Rarity: Common
@@ -6534,7 +6534,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #608
+#608
 
 - Gear: Diamond
 - Rarity: Common
@@ -6546,7 +6546,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #609
+#609
 
 - Gear: Knickknack
 - Rarity: Common
@@ -6557,7 +6557,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #610
+#610
 
 - Gear: Curio
 - Rarity: Common
@@ -6567,7 +6567,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Valdan (Cyberpunk)
 
-## #611
+#611
 
 - Gear: Key Item
 - Rarity: Common
@@ -6576,7 +6576,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #612
+#612
 
 - Gear: Key Item
 - Rarity: Common
@@ -6585,7 +6585,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #613
+#613
 
 - Gear: Knickknack
 - Rarity: Common
@@ -6596,7 +6596,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #614
+#614
 
 - Gear: Egg
 - Rarity: Common
@@ -6607,7 +6607,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #615
+#615
 
 - Gear: Orb
 - Rarity: Common
@@ -6619,7 +6619,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #616
+#616
 
 - Gear: Key Item
 - Rarity: Common
@@ -6628,7 +6628,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #617
+#617
 
 - Gear: Diamond
 - Rarity: Common
@@ -6640,7 +6640,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #618
+#618
 
 - Gear: Diamond
 - Rarity: Common
@@ -6652,7 +6652,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #619
+#619
 
 - Gear: Trinket
 - Rarity: Common
@@ -6662,7 +6662,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #620
+#620
 
 - Gear: Curio
 - Rarity: Common
@@ -6672,7 +6672,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #621
+#621
 
 - Gear: Key Item
 - Rarity: Common
@@ -6681,7 +6681,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #622
+#622
 
 - Gear: Egg
 - Rarity: Common
@@ -6693,7 +6693,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #623
+#623
 
 - Gear: Diamond
 - Rarity: Common
@@ -6705,7 +6705,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #624
+#624
 
 - Gear: Diamond
 - Rarity: Common
@@ -6717,7 +6717,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #625
+#625
 
 - Gear: Knickknack
 - Rarity: Common
@@ -6728,7 +6728,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #626
+#626
 
 - Gear: Key Item
 - Rarity: Common
@@ -6737,7 +6737,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #627
+#627
 
 - Gear: Egg
 - Rarity: Common
@@ -6748,7 +6748,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #628
+#628
 
 - Gear: Egg
 - Rarity: Common
@@ -6760,7 +6760,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #629
+#629
 
 - Gear: Egg
 - Rarity: Common
@@ -6771,7 +6771,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #630
+#630
 
 - Gear: Trinket
 - Rarity: Common
@@ -6781,7 +6781,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #631
+#631
 
 - Gear: Egg
 - Rarity: Common
@@ -6792,7 +6792,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #632
+#632
 
 - Gear: Knickknack
 - Rarity: Common
@@ -6803,7 +6803,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #633
+#633
 
 - Gear: Key Item
 - Rarity: Common
@@ -6812,7 +6812,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #634
+#634
 
 - Gear: Trinket
 - Rarity: Common
@@ -6822,7 +6822,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #635
+#635
 
 - Gear: Key Item
 - Rarity: Common
@@ -6831,7 +6831,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #636
+#636
 
 - Gear: Diamond
 - Rarity: Common
@@ -6843,7 +6843,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #637
+#637
 
 - Gear: Curio
 - Rarity: Common
@@ -6853,7 +6853,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #638
+#638
 
 - Gear: Knickknack
 - Rarity: Common
@@ -6864,7 +6864,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #639
+#639
 
 - Gear: Curio
 - Rarity: Common
@@ -6874,7 +6874,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #640
+#640
 
 - Gear: Orb
 - Rarity: Common
@@ -6886,7 +6886,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #641
+#641
 
 - Gear: Egg
 - Rarity: Common
@@ -6897,7 +6897,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #642
+#642
 
 - Gear: Orb
 - Rarity: Common
@@ -6909,7 +6909,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #643
+#643
 
 - Gear: Knickknack
 - Rarity: Common
@@ -6920,7 +6920,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #644
+#644
 
 - Gear: Diamond
 - Rarity: Common
@@ -6932,7 +6932,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #645
+#645
 
 - Gear: Diamond
 - Rarity: Common
@@ -6944,7 +6944,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #646
+#646
 
 - Gear: Trinket
 - Rarity: Common
@@ -6954,7 +6954,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #647
+#647
 
 - Gear: Diamond
 - Rarity: Common
@@ -6966,7 +6966,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #648
+#648
 
 - Gear: Knickknack
 - Rarity: Common
@@ -6977,7 +6977,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #649
+#649
 
 - Gear: Curio
 - Rarity: Common
@@ -6987,7 +6987,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Pirate)
 
-## #650
+#650
 
 - Gear: Trinket
 - Rarity: Common
@@ -6997,7 +6997,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #651
+#651
 
 - Gear: Diamond
 - Rarity: Common
@@ -7009,7 +7009,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #652
+#652
 
 - Gear: Diamond
 - Rarity: Common
@@ -7021,7 +7021,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #653
+#653
 
 - Gear: Trinket
 - Rarity: Common
@@ -7031,7 +7031,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #654
+#654
 
 - Gear: Trinket
 - Rarity: Common
@@ -7041,7 +7041,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #655
+#655
 
 - Gear: Egg
 - Rarity: Common
@@ -7052,7 +7052,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #656
+#656
 
 - Gear: Egg
 - Rarity: Common
@@ -7063,7 +7063,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #657
+#657
 
 - Gear: Egg
 - Rarity: Common
@@ -7074,7 +7074,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #658
+#658
 
 - Gear: Diamond
 - Rarity: Common
@@ -7086,7 +7086,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #659
+#659
 
 - Gear: Trinket
 - Rarity: Common
@@ -7096,7 +7096,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #660
+#660
 
 - Gear: Knickknack
 - Rarity: Common
@@ -7107,7 +7107,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #661
+#661
 
 - Gear: Orb
 - Rarity: Common
@@ -7119,7 +7119,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #662
+#662
 
 - Gear: Knickknack
 - Rarity: Common
@@ -7130,7 +7130,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #663
+#663
 
 - Gear: Curio
 - Rarity: Common
@@ -7140,7 +7140,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Western)
 
-## #664
+#664
 
 - Gear: Diamond
 - Rarity: Common
@@ -7152,7 +7152,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #665
+#665
 
 - Gear: Orb
 - Rarity: Common
@@ -7164,7 +7164,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #666
+#666
 
 - Gear: Orb
 - Rarity: Common
@@ -7176,7 +7176,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #667
+#667
 
 - Gear: Trinket
 - Rarity: Common
@@ -7186,7 +7186,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #668
+#668
 
 - Gear: Orb
 - Rarity: Common
@@ -7198,7 +7198,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #669
+#669
 
 - Gear: Trinket
 - Rarity: Common
@@ -7208,7 +7208,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #670
+#670
 
 - Gear: Diamond
 - Rarity: Common
@@ -7220,7 +7220,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #671
+#671
 
 - Gear: Orb
 - Rarity: Common
@@ -7232,7 +7232,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #672
+#672
 
 - Gear: Orb
 - Rarity: Common
@@ -7244,7 +7244,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #673
+#673
 
 - Gear: Orb
 - Rarity: Common
@@ -7256,7 +7256,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #674
+#674
 
 - Gear: Diamond
 - Rarity: Common
@@ -7268,7 +7268,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #675
+#675
 
 - Gear: Curio
 - Rarity: Common
@@ -7278,7 +7278,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Asticarian (Modern)
 
-## #676
+#676
 
 - Gear: Orb
 - Rarity: Common
@@ -7290,7 +7290,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #677
+#677
 
 - Gear: Diamond
 - Rarity: Common
@@ -7302,7 +7302,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #678
+#678
 
 - Gear: Orb
 - Rarity: Common
@@ -7314,7 +7314,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #679
+#679
 
 - Gear: Egg
 - Rarity: Common
@@ -7325,7 +7325,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #680
+#680
 
 - Gear: Orb
 - Rarity: Common
@@ -7337,7 +7337,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #681
+#681
 
 - Gear: Key Item
 - Rarity: Common
@@ -7346,7 +7346,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #682
+#682
 
 - Gear: Egg
 - Rarity: Common
@@ -7357,7 +7357,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #683
+#683
 
 - Gear: Orb
 - Rarity: Common
@@ -7369,7 +7369,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #684
+#684
 
 - Gear: Orb
 - Rarity: Common
@@ -7381,7 +7381,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #685
+#685
 
 - Gear: Curio
 - Rarity: Common
@@ -7391,7 +7391,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #686
+#686
 
 - Gear: Trinket
 - Rarity: Common
@@ -7401,7 +7401,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #687
+#687
 
 - Gear: Orb
 - Rarity: Common
@@ -7413,7 +7413,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #688
+#688
 
 - Gear: Egg
 - Rarity: Common
@@ -7424,7 +7424,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #689
+#689
 
 - Gear: Egg
 - Rarity: Common
@@ -7435,7 +7435,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #690
+#690
 
 - Gear: Knickknack
 - Rarity: Common
@@ -7446,7 +7446,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #691
+#691
 
 - Gear: Curio
 - Rarity: Common
@@ -7456,7 +7456,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Rtolkan (Steampunk)
 
-## #692
+#692
 
 - Gear: Curio
 - Rarity: Common
@@ -7466,7 +7466,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Western)
 
-## #693
+#693
 
 - Gear: Orb
 - Rarity: Common
@@ -7478,7 +7478,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #694
+#694
 
 - Gear: Knickknack
 - Rarity: Common
@@ -7489,7 +7489,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #695
+#695
 
 - Gear: Knickknack
 - Rarity: Common
@@ -7500,7 +7500,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #696
+#696
 
 - Gear: Trinket
 - Rarity: Common
@@ -7510,7 +7510,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #697
+#697
 
 - Gear: Diamond
 - Rarity: Common
@@ -7522,7 +7522,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #698
+#698
 
 - Gear: Diamond
 - Rarity: Common
@@ -7534,7 +7534,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #699
+#699
 
 - Gear: Diamond
 - Rarity: Common
@@ -7546,7 +7546,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #700
+#700
 
 - Gear: Diamond
 - Rarity: Common
@@ -7558,7 +7558,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #701
+#701
 
 - Gear: Trinket
 - Rarity: Common
@@ -7568,7 +7568,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #702
+#702
 
 - Gear: Diamond
 - Rarity: Common
@@ -7580,7 +7580,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #703
+#703
 
 - Gear: Orb
 - Rarity: Common
@@ -7592,7 +7592,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #704
+#704
 
 - Gear: Orb
 - Rarity: Common
@@ -7604,7 +7604,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #705
+#705
 
 - Gear: Orb
 - Rarity: Common
@@ -7616,7 +7616,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #706
+#706
 
 - Gear: Knickknack
 - Rarity: Common
@@ -7627,7 +7627,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #707
+#707
 
 - Gear: Curio
 - Rarity: Common
@@ -7637,7 +7637,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Asticarian (Modern)
 
-## #708
+#708
 
 - Gear: Curio
 - Rarity: Common
@@ -7647,7 +7647,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #709
+#709
 
 - Gear: Trinket
 - Rarity: Common
@@ -7657,7 +7657,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #710
+#710
 
 - Gear: Orb
 - Rarity: Common
@@ -7671,7 +7671,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #711
+#711
 
 - Gear: Orb
 - Rarity: Common
@@ -7683,7 +7683,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #712
+#712
 
 - Gear: Orb
 - Rarity: Common
@@ -7695,7 +7695,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #713
+#713
 
 - Gear: Key Item
 - Rarity: Common
@@ -7704,7 +7704,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #714
+#714
 
 - Gear: Diamond
 - Rarity: Common
@@ -7716,7 +7716,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #715
+#715
 
 - Gear: Knickknack
 - Rarity: Common
@@ -7727,7 +7727,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #716
+#716
 
 - Gear: Egg
 - Rarity: Common
@@ -7738,7 +7738,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #717
+#717
 
 - Gear: Diamond
 - Rarity: Common
@@ -7750,7 +7750,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #718
+#718
 
 - Gear: Orb
 - Rarity: Common
@@ -7762,7 +7762,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #719
+#719
 
 - Gear: Knickknack
 - Rarity: Common
@@ -7773,7 +7773,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #720
+#720
 
 - Gear: Curio
 - Rarity: Common
@@ -7783,7 +7783,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #721
+#721
 
 - Gear: Trinket
 - Rarity: Common
@@ -7793,7 +7793,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #722
+#722
 
 - Gear: Knickknack
 - Rarity: Common
@@ -7804,7 +7804,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #723
+#723
 
 - Gear: Egg
 - Rarity: Common
@@ -7815,7 +7815,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #724
+#724
 
 - Gear: Knickknack
 - Rarity: Common
@@ -7826,7 +7826,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #725
+#725
 
 - Gear: Orb
 - Rarity: Common
@@ -7838,7 +7838,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #726
+#726
 
 - Gear: Orb
 - Rarity: Common
@@ -7850,7 +7850,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #727
+#727
 
 - Gear: Egg
 - Rarity: Common
@@ -7861,7 +7861,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #728
+#728
 
 - Gear: Trinket
 - Rarity: Common
@@ -7871,7 +7871,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #729
+#729
 
 - Gear: Egg
 - Rarity: Common
@@ -7882,7 +7882,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #730
+#730
 
 - Gear: Curio
 - Rarity: Common
@@ -7892,7 +7892,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Pirate)
 
-## #731
+#731
 
 - Gear: Key Item
 - Rarity: Common
@@ -7901,7 +7901,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #732
+#732
 
 - Gear: Curio
 - Rarity: Common
@@ -7911,7 +7911,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Asticarian (Modern)
 
-## #733
+#733
 
 - Gear: Curio
 - Rarity: Common
@@ -7921,7 +7921,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Rtolkan (Steampunk)
 
-## #734
+#734
 
 - Gear: Orb
 - Rarity: Common
@@ -7933,7 +7933,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #735
+#735
 
 - Gear: Curio
 - Rarity: Common
@@ -7943,7 +7943,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Pirate)
 
-## #736
+#736
 
 - Gear: Diamond
 - Rarity: Common
@@ -7955,7 +7955,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #737
+#737
 
 - Gear: Knickknack
 - Rarity: Common
@@ -7966,7 +7966,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #738
+#738
 
 - Gear: Curio
 - Rarity: Common
@@ -7976,7 +7976,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Valdan (Cyberpunk)
 
-## #739
+#739
 
 - Gear: Egg
 - Rarity: Common
@@ -7987,7 +7987,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #740
+#740
 
 - Gear: Egg
 - Rarity: Common
@@ -7998,7 +7998,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #741
+#741
 
 - Gear: Key Item
 - Rarity: Common
@@ -8007,7 +8007,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #742
+#742
 
 - Gear: Trinket
 - Rarity: Common
@@ -8017,7 +8017,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #743
+#743
 
 - Gear: Egg
 - Rarity: Common
@@ -8028,7 +8028,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #744
+#744
 
 - Gear: Knickknack
 - Rarity: Common
@@ -8039,7 +8039,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #745
+#745
 
 - Gear: Orb
 - Rarity: Common
@@ -8051,7 +8051,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #746
+#746
 
 - Gear: Knickknack
 - Rarity: Common
@@ -8062,7 +8062,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #747
+#747
 
 - Gear: Diamond
 - Rarity: Common
@@ -8074,7 +8074,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #748
+#748
 
 - Gear: Diamond
 - Rarity: Common
@@ -8086,7 +8086,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #749
+#749
 
 - Gear: Orb
 - Rarity: Common
@@ -8098,7 +8098,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #750
+#750
 
 - Gear: Curio
 - Rarity: Common
@@ -8108,7 +8108,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #751
+#751
 
 - Gear: Curio
 - Rarity: Common
@@ -8118,7 +8118,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #752
+#752
 
 - Gear: Trinket
 - Rarity: Common
@@ -8128,7 +8128,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #753
+#753
 
 - Gear: Key Item
 - Rarity: Common
@@ -8137,7 +8137,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #754
+#754
 
 - Gear: Trinket
 - Rarity: Common
@@ -8147,7 +8147,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #755
+#755
 
 - Gear: Curio
 - Rarity: Common
@@ -8157,7 +8157,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #756
+#756
 
 - Gear: Egg
 - Rarity: Common
@@ -8168,7 +8168,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #757
+#757
 
 - Gear: Key Item
 - Rarity: Common
@@ -8177,7 +8177,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #758
+#758
 
 - Gear: Trinket
 - Rarity: Common
@@ -8187,7 +8187,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #759
+#759
 
 - Gear: Knickknack
 - Rarity: Common
@@ -8198,7 +8198,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #760
+#760
 
 - Gear: Egg
 - Rarity: Common
@@ -8209,7 +8209,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #761
+#761
 
 - Gear: Orb
 - Rarity: Common
@@ -8221,7 +8221,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #762
+#762
 
 - Gear: Key Item
 - Rarity: Common
@@ -8230,7 +8230,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #763
+#763
 
 - Gear: Trinket
 - Rarity: Common
@@ -8240,7 +8240,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #764
+#764
 
 - Gear: Curio
 - Rarity: Common
@@ -8250,7 +8250,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Pirate)
 
-## #765
+#765
 
 - Gear: Orb
 - Rarity: Common
@@ -8262,7 +8262,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #766
+#766
 
 - Gear: Curio
 - Rarity: Common
@@ -8272,7 +8272,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #767
+#767
 
 - Gear: Trinket
 - Rarity: Common
@@ -8282,7 +8282,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #768
+#768
 
 - Gear: Knickknack
 - Rarity: Common
@@ -8293,7 +8293,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #769
+#769
 
 - Gear: Key Item
 - Rarity: Common
@@ -8302,7 +8302,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #770
+#770
 
 - Gear: Key Item
 - Rarity: Common
@@ -8311,7 +8311,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #771
+#771
 
 - Gear: Egg
 - Rarity: Common
@@ -8322,7 +8322,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #772
+#772
 
 - Gear: Diamond
 - Rarity: Common
@@ -8334,7 +8334,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #773
+#773
 
 - Gear: Key Item
 - Rarity: Common
@@ -8343,7 +8343,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #774
+#774
 
 - Gear: Key Item
 - Rarity: Common
@@ -8352,7 +8352,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #775
+#775
 
 - Gear: Trinket
 - Rarity: Common
@@ -8362,7 +8362,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #776
+#776
 
 - Gear: Key Item
 - Rarity: Common
@@ -8371,7 +8371,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #777
+#777
 
 - Gear: Key Item
 - Rarity: Common
@@ -8380,7 +8380,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #778
+#778
 
 - Gear: Diamond
 - Rarity: Common
@@ -8392,7 +8392,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #779
+#779
 
 - Gear: Knickknack
 - Rarity: Common
@@ -8403,7 +8403,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #780
+#780
 
 - Gear: Curio
 - Rarity: Common
@@ -8413,7 +8413,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Rtolkan (Steampunk)
 
-## #781
+#781
 
 - Gear: Trinket
 - Rarity: Common
@@ -8423,7 +8423,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #782
+#782
 
 - Gear: Egg
 - Rarity: Common
@@ -8434,7 +8434,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #783
+#783
 
 - Gear: Orb
 - Rarity: Common
@@ -8446,7 +8446,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #784
+#784
 
 - Gear: Trinket
 - Rarity: Common
@@ -8456,7 +8456,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #785
+#785
 
 - Gear: Orb
 - Rarity: Common
@@ -8468,7 +8468,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #786
+#786
 
 - Gear: Egg
 - Rarity: Common
@@ -8479,7 +8479,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #787
+#787
 
 - Gear: Key Item
 - Rarity: Common
@@ -8488,7 +8488,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #788
+#788
 
 - Gear: Trinket
 - Rarity: Common
@@ -8498,7 +8498,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #789
+#789
 
 - Gear: Trinket
 - Rarity: Common
@@ -8508,7 +8508,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #790
+#790
 
 - Gear: Key Item
 - Rarity: Common
@@ -8517,7 +8517,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #791
+#791
 
 - Gear: Trinket
 - Rarity: Common
@@ -8527,7 +8527,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #792
+#792
 
 - Gear: Key Item
 - Rarity: Common
@@ -8536,7 +8536,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #793
+#793
 
 - Gear: Trinket
 - Rarity: Common
@@ -8546,7 +8546,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #794
+#794
 
 - Gear: Diamond
 - Rarity: Common
@@ -8558,7 +8558,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #795
+#795
 
 - Gear: Key Item
 - Rarity: Common
@@ -8567,7 +8567,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #796
+#796
 
 - Gear: Key Item
 - Rarity: Common
@@ -8576,7 +8576,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #797
+#797
 
 - Gear: Curio
 - Rarity: Common
@@ -8586,7 +8586,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #798
+#798
 
 - Gear: Egg
 - Rarity: Common
@@ -8597,7 +8597,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #799
+#799
 
 - Gear: Key Item
 - Rarity: Common
@@ -8606,7 +8606,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #800
+#800
 
 - Gear: Curio
 - Rarity: Common
@@ -8616,7 +8616,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Valdan (Cyberpunk)
 
-## #801
+#801
 
 - Gear: Key Item
 - Rarity: Common
@@ -8625,7 +8625,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #802
+#802
 
 - Gear: Trinket
 - Rarity: Common
@@ -8635,7 +8635,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #803
+#803
 
 - Gear: Egg
 - Rarity: Common
@@ -8646,7 +8646,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #804
+#804
 
 - Gear: Trinket
 - Rarity: Common
@@ -8656,7 +8656,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #805
+#805
 
 - Gear: Knickknack
 - Rarity: Common
@@ -8667,7 +8667,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #806
+#806
 
 - Gear: Trinket
 - Rarity: Common
@@ -8677,7 +8677,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #807
+#807
 
 - Gear: Key Item
 - Rarity: Common
@@ -8686,7 +8686,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #808
+#808
 
 - Gear: Trinket
 - Rarity: Common
@@ -8696,7 +8696,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #809
+#809
 
 - Gear: Diamond
 - Rarity: Common
@@ -8708,7 +8708,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #810
+#810
 
 - Gear: Orb
 - Rarity: Common
@@ -8720,7 +8720,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #811
+#811
 
 - Gear: Trinket
 - Rarity: Common
@@ -8730,7 +8730,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #812
+#812
 
 - Gear: Orb
 - Rarity: Common
@@ -8742,7 +8742,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #813
+#813
 
 - Gear: Egg
 - Rarity: Common
@@ -8753,7 +8753,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #814
+#814
 
 - Gear: Egg
 - Rarity: Common
@@ -8764,7 +8764,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #815
+#815
 
 - Gear: Key Item
 - Rarity: Common
@@ -8773,7 +8773,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #816
+#816
 
 - Gear: Key Item
 - Rarity: Common
@@ -8782,7 +8782,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #817
+#817
 
 - Gear: Trinket
 - Rarity: Common
@@ -8792,7 +8792,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #818
+#818
 
 - Gear: Trinket
 - Rarity: Common
@@ -8802,7 +8802,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #819
+#819
 
 - Gear: Key Item
 - Rarity: Common
@@ -8811,7 +8811,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #820
+#820
 
 - Gear: Key Item
 - Rarity: Common
@@ -8820,7 +8820,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #821
+#821
 
 - Gear: Key Item
 - Rarity: Common
@@ -8829,7 +8829,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #822
+#822
 
 - Gear: Diamond
 - Rarity: Common
@@ -8841,7 +8841,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #823
+#823
 
 - Gear: Orb
 - Rarity: Common
@@ -8853,7 +8853,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #824
+#824
 
 - Gear: Knickknack
 - Rarity: Common
@@ -8864,7 +8864,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #825
+#825
 
 - Gear: Trinket
 - Rarity: Common
@@ -8874,7 +8874,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #826
+#826
 
 - Gear: Curio
 - Rarity: Common
@@ -8884,7 +8884,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #827
+#827
 
 - Gear: Curio
 - Rarity: Common
@@ -8894,7 +8894,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Pirate)
 
-## #828
+#828
 
 - Gear: Diamond
 - Rarity: Common
@@ -8906,7 +8906,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #829
+#829
 
 - Gear: Knickknack
 - Rarity: Common
@@ -8917,7 +8917,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #830
+#830
 
 - Gear: Curio
 - Rarity: Common
@@ -8927,7 +8927,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #831
+#831
 
 - Gear: Key Item
 - Rarity: Common
@@ -8936,7 +8936,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #832
+#832
 
 - Gear: Diamond
 - Rarity: Common
@@ -8948,7 +8948,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #833
+#833
 
 - Gear: Diamond
 - Rarity: Common
@@ -8960,7 +8960,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #834
+#834
 
 - Gear: Curio
 - Rarity: Common
@@ -8970,7 +8970,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Asticarian (Modern)
 
-## #835
+#835
 
 - Gear: Egg
 - Rarity: Common
@@ -8981,7 +8981,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #836
+#836
 
 - Gear: Curio
 - Rarity: Common
@@ -8991,7 +8991,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Pirate)
 
-## #837
+#837
 
 - Gear: Orb
 - Rarity: Common
@@ -9003,7 +9003,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #838
+#838
 
 - Gear: Egg
 - Rarity: Common
@@ -9014,7 +9014,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #839
+#839
 
 - Gear: Trinket
 - Rarity: Common
@@ -9024,7 +9024,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #840
+#840
 
 - Gear: Egg
 - Rarity: Common
@@ -9035,7 +9035,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #841
+#841
 
 - Gear: Orb
 - Rarity: Common
@@ -9047,7 +9047,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #842
+#842
 
 - Gear: Knickknack
 - Rarity: Common
@@ -9058,7 +9058,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #843
+#843
 
 - Gear: Trinket
 - Rarity: Common
@@ -9068,7 +9068,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #844
+#844
 
 - Gear: Key Item
 - Rarity: Common
@@ -9077,7 +9077,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #845
+#845
 
 - Gear: Knickknack
 - Rarity: Common
@@ -9088,7 +9088,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #846
+#846
 
 - Gear: Orb
 - Rarity: Common
@@ -9100,7 +9100,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #847
+#847
 
 - Gear: Diamond
 - Rarity: Common
@@ -9112,7 +9112,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #848
+#848
 
 - Gear: Egg
 - Rarity: Common
@@ -9123,7 +9123,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #849
+#849
 
 - Gear: Curio
 - Rarity: Common
@@ -9133,7 +9133,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Pirate)
 
-## #850
+#850
 
 - Gear: Diamond
 - Rarity: Common
@@ -9145,7 +9145,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #851
+#851
 
 - Gear: Curio
 - Rarity: Common
@@ -9155,7 +9155,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Pirate)
 
-## #852
+#852
 
 - Gear: Trinket
 - Rarity: Common
@@ -9165,7 +9165,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #853
+#853
 
 - Gear: Orb
 - Rarity: Common
@@ -9177,7 +9177,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #854
+#854
 
 - Gear: Diamond
 - Rarity: Common
@@ -9189,7 +9189,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #855
+#855
 
 - Gear: Curio
 - Rarity: Common
@@ -9199,7 +9199,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Valdan (Cyberpunk)
 
-## #856
+#856
 
 - Gear: Key Item
 - Rarity: Common
@@ -9208,7 +9208,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #857
+#857
 
 - Gear: Egg
 - Rarity: Common
@@ -9219,7 +9219,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #858
+#858
 
 - Gear: Knickknack
 - Rarity: Common
@@ -9230,7 +9230,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #859
+#859
 
 - Gear: Trinket
 - Rarity: Common
@@ -9240,7 +9240,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #860
+#860
 
 - Gear: Key Item
 - Rarity: Common
@@ -9249,7 +9249,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #861
+#861
 
 - Gear: Curio
 - Rarity: Common
@@ -9259,7 +9259,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Rtolkan (Steampunk)
 
-## #862
+#862
 
 - Gear: Curio
 - Rarity: Common
@@ -9269,7 +9269,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #863
+#863
 
 - Gear: Diamond
 - Rarity: Common
@@ -9281,7 +9281,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #864
+#864
 
 - Gear: Knickknack
 - Rarity: Common
@@ -9292,7 +9292,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #865
+#865
 
 - Gear: Diamond
 - Rarity: Common
@@ -9304,7 +9304,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #866
+#866
 
 - Gear: Knickknack
 - Rarity: Common
@@ -9315,7 +9315,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #867
+#867
 
 - Gear: Trinket
 - Rarity: Common
@@ -9325,7 +9325,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #868
+#868
 
 - Gear: Curio
 - Rarity: Common
@@ -9335,7 +9335,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Valdan (Cyberpunk)
 
-## #869
+#869
 
 - Gear: Curio
 - Rarity: Common
@@ -9345,7 +9345,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #870
+#870
 
 - Gear: Knickknack
 - Rarity: Common
@@ -9356,7 +9356,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #871
+#871
 
 - Gear: Curio
 - Rarity: Common
@@ -9366,7 +9366,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #872
+#872
 
 - Gear: Orb
 - Rarity: Common
@@ -9378,7 +9378,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #873
+#873
 
 - Gear: Egg
 - Rarity: Common
@@ -9389,7 +9389,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #874
+#874
 
 - Gear: Trinket
 - Rarity: Common
@@ -9399,7 +9399,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #875
+#875
 
 - Gear: Orb
 - Rarity: Common
@@ -9411,7 +9411,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #876
+#876
 
 - Gear: Curio
 - Rarity: Common
@@ -9421,7 +9421,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Pirate)
 
-## #877
+#877
 
 - Gear: Curio
 - Rarity: Common
@@ -9431,7 +9431,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Rtolkan (Steampunk)
 
-## #878
+#878
 
 - Gear: Curio
 - Rarity: Common
@@ -9441,7 +9441,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Pirate)
 
-## #879
+#879
 
 - Gear: Trinket
 - Rarity: Common
@@ -9451,7 +9451,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #880
+#880
 
 - Gear: Trinket
 - Rarity: Common
@@ -9461,7 +9461,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #881
+#881
 
 - Gear: Knickknack
 - Rarity: Common
@@ -9472,7 +9472,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #882
+#882
 
 - Gear: Trinket
 - Rarity: Common
@@ -9482,7 +9482,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #883
+#883
 
 - Gear: Egg
 - Rarity: Common
@@ -9493,7 +9493,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #884
+#884
 
 - Gear: Egg
 - Rarity: Common
@@ -9504,7 +9504,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #885
+#885
 
 - Gear: Key Item
 - Rarity: Common
@@ -9513,7 +9513,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #886
+#886
 
 - Gear: Trinket
 - Rarity: Common
@@ -9523,7 +9523,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #887
+#887
 
 - Gear: Curio
 - Rarity: Common
@@ -9533,7 +9533,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Rtolkan (Steampunk)
 
-## #888
+#888
 
 - Gear: Diamond
 - Rarity: Common
@@ -9545,7 +9545,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #889
+#889
 
 - Gear: Knickknack
 - Rarity: Common
@@ -9556,7 +9556,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #890
+#890
 
 - Gear: Egg
 - Rarity: Common
@@ -9567,7 +9567,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #891
+#891
 
 - Gear: Diamond
 - Rarity: Common
@@ -9579,7 +9579,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #892
+#892
 
 - Gear: Egg
 - Rarity: Common
@@ -9590,7 +9590,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #893
+#893
 
 - Gear: Orb
 - Rarity: Common
@@ -9602,7 +9602,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #894
+#894
 
 - Gear: Key Item
 - Rarity: Common
@@ -9611,7 +9611,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #895
+#895
 
 - Gear: Orb
 - Rarity: Common
@@ -9623,7 +9623,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #896
+#896
 
 - Gear: Key Item
 - Rarity: Common
@@ -9632,7 +9632,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #897
+#897
 
 - Gear: Key Item
 - Rarity: Common
@@ -9641,7 +9641,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #898
+#898
 
 - Gear: Diamond
 - Rarity: Common
@@ -9653,7 +9653,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #899
+#899
 
 - Gear: Orb
 - Rarity: Common
@@ -9665,7 +9665,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #900
+#900
 
 - Gear: Key Item
 - Rarity: Common
@@ -9674,7 +9674,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #901
+#901
 
 - Gear: Trinket
 - Rarity: Common
@@ -9684,7 +9684,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #902
+#902
 
 - Gear: Diamond
 - Rarity: Common
@@ -9696,7 +9696,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #903
+#903
 
 - Gear: Key Item
 - Rarity: Common
@@ -9705,7 +9705,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #904
+#904
 
 - Gear: Trinket
 - Rarity: Common
@@ -9715,7 +9715,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #905
+#905
 
 - Gear: Egg
 - Rarity: Common
@@ -9726,7 +9726,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #906
+#906
 
 - Gear: Curio
 - Rarity: Common
@@ -9736,7 +9736,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Rtolkan (Steampunk)
 
-## #907
+#907
 
 - Gear: Curio
 - Rarity: Common
@@ -9746,7 +9746,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Valdan (Cyberpunk)
 
-## #908
+#908
 
 - Gear: Curio
 - Rarity: Common
@@ -9756,7 +9756,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Ydilikian (Medieval)
 
-## #909
+#909
 
 - Gear: Diamond
 - Rarity: Common
@@ -9768,7 +9768,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #910
+#910
 
 - Gear: Key Item
 - Rarity: Common
@@ -9777,7 +9777,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #911
+#911
 
 - Gear: Egg
 - Rarity: Common
@@ -9788,7 +9788,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #912
+#912
 
 - Gear: Diamond
 - Rarity: Common
@@ -9800,7 +9800,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #913
+#913
 
 - Gear: Curio
 - Rarity: Common
@@ -9810,7 +9810,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Western)
 
-## #914
+#914
 
 - Gear: Key Item
 - Rarity: Common
@@ -9819,7 +9819,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #915
+#915
 
 - Gear: Diamond
 - Rarity: Common
@@ -9831,7 +9831,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #916
+#916
 
 - Gear: Knickknack
 - Rarity: Common
@@ -9842,7 +9842,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #917
+#917
 
 - Gear: Diamond
 - Rarity: Common
@@ -9854,7 +9854,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #918
+#918
 
 - Gear: Egg
 - Rarity: Common
@@ -9865,7 +9865,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #919
+#919
 
 - Gear: Knickknack
 - Rarity: Common
@@ -9876,7 +9876,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #920
+#920
 
 - Gear: Curio
 - Rarity: Common
@@ -9886,7 +9886,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Asticarian (Modern)
 
-## #921
+#921
 
 - Gear: Curio
 - Rarity: Common
@@ -9896,7 +9896,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Pirate)
 
-## #922
+#922
 
 - Gear: Egg
 - Rarity: Common
@@ -9907,7 +9907,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #923
+#923
 
 - Gear: Egg
 - Rarity: Common
@@ -9918,7 +9918,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #924
+#924
 
 - Gear: Orb
 - Rarity: Common
@@ -9932,7 +9932,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #925
+#925
 
 - Gear: Trinket
 - Rarity: Common
@@ -9942,7 +9942,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #926
+#926
 
 - Gear: Diamond
 - Rarity: Common
@@ -9954,7 +9954,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #927
+#927
 
 - Gear: Diamond
 - Rarity: Common
@@ -9966,7 +9966,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #928
+#928
 
 - Gear: Orb
 - Rarity: Common
@@ -9978,7 +9978,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #929
+#929
 
 - Gear: Orb
 - Rarity: Common
@@ -9990,7 +9990,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #930
+#930
 
 - Gear: Diamond
 - Rarity: Common
@@ -10002,7 +10002,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #931
+#931
 
 - Gear: Diamond
 - Rarity: Common
@@ -10014,7 +10014,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #932
+#932
 
 - Gear: Egg
 - Rarity: Common
@@ -10025,7 +10025,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #933
+#933
 
 - Gear: Curio
 - Rarity: Common
@@ -10035,7 +10035,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Rtolkan (Steampunk)
 
-## #934
+#934
 
 - Gear: Key Item
 - Rarity: Common
@@ -10044,7 +10044,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #935
+#935
 
 - Gear: Key Item
 - Rarity: Common
@@ -10053,7 +10053,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #936
+#936
 
 - Gear: Orb
 - Rarity: Common
@@ -10065,7 +10065,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #937
+#937
 
 - Gear: Orb
 - Rarity: Common
@@ -10077,7 +10077,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #938
+#938
 
 - Gear: Curio
 - Rarity: Common
@@ -10087,7 +10087,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #939
+#939
 
 - Gear: Knickknack
 - Rarity: Common
@@ -10098,7 +10098,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #940
+#940
 
 - Gear: Knickknack
 - Rarity: Common
@@ -10109,7 +10109,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #941
+#941
 
 - Gear: Trinket
 - Rarity: Common
@@ -10119,7 +10119,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #942
+#942
 
 - Gear: Knickknack
 - Rarity: Common
@@ -10130,7 +10130,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #943
+#943
 
 - Gear: Egg
 - Rarity: Common
@@ -10141,7 +10141,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #944
+#944
 
 - Gear: Curio
 - Rarity: Common
@@ -10151,7 +10151,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Asticarian (Modern)
 
-## #945
+#945
 
 - Gear: Orb
 - Rarity: Common
@@ -10163,7 +10163,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #946
+#946
 
 - Gear: Orb
 - Rarity: Common
@@ -10177,7 +10177,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #947
+#947
 
 - Gear: Key Item
 - Rarity: Common
@@ -10186,7 +10186,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #948
+#948
 
 - Gear: Knickknack
 - Rarity: Common
@@ -10197,7 +10197,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #949
+#949
 
 - Gear: Trinket
 - Rarity: Common
@@ -10207,7 +10207,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #950
+#950
 
 - Gear: Curio
 - Rarity: Common
@@ -10217,7 +10217,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Western)
 
-## #951
+#951
 
 - Gear: Orb
 - Rarity: Common
@@ -10229,7 +10229,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #952
+#952
 
 - Gear: Egg
 - Rarity: Common
@@ -10240,7 +10240,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #953
+#953
 
 - Gear: Egg
 - Rarity: Common
@@ -10251,7 +10251,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #954
+#954
 
 - Gear: Diamond
 - Rarity: Common
@@ -10263,7 +10263,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #955
+#955
 
 - Gear: Orb
 - Rarity: Common
@@ -10275,7 +10275,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #956
+#956
 
 - Gear: Trinket
 - Rarity: Common
@@ -10285,7 +10285,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #957
+#957
 
 - Gear: Key Item
 - Rarity: Common
@@ -10294,7 +10294,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #958
+#958
 
 - Gear: Orb
 - Rarity: Common
@@ -10306,7 +10306,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #959
+#959
 
 - Gear: Orb
 - Rarity: Common
@@ -10318,7 +10318,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #960
+#960
 
 - Gear: Trinket
 - Rarity: Common
@@ -10328,7 +10328,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #961
+#961
 
 - Gear: Key Item
 - Rarity: Common
@@ -10337,7 +10337,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #962
+#962
 
 - Gear: Orb
 - Rarity: Common
@@ -10349,7 +10349,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #963
+#963
 
 - Gear: Knickknack
 - Rarity: Common
@@ -10360,7 +10360,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #964
+#964
 
 - Gear: Egg
 - Rarity: Common
@@ -10371,7 +10371,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #965
+#965
 
 - Gear: Knickknack
 - Rarity: Common
@@ -10382,7 +10382,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #966
+#966
 
 - Gear: Orb
 - Rarity: Common
@@ -10394,7 +10394,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #967
+#967
 
 - Gear: Orb
 - Rarity: Common
@@ -10406,7 +10406,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #968
+#968
 
 - Gear: Orb
 - Rarity: Common
@@ -10418,7 +10418,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #969
+#969
 
 - Gear: Key Item
 - Rarity: Common
@@ -10427,7 +10427,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #970
+#970
 
 - Gear: Curio
 - Rarity: Common
@@ -10437,7 +10437,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Rtolkan (Steampunk)
 
-## #971
+#971
 
 - Gear: Egg
 - Rarity: Common
@@ -10448,7 +10448,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #972
+#972
 
 - Gear: Egg
 - Rarity: Common
@@ -10459,7 +10459,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #973
+#973
 
 - Gear: Knickknack
 - Rarity: Common
@@ -10470,7 +10470,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #974
+#974
 
 - Gear: Curio
 - Rarity: Common
@@ -10480,7 +10480,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Western)
 
-## #975
+#975
 
 - Gear: Egg
 - Rarity: Common
@@ -10491,7 +10491,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #976
+#976
 
 - Gear: Diamond
 - Rarity: Common
@@ -10503,7 +10503,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #977
+#977
 
 - Gear: Key Item
 - Rarity: Common
@@ -10512,7 +10512,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #978
+#978
 
 - Gear: Diamond
 - Rarity: Common
@@ -10524,7 +10524,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #979
+#979
 
 - Gear: Egg
 - Rarity: Common
@@ -10535,7 +10535,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #980
+#980
 
 - Gear: Curio
 - Rarity: Common
@@ -10545,7 +10545,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #981
+#981
 
 - Gear: Key Item
 - Rarity: Common
@@ -10554,7 +10554,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #982
+#982
 
 - Gear: Knickknack
 - Rarity: Common
@@ -10565,7 +10565,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #983
+#983
 
 - Gear: Trinket
 - Rarity: Common
@@ -10575,7 +10575,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #984
+#984
 
 - Gear: Knickknack
 - Rarity: Common
@@ -10586,7 +10586,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #985
+#985
 
 - Gear: Orb
 - Rarity: Common
@@ -10598,7 +10598,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #986
+#986
 
 - Gear: Key Item
 - Rarity: Common
@@ -10607,7 +10607,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #987
+#987
 
 - Gear: Curio
 - Rarity: Common
@@ -10617,7 +10617,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Cortez (Western)
 
-## #988
+#988
 
 - Gear: Trinket
 - Rarity: Common
@@ -10627,7 +10627,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #989
+#989
 
 - Gear: Curio
 - Rarity: Common
@@ -10637,7 +10637,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 75
 - Aesthetic: Valdan (Cyberpunk)
 
-## #990
+#990
 
 - Gear: Orb
 - Rarity: Common
@@ -10649,7 +10649,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #991
+#991
 
 - Gear: Key Item
 - Rarity: Common
@@ -10658,7 +10658,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #992
+#992
 
 - Gear: Diamond
 - Rarity: Common
@@ -10670,7 +10670,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #993
+#993
 
 - Gear: Orb
 - Rarity: Common
@@ -10682,7 +10682,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #994
+#994
 
 - Gear: Key Item
 - Rarity: Common
@@ -10691,7 +10691,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #995
+#995
 
 - Gear: Diamond
 - Rarity: Common
@@ -10703,7 +10703,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #996
+#996
 
 - Gear: Egg
 - Rarity: Common
@@ -10714,7 +10714,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #997
+#997
 
 - Gear: Knickknack
 - Rarity: Common
@@ -10725,7 +10725,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #998
+#998
 
 - Gear: Key Item
 - Rarity: Common
@@ -10734,7 +10734,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #999
+#999
 
 - Gear: Key Item
 - Rarity: Common
@@ -10743,7 +10743,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Essence Value: 500
 - Credit Value: 50
 
-## #1000
+#1000
 
 - Gear: Key Item
 - Rarity: Common

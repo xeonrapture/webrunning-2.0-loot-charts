@@ -12,7 +12,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 
 # Loot Chart
 
-## #1
+#1
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -29,7 +29,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #2
+#2
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -46,7 +46,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #3
+#3
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -63,7 +63,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #4
+#4
 
 - Gear: Deck of Cards
 - Rarity: Uncommon
@@ -80,7 +80,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #5
+#5
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -97,7 +97,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #6
+#6
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -114,7 +114,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #7
+#7
 
 - Gear: Boulder
 - Rarity: Uncommon
@@ -131,7 +131,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #8
+#8
 
 - Gear: Statue
 - Rarity: Uncommon
@@ -148,7 +148,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #9
+#9
 
 - Gear: Greataxe
 - Rarity: Uncommon
@@ -165,7 +165,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #10
+#10
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -182,7 +182,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #11
+#11
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -199,7 +199,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #12
+#12
 
 - Gear: Deck of Cards
 - Rarity: Uncommon
@@ -216,7 +216,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #13
+#13
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -233,7 +233,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #14
+#14
 
 - Gear: Grenade Launcher
 - Rarity: Uncommon
@@ -250,7 +250,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #15
+#15
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -267,7 +267,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #16
+#16
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -284,7 +284,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #17
+#17
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -301,7 +301,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #18
+#18
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -318,7 +318,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #19
+#19
 
 - Gear: Rocket Launcher
 - Rarity: Uncommon
@@ -338,7 +338,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #20
+#20
 
 - Gear: Longbow
 - Rarity: Uncommon
@@ -355,7 +355,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #21
+#21
 
 - Gear: Astral Greatsword
 - Rarity: Uncommon
@@ -372,7 +372,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #22
+#22
 
 - Gear: Rocket Launcher
 - Rarity: Uncommon
@@ -389,7 +389,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #23
+#23
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -406,7 +406,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #24
+#24
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -423,7 +423,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #25
+#25
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -440,7 +440,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #26
+#26
 
 - Gear: Minigun
 - Rarity: Uncommon
@@ -457,7 +457,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #27
+#27
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -474,7 +474,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #28
+#28
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -491,7 +491,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #29
+#29
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -508,7 +508,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #30
+#30
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -525,7 +525,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #31
+#31
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -542,7 +542,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #32
+#32
 
 - Gear: Guitar
 - Rarity: Uncommon
@@ -559,7 +559,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #33
+#33
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -576,7 +576,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #34
+#34
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -593,7 +593,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #35
+#35
 
 - Gear: Statue
 - Rarity: Uncommon
@@ -610,7 +610,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #36
+#36
 
 - Gear: Odachi
 - Rarity: Uncommon
@@ -627,7 +627,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #37
+#37
 
 - Gear: Rocket Launcher
 - Rarity: Uncommon
@@ -644,7 +644,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #38
+#38
 
 - Gear: Magic Staff
 - Rarity: Uncommon
@@ -661,7 +661,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #39
+#39
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -678,7 +678,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #40
+#40
 
 - Gear: Blunderbuss
 - Rarity: Uncommon
@@ -695,7 +695,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #41
+#41
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -712,7 +712,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #42
+#42
 
 - Gear: Blowgun
 - Rarity: Uncommon
@@ -729,7 +729,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #43
+#43
 
 - Gear: Spear/Glaive
 - Rarity: Uncommon
@@ -746,7 +746,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #44
+#44
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -763,7 +763,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #45
+#45
 
 - Gear: Lance
 - Rarity: Uncommon
@@ -780,7 +780,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #46
+#46
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -797,7 +797,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #47
+#47
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -814,7 +814,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #48
+#48
 
 - Gear: Astral Greatsword
 - Rarity: Uncommon
@@ -831,7 +831,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #49
+#49
 
 - Gear: Guitar
 - Rarity: Uncommon
@@ -848,7 +848,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #50
+#50
 
 - Gear: Longbow
 - Rarity: Uncommon
@@ -865,7 +865,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #51
+#51
 
 - Gear: Deck of Cards
 - Rarity: Uncommon
@@ -882,7 +882,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #52
+#52
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -899,7 +899,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #53
+#53
 
 - Gear: Longbow
 - Rarity: Uncommon
@@ -916,7 +916,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #54
+#54
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -933,7 +933,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #55
+#55
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -950,7 +950,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #56
+#56
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -967,7 +967,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #57
+#57
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -984,7 +984,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #58
+#58
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -1001,7 +1001,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #59
+#59
 
 - Gear: Flute
 - Rarity: Uncommon
@@ -1021,7 +1021,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #60
+#60
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -1038,7 +1038,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #61
+#61
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -1055,7 +1055,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #62
+#62
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -1072,7 +1072,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #63
+#63
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -1089,7 +1089,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #64
+#64
 
 - Gear: Magic Staff
 - Rarity: Uncommon
@@ -1106,7 +1106,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #65
+#65
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -1123,7 +1123,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #66
+#66
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -1140,7 +1140,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #67
+#67
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -1157,7 +1157,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #68
+#68
 
 - Gear: Greataxe
 - Rarity: Uncommon
@@ -1174,7 +1174,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #69
+#69
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -1191,7 +1191,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #70
+#70
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -1208,7 +1208,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #71
+#71
 
 - Gear: Blunderbuss
 - Rarity: Uncommon
@@ -1225,7 +1225,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #72
+#72
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -1242,7 +1242,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #73
+#73
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -1259,7 +1259,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #74
+#74
 
 - Gear: Dual Scimitars
 - Rarity: Uncommon
@@ -1276,7 +1276,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #75
+#75
 
 - Gear: Greataxe
 - Rarity: Uncommon
@@ -1293,7 +1293,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #76
+#76
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -1310,7 +1310,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #77
+#77
 
 - Gear: Knife and Broadsword
 - Rarity: Uncommon
@@ -1327,7 +1327,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #78
+#78
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -1344,7 +1344,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #79
+#79
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -1361,7 +1361,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #80
+#80
 
 - Gear: Trident
 - Rarity: Uncommon
@@ -1378,7 +1378,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #81
+#81
 
 - Gear: Exploding Pumpkin
 - Rarity: Uncommon
@@ -1395,7 +1395,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #82
+#82
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -1412,7 +1412,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #83
+#83
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -1429,7 +1429,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #84
+#84
 
 - Gear: Scythe
 - Rarity: Uncommon
@@ -1446,7 +1446,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #85
+#85
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -1463,7 +1463,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #86
+#86
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -1480,7 +1480,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #87
+#87
 
 - Gear: Exploding Pumpkin
 - Rarity: Uncommon
@@ -1497,7 +1497,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #88
+#88
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -1514,7 +1514,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #89
+#89
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -1531,7 +1531,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #90
+#90
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -1548,7 +1548,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #91
+#91
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -1565,7 +1565,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #92
+#92
 
 - Gear: Grenade Launcher
 - Rarity: Uncommon
@@ -1582,7 +1582,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #93
+#93
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -1599,7 +1599,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #94
+#94
 
 - Gear: Statue
 - Rarity: Uncommon
@@ -1616,7 +1616,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #95
+#95
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -1633,7 +1633,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #96
+#96
 
 - Gear: Rifle
 - Rarity: Uncommon
@@ -1650,7 +1650,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #97
+#97
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -1667,7 +1667,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #98
+#98
 
 - Gear: Exploding Pumpkin
 - Rarity: Uncommon
@@ -1684,7 +1684,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #99
+#99
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -1701,7 +1701,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #100
+#100
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -1718,7 +1718,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #101
+#101
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -1735,7 +1735,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #102
+#102
 
 - Gear: Grenade Launcher
 - Rarity: Uncommon
@@ -1752,7 +1752,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #103
+#103
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -1769,7 +1769,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #104
+#104
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -1786,7 +1786,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #105
+#105
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -1803,7 +1803,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #106
+#106
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -1820,7 +1820,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #107
+#107
 
 - Gear: Knife and Broadsword
 - Rarity: Uncommon
@@ -1837,7 +1837,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #108
+#108
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -1854,7 +1854,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #109
+#109
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -1871,7 +1871,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #110
+#110
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -1888,7 +1888,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #111
+#111
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -1905,7 +1905,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #112
+#112
 
 - Gear: Exploding Pumpkin
 - Rarity: Uncommon
@@ -1922,7 +1922,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #113
+#113
 
 - Gear: Blunderbuss
 - Rarity: Uncommon
@@ -1939,7 +1939,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #114
+#114
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -1956,7 +1956,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #115
+#115
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -1973,7 +1973,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #116
+#116
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -1992,7 +1992,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #117
+#117
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -2009,7 +2009,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #118
+#118
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -2026,7 +2026,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #119
+#119
 
 - Gear: Spear/Glaive
 - Rarity: Uncommon
@@ -2043,7 +2043,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #120
+#120
 
 - Gear: Scythe
 - Rarity: Uncommon
@@ -2060,7 +2060,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #121
+#121
 
 - Gear: Deck of Cards
 - Rarity: Uncommon
@@ -2077,7 +2077,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #122
+#122
 
 - Gear: Blowgun
 - Rarity: Uncommon
@@ -2094,7 +2094,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #123
+#123
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -2114,7 +2114,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #124
+#124
 
 - Gear: Trident
 - Rarity: Uncommon
@@ -2131,7 +2131,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #125
+#125
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -2148,7 +2148,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #126
+#126
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -2165,7 +2165,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #127
+#127
 
 - Gear: Pollaxe
 - Rarity: Uncommon
@@ -2182,7 +2182,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #128
+#128
 
 - Gear: Magic Staff
 - Rarity: Uncommon
@@ -2199,7 +2199,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #129
+#129
 
 - Gear: Rocket Launcher
 - Rarity: Uncommon
@@ -2216,7 +2216,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #130
+#130
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -2233,7 +2233,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #131
+#131
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -2250,7 +2250,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #132
+#132
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -2267,7 +2267,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #133
+#133
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -2284,7 +2284,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #134
+#134
 
 - Gear: Trident
 - Rarity: Uncommon
@@ -2301,7 +2301,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #135
+#135
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -2318,7 +2318,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #136
+#136
 
 - Gear: Guitar
 - Rarity: Uncommon
@@ -2335,7 +2335,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #137
+#137
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -2352,7 +2352,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #138
+#138
 
 - Gear: Statue
 - Rarity: Uncommon
@@ -2372,7 +2372,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #139
+#139
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -2389,7 +2389,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #140
+#140
 
 - Gear: Odachi
 - Rarity: Uncommon
@@ -2406,7 +2406,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #141
+#141
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -2423,7 +2423,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #142
+#142
 
 - Gear: Longbow
 - Rarity: Uncommon
@@ -2443,7 +2443,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #143
+#143
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -2460,7 +2460,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #144
+#144
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -2477,7 +2477,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #145
+#145
 
 - Gear: Scythe
 - Rarity: Uncommon
@@ -2494,7 +2494,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #146
+#146
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -2511,7 +2511,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #147
+#147
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -2528,7 +2528,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #148
+#148
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -2545,7 +2545,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #149
+#149
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -2562,7 +2562,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #150
+#150
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -2579,7 +2579,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #151
+#151
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -2596,7 +2596,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #152
+#152
 
 - Gear: Scythe
 - Rarity: Uncommon
@@ -2613,7 +2613,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #153
+#153
 
 - Gear: Magic Staff
 - Rarity: Uncommon
@@ -2630,7 +2630,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #154
+#154
 
 - Gear: Trident
 - Rarity: Uncommon
@@ -2647,7 +2647,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #155
+#155
 
 - Gear: Minigun
 - Rarity: Uncommon
@@ -2664,7 +2664,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #156
+#156
 
 - Gear: Blowgun
 - Rarity: Uncommon
@@ -2681,7 +2681,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #157
+#157
 
 - Gear: Sniper Rifle
 - Rarity: Uncommon
@@ -2698,7 +2698,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #158
+#158
 
 - Gear: Statue
 - Rarity: Uncommon
@@ -2715,7 +2715,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #159
+#159
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -2732,7 +2732,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #160
+#160
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -2749,7 +2749,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #161
+#161
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -2766,7 +2766,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #162
+#162
 
 - Gear: Grenade Launcher
 - Rarity: Uncommon
@@ -2783,7 +2783,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #163
+#163
 
 - Gear: Grenade Launcher
 - Rarity: Uncommon
@@ -2800,7 +2800,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #164
+#164
 
 - Gear: Pollaxe
 - Rarity: Uncommon
@@ -2817,7 +2817,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #165
+#165
 
 - Gear: Astral Greatsword
 - Rarity: Uncommon
@@ -2834,7 +2834,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #166
+#166
 
 - Gear: Guitar
 - Rarity: Uncommon
@@ -2851,7 +2851,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #167
+#167
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -2868,7 +2868,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #168
+#168
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -2885,7 +2885,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #169
+#169
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -2902,7 +2902,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #170
+#170
 
 - Gear: Halberd
 - Rarity: Uncommon
@@ -2919,7 +2919,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #171
+#171
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -2936,7 +2936,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #172
+#172
 
 - Gear: Longbow
 - Rarity: Uncommon
@@ -2953,7 +2953,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #173
+#173
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -2970,7 +2970,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #174
+#174
 
 - Gear: Trident
 - Rarity: Uncommon
@@ -2987,7 +2987,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #175
+#175
 
 - Gear: Deck of Cards
 - Rarity: Uncommon
@@ -3004,7 +3004,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #176
+#176
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -3021,7 +3021,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #177
+#177
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -3038,7 +3038,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #178
+#178
 
 - Gear: Astral Greatsword
 - Rarity: Uncommon
@@ -3055,7 +3055,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #179
+#179
 
 - Gear: Greataxe
 - Rarity: Uncommon
@@ -3072,7 +3072,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #180
+#180
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -3089,7 +3089,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #181
+#181
 
 - Gear: Odachi
 - Rarity: Uncommon
@@ -3106,7 +3106,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #182
+#182
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -3123,7 +3123,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #183
+#183
 
 - Gear: Halberd
 - Rarity: Uncommon
@@ -3140,7 +3140,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #184
+#184
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -3157,7 +3157,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #185
+#185
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -3174,7 +3174,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #186
+#186
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -3191,7 +3191,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #187
+#187
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -3208,7 +3208,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #188
+#188
 
 - Gear: Flute
 - Rarity: Uncommon
@@ -3225,7 +3225,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #189
+#189
 
 - Gear: Halberd
 - Rarity: Uncommon
@@ -3242,7 +3242,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #190
+#190
 
 - Gear: Hand Cannon
 - Rarity: Uncommon
@@ -3259,7 +3259,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #191
+#191
 
 - Gear: Rifle
 - Rarity: Uncommon
@@ -3276,7 +3276,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #192
+#192
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -3293,7 +3293,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #193
+#193
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -3310,7 +3310,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #194
+#194
 
 - Gear: Scythe
 - Rarity: Uncommon
@@ -3327,7 +3327,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #195
+#195
 
 - Gear: Exploding Pumpkin
 - Rarity: Uncommon
@@ -3344,7 +3344,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #196
+#196
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -3364,7 +3364,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #197
+#197
 
 - Gear: Spear/Glaive
 - Rarity: Uncommon
@@ -3381,7 +3381,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #198
+#198
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -3398,7 +3398,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #199
+#199
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -3415,7 +3415,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #200
+#200
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -3432,7 +3432,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #201
+#201
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -3449,7 +3449,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #202
+#202
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -3466,7 +3466,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #203
+#203
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -3483,7 +3483,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #204
+#204
 
 - Gear: Flute
 - Rarity: Uncommon
@@ -3500,7 +3500,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #205
+#205
 
 - Gear: Sniper Rifle
 - Rarity: Uncommon
@@ -3517,7 +3517,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #206
+#206
 
 - Gear: Rocket Launcher
 - Rarity: Uncommon
@@ -3534,7 +3534,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #207
+#207
 
 - Gear: Longbow
 - Rarity: Uncommon
@@ -3551,7 +3551,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #208
+#208
 
 - Gear: Rifle
 - Rarity: Uncommon
@@ -3571,7 +3571,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #209
+#209
 
 - Gear: Magic Staff
 - Rarity: Uncommon
@@ -3588,7 +3588,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #210
+#210
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -3605,7 +3605,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #211
+#211
 
 - Gear: Spear/Glaive
 - Rarity: Uncommon
@@ -3622,7 +3622,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #212
+#212
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -3639,7 +3639,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #213
+#213
 
 - Gear: Pollaxe
 - Rarity: Uncommon
@@ -3656,7 +3656,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #214
+#214
 
 - Gear: Odachi
 - Rarity: Uncommon
@@ -3673,7 +3673,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #215
+#215
 
 - Gear: Knife and Broadsword
 - Rarity: Uncommon
@@ -3690,7 +3690,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #216
+#216
 
 - Gear: Deck of Cards
 - Rarity: Uncommon
@@ -3707,7 +3707,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #217
+#217
 
 - Gear: Grenade Launcher
 - Rarity: Uncommon
@@ -3724,7 +3724,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #218
+#218
 
 - Gear: Magic Staff
 - Rarity: Uncommon
@@ -3741,7 +3741,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #219
+#219
 
 - Gear: Greataxe
 - Rarity: Uncommon
@@ -3758,7 +3758,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #220
+#220
 
 - Gear: Deck of Cards
 - Rarity: Uncommon
@@ -3775,7 +3775,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #221
+#221
 
 - Gear: Knife and Broadsword
 - Rarity: Uncommon
@@ -3792,7 +3792,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #222
+#222
 
 - Gear: Pollaxe
 - Rarity: Uncommon
@@ -3809,7 +3809,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #223
+#223
 
 - Gear: Deck of Cards
 - Rarity: Uncommon
@@ -3826,7 +3826,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #224
+#224
 
 - Gear: Sniper Rifle
 - Rarity: Uncommon
@@ -3843,7 +3843,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #225
+#225
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -3860,7 +3860,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #226
+#226
 
 - Gear: Grenade Launcher
 - Rarity: Uncommon
@@ -3877,7 +3877,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #227
+#227
 
 - Gear: Longbow
 - Rarity: Uncommon
@@ -3894,7 +3894,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #228
+#228
 
 - Gear: Magic Staff
 - Rarity: Uncommon
@@ -3911,7 +3911,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #229
+#229
 
 - Gear: Scythe
 - Rarity: Uncommon
@@ -3928,7 +3928,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #230
+#230
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -3945,7 +3945,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #231
+#231
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -3962,7 +3962,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #232
+#232
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -3979,7 +3979,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #233
+#233
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -3996,7 +3996,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #234
+#234
 
 - Gear: Odachi
 - Rarity: Uncommon
@@ -4013,7 +4013,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #235
+#235
 
 - Gear: Blowgun
 - Rarity: Uncommon
@@ -4030,7 +4030,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #236
+#236
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -4047,7 +4047,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #237
+#237
 
 - Gear: Rocket Launcher
 - Rarity: Uncommon
@@ -4064,7 +4064,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #238
+#238
 
 - Gear: Flute
 - Rarity: Uncommon
@@ -4081,7 +4081,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #239
+#239
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -4098,7 +4098,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #240
+#240
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -4115,7 +4115,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #241
+#241
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -4132,7 +4132,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #242
+#242
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -4149,7 +4149,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #243
+#243
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -4166,7 +4166,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #244
+#244
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -4183,7 +4183,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #245
+#245
 
 - Gear: Scythe
 - Rarity: Uncommon
@@ -4200,7 +4200,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #246
+#246
 
 - Gear: Trident
 - Rarity: Uncommon
@@ -4217,7 +4217,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #247
+#247
 
 - Gear: Minigun
 - Rarity: Uncommon
@@ -4234,7 +4234,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #248
+#248
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -4251,7 +4251,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #249
+#249
 
 - Gear: Trident
 - Rarity: Uncommon
@@ -4268,7 +4268,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #250
+#250
 
 - Gear: Grenade Launcher
 - Rarity: Uncommon
@@ -4285,7 +4285,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #251
+#251
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -4302,7 +4302,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #252
+#252
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -4319,7 +4319,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #253
+#253
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -4336,7 +4336,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #254
+#254
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -4353,7 +4353,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #255
+#255
 
 - Gear: Statue
 - Rarity: Uncommon
@@ -4370,7 +4370,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #256
+#256
 
 - Gear: Scythe
 - Rarity: Uncommon
@@ -4387,7 +4387,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #257
+#257
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -4404,7 +4404,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #258
+#258
 
 - Gear: Trident
 - Rarity: Uncommon
@@ -4421,7 +4421,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #259
+#259
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -4438,7 +4438,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #260
+#260
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -4455,7 +4455,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #261
+#261
 
 - Gear: Greataxe
 - Rarity: Uncommon
@@ -4472,7 +4472,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #262
+#262
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -4489,7 +4489,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #263
+#263
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -4506,7 +4506,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #264
+#264
 
 - Gear: Lance
 - Rarity: Uncommon
@@ -4523,7 +4523,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #265
+#265
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -4540,7 +4540,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #266
+#266
 
 - Gear: Minigun
 - Rarity: Uncommon
@@ -4557,7 +4557,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #267
+#267
 
 - Gear: Exploding Pumpkin
 - Rarity: Uncommon
@@ -4574,7 +4574,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #268
+#268
 
 - Gear: Pollaxe
 - Rarity: Uncommon
@@ -4593,7 +4593,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #269
+#269
 
 - Gear: Knife and Broadsword
 - Rarity: Uncommon
@@ -4610,7 +4610,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #270
+#270
 
 - Gear: Guitar
 - Rarity: Uncommon
@@ -4627,7 +4627,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #271
+#271
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -4644,7 +4644,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #272
+#272
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -4661,7 +4661,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #273
+#273
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -4678,7 +4678,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #274
+#274
 
 - Gear: Exploding Pumpkin
 - Rarity: Uncommon
@@ -4695,7 +4695,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #275
+#275
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -4712,7 +4712,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #276
+#276
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -4729,7 +4729,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #277
+#277
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -4746,7 +4746,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #278
+#278
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -4763,7 +4763,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #279
+#279
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -4780,7 +4780,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #280
+#280
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -4797,7 +4797,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #281
+#281
 
 - Gear: Minigun
 - Rarity: Uncommon
@@ -4814,7 +4814,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #282
+#282
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -4831,7 +4831,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #283
+#283
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -4848,7 +4848,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #284
+#284
 
 - Gear: Grenade Launcher
 - Rarity: Uncommon
@@ -4865,7 +4865,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #285
+#285
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -4882,7 +4882,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #286
+#286
 
 - Gear: Guitar
 - Rarity: Uncommon
@@ -4899,7 +4899,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #287
+#287
 
 - Gear: Grenade Launcher
 - Rarity: Uncommon
@@ -4916,7 +4916,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #288
+#288
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -4933,7 +4933,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #289
+#289
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -4950,7 +4950,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #290
+#290
 
 - Gear: Hand Cannon
 - Rarity: Uncommon
@@ -4967,7 +4967,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #291
+#291
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -4984,7 +4984,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #292
+#292
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -5001,7 +5001,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #293
+#293
 
 - Gear: Spear/Glaive
 - Rarity: Uncommon
@@ -5018,7 +5018,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #294
+#294
 
 - Gear: Blunderbuss
 - Rarity: Uncommon
@@ -5035,7 +5035,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #295
+#295
 
 - Gear: Boulder
 - Rarity: Uncommon
@@ -5052,7 +5052,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #296
+#296
 
 - Gear: Trident
 - Rarity: Uncommon
@@ -5069,7 +5069,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #297
+#297
 
 - Gear: Knife and Broadsword
 - Rarity: Uncommon
@@ -5086,7 +5086,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #298
+#298
 
 - Gear: Longbow
 - Rarity: Uncommon
@@ -5103,7 +5103,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #299
+#299
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -5120,7 +5120,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #300
+#300
 
 - Gear: Astral Greatsword
 - Rarity: Uncommon
@@ -5137,7 +5137,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #301
+#301
 
 - Gear: Pollaxe
 - Rarity: Uncommon
@@ -5154,7 +5154,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #302
+#302
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -5171,7 +5171,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #303
+#303
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -5188,7 +5188,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #304
+#304
 
 - Gear: Dual Scimitars
 - Rarity: Uncommon
@@ -5205,7 +5205,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #305
+#305
 
 - Gear: Astral Greatsword
 - Rarity: Uncommon
@@ -5222,7 +5222,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #306
+#306
 
 - Gear: Pollaxe
 - Rarity: Uncommon
@@ -5239,7 +5239,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #307
+#307
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -5256,7 +5256,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #308
+#308
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -5276,7 +5276,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #309
+#309
 
 - Gear: Greataxe
 - Rarity: Uncommon
@@ -5293,7 +5293,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #310
+#310
 
 - Gear: Halberd
 - Rarity: Uncommon
@@ -5310,7 +5310,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #311
+#311
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -5327,7 +5327,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #312
+#312
 
 - Gear: Magic Staff
 - Rarity: Uncommon
@@ -5344,7 +5344,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #313
+#313
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -5361,7 +5361,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #314
+#314
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -5378,7 +5378,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #315
+#315
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -5395,7 +5395,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #316
+#316
 
 - Gear: Spear/Glaive
 - Rarity: Uncommon
@@ -5412,7 +5412,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #317
+#317
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -5429,7 +5429,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #318
+#318
 
 - Gear: Dual Scimitars
 - Rarity: Uncommon
@@ -5446,7 +5446,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #319
+#319
 
 - Gear: Spear/Glaive
 - Rarity: Uncommon
@@ -5463,7 +5463,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #320
+#320
 
 - Gear: Dual Scimitars
 - Rarity: Uncommon
@@ -5480,7 +5480,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #321
+#321
 
 - Gear: Trident
 - Rarity: Uncommon
@@ -5497,7 +5497,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #322
+#322
 
 - Gear: Deck of Cards
 - Rarity: Uncommon
@@ -5514,7 +5514,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #323
+#323
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -5531,7 +5531,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #324
+#324
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -5548,7 +5548,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #325
+#325
 
 - Gear: Hand Cannon
 - Rarity: Uncommon
@@ -5565,7 +5565,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #326
+#326
 
 - Gear: Rifle
 - Rarity: Uncommon
@@ -5582,7 +5582,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #327
+#327
 
 - Gear: Sniper Rifle
 - Rarity: Uncommon
@@ -5599,7 +5599,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #328
+#328
 
 - Gear: Magic Staff
 - Rarity: Uncommon
@@ -5616,7 +5616,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #329
+#329
 
 - Gear: Odachi
 - Rarity: Uncommon
@@ -5633,7 +5633,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #330
+#330
 
 - Gear: Odachi
 - Rarity: Uncommon
@@ -5650,7 +5650,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #331
+#331
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -5667,7 +5667,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #332
+#332
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -5684,7 +5684,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #333
+#333
 
 - Gear: Dual Scimitars
 - Rarity: Uncommon
@@ -5701,7 +5701,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #334
+#334
 
 - Gear: Odachi
 - Rarity: Uncommon
@@ -5718,7 +5718,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #335
+#335
 
 - Gear: Flute
 - Rarity: Uncommon
@@ -5735,7 +5735,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #336
+#336
 
 - Gear: Greataxe
 - Rarity: Uncommon
@@ -5752,7 +5752,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #337
+#337
 
 - Gear: Rifle
 - Rarity: Uncommon
@@ -5769,7 +5769,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #338
+#338
 
 - Gear: Guitar
 - Rarity: Uncommon
@@ -5786,7 +5786,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #339
+#339
 
 - Gear: Lance
 - Rarity: Uncommon
@@ -5803,7 +5803,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #340
+#340
 
 - Gear: Odachi
 - Rarity: Uncommon
@@ -5820,7 +5820,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #341
+#341
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -5837,7 +5837,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #342
+#342
 
 - Gear: Flute
 - Rarity: Uncommon
@@ -5854,7 +5854,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #343
+#343
 
 - Gear: Exploding Pumpkin
 - Rarity: Uncommon
@@ -5871,7 +5871,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #344
+#344
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -5888,7 +5888,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #345
+#345
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -5905,7 +5905,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #346
+#346
 
 - Gear: Longbow
 - Rarity: Uncommon
@@ -5922,7 +5922,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #347
+#347
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -5939,7 +5939,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #348
+#348
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -5956,7 +5956,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #349
+#349
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -5973,7 +5973,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #350
+#350
 
 - Gear: Deck of Cards
 - Rarity: Uncommon
@@ -5990,7 +5990,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #351
+#351
 
 - Gear: Longbow
 - Rarity: Uncommon
@@ -6007,7 +6007,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #352
+#352
 
 - Gear: Astral Greatsword
 - Rarity: Uncommon
@@ -6024,7 +6024,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #353
+#353
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -6041,7 +6041,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #354
+#354
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -6058,7 +6058,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #355
+#355
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -6075,7 +6075,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #356
+#356
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -6092,7 +6092,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #357
+#357
 
 - Gear: Magic Staff
 - Rarity: Uncommon
@@ -6109,7 +6109,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #358
+#358
 
 - Gear: Magic Staff
 - Rarity: Uncommon
@@ -6126,7 +6126,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #359
+#359
 
 - Gear: Exploding Pumpkin
 - Rarity: Uncommon
@@ -6143,7 +6143,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #360
+#360
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -6160,7 +6160,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #361
+#361
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -6177,7 +6177,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #362
+#362
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -6194,7 +6194,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #363
+#363
 
 - Gear: Blunderbuss
 - Rarity: Uncommon
@@ -6211,7 +6211,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #364
+#364
 
 - Gear: Trident
 - Rarity: Uncommon
@@ -6228,7 +6228,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #365
+#365
 
 - Gear: Hand Cannon
 - Rarity: Uncommon
@@ -6245,7 +6245,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #366
+#366
 
 - Gear: Hand Cannon
 - Rarity: Uncommon
@@ -6262,7 +6262,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #367
+#367
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -6279,7 +6279,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #368
+#368
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -6296,7 +6296,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #369
+#369
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -6313,7 +6313,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #370
+#370
 
 - Gear: Greataxe
 - Rarity: Uncommon
@@ -6330,7 +6330,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #371
+#371
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -6347,7 +6347,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #372
+#372
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -6364,7 +6364,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #373
+#373
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -6381,7 +6381,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #374
+#374
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -6398,7 +6398,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #375
+#375
 
 - Gear: Deck of Cards
 - Rarity: Uncommon
@@ -6415,7 +6415,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #376
+#376
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -6432,7 +6432,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #377
+#377
 
 - Gear: Guitar
 - Rarity: Uncommon
@@ -6449,7 +6449,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #378
+#378
 
 - Gear: Astral Greatsword
 - Rarity: Uncommon
@@ -6466,7 +6466,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #379
+#379
 
 - Gear: Sniper Rifle
 - Rarity: Uncommon
@@ -6483,7 +6483,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #380
+#380
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -6500,7 +6500,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #381
+#381
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -6517,7 +6517,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #382
+#382
 
 - Gear: Pollaxe
 - Rarity: Uncommon
@@ -6534,7 +6534,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #383
+#383
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -6551,7 +6551,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #384
+#384
 
 - Gear: Greataxe
 - Rarity: Uncommon
@@ -6568,7 +6568,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #385
+#385
 
 - Gear: Longbow
 - Rarity: Uncommon
@@ -6585,7 +6585,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #386
+#386
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -6602,7 +6602,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #387
+#387
 
 - Gear: Blunderbuss
 - Rarity: Uncommon
@@ -6619,7 +6619,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #388
+#388
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -6636,7 +6636,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #389
+#389
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -6653,7 +6653,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #390
+#390
 
 - Gear: Exploding Pumpkin
 - Rarity: Uncommon
@@ -6670,7 +6670,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #391
+#391
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -6687,7 +6687,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #392
+#392
 
 - Gear: Spear/Glaive
 - Rarity: Uncommon
@@ -6704,7 +6704,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #393
+#393
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -6721,7 +6721,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #394
+#394
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -6738,7 +6738,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #395
+#395
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -6755,7 +6755,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #396
+#396
 
 - Gear: Longbow
 - Rarity: Uncommon
@@ -6772,7 +6772,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #397
+#397
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -6789,7 +6789,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #398
+#398
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -6809,7 +6809,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #399
+#399
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -6826,7 +6826,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #400
+#400
 
 - Gear: Hand Cannon
 - Rarity: Uncommon
@@ -6843,7 +6843,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #401
+#401
 
 - Gear: Hand Cannon
 - Rarity: Uncommon
@@ -6860,7 +6860,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #402
+#402
 
 - Gear: Longbow
 - Rarity: Uncommon
@@ -6877,7 +6877,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #403
+#403
 
 - Gear: Guitar
 - Rarity: Uncommon
@@ -6894,7 +6894,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #404
+#404
 
 - Gear: Magic Staff
 - Rarity: Uncommon
@@ -6911,7 +6911,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #405
+#405
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -6928,7 +6928,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #406
+#406
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -6945,7 +6945,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #407
+#407
 
 - Gear: Flute
 - Rarity: Uncommon
@@ -6962,7 +6962,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #408
+#408
 
 - Gear: Halberd
 - Rarity: Uncommon
@@ -6979,7 +6979,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #409
+#409
 
 - Gear: Flute
 - Rarity: Uncommon
@@ -6996,7 +6996,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #410
+#410
 
 - Gear: Minigun
 - Rarity: Uncommon
@@ -7013,7 +7013,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #411
+#411
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -7030,7 +7030,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #412
+#412
 
 - Gear: Knife and Broadsword
 - Rarity: Uncommon
@@ -7047,7 +7047,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #413
+#413
 
 - Gear: Rocket Launcher
 - Rarity: Uncommon
@@ -7064,7 +7064,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #414
+#414
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -7081,7 +7081,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #415
+#415
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -7098,7 +7098,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #416
+#416
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -7115,7 +7115,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #417
+#417
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -7132,7 +7132,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #418
+#418
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -7149,7 +7149,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #419
+#419
 
 - Gear: Flute
 - Rarity: Uncommon
@@ -7166,7 +7166,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #420
+#420
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -7183,7 +7183,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #421
+#421
 
 - Gear: Flute
 - Rarity: Uncommon
@@ -7200,7 +7200,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #422
+#422
 
 - Gear: Blunderbuss
 - Rarity: Uncommon
@@ -7217,7 +7217,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #423
+#423
 
 - Gear: Astral Greatsword
 - Rarity: Uncommon
@@ -7234,7 +7234,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #424
+#424
 
 - Gear: Trident
 - Rarity: Uncommon
@@ -7251,7 +7251,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #425
+#425
 
 - Gear: Rifle
 - Rarity: Uncommon
@@ -7268,7 +7268,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #426
+#426
 
 - Gear: Sniper Rifle
 - Rarity: Uncommon
@@ -7285,7 +7285,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #427
+#427
 
 - Gear: Boulder
 - Rarity: Uncommon
@@ -7302,7 +7302,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #428
+#428
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -7319,7 +7319,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #429
+#429
 
 - Gear: Longbow
 - Rarity: Uncommon
@@ -7336,7 +7336,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #430
+#430
 
 - Gear: Magic Staff
 - Rarity: Uncommon
@@ -7353,7 +7353,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #431
+#431
 
 - Gear: Grenade Launcher
 - Rarity: Uncommon
@@ -7370,7 +7370,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #432
+#432
 
 - Gear: Knife and Broadsword
 - Rarity: Uncommon
@@ -7387,7 +7387,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #433
+#433
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -7404,7 +7404,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #434
+#434
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -7421,7 +7421,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #435
+#435
 
 - Gear: Deck of Cards
 - Rarity: Uncommon
@@ -7438,7 +7438,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #436
+#436
 
 - Gear: Exploding Pumpkin
 - Rarity: Uncommon
@@ -7455,7 +7455,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #437
+#437
 
 - Gear: Spear/Glaive
 - Rarity: Uncommon
@@ -7472,7 +7472,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #438
+#438
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -7489,7 +7489,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #439
+#439
 
 - Gear: Hand Cannon
 - Rarity: Uncommon
@@ -7506,7 +7506,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #440
+#440
 
 - Gear: Statue
 - Rarity: Uncommon
@@ -7523,7 +7523,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #441
+#441
 
 - Gear: Scythe
 - Rarity: Uncommon
@@ -7540,7 +7540,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #442
+#442
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -7557,7 +7557,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #443
+#443
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -7574,7 +7574,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #444
+#444
 
 - Gear: Lance
 - Rarity: Uncommon
@@ -7591,7 +7591,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #445
+#445
 
 - Gear: Halberd
 - Rarity: Uncommon
@@ -7608,7 +7608,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #446
+#446
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -7625,7 +7625,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #447
+#447
 
 - Gear: Blunderbuss
 - Rarity: Uncommon
@@ -7642,7 +7642,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #448
+#448
 
 - Gear: Rifle
 - Rarity: Uncommon
@@ -7659,7 +7659,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #449
+#449
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -7676,7 +7676,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #450
+#450
 
 - Gear: Astral Greatsword
 - Rarity: Uncommon
@@ -7693,7 +7693,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #451
+#451
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -7710,7 +7710,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #452
+#452
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -7727,7 +7727,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #453
+#453
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -7744,7 +7744,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #454
+#454
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -7761,7 +7761,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #455
+#455
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -7778,7 +7778,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #456
+#456
 
 - Gear: Rocket Launcher
 - Rarity: Uncommon
@@ -7795,7 +7795,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #457
+#457
 
 - Gear: Halberd
 - Rarity: Uncommon
@@ -7812,7 +7812,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #458
+#458
 
 - Gear: Sniper Rifle
 - Rarity: Uncommon
@@ -7829,7 +7829,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #459
+#459
 
 - Gear: Pollaxe
 - Rarity: Uncommon
@@ -7846,7 +7846,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #460
+#460
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -7863,7 +7863,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #461
+#461
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -7880,7 +7880,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #462
+#462
 
 - Gear: Astral Greatsword
 - Rarity: Uncommon
@@ -7897,7 +7897,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #463
+#463
 
 - Gear: Sniper Rifle
 - Rarity: Uncommon
@@ -7914,7 +7914,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #464
+#464
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -7931,7 +7931,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #465
+#465
 
 - Gear: Boulder
 - Rarity: Uncommon
@@ -7948,7 +7948,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #466
+#466
 
 - Gear: Rocket Launcher
 - Rarity: Uncommon
@@ -7965,7 +7965,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #467
+#467
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -7982,7 +7982,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #468
+#468
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -7999,7 +7999,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #469
+#469
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -8016,7 +8016,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #470
+#470
 
 - Gear: Grenade Launcher
 - Rarity: Uncommon
@@ -8033,7 +8033,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #471
+#471
 
 - Gear: Rifle
 - Rarity: Uncommon
@@ -8050,7 +8050,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #472
+#472
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -8067,7 +8067,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #473
+#473
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -8084,7 +8084,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #474
+#474
 
 - Gear: Sniper Rifle
 - Rarity: Uncommon
@@ -8101,7 +8101,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #475
+#475
 
 - Gear: Scythe
 - Rarity: Uncommon
@@ -8118,7 +8118,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #476
+#476
 
 - Gear: Knife and Broadsword
 - Rarity: Uncommon
@@ -8135,7 +8135,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #477
+#477
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -8152,7 +8152,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #478
+#478
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -8169,7 +8169,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #479
+#479
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -8186,7 +8186,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #480
+#480
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -8203,7 +8203,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #481
+#481
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -8220,7 +8220,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #482
+#482
 
 - Gear: Statue
 - Rarity: Uncommon
@@ -8237,7 +8237,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #483
+#483
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -8254,7 +8254,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #484
+#484
 
 - Gear: Statue
 - Rarity: Uncommon
@@ -8271,7 +8271,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #485
+#485
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -8288,7 +8288,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #486
+#486
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -8305,7 +8305,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #487
+#487
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -8322,7 +8322,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #488
+#488
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -8339,7 +8339,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #489
+#489
 
 - Gear: Odachi
 - Rarity: Uncommon
@@ -8356,7 +8356,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #490
+#490
 
 - Gear: Statue
 - Rarity: Uncommon
@@ -8373,7 +8373,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #491
+#491
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -8390,7 +8390,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #492
+#492
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -8407,7 +8407,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #493
+#493
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -8424,7 +8424,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #494
+#494
 
 - Gear: Blowgun
 - Rarity: Uncommon
@@ -8441,7 +8441,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #495
+#495
 
 - Gear: Rocket Launcher
 - Rarity: Uncommon
@@ -8458,7 +8458,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #496
+#496
 
 - Gear: Greataxe
 - Rarity: Uncommon
@@ -8478,7 +8478,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #497
+#497
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -8495,7 +8495,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #498
+#498
 
 - Gear: Lance
 - Rarity: Uncommon
@@ -8512,7 +8512,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #499
+#499
 
 - Gear: Guitar
 - Rarity: Uncommon
@@ -8529,7 +8529,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #500
+#500
 
 - Gear: Hand Cannon
 - Rarity: Uncommon
@@ -8546,7 +8546,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #501
+#501
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -8563,7 +8563,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #502
+#502
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -8580,7 +8580,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #503
+#503
 
 - Gear: Grenade Launcher
 - Rarity: Uncommon
@@ -8597,7 +8597,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #504
+#504
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -8614,7 +8614,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #505
+#505
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -8634,7 +8634,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #506
+#506
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -8651,7 +8651,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #507
+#507
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -8668,7 +8668,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #508
+#508
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -8685,7 +8685,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #509
+#509
 
 - Gear: Grenade Launcher
 - Rarity: Uncommon
@@ -8702,7 +8702,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #510
+#510
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -8719,7 +8719,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #511
+#511
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -8736,7 +8736,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #512
+#512
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -8753,7 +8753,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #513
+#513
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -8770,7 +8770,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #514
+#514
 
 - Gear: Minigun
 - Rarity: Uncommon
@@ -8787,7 +8787,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #515
+#515
 
 - Gear: Lance
 - Rarity: Uncommon
@@ -8804,7 +8804,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #516
+#516
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -8821,7 +8821,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #517
+#517
 
 - Gear: Blowgun
 - Rarity: Uncommon
@@ -8838,7 +8838,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #518
+#518
 
 - Gear: Minigun
 - Rarity: Uncommon
@@ -8855,7 +8855,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #519
+#519
 
 - Gear: Blunderbuss
 - Rarity: Uncommon
@@ -8872,7 +8872,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #520
+#520
 
 - Gear: Spear/Glaive
 - Rarity: Uncommon
@@ -8889,7 +8889,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #521
+#521
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -8906,7 +8906,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #522
+#522
 
 - Gear: Sniper Rifle
 - Rarity: Uncommon
@@ -8923,7 +8923,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #523
+#523
 
 - Gear: Astral Greatsword
 - Rarity: Uncommon
@@ -8940,7 +8940,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #524
+#524
 
 - Gear: Scythe
 - Rarity: Uncommon
@@ -8960,7 +8960,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #525
+#525
 
 - Gear: Greataxe
 - Rarity: Uncommon
@@ -8977,7 +8977,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #526
+#526
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -8994,7 +8994,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #527
+#527
 
 - Gear: Sniper Rifle
 - Rarity: Uncommon
@@ -9011,7 +9011,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #528
+#528
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -9028,7 +9028,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #529
+#529
 
 - Gear: Lance
 - Rarity: Uncommon
@@ -9045,7 +9045,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #530
+#530
 
 - Gear: Guitar
 - Rarity: Uncommon
@@ -9062,7 +9062,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #531
+#531
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -9079,7 +9079,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #532
+#532
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -9096,7 +9096,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #533
+#533
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -9113,7 +9113,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #534
+#534
 
 - Gear: Blowgun
 - Rarity: Uncommon
@@ -9130,7 +9130,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #535
+#535
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -9147,7 +9147,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #536
+#536
 
 - Gear: Lance
 - Rarity: Uncommon
@@ -9164,7 +9164,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #537
+#537
 
 - Gear: Longbow
 - Rarity: Uncommon
@@ -9181,7 +9181,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #538
+#538
 
 - Gear: Odachi
 - Rarity: Uncommon
@@ -9198,7 +9198,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #539
+#539
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -9215,7 +9215,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #540
+#540
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -9232,7 +9232,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #541
+#541
 
 - Gear: Blunderbuss
 - Rarity: Uncommon
@@ -9249,7 +9249,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #542
+#542
 
 - Gear: Guitar
 - Rarity: Uncommon
@@ -9266,7 +9266,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #543
+#543
 
 - Gear: Greataxe
 - Rarity: Uncommon
@@ -9283,7 +9283,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #544
+#544
 
 - Gear: Longbow
 - Rarity: Uncommon
@@ -9300,7 +9300,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #545
+#545
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -9317,7 +9317,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #546
+#546
 
 - Gear: Trident
 - Rarity: Uncommon
@@ -9334,7 +9334,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #547
+#547
 
 - Gear: Scythe
 - Rarity: Uncommon
@@ -9351,7 +9351,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #548
+#548
 
 - Gear: Sniper Rifle
 - Rarity: Uncommon
@@ -9368,7 +9368,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #549
+#549
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -9385,7 +9385,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #550
+#550
 
 - Gear: Sniper Rifle
 - Rarity: Uncommon
@@ -9402,7 +9402,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #551
+#551
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -9419,7 +9419,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #552
+#552
 
 - Gear: Pollaxe
 - Rarity: Uncommon
@@ -9436,7 +9436,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #553
+#553
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -9453,7 +9453,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #554
+#554
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -9470,7 +9470,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #555
+#555
 
 - Gear: Odachi
 - Rarity: Uncommon
@@ -9487,7 +9487,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #556
+#556
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -9504,7 +9504,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #557
+#557
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -9521,7 +9521,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #558
+#558
 
 - Gear: Statue
 - Rarity: Uncommon
@@ -9538,7 +9538,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #559
+#559
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -9555,7 +9555,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #560
+#560
 
 - Gear: Blunderbuss
 - Rarity: Uncommon
@@ -9572,7 +9572,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #561
+#561
 
 - Gear: Boulder
 - Rarity: Uncommon
@@ -9589,7 +9589,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #562
+#562
 
 - Gear: Spear/Glaive
 - Rarity: Uncommon
@@ -9606,7 +9606,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #563
+#563
 
 - Gear: Spear/Glaive
 - Rarity: Uncommon
@@ -9623,7 +9623,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #564
+#564
 
 - Gear: Flute
 - Rarity: Uncommon
@@ -9640,7 +9640,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #565
+#565
 
 - Gear: Blowgun
 - Rarity: Uncommon
@@ -9657,7 +9657,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #566
+#566
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -9674,7 +9674,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #567
+#567
 
 - Gear: Magic Staff
 - Rarity: Uncommon
@@ -9691,7 +9691,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #568
+#568
 
 - Gear: Deck of Cards
 - Rarity: Uncommon
@@ -9708,7 +9708,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #569
+#569
 
 - Gear: Dual Scimitars
 - Rarity: Uncommon
@@ -9725,7 +9725,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #570
+#570
 
 - Gear: Grenade Launcher
 - Rarity: Uncommon
@@ -9742,7 +9742,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #571
+#571
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -9759,7 +9759,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #572
+#572
 
 - Gear: Rifle
 - Rarity: Uncommon
@@ -9776,7 +9776,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #573
+#573
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -9793,7 +9793,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #574
+#574
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -9810,7 +9810,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #575
+#575
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -9827,7 +9827,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #576
+#576
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -9844,7 +9844,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #577
+#577
 
 - Gear: Minigun
 - Rarity: Uncommon
@@ -9861,7 +9861,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #578
+#578
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -9878,7 +9878,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #579
+#579
 
 - Gear: Statue
 - Rarity: Uncommon
@@ -9895,7 +9895,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #580
+#580
 
 - Gear: Grenade Launcher
 - Rarity: Uncommon
@@ -9912,7 +9912,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #581
+#581
 
 - Gear: Exploding Pumpkin
 - Rarity: Uncommon
@@ -9929,7 +9929,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #582
+#582
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -9946,7 +9946,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #583
+#583
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -9963,7 +9963,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #584
+#584
 
 - Gear: Rocket Launcher
 - Rarity: Uncommon
@@ -9980,7 +9980,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #585
+#585
 
 - Gear: Trident
 - Rarity: Uncommon
@@ -9997,7 +9997,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #586
+#586
 
 - Gear: Halberd
 - Rarity: Uncommon
@@ -10014,7 +10014,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #587
+#587
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -10031,7 +10031,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #588
+#588
 
 - Gear: Rocket Launcher
 - Rarity: Uncommon
@@ -10048,7 +10048,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #589
+#589
 
 - Gear: Halberd
 - Rarity: Uncommon
@@ -10065,7 +10065,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #590
+#590
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -10082,7 +10082,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #591
+#591
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -10099,7 +10099,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #592
+#592
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -10116,7 +10116,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #593
+#593
 
 - Gear: Sniper Rifle
 - Rarity: Uncommon
@@ -10133,7 +10133,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #594
+#594
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -10150,7 +10150,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #595
+#595
 
 - Gear: Flute
 - Rarity: Uncommon
@@ -10167,7 +10167,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #596
+#596
 
 - Gear: Sniper Rifle
 - Rarity: Uncommon
@@ -10184,7 +10184,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #597
+#597
 
 - Gear: Spear/Glaive
 - Rarity: Uncommon
@@ -10201,7 +10201,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #598
+#598
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -10218,7 +10218,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #599
+#599
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -10238,7 +10238,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #600
+#600
 
 - Gear: Sniper Rifle
 - Rarity: Uncommon
@@ -10255,7 +10255,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #601
+#601
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -10272,7 +10272,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #602
+#602
 
 - Gear: Guitar
 - Rarity: Uncommon
@@ -10289,7 +10289,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #603
+#603
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -10306,7 +10306,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #604
+#604
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -10326,7 +10326,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #605
+#605
 
 - Gear: Astral Greatsword
 - Rarity: Uncommon
@@ -10343,7 +10343,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #606
+#606
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -10360,7 +10360,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #607
+#607
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -10377,7 +10377,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #608
+#608
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -10394,7 +10394,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #609
+#609
 
 - Gear: Halberd
 - Rarity: Uncommon
@@ -10411,7 +10411,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #610
+#610
 
 - Gear: Hand Cannon
 - Rarity: Uncommon
@@ -10428,7 +10428,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #611
+#611
 
 - Gear: Astral Greatsword
 - Rarity: Uncommon
@@ -10445,7 +10445,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #612
+#612
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -10462,7 +10462,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #613
+#613
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -10479,7 +10479,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #614
+#614
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -10496,7 +10496,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #615
+#615
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -10513,7 +10513,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #616
+#616
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -10530,7 +10530,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #617
+#617
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -10547,7 +10547,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #618
+#618
 
 - Gear: Deck of Cards
 - Rarity: Uncommon
@@ -10564,7 +10564,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #619
+#619
 
 - Gear: Scythe
 - Rarity: Uncommon
@@ -10581,7 +10581,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #620
+#620
 
 - Gear: Spear/Glaive
 - Rarity: Uncommon
@@ -10598,7 +10598,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #621
+#621
 
 - Gear: Trident
 - Rarity: Uncommon
@@ -10615,7 +10615,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #622
+#622
 
 - Gear: Boulder
 - Rarity: Uncommon
@@ -10632,7 +10632,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #623
+#623
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -10649,7 +10649,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #624
+#624
 
 - Gear: Halberd
 - Rarity: Uncommon
@@ -10666,7 +10666,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #625
+#625
 
 - Gear: Knife and Broadsword
 - Rarity: Uncommon
@@ -10683,7 +10683,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #626
+#626
 
 - Gear: Boulder
 - Rarity: Uncommon
@@ -10700,7 +10700,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #627
+#627
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -10717,7 +10717,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #628
+#628
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -10734,7 +10734,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #629
+#629
 
 - Gear: Statue
 - Rarity: Uncommon
@@ -10751,7 +10751,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #630
+#630
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -10768,7 +10768,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #631
+#631
 
 - Gear: Deck of Cards
 - Rarity: Uncommon
@@ -10785,7 +10785,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #632
+#632
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -10802,7 +10802,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #633
+#633
 
 - Gear: Magic Staff
 - Rarity: Uncommon
@@ -10819,7 +10819,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #634
+#634
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -10836,7 +10836,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #635
+#635
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -10853,7 +10853,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #636
+#636
 
 - Gear: Lance
 - Rarity: Uncommon
@@ -10870,7 +10870,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #637
+#637
 
 - Gear: Blowgun
 - Rarity: Uncommon
@@ -10887,7 +10887,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #638
+#638
 
 - Gear: Rocket Launcher
 - Rarity: Uncommon
@@ -10904,7 +10904,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #639
+#639
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -10921,7 +10921,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #640
+#640
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -10938,7 +10938,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #641
+#641
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -10955,7 +10955,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #642
+#642
 
 - Gear: Blowgun
 - Rarity: Uncommon
@@ -10972,7 +10972,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #643
+#643
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -10989,7 +10989,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #644
+#644
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -11006,7 +11006,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #645
+#645
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -11023,7 +11023,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #646
+#646
 
 - Gear: Trident
 - Rarity: Uncommon
@@ -11040,7 +11040,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #647
+#647
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -11057,7 +11057,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #648
+#648
 
 - Gear: Spear/Glaive
 - Rarity: Uncommon
@@ -11074,7 +11074,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #649
+#649
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -11091,7 +11091,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #650
+#650
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -11108,7 +11108,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #651
+#651
 
 - Gear: Guitar
 - Rarity: Uncommon
@@ -11125,7 +11125,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #652
+#652
 
 - Gear: Lance
 - Rarity: Uncommon
@@ -11142,7 +11142,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #653
+#653
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -11159,7 +11159,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #654
+#654
 
 - Gear: Halberd
 - Rarity: Uncommon
@@ -11176,7 +11176,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #655
+#655
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -11193,7 +11193,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #656
+#656
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -11210,7 +11210,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #657
+#657
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -11227,7 +11227,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #658
+#658
 
 - Gear: Minigun
 - Rarity: Uncommon
@@ -11247,7 +11247,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #659
+#659
 
 - Gear: Longbow
 - Rarity: Uncommon
@@ -11264,7 +11264,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #660
+#660
 
 - Gear: Hand Cannon
 - Rarity: Uncommon
@@ -11281,7 +11281,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #661
+#661
 
 - Gear: Flute
 - Rarity: Uncommon
@@ -11298,7 +11298,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #662
+#662
 
 - Gear: Minigun
 - Rarity: Uncommon
@@ -11315,7 +11315,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #663
+#663
 
 - Gear: Hand Cannon
 - Rarity: Uncommon
@@ -11332,7 +11332,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #664
+#664
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -11349,7 +11349,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #665
+#665
 
 - Gear: Lance
 - Rarity: Uncommon
@@ -11366,7 +11366,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #666
+#666
 
 - Gear: Magic Staff
 - Rarity: Uncommon
@@ -11383,7 +11383,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #667
+#667
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -11400,7 +11400,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #668
+#668
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -11417,7 +11417,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #669
+#669
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -11434,7 +11434,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #670
+#670
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -11451,7 +11451,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #671
+#671
 
 - Gear: Boulder
 - Rarity: Uncommon
@@ -11468,7 +11468,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #672
+#672
 
 - Gear: Guitar
 - Rarity: Uncommon
@@ -11485,7 +11485,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #673
+#673
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -11502,7 +11502,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #674
+#674
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -11519,7 +11519,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #675
+#675
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -11536,7 +11536,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #676
+#676
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -11553,7 +11553,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #677
+#677
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -11570,7 +11570,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #678
+#678
 
 - Gear: Greataxe
 - Rarity: Uncommon
@@ -11587,7 +11587,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #679
+#679
 
 - Gear: Trident
 - Rarity: Uncommon
@@ -11604,7 +11604,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #680
+#680
 
 - Gear: Guitar
 - Rarity: Uncommon
@@ -11621,7 +11621,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #681
+#681
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -11638,7 +11638,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #682
+#682
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -11655,7 +11655,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #683
+#683
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -11672,7 +11672,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #684
+#684
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -11689,7 +11689,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #685
+#685
 
 - Gear: Odachi
 - Rarity: Uncommon
@@ -11706,7 +11706,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #686
+#686
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -11723,7 +11723,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #687
+#687
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -11740,7 +11740,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #688
+#688
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -11757,7 +11757,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #689
+#689
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -11774,7 +11774,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #690
+#690
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -11791,7 +11791,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #691
+#691
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -11808,7 +11808,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #692
+#692
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -11825,7 +11825,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #693
+#693
 
 - Gear: Sniper Rifle
 - Rarity: Uncommon
@@ -11842,7 +11842,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #694
+#694
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -11859,7 +11859,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #695
+#695
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -11876,7 +11876,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #696
+#696
 
 - Gear: Astral Greatsword
 - Rarity: Uncommon
@@ -11893,7 +11893,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #697
+#697
 
 - Gear: Blunderbuss
 - Rarity: Uncommon
@@ -11910,7 +11910,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #698
+#698
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -11927,7 +11927,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #699
+#699
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -11944,7 +11944,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #700
+#700
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -11961,7 +11961,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #701
+#701
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -11978,7 +11978,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #702
+#702
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -11995,7 +11995,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #703
+#703
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -12012,7 +12012,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #704
+#704
 
 - Gear: Halberd
 - Rarity: Uncommon
@@ -12029,7 +12029,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #705
+#705
 
 - Gear: Pollaxe
 - Rarity: Uncommon
@@ -12046,7 +12046,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #706
+#706
 
 - Gear: Pollaxe
 - Rarity: Uncommon
@@ -12063,7 +12063,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #707
+#707
 
 - Gear: Odachi
 - Rarity: Uncommon
@@ -12080,7 +12080,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #708
+#708
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -12097,7 +12097,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #709
+#709
 
 - Gear: Exploding Pumpkin
 - Rarity: Uncommon
@@ -12114,7 +12114,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #710
+#710
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -12131,7 +12131,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #711
+#711
 
 - Gear: Rifle
 - Rarity: Uncommon
@@ -12148,7 +12148,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #712
+#712
 
 - Gear: Rifle
 - Rarity: Uncommon
@@ -12165,7 +12165,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #713
+#713
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -12182,7 +12182,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #714
+#714
 
 - Gear: Magic Staff
 - Rarity: Uncommon
@@ -12199,7 +12199,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #715
+#715
 
 - Gear: Rifle
 - Rarity: Uncommon
@@ -12216,7 +12216,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #716
+#716
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -12233,7 +12233,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #717
+#717
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -12250,7 +12250,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #718
+#718
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -12267,7 +12267,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #719
+#719
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -12284,7 +12284,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #720
+#720
 
 - Gear: Rocket Launcher
 - Rarity: Uncommon
@@ -12301,7 +12301,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #721
+#721
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -12318,7 +12318,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #722
+#722
 
 - Gear: Lance
 - Rarity: Uncommon
@@ -12335,7 +12335,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #723
+#723
 
 - Gear: Lance
 - Rarity: Uncommon
@@ -12352,7 +12352,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #724
+#724
 
 - Gear: Pollaxe
 - Rarity: Uncommon
@@ -12369,7 +12369,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #725
+#725
 
 - Gear: Dual Scimitars
 - Rarity: Uncommon
@@ -12386,7 +12386,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #726
+#726
 
 - Gear: Blunderbuss
 - Rarity: Uncommon
@@ -12403,7 +12403,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #727
+#727
 
 - Gear: Pollaxe
 - Rarity: Uncommon
@@ -12420,7 +12420,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #728
+#728
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -12437,7 +12437,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #729
+#729
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -12454,7 +12454,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #730
+#730
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -12471,7 +12471,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #731
+#731
 
 - Gear: Dual Scimitars
 - Rarity: Uncommon
@@ -12488,7 +12488,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #732
+#732
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -12505,7 +12505,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #733
+#733
 
 - Gear: Astral Greatsword
 - Rarity: Uncommon
@@ -12522,7 +12522,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #734
+#734
 
 - Gear: Blunderbuss
 - Rarity: Uncommon
@@ -12539,7 +12539,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #735
+#735
 
 - Gear: Greataxe
 - Rarity: Uncommon
@@ -12556,7 +12556,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #736
+#736
 
 - Gear: Minigun
 - Rarity: Uncommon
@@ -12573,7 +12573,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #737
+#737
 
 - Gear: Grenade Launcher
 - Rarity: Uncommon
@@ -12590,7 +12590,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #738
+#738
 
 - Gear: Flute
 - Rarity: Uncommon
@@ -12607,7 +12607,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #739
+#739
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -12624,7 +12624,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #740
+#740
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -12641,7 +12641,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #741
+#741
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -12658,7 +12658,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #742
+#742
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -12675,7 +12675,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #743
+#743
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -12692,7 +12692,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #744
+#744
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -12709,7 +12709,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #745
+#745
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -12726,7 +12726,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #746
+#746
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -12743,7 +12743,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #747
+#747
 
 - Gear: Boulder
 - Rarity: Uncommon
@@ -12760,7 +12760,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #748
+#748
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -12777,7 +12777,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #749
+#749
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -12794,7 +12794,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #750
+#750
 
 - Gear: Flute
 - Rarity: Uncommon
@@ -12811,7 +12811,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #751
+#751
 
 - Gear: Rocket Launcher
 - Rarity: Uncommon
@@ -12828,7 +12828,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #752
+#752
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -12845,7 +12845,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #753
+#753
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -12862,7 +12862,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #754
+#754
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -12879,7 +12879,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #755
+#755
 
 - Gear: Dual Scimitars
 - Rarity: Uncommon
@@ -12896,7 +12896,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #756
+#756
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -12913,7 +12913,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #757
+#757
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -12930,7 +12930,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #758
+#758
 
 - Gear: Odachi
 - Rarity: Uncommon
@@ -12947,7 +12947,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #759
+#759
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -12964,7 +12964,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #760
+#760
 
 - Gear: Minigun
 - Rarity: Uncommon
@@ -12981,7 +12981,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #761
+#761
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -12998,7 +12998,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #762
+#762
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -13015,7 +13015,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #763
+#763
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -13032,7 +13032,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #764
+#764
 
 - Gear: Hand Cannon
 - Rarity: Uncommon
@@ -13049,7 +13049,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #765
+#765
 
 - Gear: Lance
 - Rarity: Uncommon
@@ -13066,7 +13066,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #766
+#766
 
 - Gear: Greataxe
 - Rarity: Uncommon
@@ -13083,7 +13083,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #767
+#767
 
 - Gear: Scythe
 - Rarity: Uncommon
@@ -13100,7 +13100,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #768
+#768
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -13117,7 +13117,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #769
+#769
 
 - Gear: Exploding Pumpkin
 - Rarity: Uncommon
@@ -13134,7 +13134,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #770
+#770
 
 - Gear: Boulder
 - Rarity: Uncommon
@@ -13151,7 +13151,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #771
+#771
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -13168,7 +13168,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #772
+#772
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -13185,7 +13185,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #773
+#773
 
 - Gear: Hand Cannon
 - Rarity: Uncommon
@@ -13202,7 +13202,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #774
+#774
 
 - Gear: Grenade Launcher
 - Rarity: Uncommon
@@ -13219,7 +13219,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #775
+#775
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -13236,7 +13236,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #776
+#776
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -13253,7 +13253,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #777
+#777
 
 - Gear: Flute
 - Rarity: Uncommon
@@ -13270,7 +13270,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #778
+#778
 
 - Gear: Flute
 - Rarity: Uncommon
@@ -13287,7 +13287,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #779
+#779
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -13304,7 +13304,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #780
+#780
 
 - Gear: Sniper Rifle
 - Rarity: Uncommon
@@ -13321,7 +13321,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #781
+#781
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -13338,7 +13338,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #782
+#782
 
 - Gear: Astral Greatsword
 - Rarity: Uncommon
@@ -13355,7 +13355,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #783
+#783
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -13372,7 +13372,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #784
+#784
 
 - Gear: Scythe
 - Rarity: Uncommon
@@ -13389,7 +13389,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #785
+#785
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -13408,7 +13408,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #786
+#786
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -13425,7 +13425,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #787
+#787
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -13442,7 +13442,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #788
+#788
 
 - Gear: Spear/Glaive
 - Rarity: Uncommon
@@ -13459,7 +13459,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #789
+#789
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -13476,7 +13476,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #790
+#790
 
 - Gear: Dual Scimitars
 - Rarity: Uncommon
@@ -13493,7 +13493,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #791
+#791
 
 - Gear: Greataxe
 - Rarity: Uncommon
@@ -13510,7 +13510,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #792
+#792
 
 - Gear: Deck of Cards
 - Rarity: Uncommon
@@ -13527,7 +13527,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #793
+#793
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -13544,7 +13544,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #794
+#794
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -13561,7 +13561,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #795
+#795
 
 - Gear: Astral Greatsword
 - Rarity: Uncommon
@@ -13578,7 +13578,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #796
+#796
 
 - Gear: Hand Cannon
 - Rarity: Uncommon
@@ -13595,7 +13595,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #797
+#797
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -13612,7 +13612,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #798
+#798
 
 - Gear: Dual Scimitars
 - Rarity: Uncommon
@@ -13629,7 +13629,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #799
+#799
 
 - Gear: Spear/Glaive
 - Rarity: Uncommon
@@ -13646,7 +13646,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #800
+#800
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -13663,7 +13663,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #801
+#801
 
 - Gear: Halberd
 - Rarity: Uncommon
@@ -13680,7 +13680,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #802
+#802
 
 - Gear: Blunderbuss
 - Rarity: Uncommon
@@ -13697,7 +13697,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #803
+#803
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -13714,7 +13714,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #804
+#804
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -13731,7 +13731,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #805
+#805
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -13748,7 +13748,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #806
+#806
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -13765,7 +13765,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #807
+#807
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -13782,7 +13782,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #808
+#808
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -13799,7 +13799,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #809
+#809
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -13816,7 +13816,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #810
+#810
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -13833,7 +13833,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #811
+#811
 
 - Gear: Odachi
 - Rarity: Uncommon
@@ -13850,7 +13850,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #812
+#812
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -13867,7 +13867,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #813
+#813
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -13884,7 +13884,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #814
+#814
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -13901,7 +13901,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #815
+#815
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -13918,7 +13918,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #816
+#816
 
 - Gear: Spear/Glaive
 - Rarity: Uncommon
@@ -13935,7 +13935,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #817
+#817
 
 - Gear: Knife and Broadsword
 - Rarity: Uncommon
@@ -13952,7 +13952,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #818
+#818
 
 - Gear: Dual Scimitars
 - Rarity: Uncommon
@@ -13969,7 +13969,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #819
+#819
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -13986,7 +13986,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #820
+#820
 
 - Gear: Blowgun
 - Rarity: Uncommon
@@ -14003,7 +14003,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #821
+#821
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -14020,7 +14020,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #822
+#822
 
 - Gear: Statue
 - Rarity: Uncommon
@@ -14037,7 +14037,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #823
+#823
 
 - Gear: Guitar
 - Rarity: Uncommon
@@ -14054,7 +14054,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #824
+#824
 
 - Gear: Minigun
 - Rarity: Uncommon
@@ -14071,7 +14071,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #825
+#825
 
 - Gear: Statue
 - Rarity: Uncommon
@@ -14088,7 +14088,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #826
+#826
 
 - Gear: Trident
 - Rarity: Uncommon
@@ -14105,7 +14105,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #827
+#827
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -14122,7 +14122,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #828
+#828
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -14139,7 +14139,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #829
+#829
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -14156,7 +14156,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #830
+#830
 
 - Gear: Blunderbuss
 - Rarity: Uncommon
@@ -14173,7 +14173,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #831
+#831
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -14190,7 +14190,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #832
+#832
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -14207,7 +14207,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #833
+#833
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -14224,7 +14224,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #834
+#834
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -14241,7 +14241,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #835
+#835
 
 - Gear: Trident
 - Rarity: Uncommon
@@ -14258,7 +14258,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #836
+#836
 
 - Gear: Trident
 - Rarity: Uncommon
@@ -14277,7 +14277,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #837
+#837
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -14294,7 +14294,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #838
+#838
 
 - Gear: Statue
 - Rarity: Uncommon
@@ -14311,7 +14311,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #839
+#839
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -14328,7 +14328,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #840
+#840
 
 - Gear: Halberd
 - Rarity: Uncommon
@@ -14345,7 +14345,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #841
+#841
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -14362,7 +14362,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #842
+#842
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -14379,7 +14379,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #843
+#843
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -14396,7 +14396,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #844
+#844
 
 - Gear: Lance
 - Rarity: Uncommon
@@ -14413,7 +14413,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #845
+#845
 
 - Gear: Guitar
 - Rarity: Uncommon
@@ -14430,7 +14430,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #846
+#846
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -14447,7 +14447,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #847
+#847
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -14464,7 +14464,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #848
+#848
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -14481,7 +14481,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #849
+#849
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -14498,7 +14498,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #850
+#850
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -14515,7 +14515,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #851
+#851
 
 - Gear: Statue
 - Rarity: Uncommon
@@ -14532,7 +14532,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #852
+#852
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -14549,7 +14549,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #853
+#853
 
 - Gear: Lance
 - Rarity: Uncommon
@@ -14566,7 +14566,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #854
+#854
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -14583,7 +14583,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #855
+#855
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -14600,7 +14600,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #856
+#856
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -14617,7 +14617,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #857
+#857
 
 - Gear: Rifle
 - Rarity: Uncommon
@@ -14634,7 +14634,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #858
+#858
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -14651,7 +14651,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #859
+#859
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -14668,7 +14668,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #860
+#860
 
 - Gear: Exploding Pumpkin
 - Rarity: Uncommon
@@ -14685,7 +14685,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #861
+#861
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -14702,7 +14702,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #862
+#862
 
 - Gear: Rifle
 - Rarity: Uncommon
@@ -14719,7 +14719,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #863
+#863
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -14736,7 +14736,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #864
+#864
 
 - Gear: Halberd
 - Rarity: Uncommon
@@ -14753,7 +14753,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #865
+#865
 
 - Gear: Lance
 - Rarity: Uncommon
@@ -14770,7 +14770,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #866
+#866
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -14787,7 +14787,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #867
+#867
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -14804,7 +14804,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #868
+#868
 
 - Gear: Lance
 - Rarity: Uncommon
@@ -14821,7 +14821,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #869
+#869
 
 - Gear: Longbow
 - Rarity: Uncommon
@@ -14838,7 +14838,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #870
+#870
 
 - Gear: Greataxe
 - Rarity: Uncommon
@@ -14855,7 +14855,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #871
+#871
 
 - Gear: Blowgun
 - Rarity: Uncommon
@@ -14872,7 +14872,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #872
+#872
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -14889,7 +14889,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #873
+#873
 
 - Gear: Hand Cannon
 - Rarity: Uncommon
@@ -14906,7 +14906,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #874
+#874
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -14923,7 +14923,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #875
+#875
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -14940,7 +14940,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #876
+#876
 
 - Gear: Hand Cannon
 - Rarity: Uncommon
@@ -14957,7 +14957,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #877
+#877
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -14974,7 +14974,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #878
+#878
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -14991,7 +14991,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #879
+#879
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -15008,7 +15008,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #880
+#880
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -15025,7 +15025,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #881
+#881
 
 - Gear: Exploding Pumpkin
 - Rarity: Uncommon
@@ -15042,7 +15042,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #882
+#882
 
 - Gear: Minigun
 - Rarity: Uncommon
@@ -15059,7 +15059,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #883
+#883
 
 - Gear: Knife and Broadsword
 - Rarity: Uncommon
@@ -15076,7 +15076,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #884
+#884
 
 - Gear: Blowgun
 - Rarity: Uncommon
@@ -15093,7 +15093,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #885
+#885
 
 - Gear: Sniper Rifle
 - Rarity: Uncommon
@@ -15110,7 +15110,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #886
+#886
 
 - Gear: Hand Cannon
 - Rarity: Uncommon
@@ -15127,7 +15127,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #887
+#887
 
 - Gear: Hand Cannon
 - Rarity: Uncommon
@@ -15144,7 +15144,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #888
+#888
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -15161,7 +15161,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #889
+#889
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -15178,7 +15178,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #890
+#890
 
 - Gear: Flamethrower
 - Rarity: Uncommon
@@ -15195,7 +15195,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #891
+#891
 
 - Gear: Pollaxe
 - Rarity: Uncommon
@@ -15214,7 +15214,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #892
+#892
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -15234,7 +15234,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #893
+#893
 
 - Gear: Guitar
 - Rarity: Uncommon
@@ -15251,7 +15251,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #894
+#894
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -15268,7 +15268,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #895
+#895
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -15285,7 +15285,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #896
+#896
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -15302,7 +15302,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #897
+#897
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -15319,7 +15319,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #898
+#898
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -15336,7 +15336,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #899
+#899
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -15353,7 +15353,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #900
+#900
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -15370,7 +15370,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #901
+#901
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -15387,7 +15387,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #902
+#902
 
 - Gear: Deck of Cards
 - Rarity: Uncommon
@@ -15404,7 +15404,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #903
+#903
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -15421,7 +15421,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #904
+#904
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -15438,7 +15438,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #905
+#905
 
 - Gear: Halberd
 - Rarity: Uncommon
@@ -15455,7 +15455,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #906
+#906
 
 - Gear: Minigun
 - Rarity: Uncommon
@@ -15472,7 +15472,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #907
+#907
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -15489,7 +15489,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #908
+#908
 
 - Gear: Odachi
 - Rarity: Uncommon
@@ -15506,7 +15506,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #909
+#909
 
 - Gear: Astral Greatsword
 - Rarity: Uncommon
@@ -15523,7 +15523,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #910
+#910
 
 - Gear: Magic Staff
 - Rarity: Uncommon
@@ -15540,7 +15540,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #911
+#911
 
 - Gear: Greataxe
 - Rarity: Uncommon
@@ -15557,7 +15557,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #912
+#912
 
 - Gear: Spear/Glaive
 - Rarity: Uncommon
@@ -15574,7 +15574,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #913
+#913
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -15591,7 +15591,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #914
+#914
 
 - Gear: Dual Scimitars
 - Rarity: Uncommon
@@ -15608,7 +15608,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #915
+#915
 
 - Gear: Rifle
 - Rarity: Uncommon
@@ -15625,7 +15625,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #916
+#916
 
 - Gear: Pollaxe
 - Rarity: Uncommon
@@ -15642,7 +15642,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #917
+#917
 
 - Gear: Halberd
 - Rarity: Uncommon
@@ -15659,7 +15659,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #918
+#918
 
 - Gear: Pollaxe
 - Rarity: Uncommon
@@ -15676,7 +15676,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #919
+#919
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -15693,7 +15693,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #920
+#920
 
 - Gear: Nunchucks
 - Rarity: Uncommon
@@ -15710,7 +15710,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #921
+#921
 
 - Gear: Flute
 - Rarity: Uncommon
@@ -15727,7 +15727,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #922
+#922
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -15744,7 +15744,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #923
+#923
 
 - Gear: Rocket Launcher
 - Rarity: Uncommon
@@ -15761,7 +15761,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #924
+#924
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -15778,7 +15778,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #925
+#925
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -15795,7 +15795,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #926
+#926
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -15812,7 +15812,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #927
+#927
 
 - Gear: Dual Scimitars
 - Rarity: Uncommon
@@ -15829,7 +15829,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #928
+#928
 
 - Gear: Rocket Launcher
 - Rarity: Uncommon
@@ -15846,7 +15846,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #929
+#929
 
 - Gear: Statue
 - Rarity: Uncommon
@@ -15863,7 +15863,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #930
+#930
 
 - Gear: Astral Greatsword
 - Rarity: Uncommon
@@ -15880,7 +15880,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #931
+#931
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -15897,7 +15897,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #932
+#932
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -15914,7 +15914,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #933
+#933
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -15931,7 +15931,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #934
+#934
 
 - Gear: Rocket Launcher
 - Rarity: Uncommon
@@ -15948,7 +15948,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #935
+#935
 
 - Gear: Deck of Cards
 - Rarity: Uncommon
@@ -15965,7 +15965,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #936
+#936
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -15982,7 +15982,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #937
+#937
 
 - Gear: Halberd
 - Rarity: Uncommon
@@ -15999,7 +15999,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #938
+#938
 
 - Gear: Hand Cannon
 - Rarity: Uncommon
@@ -16016,7 +16016,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #939
+#939
 
 - Gear: Grenade Launcher
 - Rarity: Uncommon
@@ -16033,7 +16033,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #940
+#940
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -16050,7 +16050,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #941
+#941
 
 - Gear: Blowgun
 - Rarity: Uncommon
@@ -16067,7 +16067,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #942
+#942
 
 - Gear: Minigun
 - Rarity: Uncommon
@@ -16084,7 +16084,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #943
+#943
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -16101,7 +16101,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #944
+#944
 
 - Gear: Grenade Launcher
 - Rarity: Uncommon
@@ -16118,7 +16118,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #945
+#945
 
 - Gear: Deck of Cards
 - Rarity: Uncommon
@@ -16135,7 +16135,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #946
+#946
 
 - Gear: Statue
 - Rarity: Uncommon
@@ -16152,7 +16152,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #947
+#947
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -16169,7 +16169,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #948
+#948
 
 - Gear: Drum
 - Rarity: Uncommon
@@ -16186,7 +16186,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #949
+#949
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -16203,7 +16203,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #950
+#950
 
 - Gear: Guitar
 - Rarity: Uncommon
@@ -16220,7 +16220,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #951
+#951
 
 - Gear: Boulder
 - Rarity: Uncommon
@@ -16237,7 +16237,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #952
+#952
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -16254,7 +16254,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #953
+#953
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -16271,7 +16271,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #954
+#954
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -16288,7 +16288,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #955
+#955
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -16305,7 +16305,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #956
+#956
 
 - Gear: Rifle
 - Rarity: Uncommon
@@ -16322,7 +16322,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #957
+#957
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -16339,7 +16339,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #958
+#958
 
 - Gear: Knife and Broadsword
 - Rarity: Uncommon
@@ -16356,7 +16356,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #959
+#959
 
 - Gear: Scythe
 - Rarity: Uncommon
@@ -16373,7 +16373,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #960
+#960
 
 - Gear: Trumpet
 - Rarity: Uncommon
@@ -16390,7 +16390,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #961
+#961
 
 - Gear: Quarterstaff
 - Rarity: Uncommon
@@ -16407,7 +16407,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #962
+#962
 
 - Gear: Rocket Launcher
 - Rarity: Uncommon
@@ -16424,7 +16424,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #963
+#963
 
 - Gear: Shotgun
 - Rarity: Uncommon
@@ -16441,7 +16441,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #964
+#964
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -16458,7 +16458,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #965
+#965
 
 - Gear: Guitar
 - Rarity: Uncommon
@@ -16475,7 +16475,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #966
+#966
 
 - Gear: Pollaxe
 - Rarity: Uncommon
@@ -16492,7 +16492,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #967
+#967
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -16509,7 +16509,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #968
+#968
 
 - Gear: Minigun
 - Rarity: Uncommon
@@ -16526,7 +16526,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #969
+#969
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -16543,7 +16543,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #970
+#970
 
 - Gear: Ngao
 - Rarity: Uncommon
@@ -16560,7 +16560,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #971
+#971
 
 - Gear: Odachi
 - Rarity: Uncommon
@@ -16577,7 +16577,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #972
+#972
 
 - Gear: Scythe
 - Rarity: Uncommon
@@ -16594,7 +16594,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #973
+#973
 
 - Gear: Pollaxe
 - Rarity: Uncommon
@@ -16611,7 +16611,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #974
+#974
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -16628,7 +16628,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #975
+#975
 
 - Gear: Greataxe
 - Rarity: Uncommon
@@ -16645,7 +16645,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #976
+#976
 
 - Gear: Sniper Rifle
 - Rarity: Uncommon
@@ -16662,7 +16662,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #977
+#977
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -16679,7 +16679,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #978
+#978
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -16696,7 +16696,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #979
+#979
 
 - Gear: Dual Gauntlets
 - Rarity: Uncommon
@@ -16713,7 +16713,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #980
+#980
 
 - Gear: Eku
 - Rarity: Uncommon
@@ -16730,7 +16730,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #981
+#981
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -16747,7 +16747,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #982
+#982
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -16767,7 +16767,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #983
+#983
 
 - Gear: Caster Gloves
 - Rarity: Uncommon
@@ -16784,7 +16784,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #984
+#984
 
 - Gear: Halberd
 - Rarity: Uncommon
@@ -16801,7 +16801,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Valdan (Cyberpunk)
 
-## #985
+#985
 
 - Gear: Hand Cannon
 - Rarity: Uncommon
@@ -16818,7 +16818,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #986
+#986
 
 - Gear: Brass Knuckles
 - Rarity: Uncommon
@@ -16835,7 +16835,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #987
+#987
 
 - Gear: Harpoon Gun
 - Rarity: Uncommon
@@ -16852,7 +16852,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #988
+#988
 
 - Gear: Statue
 - Rarity: Uncommon
@@ -16869,7 +16869,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #989
+#989
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -16886,7 +16886,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #990
+#990
 
 - Gear: Magic Staff
 - Rarity: Uncommon
@@ -16903,7 +16903,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #991
+#991
 
 - Gear: Scythe
 - Rarity: Uncommon
@@ -16920,7 +16920,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Jiyyagan (Survivor/Jungle)
 
-## #992
+#992
 
 - Gear: Greatsword
 - Rarity: Uncommon
@@ -16937,7 +16937,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Asticarian (Modern)
 
-## #993
+#993
 
 - Gear: Greathammer
 - Rarity: Uncommon
@@ -16954,7 +16954,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #994
+#994
 
 - Gear: Magic Staff
 - Rarity: Uncommon
@@ -16971,7 +16971,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Pirate)
 
-## #995
+#995
 
 - Gear: Kite Shield
 - Rarity: Uncommon
@@ -16988,7 +16988,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #996
+#996
 
 - Gear: Shortbow
 - Rarity: Uncommon
@@ -17005,7 +17005,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Rtolkan (Steampunk)
 
-## #997
+#997
 
 - Gear: Three-section Staff
 - Rarity: Uncommon
@@ -17022,7 +17022,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Pbosh (Viking/Heavy, Rough Metal)
 
-## #998
+#998
 
 - Gear: Pollaxe
 - Rarity: Uncommon
@@ -17042,7 +17042,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Cortez (Western)
 
-## #999
+#999
 
 - Gear: Statue
 - Rarity: Uncommon
@@ -17059,7 +17059,7 @@ If you roll a 1 (-1) and a 04 that's 4.
 - Credit Value: 100
 - Aesthetic: Ydilikian (Medieval)
 
-## #1000
+#1000
 
 - Gear: Minigun
 - Rarity: Uncommon
