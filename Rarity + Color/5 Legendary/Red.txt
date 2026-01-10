@@ -1,4 +1,4 @@
-# How to Roll
+How to Roll
 
 Roll a d10 and a d100, minus 1 from the d10.
 
@@ -10,5 +10,5 @@ If you roll a 1 (-1) and a 04 that's 4.
 
 1 (-1) and a 00 becomes 1000.
 
-# Loot Chart
+Loot Chart
 
