@@ -4,7 +4,6 @@
   <meta charset="utf-8">
   <title>Webrunning Loot Charts</title>
 
-  <!-- optional shared site styles -->
   <link rel="stylesheet" href="https://xeonrapture.github.io/site.css">
 
   <style>
@@ -113,7 +112,6 @@
 </head>
 
 <body>
-  <!-- shared nav (optional) -->
   <div id="nav"></div>
   <script>
     fetch("https://xeonrapture.github.io/nav.html")
@@ -147,11 +145,9 @@
   <script>
     /* ================= CONFIG ================= */
     const OWNER  = "xeonrapture";
-    const REPO   = "webrunning-2.0-loot-charts";  // ← change this
-    const BRANCH = "main";                 // or "master"
-    const FILTER_EXT = ".txt";             // filter
-    // Optional: limit to a subfolder like "pregenerated/"
-    const ONLY_UNDER = "";                 // e.g. "pregenerated/" or "" for whole repo
+    const REPO   = "webrunning-2.0-loot-charts";
+    const FILTER_EXT = ".txt";
+    const ONLY_UNDER = ""; // e.g. "pregenerated/" or "" for whole repo
     /* ========================================= */
 
     const treeEl = document.getElementById("tree");
@@ -164,27 +160,53 @@
 
     let activeButton = null;
     let activeText = "";
+    let ACTIVE_BRANCH = "main"; // will be overwritten by detected default branch
 
     async function getRecursiveTree(owner, repo) {
-  // 0) get default branch
-  const repoRes = await fetch(`https://api.github.com/repos/${owner}/${repo}`);
-  if (!repoRes.ok) throw new Error(`Repo error ${repoRes.status}`);
-  const repoInfo = await repoRes.json();
-  const branch = repoInfo.default_branch;
+      // 0) get default branch
+      const repoRes = await fetch(`https://api.github.com/repos/${owner}/${repo}`);
+      if (!repoRes.ok) throw new Error(`Repo error ${repoRes.status}`);
+      const repoInfo = await repoRes.json();
+      const branch = repoInfo.default_branch;
 
-  // 1) get branch ref → SHA
-  const refRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/git/refs/heads/${branch}`);
-  if (!refRes.ok) throw new Error(`Ref error ${refRes.status}`);
-  const ref = await refRes.json();
+      // 1) get branch ref → SHA
+      const refRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/git/refs/heads/${branch}`);
+      if (!refRes.ok) throw new Error(`Ref error ${refRes.status}`);
+      const ref = await refRes.json();
 
-  // 2) recursive tree
-  const treeRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/git/trees/${ref.object.sha}?recursive=1`);
-  if (!treeRes.ok) throw new Error(`Tree error ${treeRes.status}`);
-  const tree = await treeRes.json();
+      // 2) recursive tree
+      const treeRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/git/trees/${ref.object.sha}?recursive=1`);
+      if (!treeRes.ok) throw new Error(`Tree error ${treeRes.status}`);
+      const tree = await treeRes.json();
 
-  return { tree: tree.tree, branch };
-}
+      return { tree: tree.tree, branch };
+    }
 
+    function buildTree(paths) {
+      // Node structure: { folders: Map<string, Node>, files: string[] }
+      const root = { folders: new Map(), files: [] };
+
+      for (const fullPath of paths) {
+        const parts = fullPath.split("/");
+        let node = root;
+
+        for (let i = 0; i < parts.length; i++) {
+          const part = parts[i];
+          const isFile = i === parts.length - 1;
+
+          if (isFile) {
+            node.files.push(fullPath);
+          } else {
+            if (!node.folders.has(part)) {
+              node.folders.set(part, { folders: new Map(), files: [] });
+            }
+            node = node.folders.get(part);
+          }
+        }
+      }
+
+      return root;
+    }
 
     function renderTree(node, label = "(root)") {
       const details = document.createElement("details");
@@ -195,7 +217,7 @@
       details.appendChild(summary);
 
       // folders
-      const folderNames = [...node.folders.keys()].sort((a,b)=>a.localeCompare(b));
+      const folderNames = [...node.folders.keys()].sort((a, b) => a.localeCompare(b));
       for (const name of folderNames) {
         details.appendChild(renderTree(node.folders.get(name), name));
       }
@@ -205,7 +227,7 @@
         const filesWrap = document.createElement("div");
         filesWrap.className = "files";
 
-        const filesSorted = [...node.files].sort((a,b)=>a.localeCompare(b));
+        const filesSorted = [...node.files].sort((a, b) => a.localeCompare(b));
         for (const path of filesSorted) {
           const btn = document.createElement("button");
           btn.className = "file";
@@ -230,7 +252,7 @@
         currentPathEl.textContent = path;
         viewerEl.textContent = "Loading…";
 
-        const url = `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/${path}`;
+        const url = `https://raw.githubusercontent.com/${OWNER}/${REPO}/${ACTIVE_BRANCH}/${path}`;
         const r = await fetch(url);
         if (!r.ok) throw new Error(`Raw fetch error ${r.status}`);
 
@@ -257,7 +279,6 @@
         copyBtn.textContent = "Copied!";
         setTimeout(() => (copyBtn.textContent = "Copy contents"), 800);
       } catch {
-        // fallback: select text
         const r = document.createRange();
         r.selectNodeContents(viewerEl);
         const sel = window.getSelection();
@@ -271,10 +292,8 @@
     (async () => {
       try {
         const { tree: rawTree, branch } = await getRecursiveTree(OWNER, REPO);
-        const BRANCH = branch; // use detected branch for raw file fetch too
+        ACTIVE_BRANCH = branch; // use detected default branch everywhere
 
-
-        // file paths only
         let paths = rawTree
           .filter(x => x.type === "blob")
           .map(x => x.path);
@@ -283,7 +302,6 @@
           paths = paths.filter(p => p.startsWith(ONLY_UNDER));
         }
 
-        // filter to .txt
         paths = paths.filter(p => p.toLowerCase().endsWith(FILTER_EXT));
 
         if (!paths.length) {
@@ -294,7 +312,6 @@
         const tree = buildTree(paths);
 
         treeEl.innerHTML = "";
-        // If you don't want a "(root)" node header, you can render its children instead.
         treeEl.appendChild(renderTree(tree, ONLY_UNDER ? ONLY_UNDER.replace(/\/$/, "") : "(root)"));
       } catch (e) {
         treeEl.textContent = `Error loading file tree.\n${String(e)}`;
