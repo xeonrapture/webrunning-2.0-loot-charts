@@ -4,101 +4,313 @@
   <meta charset="utf-8">
   <title>Webrunning Loot Charts</title>
 
-  <!-- shared site styles if you want -->
+  <!-- optional shared site styles -->
   <link rel="stylesheet" href="https://xeonrapture.github.io/site.css">
 
-  <link rel="stylesheet" href="https://xeonrapture.github.io/site.css">
+  <style>
+    .layout {
+      display: grid;
+      grid-template-columns: 340px 1fr;
+      gap: 1rem;
+      align-items: start;
+    }
 
+    .sidebar {
+      max-height: 82vh;
+      overflow: auto;
+      border: 1px solid var(--border, #333);
+      border-radius: 10px;
+      background: var(--panel, #161821);
+      padding: 0.75rem;
+    }
+
+    .viewer {
+      min-height: 60vh;
+      border: 1px solid var(--border, #333);
+      border-radius: 10px;
+      background: #111;
+      padding: 1rem;
+      white-space: pre-wrap;
+      overflow: auto;
+      max-height: 82vh;
+    }
+
+    .path {
+      opacity: 0.75;
+      font-size: 0.9rem;
+      margin-bottom: 0.75rem;
+      word-break: break-all;
+    }
+
+    /* Tree styles */
+    .tree details {
+      margin: 0.15rem 0;
+      padding-left: 0.25rem;
+    }
+
+    .tree summary {
+      cursor: pointer;
+      user-select: none;
+      padding: 0.2rem 0.25rem;
+      border-radius: 6px;
+      font-weight: 600;
+      color: var(--text, #eee);
+    }
+
+    .tree summary:hover {
+      background: rgba(255,255,255,0.06);
+    }
+
+    .tree .files {
+      margin-left: 0.9rem;
+      margin-top: 0.15rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.15rem;
+    }
+
+    .tree button.file {
+      text-align: left;
+      padding: 0.2rem 0.35rem;
+      border-radius: 6px;
+      border: 0;
+      background: transparent;
+      cursor: pointer;
+      color: var(--accent, #7aa2ff);
+      font-size: 0.95rem;
+    }
+
+    .tree button.file:hover {
+      background: rgba(255,255,255,0.06);
+      text-decoration: underline;
+    }
+
+    .tree button.file.active {
+      background: rgba(122,162,255,0.15);
+      text-decoration: none;
+    }
+
+    .controls {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      margin: 0.75rem 0 0.25rem 0;
+    }
+
+    .controls button {
+      padding: 0.4rem 0.6rem;
+      border-radius: 8px;
+      border: 1px solid var(--border, #333);
+      background: var(--panel, #161821);
+      color: var(--text, #eee);
+      cursor: pointer;
+    }
+
+    .controls button:hover {
+      border-color: var(--accent, #7aa2ff);
+    }
+  </style>
 </head>
 
 <body>
-  <!-- shared nav -->
+  <!-- shared nav (optional) -->
   <div id="nav"></div>
   <script>
     fetch("https://xeonrapture.github.io/nav.html")
       .then(r => r.text())
-      .then(html => document.getElementById("nav").innerHTML = html);
+      .then(html => document.getElementById("nav").innerHTML = html)
+      .catch(() => {});
   </script>
 
   <main>
-    <h1>Loot Charts</h1>
-    <p>Select a file to view its contents.</p>
+    <h1>Loot Chart Browser</h1>
+    <p>Browse folders on the left, click a <code>.txt</code> file to view it in the center.</p>
+
+    <div class="controls">
+      <button id="expandAll">Expand all</button>
+      <button id="collapseAll">Collapse all</button>
+      <button id="copy">Copy contents</button>
+    </div>
 
     <div class="layout">
-      <div class="file-list" id="file-list">
-        Loading files…
-      </div>
+      <aside class="sidebar">
+        <div id="tree" class="tree">Loading file tree…</div>
+      </aside>
 
-      <div class="content" id="file-content">
-        No file selected.
-      </div>
+      <section>
+        <div class="path" id="currentPath">No file selected.</div>
+        <div class="viewer" id="viewer">Select a file from the left.</div>
+      </section>
     </div>
   </main>
 
   <script>
     /* ================= CONFIG ================= */
     const OWNER  = "xeonrapture";
-    const REPO   = "webrunning-2.0-loot-charts";   // ← change this
-    const BRANCH = "main";                  // or "master"
-    const FILTER_EXT = ".txt";              // only show .txt
+    const REPO   = "https://xeonrapture.github.io/webrunning-2.0-loot-charts/";  // ← change this
+    const BRANCH = "main";                 // or "master"
+    const FILTER_EXT = ".txt";             // filter
+    // Optional: limit to a subfolder like "pregenerated/"
+    const ONLY_UNDER = "";                 // e.g. "pregenerated/" or "" for whole repo
     /* ========================================= */
 
-    const listEl = document.getElementById("file-list");
-    const contentEl = document.getElementById("file-content");
+    const treeEl = document.getElementById("tree");
+    const viewerEl = document.getElementById("viewer");
+    const currentPathEl = document.getElementById("currentPath");
 
-    async function getRepoTree(owner, repo, branch) {
-      // 1) get branch ref → tree SHA
-      const refRes = await fetch(
-        `https://api.github.com/repos/${owner}/${repo}/git/refs/heads/${branch}`
-      );
-      if (!refRes.ok) throw new Error("Failed to get branch ref");
+    const expandAllBtn = document.getElementById("expandAll");
+    const collapseAllBtn = document.getElementById("collapseAll");
+    const copyBtn = document.getElementById("copy");
+
+    let activeButton = null;
+    let activeText = "";
+
+    async function getRecursiveTree(owner, repo, branch) {
+      const refRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/git/refs/heads/${branch}`);
+      if (!refRes.ok) throw new Error(`Ref error ${refRes.status}`);
       const ref = await refRes.json();
 
-      // 2) fetch recursive tree
-      const treeRes = await fetch(
-        `https://api.github.com/repos/${owner}/${repo}/git/trees/${ref.object.sha}?recursive=1`
-      );
-      if (!treeRes.ok) throw new Error("Failed to get tree");
+      const treeRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/git/trees/${ref.object.sha}?recursive=1`);
+      if (!treeRes.ok) throw new Error(`Tree error ${treeRes.status}`);
       const tree = await treeRes.json();
 
-      return tree.tree;
+      return tree.tree; // entries with {path,type,...}
     }
 
-    async function loadFile(path) {
-      const url = `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/${path}`;
-      contentEl.textContent = "Loading…";
-      const r = await fetch(url);
-      if (!r.ok) {
-        contentEl.textContent = "Failed to load file.";
-        return;
+    function buildTree(paths) {
+      // Node: { folders: Map<string,Node>, files: string[] }
+      const root = { folders: new Map(), files: [] };
+
+      for (const fullPath of paths) {
+        const parts = fullPath.split("/");
+        let node = root;
+
+        for (let i = 0; i < parts.length; i++) {
+          const part = parts[i];
+          const isFile = i === parts.length - 1;
+
+          if (isFile) {
+            node.files.push(fullPath);
+          } else {
+            if (!node.folders.has(part)) node.folders.set(part, { folders: new Map(), files: [] });
+            node = node.folders.get(part);
+          }
+        }
       }
-      contentEl.textContent = await r.text();
+
+      return root;
     }
+
+    function renderTree(node, label = "(root)") {
+      const details = document.createElement("details");
+      details.open = true;
+
+      const summary = document.createElement("summary");
+      summary.textContent = label;
+      details.appendChild(summary);
+
+      // folders
+      const folderNames = [...node.folders.keys()].sort((a,b)=>a.localeCompare(b));
+      for (const name of folderNames) {
+        details.appendChild(renderTree(node.folders.get(name), name));
+      }
+
+      // files
+      if (node.files.length) {
+        const filesWrap = document.createElement("div");
+        filesWrap.className = "files";
+
+        const filesSorted = [...node.files].sort((a,b)=>a.localeCompare(b));
+        for (const path of filesSorted) {
+          const btn = document.createElement("button");
+          btn.className = "file";
+          btn.textContent = path.split("/").pop();
+          btn.title = path;
+          btn.onclick = () => loadFile(path, btn);
+          filesWrap.appendChild(btn);
+        }
+
+        details.appendChild(filesWrap);
+      }
+
+      return details;
+    }
+
+    async function loadFile(path, btn) {
+      try {
+        if (activeButton) activeButton.classList.remove("active");
+        activeButton = btn;
+        activeButton.classList.add("active");
+
+        currentPathEl.textContent = path;
+        viewerEl.textContent = "Loading…";
+
+        const url = `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/${path}`;
+        const r = await fetch(url);
+        if (!r.ok) throw new Error(`Raw fetch error ${r.status}`);
+
+        const text = await r.text();
+        activeText = text;
+        viewerEl.textContent = text;
+      } catch (e) {
+        viewerEl.textContent = `Failed to load file.\n\n${String(e)}`;
+        console.error(e);
+      }
+    }
+
+    function setAllDetails(open) {
+      document.querySelectorAll(".tree details").forEach(d => d.open = open);
+    }
+
+    expandAllBtn.onclick = () => setAllDetails(true);
+    collapseAllBtn.onclick = () => setAllDetails(false);
+
+    copyBtn.onclick = async () => {
+      if (!activeText) return;
+      try {
+        await navigator.clipboard.writeText(activeText);
+        copyBtn.textContent = "Copied!";
+        setTimeout(() => (copyBtn.textContent = "Copy contents"), 800);
+      } catch {
+        // fallback: select text
+        const r = document.createRange();
+        r.selectNodeContents(viewerEl);
+        const sel = window.getSelection();
+        sel.removeAllRanges();
+        sel.addRange(r);
+        document.execCommand("copy");
+        sel.removeAllRanges();
+      }
+    };
 
     (async () => {
       try {
-        const tree = await getRepoTree(OWNER, REPO, BRANCH);
+        const rawTree = await getRecursiveTree(OWNER, REPO, BRANCH);
 
-        const files = tree
+        // file paths only
+        let paths = rawTree
           .filter(x => x.type === "blob")
-          .map(x => x.path)
-          .filter(p => p.toLowerCase().endsWith(FILTER_EXT))
-          .sort((a, b) => a.localeCompare(b));
+          .map(x => x.path);
 
-        if (!files.length) {
-          listEl.textContent = "No matching files found.";
+        if (ONLY_UNDER) {
+          paths = paths.filter(p => p.startsWith(ONLY_UNDER));
+        }
+
+        // filter to .txt
+        paths = paths.filter(p => p.toLowerCase().endsWith(FILTER_EXT));
+
+        if (!paths.length) {
+          treeEl.textContent = "No matching .txt files found.";
           return;
         }
 
-        listEl.innerHTML = "";
-        for (const path of files) {
-          const btn = document.createElement("button");
-          btn.textContent = path;
-          btn.onclick = () => loadFile(path);
-          listEl.appendChild(btn);
-        }
+        const tree = buildTree(paths);
+
+        treeEl.innerHTML = "";
+        // If you don't want a "(root)" node header, you can render its children instead.
+        treeEl.appendChild(renderTree(tree, ONLY_UNDER ? ONLY_UNDER.replace(/\/$/, "") : "(root)"));
       } catch (e) {
-        listEl.textContent = "Error loading file list.";
+        treeEl.textContent = `Error loading file tree.\n${String(e)}`;
         console.error(e);
       }
     })();
