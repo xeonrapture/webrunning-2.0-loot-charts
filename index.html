@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>XR Pregenerated Gear</title>
+
+  <!-- shared site styles if you want -->
+  <link rel="stylesheet" href="https://xeonrapture.github.io/site.css">
+
+  <link rel="stylesheet" href="https://xeonrapture.github.io/site.css">
+
+</head>
+
+<body>
+  <!-- shared nav -->
+  <div id="nav"></div>
+  <script>
+    fetch("https://xeonrapture.github.io/nav.html")
+      .then(r => r.text())
+      .then(html => document.getElementById("nav").innerHTML = html);
+  </script>
+
+  <main>
+    <h1>Pregenerated Gear</h1>
+    <p>Select a file to view its contents.</p>
+
+    <div class="layout">
+      <div class="file-list" id="file-list">
+        Loading files…
+      </div>
+
+      <div class="content" id="file-content">
+        No file selected.
+      </div>
+    </div>
+  </main>
+
+  <script>
+    /* ================= CONFIG ================= */
+    const OWNER  = "xeonrapture";
+    const REPO   = "webrunning-2.0-loot-charts";   // ← change this
+    const BRANCH = "main";                  // or "master"
+    const FILTER_EXT = ".txt";              // only show .txt
+    /* ========================================= */
+
+    const listEl = document.getElementById("file-list");
+    const contentEl = document.getElementById("file-content");
+
+    async function getRepoTree(owner, repo, branch) {
+      // 1) get branch ref → tree SHA
+      const refRes = await fetch(
+        `https://api.github.com/repos/${owner}/${repo}/git/refs/heads/${branch}`
+      );
+      if (!refRes.ok) throw new Error("Failed to get branch ref");
+      const ref = await refRes.json();
+
+      // 2) fetch recursive tree
+      const treeRes = await fetch(
+        `https://api.github.com/repos/${owner}/${repo}/git/trees/${ref.object.sha}?recursive=1`
+      );
+      if (!treeRes.ok) throw new Error("Failed to get tree");
+      const tree = await treeRes.json();
+
+      return tree.tree;
+    }
+
+    async function loadFile(path) {
+      const url = `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/${path}`;
+      contentEl.textContent = "Loading…";
+      const r = await fetch(url);
+      if (!r.ok) {
+        contentEl.textContent = "Failed to load file.";
+        return;
+      }
+      contentEl.textContent = await r.text();
+    }
+
+    (async () => {
+      try {
+        const tree = await getRepoTree(OWNER, REPO, BRANCH);
+
+        const files = tree
+          .filter(x => x.type === "blob")
+          .map(x => x.path)
+          .filter(p => p.toLowerCase().endsWith(FILTER_EXT))
+          .sort((a, b) => a.localeCompare(b));
+
+        if (!files.length) {
+          listEl.textContent = "No matching files found.";
+          return;
+        }
+
+        listEl.innerHTML = "";
+        for (const path of files) {
+          const btn = document.createElement("button");
+          btn.textContent = path;
+          btn.onclick = () => loadFile(path);
+          listEl.appendChild(btn);
+        }
+      } catch (e) {
+        listEl.textContent = "Error loading file list.";
+        console.error(e);
+      }
+    })();
+  </script>
+</body>
+</html>
