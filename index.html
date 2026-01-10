@@ -127,7 +127,6 @@
     <div class="controls">
       <button id="expandAll">Expand all</button>
       <button id="collapseAll">Collapse all</button>
-      <button id="copy">Copy contents</button>
     </div>
 
     <div class="layout">
@@ -156,7 +155,6 @@
 
     const expandAllBtn = document.getElementById("expandAll");
     const collapseAllBtn = document.getElementById("collapseAll");
-    const copyBtn = document.getElementById("copy");
 
     let activeButton = null;
     let activeText = "";
@@ -271,23 +269,6 @@
 
     expandAllBtn.onclick = () => setAllDetails(true);
     collapseAllBtn.onclick = () => setAllDetails(false);
-
-    copyBtn.onclick = async () => {
-      if (!activeText) return;
-      try {
-        await navigator.clipboard.writeText(activeText);
-        copyBtn.textContent = "Copied!";
-        setTimeout(() => (copyBtn.textContent = "Copy contents"), 800);
-      } catch {
-        const r = document.createRange();
-        r.selectNodeContents(viewerEl);
-        const sel = window.getSelection();
-        sel.removeAllRanges();
-        sel.addRange(r);
-        document.execCommand("copy");
-        sel.removeAllRanges();
-      }
-    };
 
     (async () => {
       try {
