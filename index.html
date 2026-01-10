@@ -147,7 +147,7 @@
   <script>
     /* ================= CONFIG ================= */
     const OWNER  = "xeonrapture";
-    const REPO   = "https://xeonrapture.github.io/webrunning-2.0-loot-charts/";  // ← change this
+    const REPO   = "webrunning-2.0-loot-charts";  // ← change this
     const BRANCH = "main";                 // or "master"
     const FILTER_EXT = ".txt";             // filter
     // Optional: limit to a subfolder like "pregenerated/"
@@ -165,41 +165,26 @@
     let activeButton = null;
     let activeText = "";
 
-    async function getRecursiveTree(owner, repo, branch) {
-      const refRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/git/refs/heads/${branch}`);
-      if (!refRes.ok) throw new Error(`Ref error ${refRes.status}`);
-      const ref = await refRes.json();
+    async function getRecursiveTree(owner, repo) {
+  // 0) get default branch
+  const repoRes = await fetch(`https://api.github.com/repos/${owner}/${repo}`);
+  if (!repoRes.ok) throw new Error(`Repo error ${repoRes.status}`);
+  const repoInfo = await repoRes.json();
+  const branch = repoInfo.default_branch;
 
-      const treeRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/git/trees/${ref.object.sha}?recursive=1`);
-      if (!treeRes.ok) throw new Error(`Tree error ${treeRes.status}`);
-      const tree = await treeRes.json();
+  // 1) get branch ref → SHA
+  const refRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/git/refs/heads/${branch}`);
+  if (!refRes.ok) throw new Error(`Ref error ${refRes.status}`);
+  const ref = await refRes.json();
 
-      return tree.tree; // entries with {path,type,...}
-    }
+  // 2) recursive tree
+  const treeRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/git/trees/${ref.object.sha}?recursive=1`);
+  if (!treeRes.ok) throw new Error(`Tree error ${treeRes.status}`);
+  const tree = await treeRes.json();
 
-    function buildTree(paths) {
-      // Node: { folders: Map<string,Node>, files: string[] }
-      const root = { folders: new Map(), files: [] };
+  return { tree: tree.tree, branch };
+}
 
-      for (const fullPath of paths) {
-        const parts = fullPath.split("/");
-        let node = root;
-
-        for (let i = 0; i < parts.length; i++) {
-          const part = parts[i];
-          const isFile = i === parts.length - 1;
-
-          if (isFile) {
-            node.files.push(fullPath);
-          } else {
-            if (!node.folders.has(part)) node.folders.set(part, { folders: new Map(), files: [] });
-            node = node.folders.get(part);
-          }
-        }
-      }
-
-      return root;
-    }
 
     function renderTree(node, label = "(root)") {
       const details = document.createElement("details");
@@ -285,7 +270,9 @@
 
     (async () => {
       try {
-        const rawTree = await getRecursiveTree(OWNER, REPO, BRANCH);
+        const { tree: rawTree, branch } = await getRecursiveTree(OWNER, REPO);
+        const BRANCH = branch; // use detected branch for raw file fetch too
+
 
         // file paths only
         let paths = rawTree
